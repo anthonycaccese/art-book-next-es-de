@@ -166,7 +166,7 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
       </video>
    </view>
 
-   <!-- 16-9 -->
+   <!-- 16-9 Layout Changes - To be moved into a seperate XML later -->
    <view name="system">
       <text name="logoText">
          <fontSize>0.15</fontSize>
@@ -198,7 +198,7 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
       </image>
    </view>
 
-   <!-- Gamelist -->
+   <!-- 16-9 Gamelist Changes - To be moved into a seperate XML later -->
    <view name="detailed">
       <image name="md_image">
          <origin>0.5 0.5</origin>
