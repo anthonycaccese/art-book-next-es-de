@@ -1,0 +1,124 @@
+<!--
+Gamelist Style - Metadata Off - 16:10
+(based on 1280x800 Resolution)
+-->
+
+<theme>
+   <formatVersion>6</formatVersion>
+
+   <view name="detailed,video">
+      <text name="md_lbl_rating,md_lbl_developer,md_lbl_publisher,md_lbl_playcount,md_lbl_lastplayed,md_lbl_players,md_lbl_releasedate,md_lbl_genre,md_name,md_playcount">
+         <pos>1 1</pos>
+      </text>
+      <datetime name="md_lastplayed">
+         <pos>1 1</pos>
+      </datetime>
+      <text name="md_genre">
+         <pos>0.453125 0.7375</pos><!-- 580 590 -->
+         <size>0 0</size><!-- 440 132 -->
+         <fontSize>0.0175</fontSize><!-- 14 -->
+         <backgroundColor>444444</backgroundColor>
+         <forceUppercase>true</forceUppercase>
+      </text>
+      <text name="md_description">
+         <pos>0.453125 0.785</pos><!-- 580 628 -->
+         <size>0.34375 0.165</size><!-- 440 132 -->
+         <fontSize>0.02</fontSize><!-- 16 -->
+      </text>
+      <rating name="md_rating">
+         <pos>0.85 0.7425</pos><!-- 1088 596 -->
+         <size>0.1015625 0</size><!-- 130 y -->
+         <filledPath>./_inc/images/utility/star-filled.svg</filledPath>
+         <unfilledPath>./_inc/images/utility/star-empty.svg</unfilledPath>
+      </rating>
+      <image name="md_releasedate_icon" extra="true">
+         <origin>0 0</origin>
+         <pos>0.85 0.795</pos><!-- 1088 636 -->
+         <maxSize>0.0140625 0.0225</maxSize><!-- 18 18 -->
+         <path>./_inc/images/utility/icon-calendar.svg</path>
+         <color>555555</color>
+      </image>
+      <datetime name="md_releasedate">
+         <pos>0.8703125 0.795</pos><!-- 1114 636 -->
+         <size>0.1015625 0</size><!-- 130 y -->
+         <format>%Y-%m-%d</format>
+         <fontSize>0.0175</fontSize><!-- 14 -->
+      </datetime>
+      <image name="md_players_icon" extra="true">
+         <origin>0 0</origin>
+         <pos>0.85 0.8325</pos><!-- 1088 666 -->
+         <maxSize>0.0140625 0.0225</maxSize><!-- 18 18 -->
+         <path>./_inc/images/utility/icon-players.svg</path>
+         <color>555555</color>
+      </image>
+      <text name="md_players">
+         <pos>0.8703125 0.8325</pos><!-- 1114 666 -->
+         <size>0.1015625 0</size><!-- 130 y -->
+         <fontSize>0.0175</fontSize><!-- 14 -->
+      </text>
+      <image name="md_developer_icon" extra="true">
+         <origin>0 0</origin>
+         <pos>0.85 0.8725</pos><!-- 1088 698 -->
+         <maxSize>0.0140625 0.0225</maxSize><!-- 18 18 -->
+         <path>./_inc/images/utility/icon-wrench.svg</path>
+         <color>555555</color>
+      </image>
+      <text name="md_developer">
+         <pos>0.8703125 0.8725</pos><!-- 1114 698 -->
+         <size>0.078125 0.0175</size><!-- 80 0 -->
+         <fontSize>0.0175</fontSize><!-- 14 -->
+      </text>
+      <image name="md_publisher_icon" extra="true">
+         <origin>0 0</origin>
+         <pos>0.85 0.91</pos><!-- 1088 728 -->
+         <maxSize>0.0140625 0.0225</maxSize><!-- 18 18 -->
+         <path>./_inc/images/utility/icon-ship.svg</path>
+         <color>555555</color>
+      </image>
+      <text name="md_publisher">
+         <pos>0.8703125 0.91</pos><!-- 1114 728 -->
+         <size>0.078125 0.0175</size><!-- 80 0 -->
+         <fontSize>0.0175</fontSize><!-- 14 -->
+      </text>
+      <image name="media-background" extra="true">
+         <origin>0 0</origin>
+         <pos>0.4453125 0.0625</pos><!-- 570 50 -->
+         <size>0.515625 0.61875</size><!-- 660 495 -->
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <color>000000</color>
+         <zIndex>1</zIndex>
+      </image>
+   </view>
+
+   <view name="detailed">
+      <image name="md_image">
+         <origin>0.5 0.5</origin>
+         <pos>0.702734375 0.371875</pos><!-- 899.5 297.5 -->
+         <maxSize>0.515625 0.61875</maxSize><!-- 660 495 -->
+      </image>
+   </view>
+
+   <view name="video">
+      <image name="md_image">
+         <origin>0 1</origin>
+         <pos>0.453125 0.70625</pos><!-- 580 565 -->
+         <maxSize>0.1484375 0.2375</maxSize><!-- 190 190 -->
+      </image>
+      <image name="md_marquee">
+         <origin>1 1</origin>
+         <pos>0.953125 0.70625</pos><!-- 1220 565 -->
+         <maxSize>0.1484375 0.2375</maxSize><!-- 190 190 -->
+      </image>
+      <video name="md_video">
+         <origin>0.5 0.5</origin>
+         <pos>0.702734375 0.371875</pos><!-- 899.5 297.5 -->
+         <maxSize>0.515625 0.61875</maxSize><!-- 660 495 -->
+         <zIndex>2</zIndex>
+         <delay>0.5</delay>
+         <showSnapshotDelay>true</showSnapshotDelay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+      </video>
+   </view>
+
+</theme>

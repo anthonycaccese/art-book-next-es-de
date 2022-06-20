@@ -1,15 +1,23 @@
 <!--
-theme name:    Art Book Next DE
+theme name:    Art Book Next (Retropie Edition)
 author:        Anthony Caccese
-contributor:   Szalik
 license:       creative commons CC-BY-NC-SA
 based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
 -->
 
 <theme>
-   <formatVersion>7</formatVersion>
+   <formatVersion>6</formatVersion>
 
    <variables>
+      <!-- 
+      Apsect Ratio Options:
+      16:10 = 16-10
+      --><aspectRatio>16-10</aspectRatio>
+      <!-- 
+      Gamelist Style Options:
+      metadata-off
+      metadata-max
+      --><gameListStyle>metadata-max</gameListStyle>
       <logoFont>./_inc/fonts/ChangaOne-Italic.ttf</logoFont>
       <bodyFont>./_inc/fonts/Oxygen-Bold.ttf</bodyFont>
       <spacerImage>./_inc/images/utility/space.png</spacerImage>
@@ -20,7 +28,7 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
          <pos>1 1</pos>
       </helpsystem>
       <image name="logo">
-         <path>./_inc/images/systems/logos/${system.theme}.svg</path>
+         <path>./_inc/images/systems/${system.theme}.svg</path>
       </image>
       <text name="logoText">
          <fontPath>${logoFont}</fontPath>
@@ -46,9 +54,9 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
          <type>horizontal</type>
          <color>00000000</color>
          <size>1 1</size>
-         <logoSize>0.55 0.425</logoSize>
-         <logoScale>1</logoScale>
-         <maxLogoCount>1</maxLogoCount>
+         <logoScale>2</logoScale>
+         <logoSize>0.25 0.15</logoSize>
+         <maxLogoCount>1.5</maxLogoCount>
       </carousel>
       <text name="systemInfo">
          <pos>1 1</pos>
@@ -59,21 +67,21 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
          <size>0 1</size>
          <color>ffffffcc</color>
          <path>./_inc/images/utility/default-background.jpg</path>
-         <path>./_inc/images/systems/centered/${system.theme}.png</path>
+         <path>./_inc/images/systems/${system.theme}.png</path>
       </image>
       <image name="background-art-mask" extra="true">
          <origin>0.5 0</origin>
          <pos>0.5 0</pos>
          <size>0 1</size>
-         <path>./_inc/images/utility/centered-background-mask.svg</path>
+         <path>./_inc/images/utility/background-art-mask.svg</path>
       </image>
    </view>
 
    <view name="basic,detailed,video">
       <image name="logo">
          <origin>0.5 0.5</origin>
-         <zIndex>2</zIndex>
          <color>aaaaaa</color>
+         <zIndex>2</zIndex>
       </image>
       <text name="logoText">
          <origin>0.5 0.5</origin>
@@ -98,20 +106,13 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
          <color>111111</color>
          <zIndex>1</zIndex>
       </image>
-      <image name="gamelist-border" extra="true">
-         <origin>0 0</origin>
-         <path>${spacerImage}</path>
-         <tile>true</tile>
-         <color>000000</color>
-         <zIndex>1</zIndex>
-      </image>
       <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
          <path>${spacerImage}</path>
          <tile>true</tile>
-         <color>000000</color>
+         <color>222222</color>
          <zIndex>0</zIndex>
       </image>
    </view>
@@ -130,94 +131,29 @@ based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
 
    <view name="detailed,video">
       <text name="md_lbl_rating,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_playcount,md_playcount,md_lbl_lastplayed,md_lbl_players,md_players,md_lbl_releasedate,md_lbl_genre,md_genre,md_description,md_name,md_lbl_gametime,md_gametime">
-         <pos>1 1</pos>
          <fontPath>${bodyFont}</fontPath>
          <alignment>left</alignment>
-         <color>ffffff</color>
       </text>
       <text name="md_genre,md_lbl_players,md_players">
-         <color>333333</color>
-      </text>
-      <text name="md_description">
          <color>888888</color>
       </text>
+      <text name="md_description">
+         <color>dddddd</color>
+      </text>
       <text name="md_lbl_lastplayed,md_lbl_playcount,md_playcount,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_gametime,md_gametime">
-         <color>444444</color>
+         <color>888888</color>
       </text>
       <datetime name="md_releasedate,md_lastplayed">
-         <pos>1 1</pos>
          <fontPath>${bodyFont}</fontPath>
-         <color>333333</color>
+         <color>888888</color>
          <alignment>left</alignment>
       </datetime>
       <rating name="md_rating">
-         <pos>1 1</pos>
-         <color>333333</color>
+         <color>555555</color>
       </rating>
    </view>
 
-   <view name="video">
-      <video name="md_video">
-         <origin>0.5 0.5</origin>
-         <delay>0.9</delay>
-         <showSnapshotDelay>true</showSnapshotDelay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <zIndex>0</zIndex>
-      </video>
-   </view>
-
-   <!-- 16-9 Layout Changes - To be moved into a seperate XML later -->
-   <view name="system">
-      <text name="logoText">
-         <fontSize>0.15</fontSize>
-      </text>
-   </view>
-   <view name="basic,detailed,video">
-      <image name="logo">
-         <pos>0.182776801405975 0.1375</pos><!-- 104 44 -->
-         <maxSize>0.272407732864675 0.1</maxSize><!-- 155 32 -->
-      </image>
-      <text name="logoText">
-         <pos>0.182776801405975 0.1375</pos><!-- 104 44 -->
-         <size>0.272407732864675 0.1</size><!-- 155 32 -->
-         <fontSize>0.075</fontSize>
-      </text>
-      <textlist name="gamelist">
-         <pos>0.035149384885764 0.25625</pos><!-- 20 82 -->
-         <size>0.288224956063269 0.7</size><!-- 164 224 -->
-         <lineSpacing>1.56</lineSpacing>
-         <fontSize>0.04375</fontSize><!-- 14 -->
-      </textlist>
-      <image name="gamelist-background" extra="true">
-         <pos>0 0</pos>
-         <size>0.365553602811951 1</size><!-- 208 320 -->
-      </image>
-      <image name="gamelist-border" extra="true">
-         <pos>0.365553602811951 0</pos><!-- 208 -->
-         <size>0.003514938488576 1</size><!-- 2 320 -->
-      </image>
-   </view>
-
-   <!-- 16-9 Gamelist Changes - To be moved into a seperate XML later -->
-   <view name="detailed">
-      <image name="md_image">
-         <origin>0.5 0.5</origin>
-         <pos>0.685413005272408 0.5</pos><!-- 390 160 -->
-         <size>0 1</size>
-         <zIndex>1</zIndex>
-      </image>
-   </view>
-   <view name="video">
-      <image name="md_marquee">
-         <origin>0.5 0.5</origin>
-         <pos>0.685413005272408 0.525</pos><!-- 390 168 -->
-         <maxSize>0.421792618629174 0.75</maxSize><!-- 240 240 -->
-      </image>
-      <video name="md_video">
-         <pos>0.685413005272408 0.5</pos><!-- 390 160 -->
-         <maxSize>1.041666666666667 1.171875</maxSize><!-- 592 375 -->
-         <zIndex>1</zIndex>
-      </video>
-   </view>
+   <include>./aspect-ratio-${aspectRatio}.xml</include>
+   <include>./gamelist-${gameListStyle}-${aspectRatio}.xml</include>
 
 </theme>
