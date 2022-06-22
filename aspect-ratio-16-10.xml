@@ -25,8 +25,8 @@
       <textlist name="gamelist">
          <pos>0.0390625 0.25</pos><!-- 50 200 -->
          <size>0.33203125 0.7</size><!-- 425 542.5 -->
-         <lineSpacing>1.56</lineSpacing>
-         <fontSize>0.04375</fontSize><!-- 14 -->
+         <lineSpacing>1.585</lineSpacing>
+         <fontSize>0.04</fontSize><!-- 32 -->
       </textlist>
       <image name="gamelist-background" extra="true">
          <size>0.40625 1</size><!-- 520 800 -->
