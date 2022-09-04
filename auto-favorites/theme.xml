@@ -1,0 +1,17 @@
+<theme>
+   <include>./../theme.xml</include>
+   <view name="system">
+      <gameselector name="selector_mostplayed">
+         <selection>random</selection>
+      </gameselector>
+   	<image name="fallback-screenshot">
+      	<origin>0.5 0.5</origin>
+      	<pos>0.5 0.5</pos>
+         <size>0 1.2</size>
+         <color>ffffffcc</color>
+         <imageType>screenshot,titlescreen,cover,fanart</imageType>
+         <gameselector>selector_mostplayed</gameselector>
+      	<zIndex>1</zIndex>
+   	</image>
+   </view>
+</theme>

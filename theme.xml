@@ -1,159 +1,135 @@
 <!--
-theme name:    Art Book Next (Retropie Edition)
+theme name:    Art Book Next (ES-DE Edition)
 author:        Anthony Caccese
 license:       creative commons CC-BY-NC-SA
-based on:      Art Book Next (github.com/anthonycaccese/es-theme-art-book-next)
 -->
 
 <theme>
-   <formatVersion>6</formatVersion>
 
    <variables>
-      <!-- 
-      Apsect Ratio Options:
-      16:10 = 16-10
-      --><aspectRatio>16-10</aspectRatio>
-      <!-- 
-      Gamelist Style Options:
-      metadata-off
-      metadata-max
-      --><gameListStyle>metadata-max</gameListStyle>
       <logoFont>./_inc/fonts/ChangaOne-Italic.ttf</logoFont>
       <bodyFont>./_inc/fonts/Oxygen-Bold.ttf</bodyFont>
       <spacerImage>./_inc/images/utility/space.png</spacerImage>
+      <!-- 
+      Color Scheme Options:
+      art-book-next
+      art-book
+      snes
+      steam-deck
+      custom
+      -->
+      <colorScheme>art-book-next</colorScheme>
+      <!-- 
+      Sound Set Options:
+      es-de
+      steam-os
+      -->
+      <soundSet>steam-os</soundSet>
+      <!-- 
+      System View Options:
+      centered
+      multi
+      -->
+      <systemView>centered</systemView>
    </variables>
 
-   <view name="system,basic,detailed,video">
+   <include>./color-scheme-${colorScheme}.xml</include>
+   <include>./sound-set-${soundSet}.xml</include>
+
+   <view name="system,gamelist">
       <helpsystem name="help">
          <pos>1 1</pos>
       </helpsystem>
-      <image name="logo">
-         <path>./_inc/images/systems/${system.theme}.svg</path>
-      </image>
-      <text name="logoText">
-         <fontPath>${logoFont}</fontPath>
-         <forceUppercase>true</forceUppercase>
-         <lineSpacing>1</lineSpacing>
-         <alignment>center</alignment>
-         <color>ffffff</color>
-      </text>
    </view>
 
    <view name="system">
-      <image name="background" extra="true">
+      <image name="background">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
          <path>${spacerImage}</path>
          <tile>true</tile>
-         <color>111111</color>
-      </image>
-      <carousel name="systemcarousel">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <type>horizontal</type>
-         <color>00000000</color>
-         <size>1 1</size>
-         <logoScale>2</logoScale>
-         <logoSize>0.25 0.15</logoSize>
-         <maxLogoCount>1.5</maxLogoCount>
-      </carousel>
-      <text name="systemInfo">
-         <pos>1 1</pos>
-      </text>
-      <image name="background-art" extra="true">
-         <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <size>0 1</size>
-         <color>ffffffcc</color>
-         <path>./_inc/images/utility/default-background.jpg</path>
-         <path>./_inc/images/systems/${system.theme}.png</path>
-      </image>
-      <image name="background-art-mask" extra="true">
-         <origin>0.5 0</origin>
-         <pos>0.5 0</pos>
-         <size>0 1</size>
-         <path>./_inc/images/utility/background-art-mask.svg</path>
+         <color>${systemBackgroundColor}</color>
+         <zIndex>0</zIndex>
       </image>
    </view>
 
-   <view name="basic,detailed,video">
+   <view name="gamelist">
       <image name="logo">
          <origin>0.5 0.5</origin>
-         <color>aaaaaa</color>
-         <zIndex>2</zIndex>
+         <color>${logoColor}</color>
+         <path>./_inc/images/systems/${system.theme}.svg</path>
+         <zIndex>5</zIndex>
       </image>
-      <text name="logoText">
-         <origin>0.5 0.5</origin>
-         <color>ffffffcc</color>
-         <zIndex>2</zIndex>
-      </text>
+      <!-- Gamelist Defaults -->
       <textlist name="gamelist">
          <origin>0 0</origin>
-         <alignment>left</alignment>
+         <horizontalAlignment>left</horizontalAlignment>
          <fontPath>${bodyFont}</fontPath>
-         <horizontalMargin>0.008</horizontalMargin>
-         <selectorColor>111111</selectorColor>
-         <selectedColor>ffffff</selectedColor>
-         <primaryColor>444444</primaryColor>
-         <secondaryColor>444444</secondaryColor>
-         <zIndex>2</zIndex>
+         <selectorColor>00000000</selectorColor>
+         <selectedColor>${gamelistSelectedColor}</selectedColor>
+         <primaryColor>${gamelistUnSelectedColor}</primaryColor>
+         <secondaryColor>${gamelistUnSelectedColor}</secondaryColor>
+         <zIndex>5</zIndex>
       </textlist>
-      <image name="gamelist-background" extra="true">
+      <image name="gamelist-background">
+         <pos>0 0</pos>
          <origin>0 0</origin>
          <path>${spacerImage}</path>
          <tile>true</tile>
-         <color>111111</color>
-         <zIndex>1</zIndex>
+         <color>${gamelistBackgroundColor}</color>
+         <zIndex>4</zIndex>
       </image>
-      <image name="background" extra="true">
+      <image name="background">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
          <path>${spacerImage}</path>
          <tile>true</tile>
-         <color>222222</color>
+         <color>${backgroundColor}</color>
          <zIndex>0</zIndex>
       </image>
-   </view>
-
-   <view name="basic">
-      <image name="background-art" extra="true">
-         <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <size>0 1</size>
-         <tile>false</tile>
-         <color>ffffffcc</color>
-         <path>./_inc/images/utility/default-background.jpg</path>
-         <zIndex>0</zIndex>
+      <badges name="badges">
+         <origin>1 0</origin>
+         <horizontalAlignment>right</horizontalAlignment>
+         <lines>1</lines>
+         <itemsPerLine>8</itemsPerLine>
+         <slots>folder,broken,completed,favorite,kidgame,collection,controller,altemulator</slots>
+         <customBadgeIcon badge="folder">./_inc/images/utility/badge-folder.svg</customBadgeIcon>
+         <customBadgeIcon badge="broken">./_inc/images/utility/badge-broken.svg</customBadgeIcon>
+         <customBadgeIcon badge="completed">./_inc/images/utility/badge-completed.svg</customBadgeIcon>
+         <customBadgeIcon badge="favorite">./_inc/images/utility/badge-favorite.svg</customBadgeIcon>
+         <customBadgeIcon badge="kidgame">./_inc/images/utility/badge-kidgame.svg</customBadgeIcon>
+         <customBadgeIcon badge="collection">./_inc/images/utility/badge-collection.svg</customBadgeIcon>
+         <customBadgeIcon badge="controller">./_inc/images/utility/badge-controller.svg</customBadgeIcon>
+         <customBadgeIcon badge="altemulator">./_inc/images/utility/badge-altemulator.svg</customBadgeIcon>
+      </badges>
+      <!-- Media Defaults -->
+      <image name="marquee">
+         <imageType>marquee</imageType>
+         <interpolation>linear</interpolation>
+         <zIndex>2</zIndex>
       </image>
+      <video name="video">
+         <delay>3</delay>
+         <interpolation>linear</interpolation>
+         <zIndex>1</zIndex>
+      </video>
    </view>
 
-   <view name="detailed,video">
-      <text name="md_lbl_rating,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_playcount,md_playcount,md_lbl_lastplayed,md_lbl_players,md_players,md_lbl_releasedate,md_lbl_genre,md_genre,md_description,md_name,md_lbl_gametime,md_gametime">
-         <fontPath>${bodyFont}</fontPath>
-         <alignment>left</alignment>
-      </text>
-      <text name="md_genre,md_lbl_players,md_players">
-         <color>888888</color>
-      </text>
-      <text name="md_description">
-         <color>dddddd</color>
-      </text>
-      <text name="md_lbl_lastplayed,md_lbl_playcount,md_playcount,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_gametime,md_gametime">
-         <color>888888</color>
-      </text>
-      <datetime name="md_releasedate,md_lastplayed">
-         <fontPath>${bodyFont}</fontPath>
-         <color>888888</color>
-         <alignment>left</alignment>
-      </datetime>
-      <rating name="md_rating">
-         <color>555555</color>
-      </rating>
-   </view>
+   <!-- 16:9 Layout -->
+   <aspectRatio name="16:9">
+      <include>./aspect-ratio-16-9.xml</include>
+   </aspectRatio>
 
-   <include>./aspect-ratio-${aspectRatio}.xml</include>
-   <include>./gamelist-${gameListStyle}-${aspectRatio}.xml</include>
+   <!-- 16:10 Layout -->
+   <aspectRatio name="16:10">
+      <include>./aspect-ratio-16-10.xml</include>
+   </aspectRatio>
+
+   <!-- 4:3 Layout -->
+   <aspectRatio name="4:3">
+      <include>./aspect-ratio-4-3.xml</include>
+   </aspectRatio>
 
 </theme>

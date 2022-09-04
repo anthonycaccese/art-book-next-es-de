@@ -1,0 +1,27 @@
+<theme>
+
+   <view name="system">
+      <carousel name="system-carousel">
+         <size>1 1</size>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <color>00000000</color>
+         <staticItem>./_inc/images/systems/${system.theme}.png</staticItem>
+         <itemScale>1</itemScale>
+         <itemSize>1 1</itemSize>
+         <maxItemCount>4.125</maxItemCount>
+         <itemVerticalAlignment>center</itemVerticalAlignment>
+         <textColor>00000000</textColor>
+         <letterCase>uppercase</letterCase>
+         <fontPath>${logoFont}</fontPath>
+      </carousel>
+      <image name="system-logo">
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.5</pos>
+         <maxSize>0.5 0.3</maxSize>
+         <path>./_inc/images/systems/${system.theme}.svg</path>
+         <zIndex>100</zIndex>
+      </image>
+   </view>
+
+</theme>

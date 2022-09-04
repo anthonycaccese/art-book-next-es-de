@@ -1,0 +1,38 @@
+<theme>
+
+   <view name="system">
+      <carousel name="system-carousel">
+         <size>1 1</size>
+         <pos>0 0</pos>
+         <origin>0 0</origin>
+         <color>00000000</color>
+         <staticItem>./_inc/images/systems/${system.theme}.svg</staticItem>
+         <itemScale>2</itemScale>
+         <itemSize>0.25 0.15</itemSize>
+         <maxItemCount>2</maxItemCount>
+         <itemVerticalAlignment>center</itemVerticalAlignment>
+         <text>${system.fullName}</text>
+         <textColor>${logoTextColor}</textColor>
+         <letterCase>uppercase</letterCase>
+         <fontPath>${logoFont}</fontPath>
+      </carousel>
+      <image name="background-art">
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.5</pos>
+         <size>0 1</size>
+         <color>ffffffcc</color>
+         <path>./_inc/images/systems/${system.theme}.png</path>
+         <zIndex>1</zIndex>
+      </image>
+      <image name="background-art-mask">
+         <origin>0.5 0</origin>
+         <pos>0.5 0</pos>
+         <size>0 1</size>
+         <zIndex>2</zIndex>
+         <color>${systemBackgroundColor}</color>
+         <interpolation>linear</interpolation>
+         <path>./_inc/images/utility/background-art-mask-4-3.png</path>
+      </image>
+   </view>
+
+</theme>
