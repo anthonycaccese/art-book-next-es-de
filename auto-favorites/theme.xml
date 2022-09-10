@@ -11,7 +11,7 @@
          <color>ffffffcc</color>
          <imageType>screenshot,titlescreen,cover,fanart</imageType>
          <gameselector>selector_mostplayed</gameselector>
-      	<zIndex>1</zIndex>
+      	<zIndex>0</zIndex>
    	</image>
    </view>
 </theme>
