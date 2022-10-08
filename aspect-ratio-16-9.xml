@@ -160,8 +160,8 @@
             <color>${metadataColor}</color>
          </text>
          <video name="video">
-            <origin>0.5 0</origin>
-            <pos>0.682489451476793 0.05</pos><!-- 970.5 40 -->
+            <origin>0.5 0.5</origin>
+            <pos>0.682489451476793 0.4259375</pos><!-- 970.5 40 -->
             <maxSize>0.562587904360056 0.751875</maxSize><!-- 802 601.5 -->
             <imageType>miximage,screenshot,titlescreen,fanart,cover</imageType>
          </video>

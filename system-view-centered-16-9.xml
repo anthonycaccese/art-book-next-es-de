@@ -7,6 +7,7 @@
          <origin>0 0</origin>
          <color>00000000</color>
          <staticItem>./_inc/images/systems/${system.theme}.svg</staticItem>
+         <itemTransitions>instant</itemTransitions>
          <itemScale>2</itemScale>
          <itemSize>0.25 0.15</itemSize>
          <maxItemCount>2</maxItemCount>
