@@ -11,16 +11,6 @@ license:       creative commons CC-BY-NC-SA
       <bodyFont>./_inc/fonts/Oxygen-Bold.ttf</bodyFont>
       <spacerImage>./_inc/images/utility/space.png</spacerImage>
       <!-- 
-      Color Scheme Options:
-      art-book-next
-      art-book
-      snes
-      famicom
-      steam-deck
-      custom
-      -->
-      <colorScheme>art-book-next</colorScheme>
-      <!-- 
       Sound Set Options:
       es-de
       steam-os
@@ -34,7 +24,7 @@ license:       creative commons CC-BY-NC-SA
       <systemView>centered</systemView>
    </variables>
 
-   <include>./color-scheme-${colorScheme}.xml</include>
+   <include>./colors.xml</include>
    <include>./sound-set-${soundSet}.xml</include>
 
    <view name="system,gamelist">

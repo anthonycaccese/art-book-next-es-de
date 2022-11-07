@@ -4,21 +4,37 @@
    <aspectRatio>16:10</aspectRatio>
    <aspectRatio>4:3</aspectRatio>
 
+   <colorScheme name="art-book-next">
+      <label>Art Book Next</label>
+   </colorScheme>
+   <colorScheme name="art-book">
+      <label>Art Book</label>
+   </colorScheme>
+   <colorScheme name="steam-os">
+      <label>Steam OS</label>
+   </colorScheme>
+   <colorScheme name="snes">
+      <label>SNES</label>
+   </colorScheme>
+   <colorScheme name="famicom">
+      <label>Famicom</label>
+   </colorScheme>
+   <colorScheme name="user-custom">
+      <label>Custom</label>
+   </colorScheme>
+
    <variant name="metadataOn">
       <label>Metadata On</label>
       <selectable>true</selectable>
    </variant>
-
    <variant name="metadataOnMixImage">
       <label>Metadata On (Miximage)</label>
       <selectable>true</selectable>
    </variant>
-
    <variant name="metadataOff">
       <label>Metadata Off</label>
       <selectable>true</selectable>
    </variant>
-
    <variant name="metadataOffZoomed">
       <label>Metadata Off (Zoomed)</label>
       <selectable>true</selectable>
