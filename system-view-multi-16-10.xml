@@ -6,8 +6,8 @@
          <pos>0 0</pos>
          <origin>0 0</origin>
          <color>00000000</color>
-         <staticItem>./_inc/images/systems/${system.theme}.png</staticItem>
-         <defaultItem>./_inc/images/utility/background-missing.png</defaultItem>
+         <staticImage>./_inc/images/systems/${system.theme}.png</staticImage>
+         <defaultImage>./_inc/images/utility/background-missing.png</defaultImage>
          <itemTransitions>instant</itemTransitions>
          <itemScale>1</itemScale>
          <itemSize>1 1</itemSize>
