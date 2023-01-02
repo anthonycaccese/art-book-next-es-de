@@ -4,14 +4,8 @@
       <gameselector name="selector_lastplayed">
          <selection>lastplayed</selection>
       </gameselector>
-   	<image name="fallback-screenshot">
-      	<origin>0.5 0.5</origin>
-      	<pos>0.5 0.5</pos>
-         <size>0 1.2</size>
-         <color>ffffffcc</color>
-         <imageType>screenshot,titlescreen,cover,fanart</imageType>
+   	<image name="system-art-fallback">
          <gameselector>selector_lastplayed</gameselector>
-      	<zIndex>0</zIndex>
    	</image>
    </view>
 </theme>

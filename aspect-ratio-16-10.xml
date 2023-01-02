@@ -1,7 +1,7 @@
 <theme>
 
    <view name="system">
-      <image name="background-art-mask">
+      <image name="system-art-mask">
          <path>./_inc/images/utility/background-art-mask-16-10.png</path>
       </image>
    </view>

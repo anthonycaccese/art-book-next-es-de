@@ -12,6 +12,11 @@
          <metadataColor>ffffff88</metadataColor>
          <metadataIconColor>ffffff33</metadataIconColor>
          <descriptionColor>ffffffee</descriptionColor>
+         <helpBackgroundColor>333333</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
+         <helpTextColor>ffffff88</helpTextColor>
+         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="art-book">
@@ -27,6 +32,11 @@
          <metadataColor>000000aa</metadataColor>
          <metadataIconColor>00000055</metadataIconColor>
          <descriptionColor>000000dd</descriptionColor>
+         <helpBackgroundColor>333333</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
+         <helpTextColor>ffffff88</helpTextColor>
+         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="steam-os">
@@ -42,6 +52,11 @@
          <metadataColor>ffffff88</metadataColor>
          <metadataIconColor>ffffff33</metadataIconColor>
          <descriptionColor>ffffffee</descriptionColor>
+         <helpBackgroundColor>333333</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
+         <helpTextColor>ffffff88</helpTextColor>
+         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="snes">
@@ -57,6 +72,11 @@
          <metadataColor>ffffff88</metadataColor>
          <metadataIconColor>ffffff33</metadataIconColor>
          <descriptionColor>ffffffee</descriptionColor>
+         <helpBackgroundColor>333333</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
+         <helpTextColor>ffffff88</helpTextColor>
+         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="famicom">
@@ -72,6 +92,11 @@
          <metadataColor>000000aa</metadataColor>
          <metadataIconColor>711521</metadataIconColor>
          <descriptionColor>000000dd</descriptionColor>
+         <helpBackgroundColor>333333</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
+         <helpTextColor>ffffff88</helpTextColor>
+         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="user-custom">
@@ -87,6 +112,11 @@
          <metadataColor>ffffff88</metadataColor>
          <metadataIconColor>ffffff33</metadataIconColor>
          <descriptionColor>ffffffee</descriptionColor>
+         <helpBackgroundColor>333333</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
+         <helpTextColor>ffffff88</helpTextColor>
+         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
       </variables>
    </colorScheme>
 </theme>
