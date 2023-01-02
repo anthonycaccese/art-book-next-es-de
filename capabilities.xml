@@ -23,20 +23,16 @@
       <label>Custom</label>
    </colorScheme>
 
-   <variant name="metadataOn">
-      <label>Metadata On</label>
+   <variant name="gamelist-list">
+      <label>List</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="metadataOnMixImage">
-      <label>Metadata On (Miximage)</label>
+   <variant name="gamelist-list-no-metadata">
+      <label>List (No Metadata)</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="metadataOff">
-      <label>Metadata Off</label>
-      <selectable>true</selectable>
-   </variant>
-   <variant name="metadataOffZoomed">
-      <label>Metadata Off (Zoomed)</label>
+   <variant name="gamelist-carousel">
+      <label>Carousel</label>
       <selectable>true</selectable>
    </variant>
 

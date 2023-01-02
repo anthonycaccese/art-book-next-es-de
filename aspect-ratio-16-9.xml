@@ -1,6 +1,10 @@
 <theme>
 
-   <include>./system-view-${systemView}-16-9.xml</include>
+   <view name="system">
+      <image name="background-art-mask">
+         <path>./_inc/images/utility/background-art-mask-16-9.png</path>
+      </image>
+   </view>
 
    <view name="gamelist">
       <image name="logo">
@@ -22,44 +26,8 @@
       </badges>
    </view>
 
-   <!-- Metadata Off & Metadata Off (Zoomed) -->
-   <variant name="metadataOff, metadataOffZoomed">
-      <view name="gamelist">
-         <badges name="badges">
-            <pos>0.964850615114236 0.0625</pos>
-         </badges>
-         <image name="marquee">
-            <origin>0 0</origin>
-            <pos>1 1</pos>
-         </image>
-         <video name="video">
-            <origin>0.5 0.5</origin>
-            <pos>0.682841068917018 0.5</pos><!-- 971 400 -->
-            <maxSize>0.563994374120956 0.9</maxSize><!-- 802 720 -->
-            <imageType>miximage,cover,screenshot,titlescreen,fanart</imageType>
-         </video>
-      </view>
-   </variant>
-
-   <!-- Metadata Off (Zoomed) -->
-   <variant name="metadataOffZoomed">
-      <view name="gamelist">
-         <image name="marquee">
-            <origin>0.5 0.5</origin>
-            <pos>0.682841068917018 0.525</pos><!-- 971 400 -->
-            <maxSize>0.421792618629174 0.75</maxSize><!-- 600 600 -->
-         </image>
-         <video name="video">
-            <origin>0.5 0.5</origin>
-            <pos>0.682841068917018 0.5</pos><!-- 971 400 -->
-            <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
-            <imageType>screenshot,titlescreen,fanart,cover</imageType>
-         </video>
-      </view>
-   </variant>
-
-   <!-- Metadata On & Metadata On (Miximage) -->
-   <variant name="metadataOn,metadataOnMixImage">
+   <!-- List -->
+   <variant name="gamelist-list">
       <view name="gamelist">
          <badges name="badges">
             <pos>0.957805907172996 0.0625</pos><!-- 1362 50 -->
@@ -168,25 +136,24 @@
       </view>
    </variant>
 
-   <!-- Metadata On (Miximage) -->
-   <variant name="metadataOnMixImage">
+   <!-- List (No Metadata) -->
+   <variant name="gamelist-list-no-metadata">
       <view name="gamelist">
-         <image name="boxart">
-            <origin>0 1</origin>
-            <pos>0.414908579465541 0.776875</pos><!-- 590 621.5 -->
-            <maxSize>0.133614627285513 0.2375</maxSize><!-- 190 190 -->
-            <imageType>cover</imageType>
-            <interpolation>linear</interpolation>
-         </image>
+         <badges name="badges">
+            <pos>0.964850615114236 0.0625</pos>
+         </badges>
          <image name="marquee">
-            <origin>1 1</origin>
-            <pos>0.950773558368495 0.776875</pos><!-- 1352 621.5 -->
-            <maxSize>0.1484375 0.2375</maxSize><!-- 190 190 -->
+            <origin>0.5 0.5</origin>
+            <pos>0.682841068917018 0.525</pos><!-- 971 400 -->
+            <maxSize>0.421792618629174 0.75</maxSize><!-- 600 600 -->
          </image>
          <video name="video">
-            <imageType>screenshot,titlescreen,fanart</imageType>
+            <origin>0.5 0.5</origin>
+            <pos>0.682841068917018 0.5</pos><!-- 971 400 -->
+            <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
+            <imageType>screenshot</imageType>
          </video>
       </view>
    </variant>
-
+   
 </theme>
