@@ -1,20 +1,31 @@
 <theme>
    <colorScheme name="art-book-next">
       <variables>
+         <!-- Background Colors -->
          <backgroundColor>222222</backgroundColor>
-         <gamelistBackgroundColor>111111</gamelistBackgroundColor>
          <systemBackgroundColor>111111</systemBackgroundColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistUnSelectedColor>ffffff33</gamelistUnSelectedColor>
-         <logoColor>ffffff</logoColor>
-         <logoColorDimmed>ffffffaa</logoColorDimmed>
-         <logoTextColor>ffffffaa</logoTextColor>
-         <logoTextColorDimmed>ffffffaa</logoTextColorDimmed>
-         <ratingColor>ffffff88</ratingColor>
+         <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>222222</gamelistListMetadataBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>222222</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselNoMetadataBackgroundColor>222222</gamelistCarouselNoMetadataBackgroundColor>
+         <gamelistGridBackgroundColor>111111</gamelistGridBackgroundColor>
+         <!-- Logo Colors -->
+         <logoColorSystem>ffffff</logoColorSystem>
+         <logoTextColorSystem>ffffff</logoTextColorSystem>
+         <logoColorGamelist>ffffffaa</logoColorGamelist>
+         <logoTextColorGamelist>ffffffaa</logoTextColorGamelist>
+         <logoColorGamelistCarouselNoMetadata>ffffffaa</logoColorGamelistCarouselNoMetadata>
+         <!-- Metadata Colors -->
+         <ratingColor>ffffff33</ratingColor>
          <metadataColor>ffffff88</metadataColor>
+         <metadataColorCarouselNoMetadata>ffffff88</metadataColorCarouselNoMetadata>
          <metadataIconColor>ffffff33</metadataIconColor>
+         <metadataSeperatorColor>ffffff11</metadataSeperatorColor>
          <descriptionColor>ffffffee</descriptionColor>
-         <helpBackgroundColor>333333</helpBackgroundColor>
+         <!-- Help System Colors -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
          <helpIconColor>ffffff66</helpIconColor>
          <helpIconColorDimmed>cccccc</helpIconColorDimmed>
          <helpTextColor>ffffff66</helpTextColor>
@@ -23,112 +34,167 @@
    </colorScheme>
    <colorScheme name="art-book">
       <variables>
+         <!-- Background Colors -->
          <backgroundColor>dddddd</backgroundColor>
-         <gamelistBackgroundColor>111111</gamelistBackgroundColor>
          <systemBackgroundColor>111111</systemBackgroundColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistUnSelectedColor>ffffff33</gamelistUnSelectedColor>
-         <logoColor>ffffff</logoColor>
-         <logoColorDimmed>ffffffaa</logoColorDimmed>
-         <logoTextColor>ffffffaa</logoTextColor>
-         <logoTextColorDimmed>ffffffaa</logoTextColorDimmed>
-         <ratingColor>000000aa</ratingColor>
+         <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>dddddd</gamelistListMetadataBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>dddddd</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselNoMetadataBackgroundColor>111111</gamelistCarouselNoMetadataBackgroundColor>
+         <gamelistGridBackgroundColor>111111</gamelistGridBackgroundColor>
+         <!-- Logo Colors -->
+         <logoColorSystem>ffffff</logoColorSystem>
+         <logoTextColorSystem>ffffff</logoTextColorSystem>
+         <logoColorGamelist>ffffffaa</logoColorGamelist>
+         <logoTextColorGamelist>ffffffaa</logoTextColorGamelist>
+         <logoColorGamelistCarouselNoMetadata>ffffffaa</logoColorGamelistCarouselNoMetadata>
+         <!-- Metadata Colors -->
+         <ratingColor>00000055</ratingColor>
          <metadataColor>000000aa</metadataColor>
+         <metadataColorCarouselNoMetadata>ffffff88</metadataColorCarouselNoMetadata>
          <metadataIconColor>00000055</metadataIconColor>
+         <metadataSeperatorColor>00000011</metadataSeperatorColor>
          <descriptionColor>000000dd</descriptionColor>
-         <helpBackgroundColor>333333</helpBackgroundColor>
-         <helpIconColor>ffffff88</helpIconColor>
-         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
-         <helpTextColor>ffffff88</helpTextColor>
-         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
+         <!-- Help System Colors -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="steam-os">
       <variables>
-         <backgroundColor>0D141C</backgroundColor>
-         <gamelistBackgroundColor>23262F</gamelistBackgroundColor>
+         <!-- Background Colors -->
+         <backgroundColor>23262F</backgroundColor>
          <systemBackgroundColor>0D141C</systemBackgroundColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistUnSelectedColor>ffffff33</gamelistUnSelectedColor>
-         <logoColor>ffffff</logoColor>
-         <logoColorDimmed>ffffffaa</logoColorDimmed>
-         <logoTextColor>ffffffaa</logoTextColor>
-         <logoTextColorDimmed>ffffffaa</logoTextColorDimmed>
-         <ratingColor>ffffff88</ratingColor>
+         <gamelistListTextlistBackgroundColor>0D141C</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>23262F</gamelistListMetadataBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>23262F</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselNoMetadataBackgroundColor>0D141C</gamelistCarouselNoMetadataBackgroundColor>
+         <gamelistGridBackgroundColor>0D141C</gamelistGridBackgroundColor>
+         <!-- Logo Colors -->
+         <logoColorSystem>ffffff</logoColorSystem>
+         <logoTextColorSystem>ffffff</logoTextColorSystem>
+         <logoColorGamelist>ffffffaa</logoColorGamelist>
+         <logoTextColorGamelist>ffffffaa</logoTextColorGamelist>
+         <logoColorGamelistCarouselNoMetadata>ffffffaa</logoColorGamelistCarouselNoMetadata>
+         <!-- Metadata Colors -->
+         <ratingColor>ffffff33</ratingColor>
          <metadataColor>ffffff88</metadataColor>
+         <metadataColorCarouselNoMetadata>ffffff88</metadataColorCarouselNoMetadata>
          <metadataIconColor>ffffff33</metadataIconColor>
+         <metadataSeperatorColor>ffffff11</metadataSeperatorColor>
          <descriptionColor>ffffffee</descriptionColor>
-         <helpBackgroundColor>333333</helpBackgroundColor>
-         <helpIconColor>ffffff88</helpIconColor>
-         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
-         <helpTextColor>ffffff88</helpTextColor>
-         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
+         <!-- Help System Colors -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="snes">
       <variables>
+         <!-- Background Colors -->
          <backgroundColor>514689</backgroundColor>
-         <gamelistBackgroundColor>231942</gamelistBackgroundColor>
          <systemBackgroundColor>231942</systemBackgroundColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistUnSelectedColor>ffffff33</gamelistUnSelectedColor>
-         <logoColor>ffffff</logoColor>
-         <logoColorDimmed>ffffffaa</logoColorDimmed>
-         <logoTextColor>ffffffaa</logoTextColor>
-         <logoTextColorDimmed>ffffffaa</logoTextColorDimmed>
+         <gamelistListTextlistBackgroundColor>231942</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>514689</gamelistListMetadataBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>231942</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselNoMetadataBackgroundColor>231942</gamelistCarouselNoMetadataBackgroundColor>
+         <gamelistGridBackgroundColor>231942</gamelistGridBackgroundColor>
+         <!-- Logo Colors -->
+         <logoColorSystem>ffffff</logoColorSystem>
+         <logoTextColorSystem>ffffff</logoTextColorSystem>
+         <logoColorGamelist>ffffffaa</logoColorGamelist>
+         <logoTextColorGamelist>ffffffaa</logoTextColorGamelist>
+         <logoColorGamelistCarouselNoMetadata>ffffffaa</logoColorGamelistCarouselNoMetadata>
+         <!-- Metadata Colors -->
          <ratingColor>ffffff88</ratingColor>
          <metadataColor>ffffff88</metadataColor>
+         <metadataColorCarouselNoMetadata>ffffff88</metadataColorCarouselNoMetadata>
          <metadataIconColor>ffffff33</metadataIconColor>
+         <metadataSeperatorColor>ffffff11</metadataSeperatorColor>
          <descriptionColor>ffffffee</descriptionColor>
-         <helpBackgroundColor>333333</helpBackgroundColor>
-         <helpIconColor>ffffff88</helpIconColor>
-         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
-         <helpTextColor>ffffff88</helpTextColor>
-         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
+         <!-- Help System Colors -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="famicom">
       <variables>
+         <!-- Background Colors -->
          <backgroundColor>b2b4b2</backgroundColor>
-         <gamelistBackgroundColor>711521</gamelistBackgroundColor>
          <systemBackgroundColor>711521</systemBackgroundColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistUnSelectedColor>ffffff33</gamelistUnSelectedColor>
-         <logoColor>ffffff</logoColor>
-         <logoColorDimmed>ffffffaa</logoColorDimmed>
-         <logoTextColor>ffffffaa</logoTextColor>
-         <logoTextColorDimmed>ffffffaa</logoTextColorDimmed>
+         <gamelistListTextlistBackgroundColor>711521</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>b2b4b2</gamelistListMetadataBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>b2b4b2</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselNoMetadataBackgroundColor>711521</gamelistCarouselNoMetadataBackgroundColor>
+         <gamelistGridBackgroundColor>711521</gamelistGridBackgroundColor>
+         <!-- Logo Colors -->
+         <logoColorSystem>ffffff</logoColorSystem>
+         <logoTextColorSystem>ffffff</logoTextColorSystem>
+         <logoColorGamelist>ffffffaa</logoColorGamelist>
+         <logoTextColorGamelist>ffffffaa</logoTextColorGamelist>
+         <logoColorGamelistCarouselNoMetadata>ffffffaa</logoColorGamelistCarouselNoMetadata>
+         <!-- Metadata Colors -->
          <ratingColor>711521</ratingColor>
          <metadataColor>000000aa</metadataColor>
+         <metadataColorCarouselNoMetadata>ffffffaa</metadataColorCarouselNoMetadata>
          <metadataIconColor>711521</metadataIconColor>
+         <metadataSeperatorColor>00000022</metadataSeperatorColor>
          <descriptionColor>000000dd</descriptionColor>
-         <helpBackgroundColor>333333</helpBackgroundColor>
-         <helpIconColor>ffffff88</helpIconColor>
-         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
-         <helpTextColor>ffffff88</helpTextColor>
-         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
+         <!-- Help System Colors -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="user-custom">
       <variables>
+         <!-- Background Colors -->
          <backgroundColor>000000</backgroundColor>
-         <gamelistBackgroundColor>111111</gamelistBackgroundColor>
-         <systemBackgroundColor>111111</systemBackgroundColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistUnSelectedColor>ffffff33</gamelistUnSelectedColor>
-         <logoColor>ffffff</logoColor>
-         <logoColorDimmed>ffffffaa</logoColorDimmed>
-         <logoTextColor>ffffffaa</logoTextColor>
-         <logoTextColorDimmed>ffffffaa</logoTextColorDimmed>
+         <systemBackgroundColor>000000</systemBackgroundColor>
+         <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>000000</gamelistListMetadataBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>000000</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselNoMetadataBackgroundColor>000000</gamelistCarouselNoMetadataBackgroundColor>
+         <gamelistGridBackgroundColor>000000</gamelistGridBackgroundColor>
+         <!-- Logo Colors -->
+         <logoColorSystem>ffffff</logoColorSystem>
+         <logoTextColorSystem>ffffff</logoTextColorSystem>
+         <logoColorGamelist>ffffffaa</logoColorGamelist>
+         <logoTextColorGamelist>ffffffaa</logoTextColorGamelist>
+         <logoColorGamelistCarouselNoMetadata>ffffffaa</logoColorGamelistCarouselNoMetadata>
+         <!-- Metadata Colors -->
          <ratingColor>ffffff88</ratingColor>
          <metadataColor>ffffff88</metadataColor>
+         <metadataColorCarouselNoMetadata>ffffff88</metadataColorCarouselNoMetadata>
          <metadataIconColor>ffffff33</metadataIconColor>
+         <metadataSeperatorColor>ffffff11</metadataSeperatorColor>
          <descriptionColor>ffffffee</descriptionColor>
-         <helpBackgroundColor>333333</helpBackgroundColor>
-         <helpIconColor>ffffff88</helpIconColor>
-         <helpIconColorDimmed>ffffff88</helpIconColorDimmed>
-         <helpTextColor>ffffff88</helpTextColor>
-         <helpTextColorDimmed>ffffff88</helpTextColorDimmed>
+         <!-- Help System Colors -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>
    </colorScheme>
 </theme>
