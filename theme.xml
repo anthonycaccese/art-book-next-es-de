@@ -222,8 +222,8 @@ license:       creative commons CC-BY-NC-SA
             <color>${logoColorGamelist}</color>
          </image>
          <badges name="badges">
-            <origin>0 0</origin>
-            <pos>0 0.0625</pos><!-- 0 50 -->
+            <origin>0.5 0</origin>
+            <horizontalAlignment>center</horizontalAlignment>
          </badges>
          <carousel name="gamelist-carousel">
             <type>horizontal</type>
@@ -243,6 +243,9 @@ license:       creative commons CC-BY-NC-SA
 
    <variant name="gamelist-carousel-no-metadata">
       <view name="gamelist">
+         <badges name="badges">
+            <pos>0.5 0.6925</pos><!-- 0 524 -->
+         </badges>
          <image name="logo">
             <color>${logoColorGamelistCarouselNoMetadata}</color>
          </image>
@@ -268,6 +271,9 @@ license:       creative commons CC-BY-NC-SA
 
    <variant name="gamelist-carousel,gamelist-carousel-immersive">
       <view name="gamelist">
+         <badges name="badges">
+            <pos>0.5 0.6175</pos><!-- 0 494 -->
+         </badges>
          <carousel name="gamelist-carousel">
             <itemScale>1.5</itemScale>
             <pos>0 0.2625</pos><!-- 0 210 -->
@@ -539,7 +545,7 @@ license:       creative commons CC-BY-NC-SA
             <origin>0 0</origin>
             <path>${spacerImage}</path>
             <tile>true</tile>
-            <color>${systemBackgroundColor}</color>
+            <color>${gamelistGridBackgroundColor}</color>
             <zIndex>2</zIndex>
          </image>
          <image name="game-background-artwork">
