@@ -2,7 +2,7 @@
 
    <view name="system">
       <image name="system-art-mask">
-         <path>./_inc/images/utility/system-art-mask-16-9.png</path>
+         <path>./_inc/images/system-art-mask-16-9.png</path>
       </image>
    </view>
 
@@ -67,15 +67,15 @@
          <rating name="rating">
             <pos>0.864978902953586 0.6625</pos><!-- 1230 530 -->
             <size>0 0.025</size><!-- x 20 -->
-            <filledPath>./_inc/images/utility/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/images/utility/icon-star-unfilled.svg</unfilledPath>
+            <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
             <overlay>false</overlay>
             <color>${ratingColor}</color>
          </rating>
          <image name="releasedate-icon">
             <pos>0.864978902953586 0.7125</pos><!-- 1230 570 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-release-date.svg</path>
+            <path>./_inc/images/icon-release-date.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -92,7 +92,7 @@
          <image name="players-icon">
             <pos>0.864978902953586 0.7625</pos><!-- 1230 610 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-players.svg</path>
+            <path>./_inc/images/icon-players.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -108,7 +108,7 @@
          <image name="developer-icon">
             <pos>0.864978902953586 0.8125</pos><!-- 1230 650 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-developer.svg</path>
+            <path>./_inc/images/icon-developer.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -125,7 +125,7 @@
          <image name="publisher-icon">
             <pos>0.864978902953586 0.8625</pos><!-- 1230 690 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-publisher.svg</path>
+            <path>./_inc/images/icon-publisher.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>

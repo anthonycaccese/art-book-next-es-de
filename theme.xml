@@ -9,17 +9,10 @@ license:       creative commons CC-BY-NC-SA
    <variables>
       <logoFont>./_inc/fonts/ChangaOne-Italic.ttf</logoFont>
       <bodyFont>./_inc/fonts/Oxygen-Bold.ttf</bodyFont>
-      <spacerImage>./_inc/images/utility/space.png</spacerImage>
-      <!-- 
-      Sound Set Options:
-      es-de
-      steam-os
-      -->
-      <soundSet>steam-os</soundSet>
+      <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
 
    <include>./colors.xml</include>
-   <include>./sound-set-${soundSet}.xml</include>
 
    <view name="system,gamelist">
       <image name="background">
@@ -59,7 +52,7 @@ license:       creative commons CC-BY-NC-SA
          <pos>0 0</pos>
          <size>1 1</size>
          <color>00000000</color>
-         <staticImage>./_inc/images/systems/${system.theme}.svg</staticImage>
+         <staticImage>./_inc/systems/${system.theme}.svg</staticImage>
          <imageColor>${logoColorSystem}</imageColor>
          <itemScale>2</itemScale>
          <itemSize>0.25 0.15</itemSize>
@@ -92,7 +85,7 @@ license:       creative commons CC-BY-NC-SA
          <origin>0.5 0.5</origin>
          <pos>0.5 0.5</pos>
          <size>0 1</size>
-         <path>./_inc/images/systems/${system.theme}.png</path>
+         <path>./_inc/systems/${system.theme}.png</path>
          <interpolation>linear</interpolation>
          <zIndex>2</zIndex>
       </image>
@@ -116,7 +109,7 @@ license:       creative commons CC-BY-NC-SA
    <view name="gamelist">
       <image name="logo">
          <origin>0.5 0.5</origin>
-         <path>./_inc/images/systems/${system.theme}.svg</path>
+         <path>./_inc/systems/${system.theme}.svg</path>
          <zIndex>5</zIndex>
       </image>
       <badges name="badges">
@@ -125,14 +118,14 @@ license:       creative commons CC-BY-NC-SA
          <lines>1</lines>
          <itemsPerLine>8</itemsPerLine>
          <slots>all</slots>
-         <customBadgeIcon badge="folder">./_inc/images/utility/badge-folder.svg</customBadgeIcon>
-         <customBadgeIcon badge="broken">./_inc/images/utility/badge-broken.svg</customBadgeIcon>
-         <customBadgeIcon badge="completed">./_inc/images/utility/badge-completed.svg</customBadgeIcon>
-         <customBadgeIcon badge="favorite">./_inc/images/utility/badge-favorite.svg</customBadgeIcon>
-         <customBadgeIcon badge="kidgame">./_inc/images/utility/badge-kidgame.svg</customBadgeIcon>
-         <customBadgeIcon badge="collection">./_inc/images/utility/badge-collection.svg</customBadgeIcon>
-         <customBadgeIcon badge="controller">./_inc/images/utility/badge-controller.svg</customBadgeIcon>
-         <customBadgeIcon badge="altemulator">./_inc/images/utility/badge-altemulator.svg</customBadgeIcon>
+         <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+         <customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
+         <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+         <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+         <customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+         <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+         <customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
+         <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
          <controllerSize>0.8</controllerSize>
          <folderLinkSize>0.8</folderLinkSize>
       </badges>
@@ -280,8 +273,8 @@ license:       creative commons CC-BY-NC-SA
             <unfocusedItemOpacity>0.8</unfocusedItemOpacity>
          </carousel>
          <rating name="rating">
-            <filledPath>./_inc/images/utility/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/images/utility/icons/icon-star-unfilled.svg</unfilledPath>
+            <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/images/icons/icon-star-unfilled.svg</unfilledPath>
             <overlay>false</overlay>
             <color>${ratingColor}</color>
          </rating>
@@ -293,7 +286,7 @@ license:       creative commons CC-BY-NC-SA
             <color>${metadataColor}</color>
          </text>
          <image name="icon-players">
-            <path>./_inc/images/utility/icon-players.svg</path>
+            <path>./_inc/images/icon-players.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -331,7 +324,7 @@ license:       creative commons CC-BY-NC-SA
             <metadataElement>true</metadataElement>
          </image>
          <image name="icon-release-date">
-            <path>./_inc/images/utility/icon-release-date.svg</path>
+            <path>./_inc/images/icon-release-date.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -343,7 +336,7 @@ license:       creative commons CC-BY-NC-SA
             <format>%Y-%m-%d</format>
          </datetime>
          <image name="icon-developer">
-            <path>./_inc/images/utility/icon-developer.svg</path>
+            <path>./_inc/images/icon-developer.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -354,7 +347,7 @@ license:       creative commons CC-BY-NC-SA
             <color>${metadataColor}</color>
          </text>
          <image name="icon-publisher">
-            <path>./_inc/images/utility/icon-publisher.svg</path>
+            <path>./_inc/images/icon-publisher.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -458,15 +451,15 @@ license:       creative commons CC-BY-NC-SA
          <rating name="rating">
             <pos>0.759493670886076 0.19375</pos><!-- 1080 155 -->
             <size>0 0.025</size><!-- x 20 -->
-            <filledPath>./_inc/images/utility/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/images/utility/icon-star-unfilled.svg</unfilledPath>
+            <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
             <overlay>false</overlay>
             <color>${ratingColor}</color>
          </rating>
          <image name="releasedate-icon">
             <pos>0.759493670886076 0.24375</pos><!-- 1080 195 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-release-date.svg</path>
+            <path>./_inc/images/icon-release-date.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -483,7 +476,7 @@ license:       creative commons CC-BY-NC-SA
          <image name="players-icon">
             <pos>0.759493670886076 0.29375</pos><!-- 1080 235 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-players.svg</path>
+            <path>./_inc/images/icon-players.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -499,7 +492,7 @@ license:       creative commons CC-BY-NC-SA
          <image name="developer-icon">
             <pos>0.759493670886076 0.34375</pos><!-- 1080 275 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-developer.svg</path>
+            <path>./_inc/images/icon-developer.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -516,7 +509,7 @@ license:       creative commons CC-BY-NC-SA
          <image name="publisher-icon">
             <pos>0.759493670886076 0.39375</pos><!-- 1080 315 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/utility/icon-publisher.svg</path>
+            <path>./_inc/images/icon-publisher.svg</path>
             <color>${metadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
@@ -568,17 +561,43 @@ license:       creative commons CC-BY-NC-SA
    Aspect Ratios
    ///
    -->
-   <!-- 16:9 Layout -->
    <aspectRatio name="16:9">
       <include>./aspect-ratio-16-9.xml</include>
    </aspectRatio>
-   <!-- 16:10 Layout -->
-   <aspectRatio name="16:10">
+   <!--<aspectRatio name="16:10">
       <include>./aspect-ratio-16-10.xml</include>
    </aspectRatio>
-   <!-- 4:3 Layout -->
    <aspectRatio name="4:3">
       <include>./aspect-ratio-4-3.xml</include>
-   </aspectRatio>
+   </aspectRatio>-->
+
+   <!--
+   ///
+   Sounds
+   ///
+   -->
+   <view name="all">
+      <sound name="systembrowse">
+         <path>./_inc/sounds/systembrowse.wav</path>
+      </sound>
+      <sound name="quicksysselect">
+         <path>./_inc/sounds/quicksysselect.wav</path>
+      </sound>
+      <sound name="select">
+         <path>./_inc/sounds/select.wav</path>
+      </sound>
+      <sound name="back">
+         <path>./_inc/sounds/back.wav</path>
+      </sound>
+      <sound name="scroll">
+         <path>./_inc/sounds/scroll.wav</path>
+      </sound>
+      <sound name="favorite">
+         <path>./_inc/sounds/favorite.wav</path>
+      </sound>
+      <sound name="launch">
+         <path>./_inc/sounds/launch.wav</path>
+      </sound>
+   </view>
 
 </theme>
