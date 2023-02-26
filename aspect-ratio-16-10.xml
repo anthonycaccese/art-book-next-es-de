@@ -1,5 +1,11 @@
 <theme>
 
+   <view name="system,gamelist">
+      <helpsystem name="help">
+         <entrySpacing>0.0140625</entrySpacing><!-- 18 -->
+      </helpsystem>
+   </view>
+
    <!--
    ///
    System View
@@ -31,10 +37,8 @@
             <maxSize>0.328125 0.1</maxSize><!-- 420 80 -->
          </image>
          <textlist name="gamelist-list">
-            <pos>0.0390625 0.24</pos><!-- 50 192 -->
-            <size>0.3203125 0.65</size><!-- 410 520 -->
-            <lineSpacing>1.5</lineSpacing>
-            <fontSize>0.036</fontSize>
+            <pos>0.0390625 0.8875</pos><!-- 50 710 -->
+            <size>0.3203125 0.63</size><!-- 410 504 -->
          </textlist>
       </view>
    </variant>
@@ -43,55 +47,54 @@
    <variant name="gamelist-list,gamelist-list-immersive">
       <view name="gamelist">
          <text name="genre">
-            <pos>0.4453125 0.6625</pos><!-- 570 530 -->
+            <pos>0.453125 0.6625</pos><!-- 580 530 -->
             <size>0 0.025</size><!-- x 20 -->
             <fontSize>0.025</fontSize><!-- 20 -->
          </text>
          <text name="description">
-            <pos>0.4453125 0.7225</pos><!-- 570 578 -->
-            <size>0.359375 0.19375</size><!-- 460 155 -->
-            <lineSpacing>1.36</lineSpacing>
+            <pos>0.453125 0.8875</pos><!-- 580 710 -->
+            <size>0.3515625 0.18</size><!-- 450 144 -->
             <fontSize>0.03</fontSize><!-- 24 -->
          </text>
          <rating name="rating">
-            <pos>0.8515625 0.6625</pos><!-- 1090 530 -->
+            <pos>0.85 0.6625</pos><!-- 1088 530 -->
             <size>0 0.025</size><!-- x 20 -->
          </rating>
          <image name="releasedate-icon">
-            <pos>0.8515625 0.7125</pos><!-- 1090 570 -->
+            <pos>0.85 0.7125</pos><!-- 1088 570 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <datetime name="releasedate">
-            <pos>0.875 0.7125</pos><!-- 1120 570 -->
-            <size>0 0.025</size><!-- x 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <pos>0.8734375 0.7125</pos><!-- 1118 570 -->
+            <size>0.0875 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </datetime>
          <image name="players-icon">
-            <pos>0.8515625 0.7625</pos><!-- 1090 610 -->
+            <pos>0.85 0.7625</pos><!-- 1088 610 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <text name="players">
-            <pos>0.875 0.7625</pos><!-- 1120 610 -->
-            <size>0.1015625 0.025</size><!-- 130 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <pos>0.8734375 0.7625</pos><!-- 1118 610 -->
+            <size>0.0875 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </text>
          <image name="developer-icon">
-            <pos>0.8515625 0.8125</pos><!-- 1090 650 -->
+            <pos>0.85 0.8125</pos><!-- 1088 650 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <text name="developer">
-            <pos>0.875 0.8125</pos><!-- 1120 650 -->
-            <size>0.1015625 0.025</size><!-- 130 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <pos>0.8734375 0.8125</pos><!-- 1118 650 -->
+            <size>0.0875 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </text>
          <image name="publisher-icon">
-            <pos>0.8515625 0.8625</pos><!-- 1090 690 -->
+            <pos>0.85 0.8625</pos><!-- 1088 690 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <text name="publisher">
-            <pos>0.875 0.8625</pos><!-- 1120 690 -->
-            <size>0.1015625 0.025</size><!-- 130 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <pos>0.8734375 0.8625</pos><!-- 1118 690 -->
+            <size>0.0875 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </text>
       </view>
    </variant>
@@ -105,7 +108,7 @@
          </image>
          <video name="video">
             <pos>0.703125 0.33125</pos><!-- 900 265 -->
-            <maxSize>0.5 0.5375</maxSize><!-- 640 430 -->
+            <maxSize>0.515625 0.5375</maxSize><!-- 660 430 -->
          </video>
       </view>
    </variant>
@@ -118,11 +121,11 @@
             <size>0.59375 0.3375</size><!-- 760 270-->
          </image>
          <image name="cover">
-            <pos>0.4453125 0.63</pos><!-- 570 504 -->
+            <pos>0.453125 0.625</pos><!-- 580 500 -->
             <maxSize>0.15625 0.25</maxSize><!-- 200 200 -->
          </image>
          <image name="marquee">
-            <pos>0.9609375 0.63</pos><!-- 1230 504 -->
+            <pos>0.9609375 0.625</pos><!-- 1230 500 -->
             <maxSize>0.15625 0.25</maxSize><!-- 200 300 -->
          </image>
          <video name="video">

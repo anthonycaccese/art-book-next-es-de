@@ -1,143 +1,136 @@
 <theme>
 
+   <view name="system,gamelist">
+      <helpsystem name="help">
+         <entrySpacing>0.016869728209934</entrySpacing><!-- 18 -->
+      </helpsystem>
+   </view>
+
+   <!--
+   ///
+   System View
+   ///
+   -->
    <view name="system">
       <image name="system-art-mask">
-         <path>./_inc/images/utility/system-art-mask-4-3.png</path>
+         <path>./_inc/images/system-art-mask-4-3.png</path>
       </image>
    </view>
 
-   <view name="gamelist">
-      <badges name="badges">
-         <size>0.3 0.3</size>
-         <itemMargin>-1 0.007029876977153</itemMargin>
-      </badges>
-   </view>
-
-   <!-- List & List (No Metadata) -->
-   <variant name="gamelist-list,gamelist-list-no-metadata">
+   <!--
+   ///
+   Gamelist View - List Variants
+   ///
+   -->
+   <variant name="gamelist-list,gamelist-list-immersive,gamelist-list-no-metadata">
       <view name="gamelist">
-         <image name="logo">
-            <pos>0.243205248359888 0.131875</pos><!-- 259.5 105.5 -->
-            <maxSize>0.36 0.10375</maxSize><!-- 402 83 -->
-         </image>
-         <textlist name="gamelist-list">
-            <pos>0.046860356138707 0.24</pos><!-- 50 192 -->
-            <size>0.384254920337395 0.725</size><!-- 410 542.5 -->
-            <lineSpacing>1.585</lineSpacing>
-            <fontSize>0.04</fontSize><!-- 32 -->
-         </textlist>
+         <badges name="badges">
+            <pos>0.962511715089035 0.05</pos><!-- 1017 50 -->
+            <size>0.03 0.5</size>
+            <itemMargin>-1 0.0075</itemMargin>
+         </badges>
          <image name="gamelist-background">
             <size>0.487347703842549 1</size><!-- 520 800 -->
          </image>
+         <image name="logo">
+            <pos>0.243673851921275 0.11875</pos><!-- 260 110 -->
+            <maxSize>0.393626991565136 0.1</maxSize><!-- 420 80 -->
+         </image>
+         <textlist name="gamelist-list">
+            <pos>0.046860356138707 0.8875</pos><!-- 50 710 -->
+            <size>0.384254920337395 0.63</size><!-- 410 504 -->
+         </textlist>
+      </view>
+   </variant>
+
+   <!-- List & List (Immersive) -->
+   <variant name="gamelist-list,gamelist-list-immersive">
+      <view name="gamelist">
+         <text name="genre">
+            <pos>0.543580131208997 0.5375</pos><!-- 580 430 -->
+            <size>0.187441424554827 0.025</size><!-- 200 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
+         </text>
+         <image name="releasedate-icon">
+            <pos>0.543580131208997 0.5875</pos><!-- 580 470 -->
+            <size>0 0.025</size><!-- x 20 -->
+         </image>
+         <datetime name="releasedate">
+            <pos>0.571696344892221 0.5875</pos><!-- 610 470 -->
+            <size>0.159325210871603 0.025</size><!-- 170 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
+         </datetime>
+         <image name="players-icon">
+            <pos>0.543580131208997 0.6375</pos><!-- 580 510 -->
+            <size>0 0.025</size><!-- x 20 -->
+         </image>
+         <text name="players">
+            <pos>0.571696344892221 0.6375</pos><!-- 610 510 -->
+            <size>0.159325210871603 0.025</size><!-- 170 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
+         </text>
+         <rating name="rating">
+            <pos>0.759137769447048 0.5375</pos><!-- 810 430 -->
+            <size>0 0.025</size><!-- x 20 -->
+         </rating>
+         <image name="developer-icon">
+            <pos>0.759137769447048 0.5875</pos><!-- 810 470 -->
+            <size>0 0.025</size><!-- x 20 -->
+         </image>
+         <text name="developer">
+            <pos>0.787253983130272 0.5875</pos><!-- 840 470 -->
+            <size>0.159325210871603 0.025</size><!-- 170 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
+         </text>
+         <image name="publisher-icon">
+            <pos>0.759137769447048 0.6375</pos><!-- 810 510 -->
+            <size>0 0.025</size><!-- x 20 -->
+         </image>
+         <text name="publisher">
+            <pos>0.787253983130272 0.6375</pos><!-- 840 510 -->
+            <size>0.159325210871603 0.025</size><!-- 170 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
+         </text>
+         <text name="description">
+            <pos>0.543580131208997 0.8875</pos><!-- 580 710 -->
+            <size>0.402999062792877 0.18</size><!-- 430 144 -->
+            <fontSize>0.03</fontSize><!-- 24 -->
+         </text>
       </view>
    </variant>
 
    <!-- List -->
    <variant name="gamelist-list">
       <view name="gamelist">
-         <badges name="badges">
-            <pos>0.943767572633552 0.075</pos><!-- 1007 60 -->
-         </badges>
-         <text name="description">
-            <fontPath>${bodyFont}</fontPath>
-            <horizontalAlignment>left</horizontalAlignment>
-            <color>${descriptionColor}</color>
-            <pos>0.543580131208997 0.546</pos><!-- 580 420 -->
-            <size>0.418931583880037 0.208</size><!-- 447 191 -->
-            <lineSpacing>1.36</lineSpacing>
-            <fontSize>0.03</fontSize><!-- 24 -->
-            <metadata>description</metadata>
-            <container>true</container>
-         </text>
-         <rating name="rating">
-            <pos>0.543580131208997 0.802</pos><!-- 580 652 -->
-            <size>0 0.026</size><!-- x 24 -->
-            <filledPath>./_inc/images/utility/star-filled.svg</filledPath>
-            <unfilledPath>./_inc/images/utility/star-empty.svg</unfilledPath>
-            <overlay>false</overlay>
-            <color>${ratingColor}</color>
-         </rating>
-         <text name="genre">
-            <pos>0.543580131208997 0.857</pos><!-- 580 686 -->
-            <size>0.1875 0.025</size><!-- 120 20 -->
-            <fontSize>0.025</fontSize><!-- 20 -->
-            <metadata>genre</metadata>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <color>${metadataColor}</color>
-         </text>
-         <image name="players-icon">
-            <origin>0 0</origin>
-            <pos>0.543580131208997 0.913</pos><!-- 580 725 -->
-            <maxSize>0.016401124648547 0.025</maxSize><!-- 17.5 20 -->
-            <path>./_inc/images/utility/icon-players.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
+         <image name="game-metadata-background">
+            <pos>0.487347703842549 0</pos><!-- 520 0 -->
+            <size>0.512652296157451 1</size><!-- 547 720-->
          </image>
-         <text name="players">
-            <pos>0.567947516401125 0.908</pos><!-- 606 720 -->
-            <size>0.1875 0.025</size><!-- 120 20 -->
-            <fontSize>0.025</fontSize><!-- 20 -->
-            <metadata>players</metadata>
-            <fontPath>${bodyFont}</fontPath>
-            <color>${metadataColor}</color>
-         </text>
-         <image name="releasedate-icon">
-            <origin>0 0</origin>
-            <pos>0.764761012183693 0.806</pos><!-- 816 656 -->
-            <maxSize>00.016401124648547 0.025</maxSize><!-- 17.5 20 -->
-            <path>./_inc/images/utility/icon-calendar.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
-         </image>
-         <datetime name="releasedate">
-            <pos>0.78912839737582 0.806</pos><!-- 842 656 -->
-            <size>0.1875 0.025</size><!-- 120 20 -->
-            <format>%Y-%m-%d</format>
-            <fontSize>0.025</fontSize><!-- 20 -->
-            <metadata>releasedate</metadata>
-            <fontPath>${bodyFont}</fontPath>
-            <color>${metadataColor}</color>
-         </datetime>
-         <image name="developer-icon">
-            <origin>0 0</origin>
-            <pos>0.764761012183693 0.859</pos><!-- 816 691 -->
-            <maxSize>0.016401124648547 0.025</maxSize><!-- 17.5 20 -->
-            <path>./_inc/images/utility/icon-wrench.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
-         </image>
-         <text name="developer">
-            <pos>0.78912839737582 0.857</pos><!-- 842 689 -->
-            <size>0.159325210871603 0.025</size><!-- 170 20 -->
-            <fontSize>0.025</fontSize><!-- 20 -->
-            <metadata>developer</metadata>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <color>${metadataColor}</color>
-         </text>
-         <image name="publisher-icon">
-            <origin>0 0</origin>
-            <pos>0.764761012183693 0.912</pos><!-- 816 725 -->
-            <maxSize>0.016401124648547 0.025</maxSize><!-- 17.5 20 -->
-            <path>./_inc/images/utility/icon-ship.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
-         </image>
-         <text name="publisher">
-            <pos>0.78912839737582 0.908</pos><!-- 842 725 -->
-            <size>0.159325210871603 0.025</size><!-- 170 20 -->
-            <fontSize>0.025</fontSize><!-- 20 -->
-            <metadata>publisher</metadata>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <color>${metadataColor}</color>
-         </text>
          <video name="video">
-            <origin>0.5 0.5</origin>
-            <pos>0.743673851921275 0.272</pos><!-- 793.5 217.6 -->
-            <maxSize>0.418931583880037 0.419</maxSize><!-- 447 335.2 -->
-            <imageType>miximage,screenshot,titlescreen,fanart,cover</imageType>
+            <pos>0.745079662605436 0.27375</pos><!-- 795 219 -->
+            <maxSize>0.42174320524836 0.4225</maxSize><!-- 450 338 -->
+         </video>
+      </view>
+   </variant>
+
+   <!-- List (Immersive) -->
+   <variant name="gamelist-list-immersive">
+      <view name="gamelist">
+         <image name="game-metadata-background">
+            <pos>0.487347703842549 0.485</pos><!-- 520 388 -->
+            <size>0.512652296157451 0.4525</size><!-- 547 362-->
+         </image>
+         <image name="cover">
+            <pos>0.534208059981256 0.5</pos><!-- 570 400 -->
+            <maxSize>0.187441424554827 0.25</maxSize><!-- 200 200 -->
+         </image>
+         <image name="marquee">
+            <pos>0.955951265229616 0.5</pos><!-- 1020 400 -->
+            <maxSize>0.187441424554827 0.25</maxSize><!-- 200 300 -->
+         </image>
+         <video name="video">
+            <pos>0.743673851921275 0.165</pos><!-- 793.5 132 -->
+            <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
          </video>
       </view>
    </variant>
@@ -145,24 +138,23 @@
    <!-- List (No Metadata) -->
    <variant name="gamelist-list-no-metadata">
       <view name="gamelist">
-         <badges name="badges">
-            <pos>0.964850615114236 0.0625</pos>
-         </badges>
          <image name="marquee">
-            <origin>0.5 0.5</origin>
-            <pos>0.743673851921275 0.5</pos><!-- 793.5 400 -->
-            <maxSize>0.374882849109653 0.75</maxSize><!-- 400 600 -->
+            <pos>0.743673851921275 0.46875</pos><!-- 793.5 375 -->
+            <maxSize>0.42174320524836 0.625</maxSize><!-- 450 500 -->
          </image>
          <video name="video">
-            <origin>0.5 0.5</origin>
             <pos>0.743673851921275 0.5</pos><!-- 793.5 400 -->
-            <maxSize>1.042174320524836 1.1725</maxSize><!-- 1112 938 -->
-            <imageType>screenshot,titlescreen,fanart,cover</imageType>
+            <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
          </video>
       </view>
    </variant>
 
-   <variant name="gamelist-carousel,gamelist-carousel-no-metadata">
+   <!--
+   ///
+   Carousel Variants
+   ///
+   -->
+   <variant name="gamelist-carousel,gamelist-carousel-immersive,gamelist-carousel-no-metadata">
       <view name="gamelist">
          <image name="logo">
             <maxSize>0.210970464135021 0.075</maxSize><!-- 300 60 -->
@@ -173,79 +165,81 @@
       </view>
    </variant>
 
+   <!-- Carousel (No Metadata) -->
    <variant name="gamelist-carousel-no-metadata">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <size>1 0.5625</size>
-            <itemSize>0.28116213683224 0.375</itemSize>
-            <maxItemCount>3</maxItemCount>
+            <itemSize>0.210970464135021 0.375</itemSize>
+            <maxItemCount>4</maxItemCount>
          </carousel>
       </view>
    </variant>
 
-   <variant name="gamelist-carousel">
+   <!-- Carousel & Carousel Immersive -->
+   <variant name="gamelist-carousel,gamelist-carousel-immersive">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <size>1 0.375</size>
-            <itemSize>0.187441424554827 0.25</itemSize>
-            <maxItemCount>3</maxItemCount>
+            <itemSize>0.140646976090014 0.25</itemSize>
+            <maxItemCount>5</maxItemCount>
          </carousel>
          <rating name="rating">
-            <pos>0.050609184629803 0.73125</pos><!-- 54 585 -->
+            <pos>0.152601969057665 0.73125</pos><!-- 217 585 -->
             <size>0 0.025</size><!-- x 20 -->
          </rating>
          <text name="genre">
-            <pos>0.050609184629803 0.76875</pos><!-- 54 615 -->
-            <size>0.149953139643861 0.05</size><!-- 160 40 -->
-            <fontSize>0.02</fontSize><!-- 16 -->
+            <pos>0.152601969057665 0.76875</pos><!-- 247 615 -->
+            <size>0.091420534458509 0.05</size><!-- 160 40 -->
+            <fontSize>0.0225</fontSize><!-- 18 -->
             <lineSpacing>1</lineSpacing>
          </text>
          <image name="icon-players">
-            <pos>0.050609184629803 0.83125</pos><!-- 54 665 -->
+            <pos>0.152601969057665 0.83125</pos><!-- 217 665 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <text name="players">
-            <pos>0.078725398313027 0.83125</pos><!-- 84 665 -->
-            <size>0.121836925960637 0.025</size><!-- 130 20 -->
-            <fontSize>0.02</fontSize><!-- 16 -->
+            <pos>0.173699015471167 0.83125</pos><!-- 247 665 -->
+            <size>0.091420534458509 0.025</size><!-- 130 20 -->
+            <fontSize>0.0225</fontSize><!-- 18 -->
          </text>
          <image name="metadata-seperator-left">
-            <pos>0.243673851921275 0.70625</pos><!-- 260 565 -->
-            <size>0.001874414245548 0.1625</size><!-- 2 130 -->
+            <pos>0.270042194092827 0.70625</pos><!-- 384 565 -->
+            <size>0.0014064697609 0.1625</size><!-- 2 130 -->
          </image>
          <text name="description">
-            <size>0.42174320524836 0.1625</size><!-- 450 130 -->
+            <size>0.407876230661041 0.1625</size><!-- 580 130 -->
          </text>
          <image name="metadata-seperator-right">
-            <pos>0.744142455482662 0.70625</pos><!-- 794 565 -->
-            <size>0.001874414245548 0.1625</size><!-- 2 130 -->
+            <pos>0.729957805907173 0.70625</pos><!-- 1038 565 -->
+            <size>0.0014064697609 0.1625</size><!-- 2 130 -->
          </image>
          <image name="icon-release-date">
-            <pos>0.788191190253046 0.73125</pos><!-- 841 585 -->
+            <pos>0.763009845288326 0.73125</pos><!-- 1085 585 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <datetime name="releasedate">
-            <pos>0.81630740393627 0.73125</pos><!-- 871 585 -->
-            <size>0.121836925960637 0.025</size><!-- 130 20 -->
-            <fontSize>0.02</fontSize><!-- 16 -->
+            <pos>0.784106891701828 0.73125</pos><!-- 1115 585 -->
+            <size>0.091420534458509 0.025</size><!-- 130 20 -->
+            <fontSize>0.0225</fontSize><!-- 18 -->
          </datetime>
          <image name="icon-developer">
-            <pos>0.788191190253046 0.78125</pos><!-- 841 625 -->
+            <pos>0.763009845288326 0.78125</pos><!-- 1085 625 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <text name="developer">
-            <pos>0.81630740393627 0.78125</pos><!-- 871 625 -->
-            <size>0.121836925960637 0.025</size><!-- 130 20 -->
-            <fontSize>0.02</fontSize><!-- 16 -->
+            <pos>0.784106891701828 0.78125</pos><!-- 1115 625 -->
+            <size>0.091420534458509 0.025</size><!-- 130 20 -->
+            <fontSize>0.0225</fontSize><!-- 18 -->
          </text>
          <image name="icon-publisher">
-            <pos>0.788191190253046 0.83125</pos><!-- 841 665 -->
+            <pos>0.763009845288326 0.83125</pos><!-- 1085 665 -->
             <size>0 0.025</size><!-- x 20 -->
          </image>
          <text name="publisher">
-            <pos>0.81630740393627 0.83125</pos><!-- 871 665 -->
-            <size>0.121836925960637 0.025</size><!-- 130 20 -->
-            <fontSize>0.02</fontSize><!-- 16 -->
+            <pos>0.784106891701828 0.83125</pos><!-- 1115 665 -->
+            <size>0.091420534458509 0.025</size><!-- 130 20 -->
+            <fontSize>0.0225</fontSize><!-- 18 -->
          </text>
          <image name="game-metadata-background">
             <pos>0 0.475</pos><!-- 0 380 -->
@@ -253,5 +247,5 @@
          </image>
       </view>
    </variant>
-
+   
 </theme>

@@ -1,5 +1,11 @@
 <theme>
 
+   <view name="system,gamelist">
+      <helpsystem name="help">
+         <entrySpacing>0.012658227848101</entrySpacing><!-- 18 -->
+      </helpsystem>
+   </view>
+
    <!--
    ///
    System View
@@ -31,10 +37,8 @@
             <maxSize>0.29535864978903 0.1</maxSize><!-- 420 80 -->
          </image>
          <textlist name="gamelist-list">
-            <pos>0.035161744022504 0.24</pos><!-- 50 192 -->
-            <size>0.288326300984529 0.65</size><!-- 410 520 -->
-            <lineSpacing>1.5</lineSpacing>
-            <fontSize>0.036</fontSize>
+            <pos>0.035161744022504 0.8875</pos><!-- 50 710 -->
+            <size>0.288326300984529 0.63</size><!-- 410 504 -->
          </textlist>
       </view>
    </variant>
@@ -44,13 +48,12 @@
       <view name="gamelist">
          <text name="genre">
             <pos>0.407876230661041 0.6625</pos><!-- 580 530 -->
-            <size>0 0.025</size><!-- 106 20 -->
+            <size>0 0.025</size><!-- x 20 -->
             <fontSize>0.025</fontSize><!-- 20 -->
          </text>
          <text name="description">
-            <pos>0.407876230661041 0.7225</pos><!-- 580 578 -->
-            <size>0.407876230661041 0.19375</size><!-- 580 155 -->
-            <lineSpacing>1.36</lineSpacing>
+            <pos>0.407876230661041 0.8875</pos><!-- 580 710 -->
+            <size>0.407876230661041 0.18</size><!-- 580 144 -->
             <fontSize>0.03</fontSize><!-- 24 -->
          </text>
          <rating name="rating">
@@ -63,8 +66,8 @@
          </image>
          <datetime name="releasedate">
             <pos>0.886075949367089 0.7125</pos><!-- 1260 570 -->
-            <size>0.074542897327707 0.025</size><!-- 106 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <size>0.078762306610408 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </datetime>
          <image name="players-icon">
             <pos>0.864978902953586 0.7625</pos><!-- 1230 610 -->
@@ -72,8 +75,8 @@
          </image>
          <text name="players">
             <pos>0.886075949367089 0.7625</pos><!-- 1260 610 -->
-            <size>0.1015625 0.025</size><!-- 130 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <size>0.078762306610408 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </text>
          <image name="developer-icon">
             <pos>0.864978902953586 0.8125</pos><!-- 1230 650 -->
@@ -81,8 +84,8 @@
          </image>
          <text name="developer">
             <pos>0.886075949367089 0.8125</pos><!-- 1260 650 -->
-            <size>0.1015625 0.025</size><!-- 130 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <size>0.078762306610408 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </text>
          <image name="publisher-icon">
             <pos>0.864978902953586 0.8625</pos><!-- 1230 690 -->
@@ -90,8 +93,8 @@
          </image>
          <text name="publisher">
             <pos>0.886075949367089 0.8625</pos><!-- 1260 690 -->
-            <size>0.1015625 0.025</size><!-- 130 25 -->
-            <fontSize>0.0225</fontSize><!-- 18 -->
+            <size>0.078762306610408 0.025</size><!-- 112 20 -->
+            <fontSize>0.02</fontSize><!-- 16 -->
          </text>
       </view>
    </variant>
@@ -118,12 +121,12 @@
             <size>0.634317862165963 0.3375</size><!-- 902 270-->
          </image>
          <image name="cover">
-            <pos>0.407876230661041 0.63</pos><!-- 580 504 -->
-            <maxSize>0.15625 0.25</maxSize><!-- 200 200 -->
+            <pos>0.407876230661041 0.625</pos><!-- 580 500 -->
+            <maxSize>0.140646976090014 0.25</maxSize><!-- 200 200 -->
          </image>
          <image name="marquee">
-            <pos>0.9609375 0.63</pos><!-- 971 504 -->
-            <maxSize>0.15625 0.25</maxSize><!-- 200 300 -->
+            <pos>0.964838255977496 0.625</pos><!-- 1372 500 -->
+            <maxSize>0.140646976090014 0.25</maxSize><!-- 200 200 -->
          </image>
          <video name="video">
             <pos>0.682841068917018 0.165</pos><!-- 971 132 -->

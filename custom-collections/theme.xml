@@ -28,9 +28,17 @@
             </text>
          </view>
       </aspectRatio>
+      <aspectRatio name="4:3">
+         <view name="gamelist">
+            <text name="custom-collection-name">
+               <pos>0.243673851921275 0.15</pos><!-- 260 120 -->
+               <size>0.393626991565136 0.036</size><!-- 420 80 -->
+            </text>
+         </view>
+      </aspectRatio>
    </variant>
    <variant name="gamelist-carousel,gamelist-carousel-immersive,gamelist-carousel-no-metadata">
-      <aspectRatio name="16:9,16:10">
+      <aspectRatio name="16:9,16:10,4:3">
          <view name="gamelist">
             <text name="custom-collection-name">
                <pos>0.5 0.15</pos><!-- 50% 120 -->

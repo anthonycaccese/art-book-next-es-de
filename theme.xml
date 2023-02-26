@@ -7,8 +7,10 @@ license:       creative commons CC-BY-NC-SA
 <theme>
 
    <variables>
-      <logoFont>./_inc/fonts/ChangaOne-Italic.ttf</logoFont>
-      <bodyFont>./_inc/fonts/Oxygen-Bold.ttf</bodyFont>
+      <fontBold>./_inc/fonts/Oxygen-Bold.ttf</fontBold>
+      <fontLight>./_inc/fonts/Oxygen-Light.ttf</fontLight>
+      <fontRegular>./_inc/fonts/Oxygen-Regular.ttf</fontRegular>
+      <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
 
@@ -34,14 +36,13 @@ license:       creative commons CC-BY-NC-SA
       <helpsystem name="help">
          <origin>0.5 1</origin>
          <pos>0.5 0.978</pos>
-         <fontPath>${bodyFont}</fontPath>
+         <fontPath>${fontLight}</fontPath>
          <fontSize>0.0225</fontSize>
          <textColor>${helpTextColor}</textColor>
-         <textColorDimmed>${helpTextColorDimmed}</textColorDimmed>
          <iconColor>${helpIconColor}</iconColor>
+         <textColorDimmed>${helpTextColorDimmed}</textColorDimmed>
          <iconColorDimmed>${helpIconColorDimmed}</iconColorDimmed>
          <letterCase>capitalize</letterCase>
-         <entrySpacing>0.012</entrySpacing>
       </helpsystem>
    </view>
 
@@ -109,7 +110,7 @@ license:       creative commons CC-BY-NC-SA
          <text>${system.fullName}</text>
          <textColor>${systemLogoTextColor}</textColor>
          <letterCase>uppercase</letterCase>
-         <fontPath>${logoFont}</fontPath>
+         <fontPath>${fontLogo}</fontPath>
          <zIndex>5</zIndex>
       </carousel>
    </view>
@@ -141,7 +142,7 @@ license:       creative commons CC-BY-NC-SA
          <folderLinkSize>0.8</folderLinkSize>
       </badges>
       <text name="custom-collection-name">
-         <fontPath>${logoFont}</fontPath>
+         <fontPath>${fontLogo}</fontPath>
       </text>
    </view>
 
@@ -172,9 +173,11 @@ license:       creative commons CC-BY-NC-SA
             <color>${gamelistListLogoColor}</color>
          </image>
          <textlist name="gamelist-list">
-            <origin>0 0</origin>
+            <origin>0 1</origin>
             <horizontalAlignment>left</horizontalAlignment>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
+            <fontSize>0.03</fontSize><!-- 24 -->
+            <lineSpacing>1.5</lineSpacing><!-- 6/6 -->
             <systemNameSuffix>false</systemNameSuffix>
             <selectorColor>00000000</selectorColor>
             <selectedColor>${gamelistListTextlistSelectedColor}</selectedColor>
@@ -200,8 +203,6 @@ license:       creative commons CC-BY-NC-SA
             <pos>0.5 0.24</pos><!-- 50% 192 -->
             <size>0.7 0.65</size><!-- - 520 -->
             <horizontalAlignment>center</horizontalAlignment>
-            <lineSpacing>1.5</lineSpacing>
-            <fontSize>0.036</fontSize>
          </textlist>
       </view>
    </variant>
@@ -214,11 +215,6 @@ license:       creative commons CC-BY-NC-SA
             <interpolation>nearest</interpolation>
             <pillarboxes>false</pillarboxes>
          </video>
-         <image name="marquee">
-            <imageType>marquee,cover,miximage</imageType>
-            <interpolation>linear</interpolation>
-            <zIndex>2</zIndex>
-         </image>
       </view>
    </variant>
 
@@ -235,17 +231,20 @@ license:       creative commons CC-BY-NC-SA
          <text name="genre">
             <metadata>genre</metadata>
             <defaultValue>:space:</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <letterCase>capitalize</letterCase>
+            <lineSpacing>1</lineSpacing>
          </text>
          <text name="description">
-            <fontPath>${bodyFont}</fontPath>
+            <origin>0 1</origin>
+            <fontPath>${fontRegular}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
             <color>${gamelistListDescriptionColor}</color>
             <metadata>description</metadata>
             <container>true</container>
             <containerStartDelay>6</containerStartDelay>
+            <lineSpacing>1.5</lineSpacing>
          </text>
          <rating name="rating">
             <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
@@ -262,8 +261,9 @@ license:       creative commons CC-BY-NC-SA
             <format>%Y-%m-%d</format>
             <metadata>releasedate</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
          </datetime>
          <image name="players-icon">
             <path>./_inc/images/icon-players.svg</path>
@@ -273,8 +273,9 @@ license:       creative commons CC-BY-NC-SA
          <text name="players">
             <metadata>players</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
          </text>
          <image name="developer-icon">
             <path>./_inc/images/icon-developer.svg</path>
@@ -284,9 +285,9 @@ license:       creative commons CC-BY-NC-SA
          <text name="developer">
             <metadata>developer</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
          </text>
          <image name="publisher-icon">
             <path>./_inc/images/icon-publisher.svg</path>
@@ -296,9 +297,9 @@ license:       creative commons CC-BY-NC-SA
          <text name="publisher">
             <metadata>publisher</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
          </text>
          <video name="video">
             <origin>0.5 0.5</origin>
@@ -344,6 +345,7 @@ license:       creative commons CC-BY-NC-SA
          </video>
          <image name="marquee">
             <origin>0.5 0.5</origin>
+            <imageType>marquee</imageType>
          </image>
       </view>
    </variant>
@@ -369,7 +371,7 @@ license:       creative commons CC-BY-NC-SA
             <color>00000000</color>
             <textColor>ffffff</textColor>
             <textBackgroundColor>000000</textBackgroundColor>
-            <fontPath>${logoFont}</fontPath>
+            <fontPath>${fontLogo}</fontPath>
             <fontSize>0.034</fontSize>
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
@@ -403,7 +405,7 @@ license:       creative commons CC-BY-NC-SA
          <text name="genre">
             <metadata>genre</metadata>
             <defaultValue>:space:</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <letterCase>capitalize</letterCase>
             <color>${gamelistCarouselMetadataColor}</color>
          </text>
@@ -415,7 +417,7 @@ license:       creative commons CC-BY-NC-SA
          <text name="players">
             <metadata>players</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistCarouselMetadataColor}</color>
          </text>
          <image name="metadata-seperator-left">
@@ -428,7 +430,7 @@ license:       creative commons CC-BY-NC-SA
          <text name="description">
             <origin>0.5 0</origin>
             <pos>0.5 0.7125</pos><!-- 50% 570 -->
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <horizontalAlignment>center</horizontalAlignment>
             <color>${gamelistCarouselDescriptionColor}</color>
             <lineSpacing>1.26</lineSpacing>
@@ -453,7 +455,7 @@ license:       creative commons CC-BY-NC-SA
          <datetime name="releasedate">
             <metadata>releasedate</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistCarouselMetadataColor}</color>
             <format>%Y-%m-%d</format>
          </datetime>
@@ -465,7 +467,7 @@ license:       creative commons CC-BY-NC-SA
          <text name="developer">
             <metadata>developer</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistCarouselMetadataColor}</color>
          </text>
          <image name="icon-publisher">
@@ -476,7 +478,7 @@ license:       creative commons CC-BY-NC-SA
          <text name="publisher">
             <metadata>publisher</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistCarouselMetadataColor}</color>
          </text>
          <image name="game-metadata-background">
@@ -541,7 +543,7 @@ license:       creative commons CC-BY-NC-SA
             <pos>0 0.8</pos>
             <size>1 0.0375</size>
             <metadata>name</metadata>
-            <fontPath>${bodyFont}</fontPath>
+            <fontPath>${fontBold}</fontPath>
             <color>${gamelistCarouselNoMetadataMetadataColor}</color>
             <fontSize>0.0375</fontSize><!-- 30 -->
             <horizontalAlignment>center</horizontalAlignment>
@@ -560,9 +562,9 @@ license:       creative commons CC-BY-NC-SA
    <aspectRatio name="16:10">
       <include>./aspect-ratio-16-10.xml</include>
    </aspectRatio>
-   <!--<aspectRatio name="4:3">
+   <aspectRatio name="4:3">
       <include>./aspect-ratio-4-3.xml</include>
-   </aspectRatio>-->
+   </aspectRatio>
 
    <!--
    ///
