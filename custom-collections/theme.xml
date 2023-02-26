@@ -5,7 +5,7 @@
          <origin>0.5 0</origin>
          <metadata>systemFullname</metadata>
          <fontSize>0.036</fontSize>
-         <color>${logoTextColorGamelist}</color>
+         <color>${gamelistListLogoColor}</color>
          <letterCase>uppercase</letterCase>
          <horizontalAlignment>center</horizontalAlignment>
          <lineSpacing>1</lineSpacing>
@@ -15,7 +15,7 @@
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.182841068917018 0.17</pos><!-- 260 110 -->
+               <pos>0.182841068917018 0.15</pos><!-- 260 120 -->
                <size>0.29535864978903 0.036</size><!-- 420 80 -->
             </text>
          </view>
@@ -25,7 +25,7 @@
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.5 0.16</pos><!-- 50% 110 -->
+               <pos>0.5 0.15</pos><!-- 50% 120 -->
                <size>0.29535864978903 0.036</size><!-- 420 80 -->
             </text>
          </view>

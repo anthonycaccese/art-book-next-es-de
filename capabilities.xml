@@ -21,8 +21,11 @@
    <colorScheme name="famicom">
       <label>Famicom</label>
    </colorScheme>
-   <colorScheme name="user-custom">
-      <label>Custom</label>
+   <colorScheme name="black">
+      <label>Black</label>
+   </colorScheme>
+   <colorScheme name="grayscale">
+      <label>Grayscale</label>
    </colorScheme>
 
    <transitions name="transitions">
@@ -41,12 +44,17 @@
       <entry>builtin-fade</entry>
    </suppressTransitionProfiles>
 
+   <!--
+   ///
+   List Variants
+   ///
+   -->
    <variant name="gamelist-list">
       <label>List</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <useVariant>gamelist-basic</useVariant>
+         <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
    <variant name="gamelist-list-immersive">
@@ -54,7 +62,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <useVariant>gamelist-basic</useVariant>
+         <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
    <variant name="gamelist-list-no-metadata">
@@ -62,9 +70,19 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <useVariant>gamelist-basic</useVariant>
+         <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
+   <variant name="gamelist-list-basic">
+      <label>List (Basic)</label>
+      <selectable>false</selectable>
+   </variant>
+
+   <!--
+   ///
+   Carousel Variants
+   ///
+   -->
    <variant name="gamelist-carousel">
       <label>Carousel</label>
       <selectable>true</selectable>
@@ -77,12 +95,14 @@
       <label>Carousel (No Metadata)</label>
       <selectable>true</selectable>
    </variant>
+   
+   <!--
+   ///
+   Grid Variants
+   ///
+   -->
    <variant name="gamelist-grid">
       <label>Grid</label>
-      <selectable>false</selectable>
-   </variant>
-   <variant name="gamelist-basic">
-      <label>Basic</label>
       <selectable>false</selectable>
    </variant>
 

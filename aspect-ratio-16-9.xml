@@ -1,28 +1,31 @@
 <theme>
 
+   <!--
+   ///
+   System View
+   ///
+   -->
    <view name="system">
       <image name="system-art-mask">
          <path>./_inc/images/system-art-mask-16-9.png</path>
       </image>
    </view>
 
-   <view name="gamelist">
-      <badges name="badges">
-         <size>0.3 0.4</size>
-         <itemMargin>-1 0.007029876977153</itemMargin>
-      </badges>
-   </view>
-
    <!--
    ///
-   List Variants
+   Gamelist View - List Variants
    ///
    -->
    <variant name="gamelist-list,gamelist-list-immersive,gamelist-list-no-metadata">
       <view name="gamelist">
          <badges name="badges">
             <pos>0.971870604781997 0.05</pos><!-- 1382 50 -->
+            <size>0.05 0.5</size>
+            <itemMargin>-1 0.0075</itemMargin>
          </badges>
+         <image name="gamelist-background">
+            <size>0.365682137834037 1</size><!-- 520 800 -->
+         </image>
          <image name="logo">
             <pos>0.182841068917018 0.11875</pos><!-- 260 110 -->
             <maxSize>0.29535864978903 0.1</maxSize><!-- 420 80 -->
@@ -33,123 +36,76 @@
             <lineSpacing>1.5</lineSpacing>
             <fontSize>0.036</fontSize>
          </textlist>
-         <image name="gamelist-background">
-            <size>0.365682137834037 1</size><!-- 520 800 -->
-         </image>
       </view>
    </variant>
 
-   <!-- List (Simple) & List (Immersive) -->
+   <!-- List & List (Immersive) -->
    <variant name="gamelist-list,gamelist-list-immersive">
       <view name="gamelist">
          <text name="genre">
             <pos>0.407876230661041 0.6625</pos><!-- 580 530 -->
             <size>0 0.025</size><!-- 106 20 -->
             <fontSize>0.025</fontSize><!-- 20 -->
-            <metadata>genre</metadata>
-            <defaultValue>:space:</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <color>${metadataColor}</color>
          </text>
          <text name="description">
-            <fontPath>${bodyFont}</fontPath>
-            <horizontalAlignment>left</horizontalAlignment>
-            <color>${descriptionColor}</color>
             <pos>0.407876230661041 0.7225</pos><!-- 580 578 -->
             <size>0.407876230661041 0.19375</size><!-- 580 155 -->
             <lineSpacing>1.36</lineSpacing>
             <fontSize>0.03</fontSize><!-- 24 -->
-            <metadata>description</metadata>
-            <container>true</container>
-            <containerStartDelay>6</containerStartDelay>
          </text>
          <rating name="rating">
             <pos>0.864978902953586 0.6625</pos><!-- 1230 530 -->
             <size>0 0.025</size><!-- x 20 -->
-            <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
-            <overlay>false</overlay>
-            <color>${ratingColor}</color>
          </rating>
          <image name="releasedate-icon">
             <pos>0.864978902953586 0.7125</pos><!-- 1230 570 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/icon-release-date.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
          </image>
          <datetime name="releasedate">
             <pos>0.886075949367089 0.7125</pos><!-- 1260 570 -->
             <size>0.074542897327707 0.025</size><!-- 106 25 -->
             <fontSize>0.0225</fontSize><!-- 18 -->
-            <format>%Y-%m-%d</format>
-            <metadata>releasedate</metadata>
-            <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <color>${metadataColor}</color>
          </datetime>
          <image name="players-icon">
             <pos>0.864978902953586 0.7625</pos><!-- 1230 610 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/icon-players.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
          </image>
          <text name="players">
             <pos>0.886075949367089 0.7625</pos><!-- 1260 610 -->
             <size>0.1015625 0.025</size><!-- 130 25 -->
             <fontSize>0.0225</fontSize><!-- 18 -->
-            <metadata>players</metadata>
-            <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <color>${metadataColor}</color>
          </text>
          <image name="developer-icon">
             <pos>0.864978902953586 0.8125</pos><!-- 1230 650 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/icon-developer.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
          </image>
          <text name="developer">
             <pos>0.886075949367089 0.8125</pos><!-- 1260 650 -->
             <size>0.1015625 0.025</size><!-- 130 25 -->
             <fontSize>0.0225</fontSize><!-- 18 -->
-            <metadata>developer</metadata>
-            <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <color>${metadataColor}</color>
          </text>
          <image name="publisher-icon">
             <pos>0.864978902953586 0.8625</pos><!-- 1230 690 -->
             <size>0 0.025</size><!-- x 20 -->
-            <path>./_inc/images/icon-publisher.svg</path>
-            <color>${metadataIconColor}</color>
-            <metadataElement>true</metadataElement>
          </image>
          <text name="publisher">
             <pos>0.886075949367089 0.8625</pos><!-- 1260 690 -->
             <size>0.1015625 0.025</size><!-- 130 25 -->
             <fontSize>0.0225</fontSize><!-- 18 -->
-            <metadata>publisher</metadata>
-            <defaultValue>Not Set</defaultValue>
-            <fontPath>${bodyFont}</fontPath>
-            <letterCase>capitalize</letterCase>
-            <color>${metadataColor}</color>
          </text>
       </view>
    </variant>
 
-   <!-- List (Simple) -->
+   <!-- List -->
    <variant name="gamelist-list">
       <view name="gamelist">
+         <image name="game-metadata-background">
+            <pos>0.365682137834037 0</pos><!-- 520 0 -->
+            <size>0.634317862165963 1</size><!-- 902 720-->
+         </image>
          <video name="video">
-            <origin>0.5 0.5</origin>
             <pos>0.682841068917018 0.33125</pos><!-- 971 265 -->
             <maxSize>0.562587904360056 0.5375</maxSize><!-- 802 430 -->
-            <imageType>miximage,screenshot,titlescreen,fanart,cover</imageType>
          </video>
       </view>
    </variant>
@@ -158,25 +114,20 @@
    <variant name="gamelist-list-immersive">
       <view name="gamelist">
          <image name="game-metadata-background">
-            <origin>0 0</origin>
             <pos>0.365682137834037 0.6</pos><!-- 520 480 -->
             <size>0.634317862165963 0.3375</size><!-- 902 270-->
-            <path>${spacerImage}</path>
-            <tile>true</tile>
-            <color>${gamelistListMetadataBackgroundColor}</color>
-            <zIndex>2</zIndex>
+         </image>
+         <image name="cover">
+            <pos>0.407876230661041 0.63</pos><!-- 580 504 -->
+            <maxSize>0.15625 0.25</maxSize><!-- 200 200 -->
          </image>
          <image name="marquee">
-            <origin>0.5 1</origin>
-            <pos>0.682841068917018 0.65</pos><!-- 971 510 -->
-            <maxSize>0.140646976090014 0.375</maxSize><!-- 200 300 -->
-            <imageType>marquee,cover,physicalmedia</imageType>
+            <pos>0.9609375 0.63</pos><!-- 971 504 -->
+            <maxSize>0.15625 0.25</maxSize><!-- 200 300 -->
          </image>
          <video name="video">
-            <origin>0.5 0.5</origin>
             <pos>0.682841068917018 0.165</pos><!-- 971 132 -->
             <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
-            <imageType>screenshot,fanart</imageType>
          </video>
       </view>
    </variant>
@@ -185,26 +136,13 @@
    <variant name="gamelist-list-no-metadata">
       <view name="gamelist">
          <image name="marquee">
-            <origin>0.5 0.5</origin>
             <pos>0.682841068917018 0.46875</pos><!-- 971 375 -->
             <maxSize>0.351617440225035 0.625</maxSize><!-- 500 500 -->
          </image>
          <video name="video">
-            <origin>0.5 0.5</origin>
             <pos>0.682841068917018 0.5</pos><!-- 971 400 -->
             <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
-            <imageType>screenshot</imageType>
-            <opacity>0.4</opacity>
          </video>
-         <image name="video-background">
-            <origin>0.5 0.5</origin>
-            <pos>0.682841068917018 0.5</pos><!-- 971 400 -->
-            <size>1.042194092827004 1.1725</size><!-- 1482 938 -->
-            <path>${spacerImage}</path>
-            <tile>true</tile>
-            <color>000000</color>
-            <zIndex>0</zIndex>
-         </image>
       </view>
    </variant>
 
