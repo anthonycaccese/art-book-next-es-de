@@ -3,8 +3,8 @@
    <themeName>Art Book Next</themeName>
 
    <aspectRatio>16:9</aspectRatio>
-   <!--<aspectRatio>16:10</aspectRatio>
-   <aspectRatio>4:3</aspectRatio>-->
+   <aspectRatio>16:10</aspectRatio>
+   <!--<aspectRatio>4:3</aspectRatio>-->
 
    <colorScheme name="art-book-next">
       <label>Art Book Next</label>
@@ -94,16 +94,6 @@
    <variant name="gamelist-carousel-no-metadata">
       <label>Carousel (No Metadata)</label>
       <selectable>true</selectable>
-   </variant>
-   
-   <!--
-   ///
-   Grid Variants
-   ///
-   -->
-   <variant name="gamelist-grid">
-      <label>Grid</label>
-      <selectable>false</selectable>
    </variant>
 
 </themeCapabilities>

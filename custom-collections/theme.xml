@@ -20,24 +20,21 @@
             </text>
          </view>
       </aspectRatio>
-   </variant>
-   <variant name="gamelist-carousel,gamelist-carousel-immersive,gamelist-carousel-no-metadata">
-      <aspectRatio name="16:9">
+      <aspectRatio name="16:10">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.5 0.15</pos><!-- 50% 120 -->
-               <size>0.29535864978903 0.036</size><!-- 420 80 -->
+               <pos>0.203125 0.15</pos><!-- 260 120 -->
+               <size>0.328125 0.036</size><!-- 420 80 -->
             </text>
          </view>
       </aspectRatio>
    </variant>
-   <variant name="gamelist-grid">
-      <aspectRatio name="16:9">
+   <variant name="gamelist-carousel,gamelist-carousel-immersive,gamelist-carousel-no-metadata">
+      <aspectRatio name="16:9,16:10">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.5 0.07</pos><!-- 50% 56 -->
-               <size>0.29535864978903 0.024</size><!-- 420 80 -->
-               <fontSize>0.024</fontSize>
+               <pos>0.5 0.15</pos><!-- 50% 120 -->
+               <size>0.29535864978903 0.036</size><!-- 420 80 -->
             </text>
          </view>
       </aspectRatio>

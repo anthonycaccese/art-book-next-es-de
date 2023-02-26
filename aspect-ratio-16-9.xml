@@ -245,33 +245,4 @@
       </view>
    </variant>
 
-   <!--
-   ///
-   Grid Variants
-   ///
-   -->
-   <variant name="gamelist-grid">
-      <view name="gamelist">
-         <image name="logo">
-            <maxSize>0.210970464135021 0.0375</maxSize><!-- 300 30 -->
-         </image>
-         <badges name="badges">
-            <size>0.24 0.3</size>
-            <pos>0.971870604781997 0.05</pos><!-- 1382 50 -->
-         </badges>
-         <grid name="gamelist-grid">
-            <pos>0.5 0.5275</pos><!-- 50% 422 -->
-            <size>0.917018284106892 0.37</size><!-- 1304 296 -->
-            <imageRelativeScale>.6</imageRelativeScale>
-            <itemSize>0.178621659634318 0.18</itemSize><!-- 254 144 -->
-            <itemSpacing>0.005625879043601 0.01</itemSpacing><!-- 8 8 -->
-            <fontSize>0.024</fontSize>
-         </grid>
-         <image name="gamelist-grid-background">
-            <pos>0 0.4875</pos><!-- 0 390 -->
-            <size>1 0.45</size><!-- 100% 360 -->
-         </image>
-      </view>
-   </variant>
-
 </theme>
