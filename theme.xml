@@ -246,6 +246,7 @@ license:       creative commons CC-BY-NC-SA
             <container>true</container>
             <containerStartDelay>6</containerStartDelay>
             <lineSpacing>1.5</lineSpacing>
+            <containerVerticalSnap>false</containerVerticalSnap>
          </text>
          <rating name="rating">
             <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
