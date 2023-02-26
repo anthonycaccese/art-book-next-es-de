@@ -111,6 +111,7 @@ license:       creative commons CC-BY-NC-SA
          <textColor>${systemLogoTextColor}</textColor>
          <letterCase>uppercase</letterCase>
          <fontPath>${fontLogo}</fontPath>
+         <fastScrolling>true</fastScrolling>
          <zIndex>5</zIndex>
       </carousel>
    </view>
@@ -375,6 +376,7 @@ license:       creative commons CC-BY-NC-SA
             <fontSize>0.034</fontSize>
             <letterCase>uppercase</letterCase>
             <lineSpacing>1.2</lineSpacing>
+            <fastScrolling>true</fastScrolling>
             <zIndex>3</zIndex>
          </carousel>
       </view>
