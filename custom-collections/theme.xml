@@ -15,7 +15,7 @@
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.182841068917018 0.15</pos><!-- 260 120 -->
+               <pos>0.182841068917018 0.15625</pos><!-- 260 125 -->
                <size>0.29535864978903 0.036</size><!-- 420 80 -->
             </text>
          </view>
@@ -23,7 +23,7 @@
       <aspectRatio name="16:10">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.203125 0.15</pos><!-- 260 120 -->
+               <pos>0.203125 0.15625</pos><!-- 260 125 -->
                <size>0.328125 0.036</size><!-- 420 80 -->
             </text>
          </view>
@@ -31,7 +31,7 @@
       <aspectRatio name="4:3">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.243673851921275 0.15</pos><!-- 260 120 -->
+               <pos>0.243673851921275 0.15625</pos><!-- 260 125 -->
                <size>0.393626991565136 0.036</size><!-- 420 80 -->
             </text>
          </view>
