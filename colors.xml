@@ -251,9 +251,9 @@
          <systemLogoColor>ffffff</systemLogoColor>
          <systemLogoTextColor>111111</systemLogoTextColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
-         <gamelistListLogoColor>cccccc</gamelistListLogoColor>
-         <gamelistListTextlistSelectedColor>cccccc</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistBackgroundColor>777777</gamelistListTextlistBackgroundColor>
+         <gamelistListLogoColor>ffffff</gamelistListLogoColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff22</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataBackgroundColor>dddddd</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
@@ -262,11 +262,11 @@
          <gamelistListRatingColor>00000055</gamelistListRatingColor>
          <!-- Gamelist View - Carousel Variants -->
          <gamelistCarouselLogoColor>ffffffaa</gamelistCarouselLogoColor>
-         <gamelistCarouselNoMetadataLogoColor>ffffffaa</gamelistCarouselNoMetadataLogoColor>
+         <gamelistCarouselNoMetadataLogoColor>ffffff</gamelistCarouselNoMetadataLogoColor>
          <gamelistCarouselBackgroundColor>777777</gamelistCarouselBackgroundColor>
          <gamelistCarouselMetadataBackgroundColor>aaaaaa</gamelistCarouselMetadataBackgroundColor>
          <gamelistCarouselMetadataColor>000000aa</gamelistCarouselMetadataColor>
-         <gamelistCarouselNoMetadataMetadataColor>ffffff88</gamelistCarouselNoMetadataMetadataColor>
+         <gamelistCarouselNoMetadataMetadataColor>ffffff</gamelistCarouselNoMetadataMetadataColor>
          <gamelistCarouselMetadataIconColor>00000055</gamelistCarouselMetadataIconColor>
          <gamelistCarouselDescriptionColor>000000dd</gamelistCarouselDescriptionColor>
          <gamelistCarouselRatingColor>00000055</gamelistCarouselRatingColor>
