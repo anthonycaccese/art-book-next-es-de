@@ -129,8 +129,8 @@
             <maxSize>0.15625 0.25</maxSize><!-- 200 300 -->
          </image>
          <video name="video">
-            <pos>0.703125 0.165</pos><!-- 900 132 -->
-            <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
+            <pos>0.40625 0</pos><!-- 520 0 -->
+            <cropSize>0.59375 0.6</cropSize><!-- 760 480 -->
          </video>
       </view>
    </variant>
@@ -143,8 +143,8 @@
             <maxSize>0.390625 0.625</maxSize><!-- 500 500 -->
          </image>
          <video name="video">
-            <pos>0.703125 0.5</pos><!-- 900 400 -->
-            <maxSize>1.042194092827004 1.1725</maxSize><!-- 1482 938 -->
+            <pos>0.40625 0</pos><!-- 520 0 -->
+            <cropSize>0.59375 1</cropSize><!-- 760 800 -->
          </video>
       </view>
    </variant>

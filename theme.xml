@@ -303,9 +303,6 @@ license:       creative commons CC-BY-NC-SA
             <color>${gamelistListMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
          </text>
-         <video name="video">
-            <origin>0.5 0.5</origin>
-         </video>
       </view>
    </variant>
 
@@ -313,6 +310,7 @@ license:       creative commons CC-BY-NC-SA
    <variant name="gamelist-list">
       <view name="gamelist">
          <video name="video">
+            <origin>0.5 0.5</origin>
             <imageType>miximage,screenshot,titlescreen,fanart,cover</imageType>
          </video>
       </view>
@@ -340,7 +338,6 @@ license:       creative commons CC-BY-NC-SA
    <variant name="gamelist-list-no-metadata">
       <view name="gamelist">
          <video name="video">
-            <origin>0.5 0.5</origin>
             <imageType>screenshot</imageType>
             <opacity>0.4</opacity>
             <zIndex>1</zIndex>
@@ -497,9 +494,9 @@ license:       creative commons CC-BY-NC-SA
    <variant name="gamelist-carousel">
       <view name="gamelist">
          <image name="game-artwork">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.25</pos>
-            <maxSize>1.4 2</maxSize>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <cropSize>1 0.475</cropSize>
             <imageType>screenshot,titlescreen,fanart</imageType>
             <opacity>0.4</opacity>
             <interpolation>nearest</interpolation>
@@ -513,9 +510,9 @@ license:       creative commons CC-BY-NC-SA
    <variant name="gamelist-carousel-immersive">
       <view name="gamelist">
          <video name="game-artwork">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.25</pos>
-            <maxSize>1.4 2</maxSize>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <cropSize>1 0.475</cropSize>
             <imageType>screenshot,titlescreen,fanart</imageType>
             <opacity>0.4</opacity>
             <interpolation>nearest</interpolation>
