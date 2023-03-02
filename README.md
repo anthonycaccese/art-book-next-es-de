@@ -6,73 +6,51 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 | System View | Gamelist View |
 |----|----|
-| ![Screen Shot 2022-07-21 at 12 51 34](https://user-images.githubusercontent.com/1454947/180350112-d2d1f712-3fd2-4177-8007-4e60b37118a6.png) | ![Screen Shot 2022-07-21 at 12 47 54](https://user-images.githubusercontent.com/1454947/180350136-649904ec-9563-48e7-9976-3219326e2156.png) |
+| ![Screenshot 2023-03-02 at 12 32 40 PM](https://user-images.githubusercontent.com/1454947/222508403-0d97b557-40e1-45df-b797-ba8ed1ff4247.png) | ![Screenshot 2023-03-02 at 12 33 13 PM](https://user-images.githubusercontent.com/1454947/222508431-d301835c-c3a7-47e9-b94a-90a93ed6a0e9.png) |
 
 ## **Configuration Options**
 
 - The theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE 
-   - Options:
-   - `Theme Aspect Ratio`- sets the aspect ratio the theme will render at. If needed, this should be changed to match the aspect ratio of your screen.
-   - `Theme Variant`- sets the layout used for the gamelist view when media & metadata are scraped for your games
-   - `Color`- sets the color scheme that is used for the overall theme on all views
-- 16:9, 16:10 and 4:3 aspect ratios are currently supported
-- there are 2 gamelist layouts to choose from (metadata-on & metadata-off)
-- and 4 pre-built color schemes are currently available with the option of creating your own customized color scheme through a simple XML file (details below)
+- `Theme Aspect Ratio` - sets the aspect ratio the theme will render at. If needed, this can be changed to match the aspect ratio of your screen (though it should happen automatically).
+   - 16:9, 16:10 and 4:3 are supported
+- `Theme Variant` - sets the layout used for the gamelist view when media & metadata are scraped for your games.  There are 6 variants to choose from:
+   - `List` - A simple list that displays the miximage artwork and shows all game metadata
+   - `List (Immersive)` - A simple list that displays the cover, marquee and screenshot artwork and shows all game metadata
+   - `List (No Metadata)` - A simple list that removes all gamemetadata and displays the screenshot and marquee artwork
+   - `Carousel` - a cover art focused carousel view with all game metadata
+   - `Carousel (Immersive)` - similar to the carousel variant but also displays video
+   - `Carousel (No Metadata)` - Removes all metadata and simply displays a cover artwork carousel
+- `Theme Color Scheme` - sets the color scheme that is used for the overall theme on all views.  There are 7 built in color schems to choose from:
+   - `Art Book Next` - the default color scheme.  Its an update the previous color scheme I used for Art Book in 2017
+   - `Art Book` - the original color scheme from Art Book built in 2017
+   - `Steam OS` - based on the primary colors used in Steam OS
+   - `SNES` - based on the Super Nintendo colors used in North America
+   - `Famicom` - based on the Nintendo Famicom console colors
+   - `Black` - A darker version of Art Book Next
+   - `Grayscale` - A lightended version of the theme overall
 
-### Preview of the Aspect Ratio & Layout Variants
+### Preview of the Theme Variants
 
-| Aspect Ratio | Gamelist - Metadata On | Gamelist - Metadata Off |
-|----|----|----|
-| 16:9 | ![art-book-next-16-9-metadata-on](https://user-images.githubusercontent.com/1454947/175848140-4b202408-52ba-42d8-a8c8-8cfa95d9b8fb.png) | ![art-book-next-16-9-metadata-off](https://user-images.githubusercontent.com/1454947/175848185-3a630599-e954-4dc7-8e7a-a385c97436fd.png) |
-| 16:10 | ![art-book-next-16-10-metadata-on](https://user-images.githubusercontent.com/1454947/175848326-e77272eb-4370-43a9-ae12-7d7a5a79728c.png) | ![art-book-next-16-10-metadata-off](https://user-images.githubusercontent.com/1454947/175848355-5696ed70-52a3-4bc9-9c81-0fe7e1a1a5d7.png) |
-| 4:3 | ![art-book-next-4-3-metadata-on](https://user-images.githubusercontent.com/1454947/175848384-cc4529e1-bded-417b-a823-8894fece0c38.png) | ![art-book-next-4-3-metadata-off](https://user-images.githubusercontent.com/1454947/175848424-a49ed090-f49f-456b-bb42-8e88229d0309.png) |
-
-### Preview of the pre-built Color Schemes
-
-| Color | Preview |
+| Theme Variant | Preview |
 |----|----|
-| Art Book Next  | ![art-book-next-16-9-metadata-on](https://user-images.githubusercontent.com/1454947/175848140-4b202408-52ba-42d8-a8c8-8cfa95d9b8fb.png) |
-| Art Book (based on my original theme from [2017](https://retropie.org.uk/forum/topic/11728/theme-art-book)) | ![Screen Shot 2022-07-21 at 12 11 33](https://user-images.githubusercontent.com/1454947/180265407-3ad891fd-2180-4054-8322-891bfdb20ca1.png) |
-| Steam OS (being used as the default for [RetroDeck](https://github.com/XargonWan/RetroDECK/)) | ![Screen Shot 2022-07-21 at 12 13 12](https://user-images.githubusercontent.com/1454947/180265431-719688ab-6b6b-4c68-821d-77b7a6da7c1e.png) | 
-| SNES (simply made for fun as the SNES was my first console) | ![Screen Shot 2022-07-21 at 12 12 26](https://user-images.githubusercontent.com/1454947/180265452-4a687612-d138-4e15-89bf-dc082f45f155.png) |
+| List | ![Screenshot 2023-03-02 at 12 33 29 PM](https://user-images.githubusercontent.com/1454947/222512099-89b111a5-d1e3-456b-90b8-d442cd4004ea.png) |
+| List (Immersive) | ![Screenshot 2023-03-02 at 12 33 13 PM](https://user-images.githubusercontent.com/1454947/222512152-623df201-0733-4ea5-80f2-a660941676af.png) |
+| List (No Metadata) | ![Screenshot 2023-03-02 at 12 33 36 PM](https://user-images.githubusercontent.com/1454947/222512196-246d5e3a-d3ab-483a-a69e-173fb1695f1f.png) |
+| Carousel | ![Screenshot 2023-03-02 at 12 33 45 PM](https://user-images.githubusercontent.com/1454947/222512248-08a48aac-9c4f-406d-b32c-ca491e3e8752.png) |
+| Carousel (No Metadata) | ![Screenshot 2023-03-02 at 12 33 54 PM](https://user-images.githubusercontent.com/1454947/222512311-3a9adf96-3894-444a-a6b7-b8adbb098ac8.png) |
 
-## User Customizations
-The following can be changed directly from the ES-DE menu interface under `UI Settings`
 
-### Theme Aspect Ratio... 
-Change the value in `UI Settings > Theme Aspect Ratio` to match your screen aspect ratio (default is 16-9)
-```
-Apsect Ratio Options:
-16:10
-16:9
-4:3
-```
+### Preview of the Theme Color Schemes
 
-### Theme Variant... 
-Change the value in `UI Settings > Theme Variant` to match your preferred gamelist layout (default is metadata-on)
-```
-Theme Variant Options:
-metadata-off
-metadata-on
-```
-
-### Color...
-Change the value in `UI Settings > Color` to match your preferred color scheme (default is art-book-next)
-```
-Color Options:
-art-book-next
-art-book
-snes
-steam-deck
-custom
-```
-If you change the color scheme option to `custom` then you can change values in the `color-scheme-custom.xml` file to match the colors you prefer.  I am happy to add additional colors to the pre-built list too; so if you create one that you are comfortable with sharing please post it here: https://retropie.org.uk/forum/topic/33010/theme-art-book-next
-
-## **To-Do**
-(a quick list of items I am looking to add)
-* Add 3:2 & 5:3 Aspect Ratios
-* Create and add any missing background art
-* Add the ability to provide custom background art
+| Theme Color Scheme | Preview |
+|----|----|
+| Art Book Next | ![Screenshot 2023-03-02 at 12 33 13 PM](https://user-images.githubusercontent.com/1454947/222511503-7a2b8402-5f83-4932-8f39-e1f0e60cf91f.png) |
+| Art Book (based on my original theme from [2017](https://retropie.org.uk/forum/topic/11728/theme-art-book)) | ![Screenshot 2023-03-02 at 12 34 17 PM](https://user-images.githubusercontent.com/1454947/222511554-cc4a5bab-b364-4def-9773-e240fae99485.png) |
+| Steam OS (being used as the default for [RetroDeck](https://github.com/XargonWan/RetroDECK/)) | ![Screenshot 2023-03-02 at 12 34 23 PM](https://user-images.githubusercontent.com/1454947/222511616-c6ce979a-bc81-444c-a64d-105a032694d0.png) |
+| SNES (simply made for fun as the SNES was my first console) | ![Screenshot 2023-03-02 at 12 34 28 PM](https://user-images.githubusercontent.com/1454947/222511713-247ad1a2-6a5b-4952-a9bd-730e830cad37.png) |
+| Famicom | ![Screenshot 2023-03-02 at 12 34 34 PM](https://user-images.githubusercontent.com/1454947/222511749-d8f7e610-53da-4210-994f-2a1c8aad91c4.png) |
+| Black | ![Screenshot 2023-03-02 at 12 34 39 PM](https://user-images.githubusercontent.com/1454947/222511766-3583a8ac-64b3-4b35-9bc2-5e392ef34846.png) |
+| Grayscale | ![Screenshot 2023-03-02 at 12 34 46 PM](https://user-images.githubusercontent.com/1454947/222511794-65c863d0-a006-459e-9980-9a83c39f4e4e.png) |
 
 ## **Additional Notes**
 
@@ -86,7 +64,6 @@ If you change the color scheme option to `custom` then you can change values in 
    * Box Cover Images
    * Marquee (Wheel) Images
 * Other media is optional and will be used in cases where one of the above is missing (for example Title Screen images will be used if screenshots are missing)
-* This theme does not display miximages so if you have those scraped they will not be used.
 
 ### Versions for other ES forks:
 * If you use Retropie or ES-DE v1.x or eariler... then check out the version [here](https://github.com/anthonycaccese/art-book-next-retropie).
