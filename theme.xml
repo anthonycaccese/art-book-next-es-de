@@ -367,6 +367,8 @@ license:       creative commons CC-BY-NC-SA
             <type>horizontal</type>
             <imageType>cover</imageType>
             <imageInterpolation>linear</imageInterpolation>
+            <unfocusedItemOpacity>1</unfocusedItemOpacity>
+            <unfocusedItemDimming>0.6</unfocusedItemDimming>
             <color>00000000</color>
             <textColor>ffffff</textColor>
             <textBackgroundColor>000000</textBackgroundColor>
@@ -394,7 +396,6 @@ license:       creative commons CC-BY-NC-SA
          <carousel name="gamelist-carousel">
             <itemScale>1.5</itemScale>
             <pos>0 0.2625</pos><!-- 0 210 -->
-            <unfocusedItemOpacity>0.8</unfocusedItemOpacity>
          </carousel>
          <rating name="rating">
             <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
@@ -537,7 +538,6 @@ license:       creative commons CC-BY-NC-SA
          <carousel name="gamelist-carousel">
             <itemScale>1.2</itemScale>
             <pos>0 0.2</pos><!-- 0 210 -->
-            <unfocusedItemOpacity>0.4</unfocusedItemOpacity>
          </carousel>
          <text name="name">
             <pos>0 0.8</pos>
