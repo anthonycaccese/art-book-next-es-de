@@ -399,7 +399,7 @@ license:       creative commons CC-BY-NC-SA
          </carousel>
          <rating name="rating">
             <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
-            <unfilledPath>./_inc/images/icons/icon-star-unfilled.svg</unfilledPath>
+            <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
             <overlay>false</overlay>
             <color>${gamelistCarouselRatingColor}</color>
          </rating>
