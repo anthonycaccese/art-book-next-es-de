@@ -61,7 +61,7 @@ license:       creative commons CC-BY-NC-SA
       <image name="system-art-fallback">
          <origin>0.5 0.5</origin>
          <pos>0.5 0.5</pos>
-         <size>0 1</size>
+         <cropSize>1 1</cropSize>
          <imageType>screenshot,fanart</imageType>
          <gameselector>selector_random</gameselector>
          <interpolation>nearest</interpolation>
