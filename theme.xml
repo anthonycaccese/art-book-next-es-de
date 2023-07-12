@@ -52,13 +52,13 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <view name="system">
-      <gameselector name="selector_random">
+      <!--<gameselector name="selector_random">
          <selection>random</selection>
-      </gameselector>
+      </gameselector>-->
       <image name="background">
          <color>${systemBackgroundColor}</color>
       </image>
-      <image name="system-art-fallback">
+      <!--<image name="system-art-fallback">
          <origin>0.5 0.5</origin>
          <pos>0.5 0.5</pos>
          <cropSize>1 1</cropSize>
@@ -68,11 +68,12 @@ license:       creative commons CC-BY-NC-SA
          <saturation>${systemArtSaturation}</saturation>
          <color>${systemArtColor}</color>
          <zIndex>1</zIndex>
-      </image>
+      </image>-->
       <image name="system-art">
          <origin>0.5 0.5</origin>
          <pos>0.5 0.5</pos>
          <size>0 1</size>
+         <default>./_inc/systems/_default.png</default>
          <path>./_inc/systems/${system.theme}.png</path>
          <interpolation>linear</interpolation>
          <saturation>${systemArtSaturation}</saturation>
