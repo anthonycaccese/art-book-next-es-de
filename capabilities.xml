@@ -49,35 +49,100 @@
    List Variants
    ///
    -->
-   <variant name="gamelist-list">
-      <label>List</label>
+   <!-- System View - Centered Art -->
+   <variant name="system-centered-gamelist-list">
+      <label>Centered Art + List</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
          <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
-         <useVariant>gamelist-list-basic</useVariant>
+         <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <variant name="gamelist-list-immersive">
-      <label>List (Immersive)</label>
+   <variant name="system-centered-gamelist-list-immersive">
+      <label>Centered Art + List (Immersive)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
          <mediaType>screenshot,fanart</mediaType>
-         <useVariant>gamelist-list-basic</useVariant>
+         <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <variant name="gamelist-list-no-metadata">
-      <label>List (No Metadata)</label>
+   <variant name="system-centered-gamelist-list-no-metadata">
+      <label>Centered Art + List (No Metadata)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
          <mediaType>screenshot</mediaType>
-         <useVariant>gamelist-list-basic</useVariant>
+         <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <variant name="gamelist-list-basic">
-      <label>List (Basic)</label>
+   <variant name="system-centered-gamelist-list-basic">
+      <label>Centered Art + List (Basic)</label>
+      <selectable>false</selectable>
+   </variant>
+   <!-- System View - Multi Art -->
+   <variant name="system-multi-gamelist-list">
+      <label>Multi Art + List</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <useVariant>system-multi-gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <variant name="system-multi-gamelist-list-immersive">
+      <label>Multi Art + List (Immersive)</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot,fanart</mediaType>
+         <useVariant>system-multi-gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <variant name="system-multi-gamelist-list-no-metadata">
+      <label>Multi Art + List (No Metadata)</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
+         <useVariant>system-multi-gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <variant name="system-multi-gamelist-list-basic">
+      <label>Multi Art + List (Basic)</label>
+      <selectable>false</selectable>
+   </variant>
+   <!-- System View - No Art -->
+   <variant name="system-basic-gamelist-list">
+      <label>No Art + List</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <useVariant>system-basic-gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <variant name="system-basic-gamelist-list-immersive">
+      <label>No Art + List (Immersive)</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot,fanart</mediaType>
+         <useVariant>system-basic-gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <variant name="system-basic-gamelist-list-no-metadata">
+      <label>No Art + List (No Metadata)</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
+         <useVariant>system-basic-gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <variant name="system-basic-gamelist-list-basic">
+      <label>No Art + List (Basic)</label>
       <selectable>false</selectable>
    </variant>
 

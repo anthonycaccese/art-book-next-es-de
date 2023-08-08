@@ -52,70 +52,107 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <view name="system">
-      <!--<gameselector name="selector_random">
-         <selection>random</selection>
-      </gameselector>-->
       <image name="background">
          <color>${systemBackgroundColor}</color>
-      </image>
-      <!--<image name="system-art-fallback">
-         <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <cropSize>1 1</cropSize>
-         <imageType>screenshot,fanart</imageType>
-         <gameselector>selector_random</gameselector>
-         <interpolation>nearest</interpolation>
-         <saturation>${systemArtSaturation}</saturation>
-         <color>${systemArtColor}</color>
-         <zIndex>1</zIndex>
-      </image>-->
-      <image name="system-art">
-         <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <size>0 1</size>
-         <default>./_inc/systems/_default.png</default>
-         <path>./_inc/systems/${system.theme}.png</path>
-         <interpolation>linear</interpolation>
-         <saturation>${systemArtSaturation}</saturation>
-         <color>${systemArtColor}</color>
-         <zIndex>2</zIndex>
-      </image>
-      <image name="system-art-fade">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>
-         <path>${spacerImage}</path>
-         <tile>true</tile>
-         <color>${systemArtFade}</color>
-         <zIndex>3</zIndex>
-      </image>
-      <image name="system-art-mask">
-         <origin>0.5 0</origin>
-         <pos>0.5 0</pos>
-         <size>0 1</size>
-         <color>${systemMaskColor}</color>
-         <zIndex>4</zIndex>
       </image>
       <carousel name="system-carousel">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
          <color>00000000</color>
-         <staticImage>./_inc/systems/${system.theme}.svg</staticImage>
-         <imageColor>${systemLogoColor}</imageColor>
-         <itemScale>2</itemScale>
-         <itemSize>0.25 0.15</itemSize>
          <itemTransitions>animate</itemTransitions>
-         <maxItemCount>2</maxItemCount>
          <itemVerticalAlignment>center</itemVerticalAlignment>
-         <text>${system.fullName}</text>
-         <textColor>${systemLogoTextColor}</textColor>
-         <letterCase>uppercase</letterCase>
-         <fontPath>${fontLogo}</fontPath>
          <fastScrolling>true</fastScrolling>
-         <zIndex>5</zIndex>
       </carousel>
    </view>
+
+   <!--
+   ///
+   System View - Variants
+   ///
+   -->
+   <!-- Centered Art -->
+   <variant name="system-centered-gamelist-list-basic,system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata">
+      <view name="system">
+         <image name="system-art">
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.5</pos>
+            <size>0 1</size>
+            <default>./_inc/systems/_default.png</default>
+            <path>./_inc/systems/${system.theme}.png</path>
+            <interpolation>linear</interpolation>
+            <saturation>${systemArtSaturation}</saturation>
+            <color>${systemArtColor}</color>
+            <zIndex>2</zIndex>
+         </image>
+         <image name="system-art-fade">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>${spacerImage}</path>
+            <tile>true</tile>
+            <color>${systemArtFade}</color>
+            <zIndex>3</zIndex>
+         </image>
+         <image name="system-art-mask">
+            <origin>0.5 0</origin>
+            <pos>0.5 0</pos>
+            <size>0 1</size>
+            <color>${systemMaskColor}</color>
+            <zIndex>4</zIndex>
+         </image>
+         <carousel name="system-carousel">
+            <staticImage>./_inc/systems/${system.theme}.svg</staticImage>
+            <imageColor>${systemLogoColor}</imageColor>
+            <itemScale>2</itemScale>
+            <itemSize>0.25 0.15</itemSize>
+            <maxItemCount>2</maxItemCount>
+            <text>${system.fullName}</text>
+            <textColor>${systemLogoTextColor}</textColor>
+            <letterCase>uppercase</letterCase>
+            <fontPath>${fontLogo}</fontPath>
+            <zIndex>5</zIndex>
+         </carousel>
+      </view>
+   </variant>
+   <!-- Multi Art -->
+   <variant name="system-multi-gamelist-list-basic,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata">
+      <view name="system">
+         <carousel name="system-carousel">
+            <staticImage>./_inc/systems/${system.theme}.png</staticImage>
+            <imageColor>${systemArtColor}</imageColor>
+            <imageSaturation>${systemArtSaturation}</imageSaturation>
+            <itemScale>1</itemScale>
+            <itemSize>1 1</itemSize>
+            <textColor>00000000</textColor>
+            <zIndex>1</zIndex>
+         </carousel>
+         <image name="system-logo">
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.5</pos>
+            <maxSize>0.5 0.3</maxSize>
+            <path>./_inc/systems/${system.theme}.svg</path>
+            <color>${systemLogoColor}</color>
+            <zIndex>2</zIndex>
+         </image>
+      </view>
+   </variant>
+   <!-- No Art -->
+   <variant name="system-basic-gamelist-list-basic,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
+      <view name="system">
+         <carousel name="system-carousel">
+            <staticImage>./_inc/systems/${system.theme}.svg</staticImage>
+            <imageColor>${systemLogoColor}</imageColor>
+            <itemScale>2</itemScale>
+            <itemSize>0.25 0.15</itemSize>
+            <maxItemCount>2</maxItemCount>
+            <text>${system.fullName}</text>
+            <textColor>${systemLogoTextColor}</textColor>
+            <letterCase>uppercase</letterCase>
+            <fontPath>${fontLogo}</fontPath>
+         </carousel>
+      </view>
+   </variant>
 
    <!--
    ///
@@ -154,7 +191,7 @@ license:       creative commons CC-BY-NC-SA
    Gamelist View - List Variants
    ///
    -->
-   <variant name="gamelist-list-basic,gamelist-list,gamelist-list-immersive,gamelist-list-no-metadata">
+   <variant name="system-centered-gamelist-list-basic,system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-multi-gamelist-list-basic,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list-basic,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
       <view name="gamelist">
          <image name="background">
             <color>${backgroundColor}</color>
@@ -192,7 +229,7 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <!-- List (Basic) -->
-   <variant name="gamelist-list-basic">
+   <variant name="system-centered-gamelist-list-basic,system-multi-gamelist-list-basic,system-basic-gamelist-list-basic">
       <view name="gamelist">
          <image name="gamelist-background">
             <size>1 1</size>
@@ -211,7 +248,7 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <!-- List, List (Immersive) & List (No Metadata) -->
-   <variant name="gamelist-list,gamelist-list-immersive,gamelist-list-no-metadata">
+   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
       <view name="gamelist">
          <video name="video">
             <delay>3</delay>
@@ -222,7 +259,7 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <!-- List, List (Immersive) -->
-   <variant name="gamelist-list,gamelist-list-immersive">
+   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-basic-gamelist-list,system-basic-gamelist-list-immersive">
       <view name="gamelist">
          <image name="game-metadata-background">
             <origin>0 0</origin>
@@ -309,7 +346,7 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <!-- List -->
-   <variant name="gamelist-list">
+   <variant name="system-centered-gamelist-list,system-multi-gamelist-list,system-basic-gamelist-list">
       <view name="gamelist">
          <video name="video">
             <origin>0.5 0.5</origin>
@@ -319,7 +356,7 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <!-- List (Immersive) -->
-   <variant name="gamelist-list-immersive">
+   <variant name="system-centered-gamelist-list-immersive,system-multi-gamelist-list-immersive,system-basic-gamelist-list-immersive">
       <view name="gamelist">
          <video name="video">
             <imageType>screenshot,fanart</imageType>
@@ -337,7 +374,7 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <!-- List (No Metadata) -->
-   <variant name="gamelist-list-no-metadata">
+   <variant name="system-centered-gamelist-list-no-metadata,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list-no-metadata">
       <view name="gamelist">
          <video name="video">
             <imageType>screenshot</imageType>

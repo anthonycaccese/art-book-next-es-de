@@ -11,7 +11,7 @@
          <lineSpacing>1</lineSpacing>
       </text>
    </view>
-   <variant name="gamelist-list,gamelist-list-immersive,gamelist-list-no-metadata">
+   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">

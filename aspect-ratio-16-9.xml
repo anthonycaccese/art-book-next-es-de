@@ -11,18 +11,29 @@
    System View
    ///
    -->
-   <view name="system">
-      <image name="system-art-mask">
-         <path>./_inc/images/system-art-mask-16-9.png</path>
-      </image>
-   </view>
+   <!-- Centered Art -->
+   <variant name="system-centered-gamelist-list-basic,system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata">
+      <view name="system">
+         <image name="system-art-mask">
+            <path>./_inc/images/system-art-mask-16-9.png</path>
+         </image>
+      </view>
+   </variant>
+   <!-- Multi Art -->
+   <variant name="system-multi-gamelist-list-basic,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata">
+      <view name="system">
+         <carousel name="system-carousel">
+            <maxItemCount>5.5</maxItemCount>
+         </carousel>
+      </view>
+   </variant>
 
    <!--
    ///
    Gamelist View - List Variants
    ///
    -->
-   <variant name="gamelist-list,gamelist-list-immersive,gamelist-list-no-metadata">
+   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
       <view name="gamelist">
          <badges name="badges">
             <pos>0.971870604781997 0.05</pos><!-- 1382 50 -->
@@ -44,7 +55,7 @@
    </variant>
 
    <!-- List & List (Immersive) -->
-   <variant name="gamelist-list,gamelist-list-immersive">
+   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-basic-gamelist-list,system-basic-gamelist-list-immersive">
       <view name="gamelist">
          <text name="genre">
             <pos>0.407876230661041 0.6625</pos><!-- 580 530 -->
@@ -100,7 +111,7 @@
    </variant>
 
    <!-- List -->
-   <variant name="gamelist-list">
+   <variant name="system-centered-gamelist-list,system-multi-gamelist-list,system-basic-gamelist-list">
       <view name="gamelist">
          <image name="game-metadata-background">
             <pos>0.365682137834037 0</pos><!-- 520 0 -->
@@ -114,7 +125,7 @@
    </variant>
 
    <!-- List (Immersive) -->
-   <variant name="gamelist-list-immersive">
+   <variant name="system-centered-gamelist-list-immersive,system-multi-gamelist-list-immersive,system-basic-gamelist-list-immersive">
       <view name="gamelist">
          <image name="game-metadata-background">
             <pos>0.365682137834037 0.6</pos><!-- 520 480 -->
@@ -136,7 +147,7 @@
    </variant>
 
    <!-- List (No Metadata) -->
-   <variant name="gamelist-list-no-metadata">
+   <variant name="system-centered-gamelist-list-no-metadata,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list-no-metadata">
       <view name="gamelist">
          <image name="marquee">
             <pos>0.682841068917018 0.46875</pos><!-- 971 375 -->
