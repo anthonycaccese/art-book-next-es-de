@@ -37,7 +37,7 @@
          </view>
       </aspectRatio>
    </variant>
-   <variant name="gamelist-carousel,gamelist-carousel-immersive,gamelist-carousel-no-metadata">
+   <variant name="system-centered-gamelist-carousel,system-centered-gamelist-carousel-immersive,system-centered-gamelist-carousel-no-metadata,system-multi-gamelist-carousel,system-multi-gamelist-carousel-immersive,system-multi-gamelist-carousel-no-metadata,system-basic-gamelist-carousel,system-basic-gamelist-carousel-immersive,system-basic-gamelist-carousel-no-metadata">
       <aspectRatio name="16:9,16:10,4:3">
          <view name="gamelist">
             <text name="custom-collection-name">

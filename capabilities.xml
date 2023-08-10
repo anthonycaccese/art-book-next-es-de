@@ -46,7 +46,7 @@
 
    <!--
    ///
-   List Variants
+   Variants
    ///
    -->
    <!-- System View - Centered Art -->
@@ -81,6 +81,20 @@
       <label>Centered Art + List (Basic)</label>
       <selectable>false</selectable>
    </variant>
+   <!-- System View - Centered Art -->
+   <variant name="system-centered-gamelist-carousel">
+      <label>Centered Art + Carousel</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="system-centered-gamelist-carousel-immersive">
+      <label>Centered Art + Carousel (Immersive)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="system-centered-gamelist-carousel-no-metadata">
+      <label>Centered Art + Carousel (No Metadata)</label>
+      <selectable>true</selectable>
+   </variant>
+
    <!-- System View - Multi Art -->
    <variant name="system-multi-gamelist-list">
       <label>Multi Art + List</label>
@@ -113,6 +127,20 @@
       <label>Multi Art + List (Basic)</label>
       <selectable>false</selectable>
    </variant>
+   <!-- System View - Multi Art -->
+   <variant name="system-multi-gamelist-carousel">
+      <label>Multi Art + Carousel</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="system-multi-gamelist-carousel-immersive">
+      <label>Multi Art + Carousel (Immersive)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="system-multi-gamelist-carousel-no-metadata">
+      <label>Multi Art + Carousel (No Metadata)</label>
+      <selectable>true</selectable>
+   </variant>
+
    <!-- System View - No Art -->
    <variant name="system-basic-gamelist-list">
       <label>No Art + List</label>
@@ -145,22 +173,17 @@
       <label>No Art + List (Basic)</label>
       <selectable>false</selectable>
    </variant>
-
-   <!--
-   ///
-   Carousel Variants
-   ///
-   -->
-   <variant name="gamelist-carousel">
-      <label>Carousel</label>
+   <!-- System View - No Art -->
+   <variant name="system-basic-gamelist-carousel">
+      <label>No Art + Carousel</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="gamelist-carousel-immersive">
-      <label>Carousel (Immersive)</label>
+   <variant name="system-basic-gamelist-carousel-immersive">
+      <label>No Art + Carousel (Immersive)</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="gamelist-carousel-no-metadata">
-      <label>Carousel (No Metadata)</label>
+   <variant name="system-basic-gamelist-carousel-no-metadata">
+      <label>No Art + Carousel (No Metadata)</label>
       <selectable>true</selectable>
    </variant>
 

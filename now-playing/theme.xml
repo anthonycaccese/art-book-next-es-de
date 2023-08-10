@@ -1,11 +1,3 @@
 <theme>
    <include>./../theme.xml</include>
-   <view name="system">
-      <gameselector name="selector_lastplayed">
-         <selection>lastplayed</selection>
-      </gameselector>
-   	<image name="system-art-fallback">
-         <gameselector>selector_lastplayed</gameselector>
-   	</image>
-   </view>
 </theme>
