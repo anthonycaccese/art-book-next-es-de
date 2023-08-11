@@ -64,7 +64,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot,fanart</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -73,7 +73,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -156,7 +156,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot,fanart</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
          <useVariant>system-basic-gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -165,7 +165,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
          <useVariant>system-basic-gamelist-list-basic</useVariant>
       </override>
    </variant>
