@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 816 96"
+   style="enable-background:new 0 0 816 96"
+   xml:space="preserve"
+   version="1.1"
+   id="svg171"
+   sodipodi:docname="lowresnx.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs175"><inkscape:path-effect
+     effect="powerclip"
+     id="path-effect925"
+     is_visible="true"
+     lpeversion="1"
+     inverse="true"
+     flatten="false"
+     hide_clip="false"
+     message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." /><clipPath
+     clipPathUnits="userSpaceOnUse"
+     id="clipPath919"><g
+       id="g923"
+       style="display:none">
+      <path
+   class="st2"
+   d="M 684,12 V 36 L 660,12 h -24 v 72 h 24 V 48 l 24,24 v 12 h 24 V 12 Z m 120,0 H 780 L 768.1,24 756,12 h -24 v 12 l 18,18 -18,18 v 24 h 24 V 65.9 L 768,54 780,65.9 V 84 h 24 V 60 L 786,42 804,24 Z"
+   id="path921" />
+    </g><path
+       id="lpe_path-effect925"
+       class="powerclip"
+       d="M 619,-5 H 821 V 101 H 619 Z m 65,17 V 36 L 660,12 h -24 v 72 h 24 V 48 l 24,24 v 12 h 24 V 12 Z m 120,0 H 780 L 768.1,24 756,12 h -24 v 12 l 18,18 -18,18 v 24 h 24 V 65.9 L 768,54 780,65.9 V 84 h 24 V 60 L 786,42 804,24 Z" /></clipPath></defs><sodipodi:namedview
+   id="namedview173"
+   pagecolor="#ffffff"
+   bordercolor="#111111"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.6948529"
+   inkscape:cx="406.52495"
+   inkscape:cy="47.791757"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+  <style
+   id="style153">
+    .st2{fill:#222}
+  </style>
+  <g
+   id="Layer_2">
+    <path
+   id="path155"
+   style="fill:#fff"
+   d="M 0 0 L 0 96 L 222 96 L 240 78 L 258 96 L 558 96 L 576 78 L 576 0 L 498 0 L 480 18 L 480 0 L 384 0 L 384 18 L 366 0 L 192.09961 0 L 192 18 L 174.09961 0 L 114 0 L 96 18 L 96 60 L 72 60 L 72 24 L 48 0 L 0 0 z M 12 12 L 36 12 L 36 72 L 84 72 L 84 84 L 12 84 L 12 12 z M 120 12 L 168 12 L 180 24 L 180 72 L 168 84 L 120 84 L 108 72 L 108 24 L 120 12 z M 204 12 L 228 12 L 228 48 L 240.09961 35.900391 L 252 47.900391 L 252 12 L 276 12 L 276 84 L 264 84 L 240 60 L 216 84 L 204 84 L 204 12 z M 300 12 L 360 12 L 372 24 L 372 36 L 360 48 L 348 48 L 372 72 L 372 84 L 354 84 L 324 54 L 324 84 L 300 84 L 300 12 z M 396 12 L 468 12 L 468 24 L 420 24 L 420 36 L 444 36 L 444 48 L 420 48 L 420 72 L 468 72 L 468 84 L 396 84 L 396 12 z M 504 12 L 564 12 L 564 24 L 516 24 L 516 36 L 552 36 L 564 48 L 564 72 L 552 84 L 492 84 L 492 72 L 540 72 L 540 48 L 504 48 L 492 36 L 492 24 L 504 12 z M 132 24 L 132 72 L 156 72 L 156 24 L 132 24 z M 324 24 L 324 36 L 348 36 L 348 24 L 324 24 z " />
+    <linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="720"
+   y1="0"
+   x2="720"
+   y2="96">
+      <stop
+   offset="0"
+   style="stop-color:#f80"
+   id="stop157" />
+      <stop
+   offset="1"
+   style="stop-color:#f50"
+   id="stop159" />
+    </linearGradient>
+    <path
+   style="fill:#ffffff;fill-opacity:1"
+   d="M 816,0 H 624 V 96 H 816 V 54 L 804,42 816,30 Z"
+   id="path162"
+   clip-path="url(#clipPath919)"
+   inkscape:path-effect="#path-effect925"
+   inkscape:original-d="M816 0H624v96h192V54l-12-12 12-12z" />
+    
+    
+  </g>
+</svg>

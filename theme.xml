@@ -78,8 +78,8 @@ license:       creative commons CC-BY-NC-SA
             <origin>0.5 0.5</origin>
             <pos>0.5 0.5</pos>
             <size>0 1</size>
-            <default>./_inc/systems/_default.png</default>
-            <path>./_inc/systems/${system.theme}.png</path>
+            <default>./_inc/systems/artwork/_default.png</default>
+            <path>./_inc/systems/artwork/${system.theme}.png</path>
             <interpolation>linear</interpolation>
             <saturation>${systemArtSaturation}</saturation>
             <color>${systemArtColor}</color>
@@ -102,7 +102,7 @@ license:       creative commons CC-BY-NC-SA
             <zIndex>4</zIndex>
          </image>
          <carousel name="system-carousel">
-            <staticImage>./_inc/systems/${system.theme}.svg</staticImage>
+            <staticImage>./_inc/systems/logos/${system.theme}.svg</staticImage>
             <imageColor>${systemLogoColor}</imageColor>
             <itemScale>2</itemScale>
             <itemSize>0.25 0.15</itemSize>
@@ -122,8 +122,8 @@ license:       creative commons CC-BY-NC-SA
             <color>000000</color>
          </image>
          <carousel name="system-carousel">
-            <defaultImage>./_inc/systems/_default.png</defaultImage>
-            <staticImage>./_inc/systems/${system.theme}.png</staticImage>
+            <defaultImage>./_inc/systems/artwork/_default.png</defaultImage>
+            <staticImage>./_inc/systems/artwork/${system.theme}.png</staticImage>
             <imageColor>${systemArtColor}cc</imageColor>
             <imageSaturation>${systemArtSaturation}</imageSaturation>
             <itemScale>1</itemScale>
@@ -135,7 +135,7 @@ license:       creative commons CC-BY-NC-SA
             <origin>0.5 0.5</origin>
             <pos>0.5 0.5</pos>
             <maxSize>0.5 0.3</maxSize>
-            <path>./_inc/systems/${system.theme}.svg</path>
+            <path>./_inc/systems/logos/${system.theme}.svg</path>
             <color>${systemLogoColor}</color>
             <zIndex>2</zIndex>
          </image>
@@ -145,7 +145,7 @@ license:       creative commons CC-BY-NC-SA
    <variant name="system-basic-gamelist-list-basic,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata,system-basic-gamelist-carousel,system-basic-gamelist-carousel-immersive,system-basic-gamelist-carousel-no-metadata">
       <view name="system">
          <carousel name="system-carousel">
-            <staticImage>./_inc/systems/${system.theme}.svg</staticImage>
+            <staticImage>./_inc/systems/logos/${system.theme}.svg</staticImage>
             <imageColor>${systemLogoColor}</imageColor>
             <itemScale>2</itemScale>
             <itemSize>0.25 0.15</itemSize>
@@ -166,7 +166,7 @@ license:       creative commons CC-BY-NC-SA
    <view name="gamelist">
       <image name="logo">
          <origin>0.5 0.5</origin>
-         <path>./_inc/systems/${system.theme}.svg</path>
+         <path>./_inc/systems/logos/${system.theme}.svg</path>
          <zIndex>5</zIndex>
       </image>
       <badges name="badges">
