@@ -8,11 +8,19 @@
 
    <!--
    ///
-   System View
+   System View - Variants
    ///
    -->
    <!-- Centered Art -->
-   <variant name="system-centered-gamelist-list-basic,system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-centered-gamelist-carousel,system-centered-gamelist-carousel-immersive,system-centered-gamelist-carousel-no-metadata">
+   <variant name="
+      system-centered-gamelist-list-basic,
+      system-centered-gamelist-list,
+      system-centered-gamelist-list-immersive,
+      system-centered-gamelist-list-no-metadata,
+      system-centered-gamelist-carousel,
+      system-centered-gamelist-carousel-immersive,
+      system-centered-gamelist-carousel-no-metadata
+      ">
       <view name="system">
          <image name="system-art-mask">
             <path>./_inc/images/system-art-mask-4-3.png</path>
@@ -20,7 +28,15 @@
       </view>
    </variant>
    <!-- Multi Art -->
-   <variant name="system-multi-gamelist-list-basic,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-multi-gamelist-carousel,system-multi-gamelist-carousel-immersive,system-multi-gamelist-carousel-no-metadata">
+   <variant name="
+      system-multi-gamelist-list-basic,
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-carousel,
+      system-multi-gamelist-carousel-immersive,
+      system-multi-gamelist-carousel-no-metadata
+      ">
       <view name="system">
          <carousel name="system-carousel">
             <maxItemCount>4.15</maxItemCount>
@@ -33,7 +49,14 @@
    Gamelist View - List Variants
    ///
    -->
-   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
+   <variant name="
+      system-centered-gamelist-list,
+      system-centered-gamelist-list-immersive,
+      system-centered-gamelist-list-no-metadata,
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-no-metadata
+      ">
       <view name="gamelist">
          <badges name="badges">
             <pos>0.962511715089035 0.05</pos><!-- 1017 50 -->
@@ -55,7 +78,12 @@
    </variant>
 
    <!-- List & List (Immersive) -->
-   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-basic-gamelist-list,system-basic-gamelist-list-immersive">
+   <variant name="
+      system-centered-gamelist-list,
+      system-centered-gamelist-list-immersive,
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-immersive
+      ">
       <view name="gamelist">
          <text name="genre">
             <pos>0.543580131208997 0.5375</pos><!-- 580 430 -->
@@ -109,9 +137,12 @@
          </text>
       </view>
    </variant>
-
+   
    <!-- List -->
-   <variant name="system-centered-gamelist-list,system-multi-gamelist-list,system-basic-gamelist-list">
+   <variant name="
+      system-centered-gamelist-list,
+      system-multi-gamelist-list
+      ">
       <view name="gamelist">
          <image name="game-metadata-background">
             <pos>0.487347703842549 0</pos><!-- 520 0 -->
@@ -125,7 +156,10 @@
    </variant>
 
    <!-- List (Immersive) -->
-   <variant name="system-centered-gamelist-list-immersive,system-multi-gamelist-list-immersive,system-basic-gamelist-list-immersive">
+   <variant name="
+      system-centered-gamelist-list-immersive,
+      system-multi-gamelist-list-immersive
+      ">
       <view name="gamelist">
          <image name="game-metadata-background">
             <pos>0.487347703842549 0.485</pos><!-- 520 388 -->
@@ -147,7 +181,10 @@
    </variant>
 
    <!-- List (No Metadata) -->
-   <variant name="system-centered-gamelist-list-no-metadata,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list-no-metadata">
+   <variant name="
+      system-centered-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata
+      ">
       <view name="gamelist">
          <image name="marquee">
             <pos>0.743673851921275 0.46875</pos><!-- 793.5 375 -->
@@ -165,7 +202,14 @@
    Carousel Variants
    ///
    -->
-   <variant name="system-centered-gamelist-carousel,system-centered-gamelist-carousel-immersive,system-centered-gamelist-carousel-no-metadata,system-multi-gamelist-carousel,system-multi-gamelist-carousel-immersive,system-multi-gamelist-carousel-no-metadata,system-basic-gamelist-carousel,system-basic-gamelist-carousel-immersive,system-basic-gamelist-carousel-no-metadata">
+   <variant name="
+      system-centered-gamelist-carousel,
+      system-centered-gamelist-carousel-immersive,
+      system-centered-gamelist-carousel-no-metadata,
+      system-multi-gamelist-carousel,
+      system-multi-gamelist-carousel-immersive,
+      system-multi-gamelist-carousel-no-metadata
+      ">
       <view name="gamelist">
          <image name="logo">
             <maxSize>0.210970464135021 0.075</maxSize><!-- 300 60 -->
@@ -177,7 +221,10 @@
    </variant>
 
    <!-- Carousel (No Metadata) -->
-   <variant name="system-centered-gamelist-carousel-no-metadata,system-multi-gamelist-carousel-no-metadata,system-basic-gamelist-carousel-no-metadata">
+   <variant name="
+      system-centered-gamelist-carousel-no-metadata,
+      system-multi-gamelist-carousel-no-metadata
+      ">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <size>1 0.5625</size>
@@ -188,7 +235,12 @@
    </variant>
 
    <!-- Carousel & Carousel Immersive -->
-   <variant name="system-centered-gamelist-carousel,system-centered-gamelist-carousel-immersive,system-multi-gamelist-carousel,system-multi-gamelist-carousel-immersive,system-basic-gamelist-carousel,system-basic-gamelist-carousel-immersive">
+   <variant name="
+      system-centered-gamelist-carousel,
+      system-centered-gamelist-carousel-immersive,
+      system-multi-gamelist-carousel,
+      system-multi-gamelist-carousel-immersive
+      ">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
             <size>1 0.375</size>

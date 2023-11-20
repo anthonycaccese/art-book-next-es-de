@@ -11,7 +11,14 @@
          <lineSpacing>1</lineSpacing>
       </text>
    </view>
-   <variant name="system-centered-gamelist-list,system-centered-gamelist-list-immersive,system-centered-gamelist-list-no-metadata,system-multi-gamelist-list,system-multi-gamelist-list-immersive,system-multi-gamelist-list-no-metadata,system-basic-gamelist-list,system-basic-gamelist-list-immersive,system-basic-gamelist-list-no-metadata">
+   <variant name="
+      system-centered-gamelist-list,
+      system-centered-gamelist-list-immersive,
+      system-centered-gamelist-list-no-metadata,
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-no-metadata
+      ">
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
@@ -37,7 +44,14 @@
          </view>
       </aspectRatio>
    </variant>
-   <variant name="system-centered-gamelist-carousel,system-centered-gamelist-carousel-immersive,system-centered-gamelist-carousel-no-metadata,system-multi-gamelist-carousel,system-multi-gamelist-carousel-immersive,system-multi-gamelist-carousel-no-metadata,system-basic-gamelist-carousel,system-basic-gamelist-carousel-immersive,system-basic-gamelist-carousel-no-metadata">
+   <variant name="
+      system-centered-gamelist-carousel,
+      system-centered-gamelist-carousel-immersive,
+      system-centered-gamelist-carousel-no-metadata,
+      system-multi-gamelist-carousel,
+      system-multi-gamelist-carousel-immersive,
+      system-multi-gamelist-carousel-no-metadata
+      ">
       <aspectRatio name="16:9,16:10,4:3">
          <view name="gamelist">
             <text name="custom-collection-name">
