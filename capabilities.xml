@@ -49,7 +49,7 @@
    Variants
    ///
    -->
-   <!-- System View - Multi Art -->
+   <!-- System View - Multi Art - List -->
    <variant name="system-multi-gamelist-list">
       <label>Multi Art + List</label>
       <selectable>true</selectable>
@@ -68,6 +68,15 @@
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
+   <variant name="system-multi-gamelist-list-immersive-nh">
+      <label>Multi Art + List (Immersive) + Help Off</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
    <variant name="system-multi-gamelist-list-no-metadata">
       <label>Multi Art + List (No Metadata)</label>
       <selectable>true</selectable>
@@ -77,11 +86,7 @@
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <variant name="system-multi-gamelist-list-basic">
-      <label>Multi Art + List (Basic)</label>
-      <selectable>false</selectable>
-   </variant>
-   <!-- System View - Multi Art -->
+   <!-- System View - Multi Art - Carousel -->
    <variant name="system-multi-gamelist-carousel">
       <label>Multi Art + Carousel</label>
       <selectable>true</selectable>
@@ -94,8 +99,17 @@
       <label>Multi Art + Carousel (No Metadata)</label>
       <selectable>true</selectable>
    </variant>
+   <!-- System View - Multi Art - Basic -->
+   <variant name="system-multi-gamelist-list-basic">
+      <label>Multi Art + List (Basic)</label>
+      <selectable>false</selectable>
+   </variant>
+   <variant name="system-multi-gamelist-list-basic-nh">
+      <label>Multi Art + List (Basic) + Help Off</label>
+      <selectable>false</selectable>
+   </variant>
 
-   <!-- System View - Centered Art -->
+   <!-- System View - Centered Art - List -->
    <variant name="system-centered-gamelist-list">
       <label>Centered Art + List</label>
       <selectable>true</selectable>
@@ -123,11 +137,7 @@
          <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <variant name="system-centered-gamelist-list-basic">
-      <label>Centered Art + List (Basic)</label>
-      <selectable>false</selectable>
-   </variant>
-   <!-- System View - Centered Art -->
+   <!-- System View - Centered Art - Carousel -->
    <variant name="system-centered-gamelist-carousel">
       <label>Centered Art + Carousel</label>
       <selectable>true</selectable>
@@ -139,6 +149,11 @@
    <variant name="system-centered-gamelist-carousel-no-metadata">
       <label>Centered Art + Carousel (No Metadata)</label>
       <selectable>true</selectable>
+   </variant>
+   <!-- System View - Centered Art - Basic -->
+   <variant name="system-centered-gamelist-list-basic">
+      <label>Centered Art + List (Basic)</label>
+      <selectable>false</selectable>
    </variant>
 
 </themeCapabilities>

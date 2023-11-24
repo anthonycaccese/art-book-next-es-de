@@ -114,7 +114,9 @@ license:       creative commons CC-BY-NC-SA
       system-multi-gamelist-list-no-metadata,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel-no-metadata
+      system-multi-gamelist-carousel-no-metadata,
+      system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-basic-nh
       ">
       <view name="system">
          <image name="background">
@@ -186,7 +188,9 @@ license:       creative commons CC-BY-NC-SA
       system-multi-gamelist-list-basic,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-basic-nh
       ">
       <view name="gamelist">
          <image name="background">
@@ -209,11 +213,9 @@ license:       creative commons CC-BY-NC-SA
             <color>${gamelistListLogoColor}</color>
          </image>
          <textlist name="gamelist-list">
-            <origin>0 1</origin>
+            <origin>0 0</origin>
             <horizontalAlignment>left</horizontalAlignment>
             <fontPath>${fontBold}</fontPath>
-            <fontSize>0.038</fontSize><!-- 24 -->
-            <lineSpacing>1.5</lineSpacing><!-- 6/6 -->
             <systemNameSuffix>false</systemNameSuffix>
             <selectorColor>00000000</selectorColor>
             <selectedColor>${gamelistListTextlistSelectedColor}</selectedColor>
@@ -227,21 +229,20 @@ license:       creative commons CC-BY-NC-SA
    <!-- List (Basic) -->
    <variant name="
       system-centered-gamelist-list-basic,
-      system-multi-gamelist-list-basic
+      system-multi-gamelist-list-basic,
+      system-multi-gamelist-list-basic-nh
       ">
       <view name="gamelist">
          <image name="gamelist-background">
             <size>1 1</size>
          </image>
          <image name="logo">
-            <pos>0.5 0.11875</pos><!-- 50% 110 -->
-            <maxSize>0.29535864978903 0.1</maxSize><!-- 420 80 -->
+            <!-- Handled in Aspect Ratio Files -->
          </image>
          <textlist name="gamelist-list">
             <origin>0.5 0</origin>
-            <pos>0.5 0.24</pos><!-- 50% 192 -->
-            <size>0.7 0.65</size><!-- - 520 -->
             <horizontalAlignment>center</horizontalAlignment>
+            <!-- Additional settings in Aspect Ratio Files -->
          </textlist>
       </view>
    </variant>
@@ -253,7 +254,8 @@ license:       creative commons CC-BY-NC-SA
       system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-immersive-nh
       ">
       <view name="gamelist">
          <video name="video">
@@ -269,7 +271,8 @@ license:       creative commons CC-BY-NC-SA
       system-centered-gamelist-list,
       system-centered-gamelist-list-immersive,
       system-multi-gamelist-list,
-      system-multi-gamelist-list-immersive
+      system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-immersive-nh
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
@@ -279,79 +282,83 @@ license:       creative commons CC-BY-NC-SA
             <color>${gamelistListMetadataBackgroundColor}</color>
             <zIndex>2</zIndex>
          </image>
-         <text name="genre">
-            <metadata>genre</metadata>
-            <defaultValue>:space:</defaultValue>
-            <fontPath>${fontBold}</fontPath>
-            <color>${gamelistListMetadataColor}</color>
-            <letterCase>capitalize</letterCase>
-            <lineSpacing>1</lineSpacing>
-         </text>
          <text name="description">
-            <origin>0 1</origin>
+            <origin>0 0</origin>
             <fontPath>${fontRegular}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
             <color>${gamelistListDescriptionColor}</color>
             <metadata>description</metadata>
             <container>true</container>
             <containerStartDelay>6</containerStartDelay>
-            <lineSpacing>1.5</lineSpacing>
             <containerVerticalSnap>false</containerVerticalSnap>
          </text>
          <rating name="rating">
+            <origin>0 0.5</origin>
             <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
             <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
             <overlay>false</overlay>
             <color>${gamelistListRatingColor}</color>
          </rating>
          <image name="releasedate-icon">
+            <origin>0 0.5</origin>
             <path>./_inc/images/icon-release-date.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
          <datetime name="releasedate">
+            <origin>0 0.5</origin>
             <format>%Y-%m-%d</format>
             <metadata>releasedate</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
          </datetime>
          <image name="players-icon">
+            <origin>0 0.5</origin>
             <path>./_inc/images/icon-players.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
          <text name="players">
+            <origin>0 0.5</origin>
             <metadata>players</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
          </text>
-         <image name="developer-icon">
-            <path>./_inc/images/icon-developer.svg</path>
+      </view>
+   </variant>
+
+   <!-- List, List (Immersive) No Help -->
+   <variant name="
+      system-multi-gamelist-list-immersive-nh
+      ">
+      <view name="gamelist">
+         <image name="last-played-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-lastplayed.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
-         <text name="developer">
+         <datetime name="last-played">
+            <origin>0 0.5</origin>
             <metadata>developer</metadata>
-            <defaultValue>Not Set</defaultValue>
+            <defaultValue>Never</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
-         </text>
-         <image name="publisher-icon">
-            <path>./_inc/images/icon-publisher.svg</path>
+         </datetime>
+         <image name="play-count-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-playcount.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
          </image>
-         <text name="publisher">
-            <metadata>publisher</metadata>
+         <text name="play-count">
+            <origin>0 0.5</origin>
+            <metadata>playcount</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
-            <lineSpacing>1</lineSpacing>
          </text>
       </view>
    </variant>
@@ -372,17 +379,15 @@ license:       creative commons CC-BY-NC-SA
    <!-- List (Immersive) -->
    <variant name="
       system-centered-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive
+      system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-immersive-nh
       ">
       <view name="gamelist">
          <video name="video">
+            <origin>0.5 0.5</origin>
             <imageType>screenshot,fanart</imageType>
             <zIndex>1</zIndex>
          </video>
-         <image name="cover">
-            <origin>0 1</origin>
-            <imageType>cover,physicalmedia</imageType>
-         </image>
          <image name="marquee">
             <origin>1 1</origin>
             <imageType>marquee</imageType>
@@ -398,7 +403,7 @@ license:       creative commons CC-BY-NC-SA
       <view name="gamelist">
          <video name="video">
             <imageType>screenshot</imageType>
-            <opacity>0.4</opacity>
+            <opacity>0.5</opacity>
             <zIndex>1</zIndex>
          </video>
          <image name="marquee">
@@ -423,7 +428,7 @@ license:       creative commons CC-BY-NC-SA
       ">
       <view name="gamelist">
          <image name="logo">
-            <pos>0.5 0.125</pos><!-- 50% 60 -->
+            <!-- Handled in Aspect Ratio Files -->
          </image>
          <badges name="badges">
             <origin>0.5 0</origin>
@@ -439,11 +444,10 @@ license:       creative commons CC-BY-NC-SA
             <textColor>ffffff</textColor>
             <textBackgroundColor>000000</textBackgroundColor>
             <fontPath>${fontLogo}</fontPath>
-            <fontSize>0.034</fontSize>
             <letterCase>uppercase</letterCase>
-            <lineSpacing>1.2</lineSpacing>
             <fastScrolling>true</fastScrolling>
             <zIndex>3</zIndex>
+            <!-- Additional settings in Aspect Ratio Files -->
          </carousel>
       </view>
    </variant>
@@ -462,11 +466,10 @@ license:       creative commons CC-BY-NC-SA
             <color>${gamelistCarouselLogoColor}</color>
          </image>
          <badges name="badges">
-            <pos>0.5 0.6175</pos><!-- 0 494 -->
+            <!-- Handled in Aspect Ratio Files -->
          </badges>
          <carousel name="gamelist-carousel">
             <itemScale>1.5</itemScale>
-            <pos>0 0.2625</pos><!-- 0 210 -->
          </carousel>
          <rating name="rating">
             <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
@@ -501,12 +504,9 @@ license:       creative commons CC-BY-NC-SA
          </image>
          <text name="description">
             <origin>0.5 0</origin>
-            <pos>0.5 0.7125</pos><!-- 50% 570 -->
             <fontPath>${fontRegular}</fontPath>
             <horizontalAlignment>center</horizontalAlignment>
             <color>${gamelistCarouselDescriptionColor}</color>
-            <lineSpacing>1.26</lineSpacing>
-            <fontSize>0.03</fontSize><!-- 24 -->
             <metadata>description</metadata>
             <container>true</container>
             <containerStartDelay>6</containerStartDelay>
@@ -571,13 +571,13 @@ license:       creative commons CC-BY-NC-SA
          <image name="game-artwork">
             <origin>0 0</origin>
             <pos>0 0</pos>
-            <cropSize>1 0.475</cropSize>
             <imageType>screenshot,titlescreen,fanart</imageType>
             <opacity>0.4</opacity>
             <interpolation>nearest</interpolation>
             <zIndex>1</zIndex>
-         <saturation>${systemArtSaturation}</saturation>
-         <color>${systemArtColor}</color>
+            <saturation>${systemArtSaturation}</saturation>
+            <color>${systemArtColor}</color>
+            <!-- Additional settings in Aspect Ratio Files -->
          </image>
       </view>
    </variant>
@@ -590,13 +590,13 @@ license:       creative commons CC-BY-NC-SA
          <video name="game-artwork">
             <origin>0 0</origin>
             <pos>0 0</pos>
-            <cropSize>1 0.475</cropSize>
             <imageType>screenshot,titlescreen,fanart</imageType>
             <opacity>0.4</opacity>
             <interpolation>nearest</interpolation>
             <zIndex>1</zIndex>
             <saturation>${systemArtSaturation}</saturation>
             <color>${systemArtColor}</color>
+            <!-- Additional settings in Aspect Ratio Files -->
          </video>
       </view>
    </variant>
@@ -610,23 +610,21 @@ license:       creative commons CC-BY-NC-SA
             <color>${gamelistCarouselBackgroundColor}</color>
          </image>
          <badges name="badges">
-            <pos>0.5 0.6925</pos><!-- 0 524 -->
+            <!-- Handled in Aspect Ratio Files -->
          </badges>
          <image name="logo">
             <color>${gamelistCarouselNoMetadataLogoColor}</color>
          </image>
          <carousel name="gamelist-carousel">
             <itemScale>1.2</itemScale>
-            <pos>0 0.2</pos><!-- 0 210 -->
+            <!-- Additional settings in Aspect Ratio Files -->
          </carousel>
          <text name="name">
-            <pos>0 0.8</pos>
-            <size>1 0.0375</size>
             <metadata>name</metadata>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistCarouselNoMetadataMetadataColor}</color>
-            <fontSize>0.0375</fontSize><!-- 30 -->
             <horizontalAlignment>center</horizontalAlignment>
+            <!-- Additional settings in Aspect Ratio Files -->
          </text>
       </view>
    </variant>

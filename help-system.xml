@@ -3,16 +3,13 @@
       <image name="help-background">
          <origin>0 1</origin>
          <pos>0 1</pos>
-         <size>1 0.0625</size><!-- 100% 50 -->
          <path>${spacerImage}</path>
          <tile>true</tile>
          <color>${helpBackgroundColor}</color>
       </image>
       <helpsystem name="help">
-         <origin>0.5 1</origin>
-         <pos>0.5 0.978</pos>
+         <origin>0.5 0.5</origin>
          <fontPath>${fontLight}</fontPath>
-         <fontSize>0.0225</fontSize>
          <customButtonIcon button="dpad_updown">./_inc/images/help-dpad-updown.svg</customButtonIcon>
          <customButtonIcon button="dpad_leftright">./_inc/images/help-dpad-leftright.svg</customButtonIcon>
          <customButtonIcon button="dpad_all">./_inc/images/help-dpad-updownleftright.svg</customButtonIcon>
@@ -32,6 +29,7 @@
          <customButtonIcon button="button_y_PS">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="button_y_switch">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="button_y_SNES">./_inc/images/help-button-north.svg</customButtonIcon>
+         <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
          <textColor>${helpTextColor}</textColor>
          <iconColor>${helpIconColor}</iconColor>
          <textColorDimmed>${helpTextColorDimmed}</textColorDimmed>

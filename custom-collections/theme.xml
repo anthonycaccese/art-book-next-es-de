@@ -4,7 +4,6 @@
       <text name="custom-collection-name">
          <origin>0.5 0</origin>
          <metadata>systemFullname</metadata>
-         <fontSize>0.036</fontSize>
          <color>${gamelistListLogoColor}</color>
          <letterCase>uppercase</letterCase>
          <horizontalAlignment>center</horizontalAlignment>
@@ -17,29 +16,33 @@
       system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata
       ">
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.182841068917018 0.15625</pos><!-- 260 125 -->
-               <size>0.29535864978903 0.036</size><!-- 420 80 -->
+               <pos>0.1875 0.175925925925926</pos><!-- 360 190 -->
+               <size>0.276041666666667 0.040740740740741</size><!-- 530 44 -->
+               <fontSize>0.040740740740741</fontSize><!-- 44 -->
             </text>
          </view>
       </aspectRatio>
       <aspectRatio name="16:10">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.203125 0.15625</pos><!-- 260 125 -->
-               <size>0.328125 0.036</size><!-- 420 80 -->
+               <pos>0.1875 0.156666666666667</pos><!-- 360 188 -->
+               <size>0.276041666666667 0.036666666666667</size><!-- 530 44 -->
+               <fontSize>0.036666666666667</fontSize><!-- 44 -->
             </text>
          </view>
       </aspectRatio>
       <aspectRatio name="4:3">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.243673851921275 0.15625</pos><!-- 260 125 -->
-               <size>0.393626991565136 0.036</size><!-- 420 80 -->
+               <pos>0.25 0.166666666666667</pos><!-- 160 80 -->
+               <size>0.359375 0.041666666666667</size><!-- 230 80 -->
+               <fontSize>0.041666666666667</fontSize><!-- 20 -->
             </text>
          </view>
       </aspectRatio>
@@ -57,6 +60,7 @@
             <text name="custom-collection-name">
                <pos>0.5 0.15</pos><!-- 50% 120 -->
                <size>0.29535864978903 0.036</size><!-- 420 80 -->
+               <fontSize>0.036</fontSize>
             </text>
          </view>
       </aspectRatio>
