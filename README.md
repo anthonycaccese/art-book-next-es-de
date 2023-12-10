@@ -6,7 +6,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 | System View | Gamelist View |
 |----|----|
-| ![Screenshot 2023-03-02 at 12 32 40 PM](https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/5a305503-f66c-40c3-a04d-1d0222e032b5) | ![Screenshot 2023-03-02 at 12 33 13 PM](https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/bba3aced-4970-45f8-b32b-db291b2d96bd) |
+| <img width="1392" alt="Screenshot 2023-12-10 at 3 59 43 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/cea9e784-def2-4339-96ed-41f866166b21"> | <img width="1392" alt="Screenshot 2023-12-10 at 3 59 50 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/1a9c0ce1-31e2-4c5a-9eb2-4ed84c67a7e3"> |
 
 ## **Configuration Options**
 
@@ -33,24 +33,11 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 | Theme Variant | Preview |
 |----|----|
-| List | ![Screenshot 2023-03-02 at 12 33 29 PM](https://user-images.githubusercontent.com/1454947/222512099-89b111a5-d1e3-456b-90b8-d442cd4004ea.png) |
-| List (Immersive) | ![Screenshot 2023-03-02 at 12 33 13 PM](https://user-images.githubusercontent.com/1454947/222512152-623df201-0733-4ea5-80f2-a660941676af.png) |
-| List (No Metadata) | ![Screenshot 2023-03-02 at 12 33 36 PM](https://user-images.githubusercontent.com/1454947/222512196-246d5e3a-d3ab-483a-a69e-173fb1695f1f.png) |
-| Carousel | ![Screenshot 2023-03-02 at 12 33 45 PM](https://user-images.githubusercontent.com/1454947/222512248-08a48aac-9c4f-406d-b32c-ca491e3e8752.png) |
-| Carousel (No Metadata) | ![Screenshot 2023-03-02 at 12 33 54 PM](https://user-images.githubusercontent.com/1454947/222512311-3a9adf96-3894-444a-a6b7-b8adbb098ac8.png) |
-
-
-### Preview of the Theme Color Schemes
-
-| Theme Color Scheme | Preview |
-|----|----|
-| Art Book Next | ![Screenshot 2023-03-02 at 12 33 13 PM](https://user-images.githubusercontent.com/1454947/222511503-7a2b8402-5f83-4932-8f39-e1f0e60cf91f.png) |
-| Art Book (based on my original theme from [2017](https://retropie.org.uk/forum/topic/11728/theme-art-book)) | ![Screenshot 2023-03-02 at 12 34 17 PM](https://user-images.githubusercontent.com/1454947/222511554-cc4a5bab-b364-4def-9773-e240fae99485.png) |
-| Steam OS (being used as the default for [RetroDeck](https://github.com/XargonWan/RetroDECK/)) | ![Screenshot 2023-03-02 at 12 34 23 PM](https://user-images.githubusercontent.com/1454947/222511616-c6ce979a-bc81-444c-a64d-105a032694d0.png) |
-| SNES (simply made for fun as the SNES was my first console) | ![Screenshot 2023-03-02 at 12 34 28 PM](https://user-images.githubusercontent.com/1454947/222511713-247ad1a2-6a5b-4952-a9bd-730e830cad37.png) |
-| Famicom | ![Screenshot 2023-03-02 at 12 34 34 PM](https://user-images.githubusercontent.com/1454947/222511749-d8f7e610-53da-4210-994f-2a1c8aad91c4.png) |
-| Black | ![Screenshot 2023-03-02 at 12 34 39 PM](https://user-images.githubusercontent.com/1454947/222511766-3583a8ac-64b3-4b35-9bc2-5e392ef34846.png) |
-| Grayscale | ![Screenshot 2023-03-02 at 12 34 46 PM](https://user-images.githubusercontent.com/1454947/222511794-65c863d0-a006-459e-9980-9a83c39f4e4e.png) |
+| List | <img width="1392" alt="Screenshot 2023-12-10 at 4 01 33 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/e869ee33-b0e0-4c4c-b1e0-fbe9eb632af6"> |
+| List (Immersive) | <img width="1392" alt="Screenshot 2023-12-10 at 3 59 50 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/1a9c0ce1-31e2-4c5a-9eb2-4ed84c67a7e3"> |
+| List (No Metadata) | <img width="1392" alt="Screenshot 2023-12-10 at 4 02 30 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/063f0b4a-ea9f-46f3-b567-d7a90cb43d3b"> |
+| Carousel | <img width="1392" alt="Screenshot 2023-12-10 at 4 03 01 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/2cb7d6ff-f850-4f57-8fb1-5f233a182840"> |
+| Carousel (No Metadata) | <img width="1392" alt="Screenshot 2023-12-10 at 4 03 11 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/0a4fb4b6-58ce-4804-92a6-22f96cac646b"> |
 
 ## **Additional Notes**
 
@@ -66,8 +53,8 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 * Other media is optional and will be used in cases where one of the above is missing (for example Title Screen images will be used if screenshots are missing)
 
 ### Versions for other ES forks:
-* If you use Retropie or ES-DE v1.x or eariler... then check out the version [here](https://github.com/anthonycaccese/art-book-next-retropie).
-* If you use Batocera... then check out the version [here](https://github.com/anthonycaccese/es-theme-art-book-next/archive/2.0.zip).  The Batocera version has all the same base features but simply makes them available to change through Batocera's menu UI (i.e. you don't need to touch the XML as discussed above).  It also adds some additional features such as the theming of the menu and the ability to toggle on/off the display of different media elements directly through the menu ui as well.
+* If you use Retropie... then check out the version [here](https://github.com/anthonycaccese/art-book-next-retropie).
+* If you use Batocera... then check out the version [here](https://github.com/anthonycaccese/es-theme-art-book-next-es).  The Batocera version has all the same base features but simply makes them available to change through Batocera's menu UI.  It also adds some additional features such as the theming of the menu and the ability to toggle on/off the display of different media elements directly through the menu ui as well.
 
 ## **Acknowledgments**
 * Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  I modified each to be compatible with EmulationStation's current SVG support.
