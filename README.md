@@ -54,7 +54,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ### Versions for other ES forks:
 * If you use Retropie... then check out the version [here](https://github.com/anthonycaccese/art-book-next-retropie).
-* If you use Batocera... then check out the version [here](https://github.com/anthonycaccese/es-theme-art-book-next-es).  The Batocera version has all the same base features but simply makes them available to change through Batocera's menu UI.  It also adds some additional features such as the theming of the menu and the ability to toggle on/off the display of different media elements directly through the menu ui as well.
+* If you use Batocera... then check out the version [here](https://github.com/anthonycaccese/art-book-next-es).  The Batocera version has all the same base features but simply makes them available to change through Batocera's menu UI.  It also adds some additional features such as the theming of the menu and the ability to toggle on/off the display of different media elements directly through the menu ui as well.
 
 ## **Acknowledgments**
 * Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  I modified each to be compatible with EmulationStation's current SVG support.
