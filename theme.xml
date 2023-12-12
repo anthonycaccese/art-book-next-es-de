@@ -125,7 +125,8 @@ license:       creative commons CC-BY-NC-SA
          <carousel name="system-carousel">
             <defaultImage>./_inc/systems/artwork/_default.png</defaultImage>
             <staticImage>./_inc/systems/artwork/${system.theme}.png</staticImage>
-            <imageColor>${systemArtColor}cc</imageColor>
+            <imageColor>${systemArtColor}99</imageColor>
+            <imageSelectedColor>${systemArtColor}dd</imageSelectedColor>
             <imageSaturation>${systemArtSaturation}</imageSaturation>
             <itemScale>1</itemScale>
             <itemSize>1 1</itemSize>
