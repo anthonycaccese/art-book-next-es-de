@@ -15,19 +15,19 @@
          <customButtonIcon button="dpad_all">./_inc/images/help-dpad-updownleftright.svg</customButtonIcon>
          <customButtonIcon button="button_a_XBOX">./_inc/images/help-button-south.svg</customButtonIcon>
          <customButtonIcon button="button_a_PS">./_inc/images/help-button-south.svg</customButtonIcon>
-         <customButtonIcon button="button_a_switch">./_inc/images/help-button-south.svg</customButtonIcon>
+         <customButtonIcon button="button_a_switch">./_inc/images/help-button-east.svg</customButtonIcon>
          <customButtonIcon button="button_a_SNES">./_inc/images/help-button-south.svg</customButtonIcon>
          <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-east.svg</customButtonIcon>
          <customButtonIcon button="button_b_PS">./_inc/images/help-button-east.svg</customButtonIcon>
-         <customButtonIcon button="button_b_switch">./_inc/images/help-button-east.svg</customButtonIcon>
+         <customButtonIcon button="button_b_switch">./_inc/images/help-button-south.svg</customButtonIcon>
          <customButtonIcon button="button_b_SNES">./_inc/images/help-button-east.svg</customButtonIcon>
          <customButtonIcon button="button_x_XBOX">./_inc/images/help-button-west.svg</customButtonIcon>
          <customButtonIcon button="button_x_PS">./_inc/images/help-button-west.svg</customButtonIcon>
-         <customButtonIcon button="button_x_switch">./_inc/images/help-button-west.svg</customButtonIcon>
+         <customButtonIcon button="button_x_switch">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="button_x_SNES">./_inc/images/help-button-west.svg</customButtonIcon>
          <customButtonIcon button="button_y_XBOX">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="button_y_PS">./_inc/images/help-button-north.svg</customButtonIcon>
-         <customButtonIcon button="button_y_switch">./_inc/images/help-button-north.svg</customButtonIcon>
+         <customButtonIcon button="button_y_switch">./_inc/images/help-button-west.svg</customButtonIcon>
          <customButtonIcon button="button_y_SNES">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
          <textColor>${helpTextColor}</textColor>
