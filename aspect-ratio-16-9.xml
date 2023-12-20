@@ -10,13 +10,14 @@
          <size>1 0.115740740740741</size><!-- 100% 125 -->
       </image>
       <helpsystem name="help">
-         <entrySpacing>0.012658227848101</entrySpacing><!-- ? -->
+         <entrySpacing>0.015</entrySpacing>
          <pos>0.5 0.942592592592593</pos><!-- 50% 1018 -->
-         <fontSize>0.031481481481481</fontSize><!-- 34 -->
+         <fontSize>0.0333333</fontSize><!-- 36 -->
       </helpsystem>
    </view>
    <variant name="
       system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-list-basic-nh
       ">
       <view name="system,gamelist">
@@ -59,6 +60,7 @@
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
@@ -85,7 +87,8 @@
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -99,7 +102,8 @@
    </variant>
    <variant name="
       system-multi-gamelist-list-basic-nh,
-      system-multi-gamelist-list-immersive-nh
+      system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
@@ -151,7 +155,8 @@
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -286,7 +291,8 @@
    <!-- List (No Metadata) -->
    <variant name="
       system-centered-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="marquee">
@@ -296,6 +302,25 @@
          <video name="video">
             <pos>0.375 0</pos><!-- 720 0 -->
             <cropSize>0.625 0.884259259259259</cropSize><!-- 1200 955 -->
+         </video>
+      </view>
+   </variant>
+
+   <!-- List (No Metadata) Help System Off -->
+   <variant name="
+      system-multi-gamelist-list-no-metadata-nh
+      ">
+      <view name="gamelist">
+         <textlist name="gamelist-list">
+            <size>0.296875 0.690740740740741</size><!-- 570 746(62X12) -->
+         </textlist>
+         <image name="marquee">
+            <pos>0.6875 0.5</pos><!-- 1320 50% -->
+            <maxSize>0.351617440225035 0.625</maxSize><!-- 500 500 -->
+         </image>
+         <video name="video">
+            <pos>0.375 0</pos><!-- 720 0 -->
+            <cropSize>0.625 1</cropSize><!-- 1200 100% -->
          </video>
       </view>
    </variant>

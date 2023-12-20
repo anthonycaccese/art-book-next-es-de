@@ -68,15 +68,6 @@
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <variant name="system-multi-gamelist-list-immersive-nh">
-      <label>Multi Art + List (Immersive) + Help Off</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
-         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
-      </override>
-   </variant>
    <variant name="system-multi-gamelist-list-no-metadata">
       <label>Multi Art + List (No Metadata)</label>
       <selectable>true</selectable>
@@ -102,10 +93,6 @@
    <!-- System View - Multi Art - Basic -->
    <variant name="system-multi-gamelist-list-basic">
       <label>Multi Art + List (Basic)</label>
-      <selectable>false</selectable>
-   </variant>
-   <variant name="system-multi-gamelist-list-basic-nh">
-      <label>Multi Art + List (Basic) + Help Off</label>
       <selectable>false</selectable>
    </variant>
 
@@ -153,6 +140,31 @@
    <!-- System View - Centered Art - Basic -->
    <variant name="system-centered-gamelist-list-basic">
       <label>Centered Art + List (Basic)</label>
+      <selectable>false</selectable>
+   </variant>
+
+   <!-- Help Off - System View - Multi Art - List -->
+   <variant name="system-multi-gamelist-list-immersive-nh">
+      <label>Multi Art + List (Immersive) + Help Off</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
+   <variant name="system-multi-gamelist-list-no-metadata-nh">
+      <label>Multi Art + List (No Metadata) + Help Off</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
+   <!-- Help Off - System View - Multi Art - Basic -->
+   <variant name="system-multi-gamelist-list-basic-nh">
+      <label>Multi Art + List (Basic) + Help Off</label>
       <selectable>false</selectable>
    </variant>
 

@@ -33,8 +33,8 @@
          <gamelistCarouselSeperatorColor>ffffff11</gamelistCarouselSeperatorColor>
          <!-- Help System -->
          <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff66</helpTextColor>
+         <helpIconColor>ffffffaa</helpIconColor>
+         <helpTextColor>ffffffaa</helpTextColor>
          <helpIconColorDimmed>cccccc</helpIconColorDimmed>
          <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>

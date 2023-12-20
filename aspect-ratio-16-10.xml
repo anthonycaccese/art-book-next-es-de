@@ -17,6 +17,7 @@
    </view>
    <variant name="
       system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-list-basic-nh
       ">
       <view name="system,gamelist">
@@ -59,6 +60,7 @@
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
@@ -85,7 +87,8 @@
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh,
       ">
       <view name="gamelist">
          <image name="logo">
@@ -99,7 +102,8 @@
    </variant>
    <variant name="
       system-multi-gamelist-list-basic-nh,
-      system-multi-gamelist-list-immersive-nh
+      system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
@@ -151,7 +155,8 @@
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -286,7 +291,8 @@
    <!-- List (No Metadata) -->
    <variant name="
       system-centered-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="marquee">
@@ -296,6 +302,25 @@
          <video name="video">
             <pos>0.375 0</pos><!-- 720 0 -->
             <cropSize>0.625 0.895833333333333</cropSize><!-- 1200 1075 -->
+         </video>
+      </view>
+   </variant>
+
+   <!-- List (No Metadata) Help System Off -->
+   <variant name="
+      system-multi-gamelist-list-no-metadata-nh
+      ">
+      <view name="gamelist">
+         <textlist name="gamelist-list">
+            <size>0.307291666666667 0.723333333333333</size><!-- 590 868(62X14) -->
+         </textlist>
+         <image name="marquee">
+            <pos>0.6875 0.5</pos><!-- 1320 50% -->
+            <maxSize>0.40625 0.754166666666667</maxSize><!-- 780 905 -->
+         </image>
+         <video name="video">
+            <pos>0.375 0</pos><!-- 720 0 -->
+            <cropSize>0.625 1</cropSize><!-- 1200 100% -->
          </video>
       </view>
    </variant>
