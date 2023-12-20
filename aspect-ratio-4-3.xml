@@ -47,6 +47,7 @@
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
@@ -76,7 +77,8 @@
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -122,7 +124,8 @@
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -247,7 +250,8 @@
    <!-- List (No Metadata) -->
    <variant name="
       system-centered-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="marquee">
