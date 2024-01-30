@@ -61,6 +61,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 * ChangaOne font is by [Eduardo Tunni](https://www.fontsquirrel.com/fonts/changa)
 * Oxygen font is by [Vernon Adams](https://www.fontsquirrel.com/fonts/oxygen)
 * Auto-Collection Genre background art created by [@nautipuss](https://github.com/nautipuss)
+* Metadata Icons sourced from [FontAwesome](https://fontawesome.com/search?o=r&m=free)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
