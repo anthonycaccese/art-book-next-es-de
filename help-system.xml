@@ -9,10 +9,6 @@
       </image>
       <helpsystem name="help">
          <origin>0.5 0.5</origin>
-         <fontPath>${fontRegular}</fontPath>
-         <customButtonIcon button="dpad_updown">./_inc/images/help-dpad-updown.svg</customButtonIcon>
-         <customButtonIcon button="dpad_leftright">./_inc/images/help-dpad-leftright.svg</customButtonIcon>
-         <customButtonIcon button="dpad_all">./_inc/images/help-dpad-updownleftright.svg</customButtonIcon>
          <customButtonIcon button="button_a_XBOX">./_inc/images/help-button-south.svg</customButtonIcon>
          <customButtonIcon button="button_a_PS">./_inc/images/help-button-south.svg</customButtonIcon>
          <customButtonIcon button="button_a_switch">./_inc/images/help-button-east.svg</customButtonIcon>
@@ -34,7 +30,6 @@
          <iconColor>${helpIconColor}</iconColor>
          <textColorDimmed>${helpTextColorDimmed}</textColorDimmed>
          <iconColorDimmed>${helpIconColorDimmed}</iconColorDimmed>
-         <letterCase>capitalize</letterCase>
       </helpsystem>
    </view>
 </theme>

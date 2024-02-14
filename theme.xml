@@ -61,7 +61,6 @@ license:       creative commons CC-BY-NC-SA
       system-centered-gamelist-list-immersive,
       system-centered-gamelist-list-no-metadata,
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
       system-centered-gamelist-carousel-no-metadata
       ">
       <view name="system">
@@ -113,7 +112,6 @@ license:       creative commons CC-BY-NC-SA
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-no-metadata,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh,
@@ -140,7 +138,7 @@ license:       creative commons CC-BY-NC-SA
             <maxSize>0.5 0.3</maxSize>
             <path>./_inc/systems/logos/${system.theme}.svg</path>
             <color>${systemLogoColor}</color>
-            <zIndex>2</zIndex>
+            <zIndex>3</zIndex>
          </image>
       </view>
    </variant>
@@ -158,8 +156,8 @@ license:       creative commons CC-BY-NC-SA
       </image>
       <badges name="badges">
          <lines>1</lines>
-         <itemsPerLine>9</itemsPerLine>
-         <slots>all</slots>
+         <itemsPerLine>6</itemsPerLine>
+         <slots>folder,favorite,manual,completed,collection,altemulator</slots>
          <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
          <customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
          <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
@@ -330,6 +328,58 @@ license:       creative commons CC-BY-NC-SA
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
          </text>
+         <image name="genre-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-genre.svg</path>
+            <color>${gamelistListMetadataIconColor}</color>
+            <metadataElement>true</metadataElement>
+            <visible>false</visible>
+         </image>
+         <text name="genre">
+            <origin>0 0.5</origin>
+            <metadata>genre</metadata>
+            <defaultValue>Not Set</defaultValue>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gamelistListMetadataColor}</color>
+            <letterCase>capitalize</letterCase>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <visible>false</visible>
+         </text>
+         <image name="developer-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-developer.svg</path>
+            <color>${gamelistListMetadataIconColor}</color>
+            <metadataElement>true</metadataElement>
+            <visible>false</visible>
+         </image>
+         <text name="developer">
+            <origin>0 0.5</origin>
+            <metadata>developer</metadata>
+            <defaultValue>Not Set</defaultValue>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gamelistListMetadataColor}</color>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <visible>false</visible>
+         </text>
+         <image name="publisher-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-publisher.svg</path>
+            <color>${gamelistListMetadataIconColor}</color>
+            <metadataElement>true</metadataElement>
+            <visible>false</visible>
+         </image>
+         <text name="publisher">
+            <origin>0 0.5</origin>
+            <metadata>publisher</metadata>
+            <defaultValue>Not Set</defaultValue>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gamelistListMetadataColor}</color>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <visible>false</visible>
+         </text>
       </view>
    </variant>
 
@@ -346,7 +396,7 @@ license:       creative commons CC-BY-NC-SA
          </image>
          <datetime name="last-played">
             <origin>0 0.5</origin>
-            <metadata>developer</metadata>
+            <metadata>lastplayed</metadata>
             <defaultValue>Never</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
@@ -425,10 +475,8 @@ license:       creative commons CC-BY-NC-SA
    -->
    <variant name="
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
       system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
       ">
       <view name="gamelist">
@@ -459,9 +507,7 @@ license:       creative commons CC-BY-NC-SA
 
    <variant name="
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive
+      system-multi-gamelist-carousel
       ">
       <view name="gamelist">
          <image name="background">
@@ -588,25 +634,6 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <variant name="
-      system-centered-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel-immersive
-      ">
-      <view name="gamelist">
-         <video name="game-artwork">
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <imageType>screenshot,titlescreen,fanart</imageType>
-            <opacity>0.4</opacity>
-            <interpolation>nearest</interpolation>
-            <zIndex>1</zIndex>
-            <saturation>${systemArtSaturation}</saturation>
-            <color>${systemArtColor}</color>
-            <!-- Additional settings in Aspect Ratio Files -->
-         </video>
-      </view>
-   </variant>
-
-   <variant name="
       system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel-no-metadata
       ">
@@ -647,6 +674,9 @@ license:       creative commons CC-BY-NC-SA
    </aspectRatio>
    <aspectRatio name="4:3">
       <include>./aspect-ratio-4-3.xml</include>
+   </aspectRatio>
+   <aspectRatio name="19.5:9">
+      <include>./aspect-ratio-19_5-9.xml</include>
    </aspectRatio>
 
    <!--
