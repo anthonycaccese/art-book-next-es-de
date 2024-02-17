@@ -1,5 +1,5 @@
 # Art Book Next (ES-DE Version)
-A simple theme for the version of EmulationStation used in [ES-DE](https://es-de.org/) v2.x.  
+A simple theme for the version of EmulationStation used in [ES-DE](https://es-de.org/)
 *(If you are using ES-DE v1.x or earlier please download [this version](https://github.com/anthonycaccese/art-book-next-retropie) instead)*
 
 ## **Preview**
