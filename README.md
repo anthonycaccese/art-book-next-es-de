@@ -17,9 +17,6 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
    - `List` - A simple list that displays the miximage artwork and shows all game metadata
    - `List (Immersive)` - A simple list that displays the cover, marquee and screenshot artwork and shows all game metadata
    - `List (No Metadata)` - A simple list that removes all gamemetadata and displays the screenshot and marquee artwork
-   - `Carousel` - a cover art focused carousel view with all game metadata
-   - `Carousel (Immersive)` - similar to the carousel variant but also displays video
-   - `Carousel (No Metadata)` - Removes all metadata and simply displays a cover artwork carousel
 - `Theme Color Scheme` - sets the color scheme that is used for the overall theme on all views.  There are 7 built in color schems to choose from:
    - `Art Book Next` - the default color scheme.  Its an update the previous color scheme I used for Art Book in 2017
    - `Art Book` - the original color scheme from Art Book built in 2017
@@ -36,8 +33,6 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 | List | <img width="1392" alt="Screenshot 2023-12-10 at 4 01 33 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/e869ee33-b0e0-4c4c-b1e0-fbe9eb632af6"> |
 | List (Immersive) | <img width="1392" alt="Screenshot 2023-12-10 at 3 59 50 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/1a9c0ce1-31e2-4c5a-9eb2-4ed84c67a7e3"> |
 | List (No Metadata) | <img width="1392" alt="Screenshot 2023-12-10 at 4 02 30 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/063f0b4a-ea9f-46f3-b567-d7a90cb43d3b"> |
-| Carousel | <img width="1392" alt="Screenshot 2023-12-10 at 4 03 01 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/2cb7d6ff-f850-4f57-8fb1-5f233a182840"> |
-| Carousel (No Metadata) | <img width="1392" alt="Screenshot 2023-12-10 at 4 03 11 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/0a4fb4b6-58ce-4804-92a6-22f96cac646b"> |
 
 ## **Additional Notes**
 
