@@ -5,6 +5,7 @@
    <aspectRatio>16:9</aspectRatio>
    <aspectRatio>16:10</aspectRatio>
    <aspectRatio>4:3</aspectRatio>
+   <aspectRatio>19.5:9</aspectRatio>
 
    <colorScheme name="art-book-next">
       <label>Art Book Next</label>
@@ -80,15 +81,11 @@
    <!-- System View - Multi Art - Carousel -->
    <variant name="system-multi-gamelist-carousel">
       <label>Multi Art + Carousel</label>
-      <selectable>true</selectable>
-   </variant>
-   <variant name="system-multi-gamelist-carousel-immersive">
-      <label>Multi Art + Carousel (Immersive)</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
    </variant>
    <variant name="system-multi-gamelist-carousel-no-metadata">
       <label>Multi Art + Carousel (No Metadata)</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
    </variant>
    <!-- System View - Multi Art - Basic -->
    <variant name="system-multi-gamelist-list-basic">
@@ -127,15 +124,11 @@
    <!-- System View - Centered Art - Carousel -->
    <variant name="system-centered-gamelist-carousel">
       <label>Centered Art + Carousel</label>
-      <selectable>true</selectable>
-   </variant>
-   <variant name="system-centered-gamelist-carousel-immersive">
-      <label>Centered Art + Carousel (Immersive)</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
    </variant>
    <variant name="system-centered-gamelist-carousel-no-metadata">
       <label>Centered Art + Carousel (No Metadata)</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
    </variant>
    <!-- System View - Centered Art - Basic -->
    <variant name="system-centered-gamelist-list-basic">
@@ -145,7 +138,7 @@
 
    <!-- Help Off - System View - Multi Art - List -->
    <variant name="system-multi-gamelist-list-immersive-nh">
-      <label>Multi Art + List (Immersive) + Help Off</label>
+      <label>Help System Off: Multi Art + List (Immersive)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -154,7 +147,7 @@
       </override>
    </variant>
    <variant name="system-multi-gamelist-list-no-metadata-nh">
-      <label>Multi Art + List (No Metadata) + Help Off</label>
+      <label>Help System Off: Multi Art + List (No Metadata)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -164,7 +157,7 @@
    </variant>
    <!-- Help Off - System View - Multi Art - Basic -->
    <variant name="system-multi-gamelist-list-basic-nh">
-      <label>Multi Art + List (Basic) + Help Off</label>
+      <label>Help System Off: Multi Art + List (Basic)</label>
       <selectable>false</selectable>
    </variant>
 

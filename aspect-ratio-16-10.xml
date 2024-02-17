@@ -43,7 +43,6 @@
       system-centered-gamelist-list-immersive,
       system-centered-gamelist-list-no-metadata,
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
       system-centered-gamelist-carousel-no-metadata
       ">
       <view name="system">
@@ -62,7 +61,6 @@
       system-multi-gamelist-list-no-metadata,
       system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
       ">
       <view name="system">
@@ -171,7 +169,7 @@
          </image>
          <badges name="badges">
             <pos>0.973958333333333 0.041666666666667</pos><!-- 1870 50 -->
-            <size>0.020833333333333 0.54</size><!-- 40 648 -->
+            <size>0.041666666666667 0.54</size><!-- 80 648 -->
             <itemMargin>-1 0.0075</itemMargin>
          </badges>
       </view>
@@ -332,10 +330,8 @@
    -->
    <variant name="
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
       system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
       ">
       <view name="gamelist">
@@ -376,12 +372,10 @@
       </view>
    </variant>
 
-   <!-- Carousel & Carousel Immersive -->
+   <!-- Carousel -->
    <variant name="
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive
+      system-multi-gamelist-carousel
       ">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
@@ -468,17 +462,6 @@
          <image name="game-artwork">
             <cropSize>1 0.470833333333333</cropSize><!-- 100% 565 -->
          </image>
-      </view>
-   </variant>
-
-   <variant name="
-      system-centered-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel-immersive
-      ">
-      <view name="gamelist">
-         <video name="game-artwork">
-            <cropSize>1 0.470833333333333</cropSize><!-- 100% 565 -->
-         </video>
       </view>
    </variant>
 

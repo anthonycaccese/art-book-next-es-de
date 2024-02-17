@@ -35,8 +35,8 @@
          <helpBackgroundColor>000000</helpBackgroundColor>
          <helpIconColor>ffffffaa</helpIconColor>
          <helpTextColor>ffffffaa</helpTextColor>
-         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
-         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
+         <helpIconColorDimmed>ffffffaa</helpIconColorDimmed>
+         <helpTextColorDimmed>ffffffaa</helpTextColorDimmed>
       </variables>
    </colorScheme>
    <colorScheme name="art-book">

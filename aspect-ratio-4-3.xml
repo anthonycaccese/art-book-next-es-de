@@ -27,7 +27,6 @@
       system-centered-gamelist-list-immersive,
       system-centered-gamelist-list-no-metadata,
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
       system-centered-gamelist-carousel-no-metadata
       ">
       <view name="system">
@@ -49,7 +48,6 @@
       system-multi-gamelist-list-no-metadata,
       system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
       ">
       <view name="system">
@@ -272,10 +270,8 @@
    -->
    <variant name="
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
       system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive,
       system-multi-gamelist-carousel-no-metadata
       ">
       <view name="gamelist">
@@ -307,12 +303,10 @@
       </view>
    </variant>
 
-   <!-- Carousel & Carousel Immersive -->
+   <!-- Carousel -->
    <variant name="
       system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-immersive
+      system-multi-gamelist-carousel
       ">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
@@ -380,17 +374,6 @@
          <image name="game-artwork">
             <cropSize>1 0.5</cropSize>
          </image>
-      </view>
-   </variant>
-
-   <variant name="
-      system-centered-gamelist-carousel-immersive,
-      system-multi-gamelist-carousel-immersive
-      ">
-      <view name="gamelist">
-         <video name="game-artwork">
-            <cropSize>1 0.5</cropSize>
-         </video>
       </view>
    </variant>
 

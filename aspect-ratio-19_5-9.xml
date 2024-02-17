@@ -10,9 +10,10 @@
          <size>1 0.115740740740741</size><!-- 100% 125 -->
       </image>
       <helpsystem name="help">
-         <entrySpacing>0.015</entrySpacing>
-         <pos>0.5 0.942592592592593</pos><!-- 50% 1018 -->
-         <fontSize>0.0333333</fontSize><!-- 36 -->
+         <entrySpacing>0.017094017094017</entrySpacing><!-- 40 -->
+         <pos>0.5 0.940740740740741</pos><!-- 50% 1016 -->
+         <posDimmed>0.5 0.96</posDimmed>
+         <fontSize>0.038888888888889</fontSize><!-- 42 -->
       </helpsystem>
    </view>
    <variant name="
@@ -27,6 +28,8 @@
          <helpsystem name="help">
             <origin>0 0</origin>
             <pos>1 1</pos>
+            <originDimmed>0.5 0.5</originDimmed>
+            <posDimmed>0.5 0.96</posDimmed>
          </helpsystem>
       </view>
    </variant>
@@ -47,25 +50,25 @@
       ">
       <view name="system">
          <image name="system-art-mask">
-            <path>./_inc/images/system-art-mask-16-9.png</path>
+            <path>./_inc/images/system-art-mask-19_5-9.png</path>
          </image>
       </view>
    </variant>
    <!-- Multi Art -->
    <variant name="
       system-multi-gamelist-list-basic,
-      system-multi-gamelist-list-basic-nh,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-no-metadata
+      system-multi-gamelist-carousel-no-metadata,
+      system-multi-gamelist-list-basic-nh,
+      system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="system">
          <carousel name="system-carousel">
-            <maxItemCount>5.5</maxItemCount>
+            <maxItemCount>6.75</maxItemCount>
          </carousel>
       </view>
    </variant>
@@ -81,16 +84,16 @@
       system-centered-gamelist-list-immersive,
       system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list-basic,
-      system-multi-gamelist-list-basic-nh,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-basic-nh,
+      system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
-            <maxSize>0.276041666666667 0.111111111111111</maxSize><!-- 530 120 -->
+            <maxSize>0.226495726495726 0.111111111111111</maxSize><!-- 530 120 -->
          </image>
          <textlist name="gamelist-list">
             <fontSize>0.038888888888889</fontSize><!-- 42 -->
@@ -152,25 +155,25 @@
       system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh
       ">
       <view name="gamelist">
          <image name="logo">
-            <pos>0.1875 0.134259259259259</pos><!-- 360 145 -->
+            <pos>0.153846153846154 0.134259259259259</pos><!-- 360 145 -->
          </image>
          <textlist name="gamelist-list">
-            <pos>0.033854166666667 0.261111111111111</pos><!-- 65 282 -->
-            <size>0.296875 0.575925925925926</size><!-- 570 622(62X10) -->
+            <pos>0.027777777777778 0.261111111111111</pos><!-- 65 282 -->
+            <size>0.243589743589744 0.575925925925926</size><!-- 570 622(62X10) -->
          </textlist>
          <image name="gamelist-background">
-            <size>0.375 1</size><!-- 720 1200 -->
+            <size>0.307692307692308 1</size><!-- 720 1200 -->
          </image>
          <badges name="badges">
-            <pos>0.973958333333333 0.05</pos><!-- 1870 50 -->
-            <size>0.041666666666667 0.6</size><!-- 80 648 -->
-            <itemMargin>-1 0.0075</itemMargin>
+            <pos>0.978632478632479 0.05</pos><!-- 2290 50 -->
+            <size>0.034188034188034 0.6</size><!-- 80 648 -->
+            <itemMargin>-1 0.009259259259259</itemMargin><!-- 10 -->
          </badges>
       </view>
    </variant>
@@ -185,30 +188,65 @@
       ">
       <view name="gamelist">
          <text name="description">
-            <pos>0.408333333333333 0.677777777777778</pos><!-- 784 732 -->
-            <size>0.395833333333333 0.155555555555556</size><!-- 760 168 -->
+            <pos>0.335042735042735 0.677777777777778</pos><!-- 784 732 -->
+            <size>0.307692307692308 0.155555555555556</size><!-- 720 168 -->
             <fontSize>0.037037037037037</fontSize><!-- 40 -->
             <lineSpacing>1.42</lineSpacing>
          </text>
+
          <rating name="rating">
-            <pos>0.854166666666667 0.699074074074074</pos><!-- 1640 755 -->
+            <pos>0.681196581196581 0.703703703703704</pos><!-- 1594 760 -->
             <size>0 0.037037037037037</size><!-- - 40 -->
          </rating>
          <image name="releasedate-icon">
-            <pos>0.854166666666667 0.758333333333333</pos><!-- 1640 819 -->
-            <maxSize>0.020833333333333 0.037037037037037</maxSize><!-- 40 40 -->
+            <pos>0.681196581196581 0.759259259259259</pos><!-- 1594 820 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
          </image>
          <datetime name="releasedate">
-            <pos>0.884375 0.758333333333333</pos><!-- 1698 819 -->
-            <fontSize>0.025925925925926</fontSize><!-- 28 -->
+            <pos>0.706837606837607 0.759259259259259</pos><!-- 1654 820 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
          </datetime>
          <image name="players-icon">
-            <pos>0.854166666666667 0.815740740740741</pos><!-- 1640 881 -->
-            <maxSize>0.020833333333333 0.037037037037037</maxSize><!-- 40 40 -->
+            <pos>0.681196581196581 0.812962962962963</pos><!-- 1594 878 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
          </image>
          <text name="players">
-            <pos>0.884375 0.815740740740741</pos><!-- 1698 881 -->
-            <fontSize>0.025925925925926</fontSize><!-- 28 -->
+            <pos>0.706837606837607 0.812962962962963</pos><!-- 1654 878 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
+         </text>
+
+         <image name="genre-icon">
+            <pos>0.822222222222222 0.705555555555556</pos><!-- 1924 762 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
+            <visible>true</visible>
+         </image>
+         <text name="genre">
+            <pos>0.847863247863248 0.705555555555556</pos><!-- 1984 762 -->
+            <size>0.130769230769231 0.031481481481481</size><!-- 306 34 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
+            <visible>true</visible>
+         </text>
+         <image name="developer-icon">
+            <pos>0.822222222222222 0.759259259259259</pos><!-- 1924 820 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
+            <visible>true</visible>
+         </image>
+         <text name="developer">
+            <pos>0.847863247863248 0.759259259259259</pos><!-- 1984 820 -->
+            <size>0.130769230769231 0.031481481481481</size><!-- 306 34 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
+            <visible>true</visible>
+         </text>
+         <image name="publisher-icon">
+            <pos>0.822222222222222 0.812962962962963</pos><!-- 1924 878 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
+            <visible>true</visible>
+         </image>
+         <text name="publisher">
+            <pos>0.847863247863248 0.812962962962963</pos><!-- 1984 878 -->
+            <size>0.130769230769231 0.031481481481481</size><!-- 306 34 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
+            <visible>true</visible>
          </text>
       </view>
    </variant>
@@ -220,8 +258,8 @@
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
-            <pos>0.375 0</pos><!-- 720 0 -->
-            <size>0.625 1</size><!-- 1200 1080-->
+            <pos>0.307692307692308 0</pos><!-- 720 0 -->
+            <cropSize>0.692307692307692 1</cropSize><!-- 1620 1080 -->
             <zIndex>1</zIndex>
          </image>
          <video name="video">
@@ -239,16 +277,18 @@
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
-            <pos>0.375 0.62037037037037</pos><!-- 720 670 -->
-            <size>0.625 0.37962962962963</size><!-- 1200 410-->
+            <pos>0.307692307692308 0.62037037037037</pos><!-- 720 670 -->
+            <size>0.692307692307692 0.37962962962963</size><!-- 1620 410-->
          </image>
          <image name="marquee">
-            <pos>0.973958333333333 0.652777777777778</pos><!-- 1870 705 -->
+            <origin>0.5 1</origin>
+            <pos>0.653846153846154 0.652777777777778</pos><!-- 1530 705 -->
             <maxSize>0.15625 0.2</maxSize><!-- 300 216 -->
          </image>
          <video name="video">
-            <pos>0.6875 0.310185185185185</pos><!-- 1320 335 -->
-            <cropSize>0.625 0.62037037037037</cropSize><!-- 1200 670 -->
+            <origin>0 0</origin>
+            <pos>0.307692307692308 0</pos><!-- 720 0 -->
+            <cropSize>0.692307692307692 0.62037037037037</cropSize><!-- 1620 670 -->
          </video>
       </view>
    </variant>
@@ -259,29 +299,27 @@
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
-            <size>0.296875 0.690740740740741</size><!-- 570 746(62X12) -->
+            <size>0.243589743589744 0.690740740740741</size><!-- 570 746(62X12) -->
          </textlist>
          <text name="description">
-            <pos>0.408333333333333 0.677777777777778</pos><!-- 784 732 -->
-            <size>0.395833333333333 0.259259259259259</size><!-- 760 280 -->
+            <pos>0.335042735042735 0.677777777777778</pos><!-- 784 732 -->
+            <size>0.307692307692308 0.259259259259259</size><!-- 720 280 -->
          </text>
          <image name="last-played-icon">
-            <pos>0.854166666666667 0.868518518518519</pos><!-- 1640 938 -->
-            <maxSize>0.01875 0.033333333333333</maxSize><!-- 36 36 -->
+            <pos>0.681196581196581 0.862962962962963</pos><!-- 1594 932 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
          </image>
          <datetime name="last-played">
-            <pos>0.884375 0.868518518518519</pos><!-- 1698 938 -->
-            <fontSize>0.025925925925926</fontSize><!-- 28 -->
-            <metadata>lastplayed</metadata>
+            <pos>0.706837606837607 0.862962962962963</pos><!-- 1654 932 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
          </datetime>
          <image name="play-count-icon">
-            <pos>0.854166666666667 0.922222222222222</pos><!-- 1640 996 -->
-            <maxSize>0.020833333333333 0.037037037037037</maxSize><!-- 40 40 -->
+            <pos>0.681196581196581 0.916666666666667</pos><!-- 1594 990 -->
+            <maxSize>0.017094017094017 0.037037037037037</maxSize><!-- 40 40 -->
          </image>
          <text name="play-count">
-            <pos>0.884375 0.922222222222222</pos><!-- 1698 996 -->
-            <fontSize>0.025925925925926</fontSize><!-- 28 -->
-            <metadata>playcount</metadata>
+            <pos>0.706837606837607 0.916666666666667</pos><!-- 1654 990 -->
+            <fontSize>0.031481481481481</fontSize><!-- 34 -->
          </text>
       </view>
    </variant>
@@ -294,12 +332,12 @@
       ">
       <view name="gamelist">
          <image name="marquee">
-            <pos>0.6875 0.44212962962963</pos><!-- 1320 477.5 -->
-            <maxSize>0.351617440225035 0.625</maxSize><!-- 500 500 -->
+            <pos>0.653846153846154 0.44212962962963</pos><!-- 1530 477.5 -->
+            <maxSize>0.35042735042735 0.625</maxSize><!-- 820 500 -->
          </image>
          <video name="video">
-            <pos>0.375 0</pos><!-- 720 0 -->
-            <cropSize>0.625 0.884259259259259</cropSize><!-- 1200 955 -->
+            <pos>0.307692307692308 0</pos><!-- 720 0 -->
+            <cropSize>0.692307692307692 0.884259259259259</cropSize><!-- 1620 955 -->
          </video>
       </view>
    </variant>
@@ -310,15 +348,15 @@
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
-            <size>0.296875 0.690740740740741</size><!-- 570 746(62X12) -->
+            <size>0.243589743589744 0.690740740740741</size><!-- 570 746(62X12) -->
          </textlist>
          <image name="marquee">
-            <pos>0.6875 0.5</pos><!-- 1320 50% -->
-            <maxSize>0.351617440225035 0.625</maxSize><!-- 500 500 -->
+            <pos>0.653846153846154 0.5</pos><!-- 1530 50% -->
+            <maxSize>0.35042735042735 0.625</maxSize><!-- 820 500 -->
          </image>
          <video name="video">
-            <pos>0.375 0</pos><!-- 720 0 -->
-            <cropSize>0.625 1</cropSize><!-- 1200 100% -->
+            <pos>0.307692307692308 0</pos><!-- 720 0 -->
+            <cropSize>0.692307692307692 1</cropSize><!-- 1620 100% -->
          </video>
       </view>
    </variant>
@@ -372,10 +410,10 @@
       </view>
    </variant>
 
-   <!-- Carousel -->
+   <!-- Carousel & Carousel Immersive -->
    <variant name="
       system-centered-gamelist-carousel,
-      system-multi-gamelist-carousel
+      system-multi-gamelist-carousel,
       ">
       <view name="gamelist">
          <carousel name="gamelist-carousel">
