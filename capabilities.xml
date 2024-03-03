@@ -137,6 +137,15 @@
    </variant>
 
    <!-- Help Off - System View - Multi Art - List -->
+   <variant name="system-multi-gamelist-list-nh">
+      <label>Help System Off: Multi Art + List</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
    <variant name="system-multi-gamelist-list-immersive-nh">
       <label>Help System Off: Multi Art + List (Immersive)</label>
       <selectable>true</selectable>

@@ -16,6 +16,7 @@
       </helpsystem>
    </view>
    <variant name="
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-list-basic-nh
@@ -56,6 +57,7 @@
       system-multi-gamelist-list-basic,
       system-multi-gamelist-list-basic-nh,
       system-multi-gamelist-list,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
@@ -83,6 +85,7 @@
       system-multi-gamelist-list-basic,
       system-multi-gamelist-list-basic-nh,
       system-multi-gamelist-list,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
@@ -100,6 +103,7 @@
    </variant>
    <variant name="
       system-multi-gamelist-list-basic-nh,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh
       ">
@@ -151,6 +155,7 @@
       system-centered-gamelist-list-immersive,
       system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata,
@@ -180,6 +185,7 @@
       system-centered-gamelist-list,
       system-centered-gamelist-list-immersive,
       system-multi-gamelist-list,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh
       ">
@@ -216,7 +222,8 @@
    <!-- List -->
    <variant name="
       system-centered-gamelist-list,
-      system-multi-gamelist-list
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-nh
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
@@ -253,8 +260,9 @@
       </view>
    </variant>
 
-   <!-- List (Immersive) Help System Off -->
+   <!-- List + List (Immersive) Help System Off -->
    <variant name="
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh
       ">
       <view name="gamelist">

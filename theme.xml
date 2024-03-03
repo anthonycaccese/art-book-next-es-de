@@ -113,6 +113,7 @@ license:       creative commons CC-BY-NC-SA
       system-multi-gamelist-list-no-metadata,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-no-metadata,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-list-basic-nh
@@ -189,6 +190,7 @@ license:       creative commons CC-BY-NC-SA
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh,
       system-multi-gamelist-list-basic-nh
@@ -256,6 +258,7 @@ license:       creative commons CC-BY-NC-SA
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh,
       system-multi-gamelist-list-no-metadata-nh
       ">
@@ -274,6 +277,7 @@ license:       creative commons CC-BY-NC-SA
       system-centered-gamelist-list-immersive,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh
       ">
       <view name="gamelist">
@@ -385,6 +389,7 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List, List (Immersive) No Help -->
    <variant name="
+      system-multi-gamelist-list-nh,
       system-multi-gamelist-list-immersive-nh
       ">
       <view name="gamelist">
@@ -420,7 +425,8 @@ license:       creative commons CC-BY-NC-SA
    <!-- List -->
    <variant name="
       system-centered-gamelist-list,
-      system-multi-gamelist-list
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-nh
       ">
       <view name="gamelist">
          <video name="video">
