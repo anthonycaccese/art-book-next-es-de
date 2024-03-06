@@ -1,5 +1,5 @@
 <theme>
-   <colorScheme name="art-book-next">
+   <colorScheme name="art-book-next,art-book-next-noir">
       <variables>
          <backgroundColor>000000</backgroundColor>
          <!-- System View -->
@@ -39,9 +39,20 @@
          <helpTextColorDimmed>ffffffaa</helpTextColorDimmed>
       </variables>
    </colorScheme>
+   <colorScheme name="art-book-next">
+      <variables>
+         <artworkSource>artwork</artworkSource>
+      </variables>
+   </colorScheme>
+   <colorScheme name="art-book-next-noir">
+      <variables>
+         <artworkSource>artwork-noir</artworkSource>
+      </variables>
+   </colorScheme>
    <colorScheme name="art-book">
       <variables>
          <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
          <!-- System View -->
          <systemBackgroundColor>111111</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
@@ -82,6 +93,7 @@
    <colorScheme name="steam-os">
       <variables>
          <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
          <!-- System View -->
          <systemBackgroundColor>0D141C</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
@@ -122,6 +134,7 @@
    <colorScheme name="snes">
       <variables>
          <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
          <!-- System View -->
          <systemBackgroundColor>231942</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
@@ -162,6 +175,7 @@
    <colorScheme name="famicom">
       <variables>
          <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
          <!-- System View -->
          <systemBackgroundColor>711521</systemBackgroundColor>
          <systemArtSaturation>0</systemArtSaturation>
@@ -202,6 +216,7 @@
    <colorScheme name="black">
       <variables>
          <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
          <!-- System View -->
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
@@ -231,46 +246,6 @@
          <gamelistCarouselDescriptionColor>ffffffee</gamelistCarouselDescriptionColor>
          <gamelistCarouselRatingColor>ffffff33</gamelistCarouselRatingColor>
          <gamelistCarouselSeperatorColor>ffffff11</gamelistCarouselSeperatorColor>
-         <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff66</helpTextColor>
-         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
-         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
-      </variables>
-   </colorScheme>
-   <colorScheme name="grayscale">
-      <variables>
-         <backgroundColor>000000</backgroundColor>
-         <!-- System View -->
-         <systemBackgroundColor>777777</systemBackgroundColor>
-         <systemArtSaturation>0</systemArtSaturation>
-         <systemArtColor>cccccc</systemArtColor>
-         <systemArtFade>00000044</systemArtFade>
-         <systemMaskColor>777777</systemMaskColor>
-         <systemLogoColor>ffffff</systemLogoColor>
-         <systemLogoTextColor>111111</systemLogoTextColor>
-         <!-- Gamelist View - List Variants -->
-         <gamelistListTextlistBackgroundColor>777777</gamelistListTextlistBackgroundColor>
-         <gamelistListLogoColor>ffffff</gamelistListLogoColor>
-         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
-         <gamelistListTextlistUnselectedColor>ffffff22</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>dddddd</gamelistListMetadataBackgroundColor>
-         <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
-         <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
-         <gamelistListRatingColor>00000055</gamelistListRatingColor>
-         <!-- Gamelist View - Carousel Variants -->
-         <gamelistCarouselLogoColor>ffffffaa</gamelistCarouselLogoColor>
-         <gamelistCarouselNoMetadataLogoColor>ffffff</gamelistCarouselNoMetadataLogoColor>
-         <gamelistCarouselBackgroundColor>777777</gamelistCarouselBackgroundColor>
-         <gamelistCarouselMetadataBackgroundColor>aaaaaa</gamelistCarouselMetadataBackgroundColor>
-         <gamelistCarouselMetadataColor>000000aa</gamelistCarouselMetadataColor>
-         <gamelistCarouselNoMetadataMetadataColor>ffffff</gamelistCarouselNoMetadataMetadataColor>
-         <gamelistCarouselMetadataIconColor>00000055</gamelistCarouselMetadataIconColor>
-         <gamelistCarouselDescriptionColor>000000dd</gamelistCarouselDescriptionColor>
-         <gamelistCarouselRatingColor>00000055</gamelistCarouselRatingColor>
-         <gamelistCarouselSeperatorColor>00000011</gamelistCarouselSeperatorColor>
          <!-- Help System -->
          <helpBackgroundColor>000000</helpBackgroundColor>
          <helpIconColor>ffffff66</helpIconColor>

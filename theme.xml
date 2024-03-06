@@ -68,8 +68,8 @@ license:       creative commons CC-BY-NC-SA
             <origin>0.5 0.5</origin>
             <pos>0.5 0.5</pos>
             <size>0 1</size>
-            <default>./_inc/systems/artwork/_default.png</default>
-            <path>./_inc/systems/artwork/${system.theme}.png</path>
+            <default>./_inc/systems/${artworkSource}/_default.png</default>
+            <path>./_inc/systems/${artworkSource}/${system.theme}.png</path>
             <interpolation>linear</interpolation>
             <saturation>${systemArtSaturation}</saturation>
             <color>${systemArtColor}</color>
@@ -123,8 +123,8 @@ license:       creative commons CC-BY-NC-SA
             <color>000000</color>
          </image>
          <carousel name="system-carousel">
-            <defaultImage>./_inc/systems/artwork/_default.png</defaultImage>
-            <staticImage>./_inc/systems/artwork/${system.theme}.png</staticImage>
+            <defaultImage>./_inc/systems/${artworkSource}/_default.png</defaultImage>
+            <staticImage>./_inc/systems/${artworkSource}/${system.theme}.png</staticImage>
             <imageColor>${systemArtColor}99</imageColor>
             <imageSelectedColor>${systemArtColor}dd</imageSelectedColor>
             <imageSaturation>${systemArtSaturation}</imageSaturation>
