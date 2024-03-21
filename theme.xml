@@ -464,7 +464,6 @@ license:       creative commons CC-BY-NC-SA
       <view name="gamelist">
          <video name="video">
             <imageType>screenshot</imageType>
-            <opacity>0.5</opacity>
             <zIndex>1</zIndex>
          </video>
          <image name="marquee">
