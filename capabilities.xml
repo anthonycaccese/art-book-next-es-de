@@ -52,29 +52,29 @@
    -->
    <!-- System View - Multi Art - List -->
    <variant name="system-multi-gamelist-list">
-      <label>Multi Art + List</label>
+      <label>List</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
    <variant name="system-multi-gamelist-list-immersive">
-      <label>Multi Art + List (Immersive)</label>
+      <label>List (Immersive)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
    <variant name="system-multi-gamelist-list-no-metadata">
-      <label>Multi Art + List (No Metadata)</label>
+      <label>List (No Metadata)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-multi-gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -96,28 +96,28 @@
    <!-- System View - Centered Art - List -->
    <variant name="system-centered-gamelist-list">
       <label>Centered Art + List</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
    <variant name="system-centered-gamelist-list-immersive">
       <label>Centered Art + List (Immersive)</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
    <variant name="system-centered-gamelist-list-no-metadata">
       <label>Centered Art + List (No Metadata)</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-centered-gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -138,29 +138,29 @@
 
    <!-- Help Off - System View - Multi Art - List -->
    <variant name="system-multi-gamelist-list-nh">
-      <label>Help System Off: Multi Art + List</label>
+      <label>Help System Off + List</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
    <variant name="system-multi-gamelist-list-immersive-nh">
-      <label>Help System Off: Multi Art + List (Immersive)</label>
+      <label>Help System Off + List (Immersive)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
    <variant name="system-multi-gamelist-list-no-metadata-nh">
-      <label>Help System Off: Multi Art + List (No Metadata)</label>
+      <label>Help System Off + List (No Metadata)</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover</mediaType>
+         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
          <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
