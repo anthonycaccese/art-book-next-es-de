@@ -22,12 +22,6 @@
    <colorScheme name="famicom">
       <label>Famicom</label>
    </colorScheme>
-   <colorScheme name="black">
-      <label>Black</label>
-   </colorScheme>
-   <colorScheme name="art-book-next-noir">
-      <label>(WIP) Art Book Next Noir</label>
-   </colorScheme>
 
    <transitions name="transitions">
       <label>transitions</label>
