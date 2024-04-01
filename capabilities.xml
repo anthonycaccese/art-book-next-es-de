@@ -87,49 +87,6 @@
       <selectable>false</selectable>
    </variant>
 
-   <!-- System View - Centered Art - List -->
-   <variant name="system-centered-gamelist-list">
-      <label>Centered Art + List</label>
-      <selectable>false</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-centered-gamelist-list-basic</useVariant>
-      </override>
-   </variant>
-   <variant name="system-centered-gamelist-list-immersive">
-      <label>Centered Art + List (Immersive)</label>
-      <selectable>false</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-centered-gamelist-list-basic</useVariant>
-      </override>
-   </variant>
-   <variant name="system-centered-gamelist-list-no-metadata">
-      <label>Centered Art + List (No Metadata)</label>
-      <selectable>false</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-centered-gamelist-list-basic</useVariant>
-      </override>
-   </variant>
-   <!-- System View - Centered Art - Carousel -->
-   <variant name="system-centered-gamelist-carousel">
-      <label>Centered Art + Carousel</label>
-      <selectable>false</selectable>
-   </variant>
-   <variant name="system-centered-gamelist-carousel-no-metadata">
-      <label>Centered Art + Carousel (No Metadata)</label>
-      <selectable>false</selectable>
-   </variant>
-   <!-- System View - Centered Art - Basic -->
-   <variant name="system-centered-gamelist-list-basic">
-      <label>Centered Art + List (Basic)</label>
-      <selectable>false</selectable>
-   </variant>
-
    <!-- Help Off - System View - Multi Art - List -->
    <variant name="system-multi-gamelist-list-nh">
       <label>Help System Off + List</label>

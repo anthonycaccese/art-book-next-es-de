@@ -11,9 +11,6 @@
       </text>
    </view>
    <variant name="
-      system-centered-gamelist-list,
-      system-centered-gamelist-list-immersive,
-      system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh,
@@ -57,8 +54,6 @@
       </aspectRatio>
    </variant>
    <variant name="
-      system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-no-metadata
       ">

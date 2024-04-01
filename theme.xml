@@ -51,61 +51,9 @@ license:       creative commons CC-BY-NC-SA
 
    <!--
    ///
-   System View - Variants
+   System View
    ///
    -->
-   <!-- Centered Art -->
-   <variant name="
-      system-centered-gamelist-list-basic,
-      system-centered-gamelist-list,
-      system-centered-gamelist-list-immersive,
-      system-centered-gamelist-list-no-metadata,
-      system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-no-metadata
-      ">
-      <view name="system">
-         <image name="system-art">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.5</pos>
-            <size>0 1</size>
-            <default>./_inc/systems/${artworkSource}/_default.png</default>
-            <path>./_inc/systems/${artworkSource}/${system.theme}.png</path>
-            <interpolation>linear</interpolation>
-            <saturation>${systemArtSaturation}</saturation>
-            <color>${systemArtColor}</color>
-            <zIndex>2</zIndex>
-         </image>
-         <image name="system-art-fade">
-            <origin>0 0</origin>
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <path>${spacerImage}</path>
-            <tile>true</tile>
-            <color>${systemArtFade}</color>
-            <zIndex>3</zIndex>
-         </image>
-         <image name="system-art-mask">
-            <origin>0.5 0</origin>
-            <pos>0.5 0</pos>
-            <size>0 1</size>
-            <color>${systemMaskColor}</color>
-            <zIndex>4</zIndex>
-         </image>
-         <carousel name="system-carousel">
-            <staticImage>./_inc/systems/logos/${system.theme}.svg</staticImage>
-            <imageColor>${systemLogoColor}</imageColor>
-            <itemScale>2</itemScale>
-            <itemSize>0.25 0.15</itemSize>
-            <maxItemCount>2</maxItemCount>
-            <text>${system.fullName}</text>
-            <textColor>${systemLogoTextColor}</textColor>
-            <letterCase>uppercase</letterCase>
-            <fontPath>${fontLogo}</fontPath>
-            <zIndex>5</zIndex>
-         </carousel>
-      </view>
-   </variant>
-   <!-- Multi Art -->
    <variant name="
       system-multi-gamelist-list-basic,
       system-multi-gamelist-list,
@@ -182,10 +130,6 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <variant name="
-      system-centered-gamelist-list-basic,
-      system-centered-gamelist-list,
-      system-centered-gamelist-list-immersive,
-      system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list-basic,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
@@ -231,7 +175,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List (Basic) -->
    <variant name="
-      system-centered-gamelist-list-basic,
       system-multi-gamelist-list-basic,
       system-multi-gamelist-list-basic-nh
       ">
@@ -252,9 +195,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List, List (Immersive) & List (No Metadata) -->
    <variant name="
-      system-centered-gamelist-list,
-      system-centered-gamelist-list-immersive,
-      system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-no-metadata,
@@ -273,8 +213,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List, List (Immersive) -->
    <variant name="
-      system-centered-gamelist-list,
-      system-centered-gamelist-list-immersive,
       system-multi-gamelist-list,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-nh,
@@ -424,7 +362,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List -->
    <variant name="
-      system-centered-gamelist-list,
       system-multi-gamelist-list,
       system-multi-gamelist-list-nh
       ">
@@ -438,7 +375,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List (Immersive) -->
    <variant name="
-      system-centered-gamelist-list-immersive,
       system-multi-gamelist-list-immersive,
       system-multi-gamelist-list-immersive-nh
       ">
@@ -457,7 +393,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!-- List (No Metadata) -->
    <variant name="
-      system-centered-gamelist-list-no-metadata,
       system-multi-gamelist-list-no-metadata,
       system-multi-gamelist-list-no-metadata-nh
       ">
@@ -479,8 +414,6 @@ license:       creative commons CC-BY-NC-SA
    ///
    -->
    <variant name="
-      system-centered-gamelist-carousel,
-      system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel,
       system-multi-gamelist-carousel-no-metadata
       ">
@@ -511,7 +444,6 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <variant name="
-      system-centered-gamelist-carousel,
       system-multi-gamelist-carousel
       ">
       <view name="gamelist">
@@ -620,7 +552,6 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <variant name="
-      system-centered-gamelist-carousel,
       system-multi-gamelist-carousel
       ">
       <view name="gamelist">
@@ -639,7 +570,6 @@ license:       creative commons CC-BY-NC-SA
    </variant>
 
    <variant name="
-      system-centered-gamelist-carousel-no-metadata,
       system-multi-gamelist-carousel-no-metadata
       ">
       <view name="gamelist">
