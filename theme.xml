@@ -143,7 +143,7 @@ license:       creative commons CC-BY-NC-SA
             <origin>0 0</origin>
             <horizontalAlignment>left</horizontalAlignment>
             <fontPath>${fontBold}</fontPath>
-            <systemNameSuffix>true</systemNameSuffix>
+            <systemNameSuffix>false</systemNameSuffix>
             <selectorColor>00000000</selectorColor>
             <selectedColor>${gamelistListTextlistSelectedColor}</selectedColor>
             <primaryColor>${gamelistListTextlistUnselectedColor}</primaryColor>
