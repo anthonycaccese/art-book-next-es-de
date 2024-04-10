@@ -22,6 +22,12 @@
    <colorScheme name="famicom">
       <label>Famicom</label>
    </colorScheme>
+   <colorScheme name="black">
+      <label>Black</label>
+   </colorScheme>
+   <colorScheme name="grayscale">
+      <label>Grayscale</label>
+   </colorScheme>
 
    <transitions name="transitions">
       <label>transitions</label>
@@ -122,3 +128,40 @@
    </variant>
 
 </themeCapabilities>
+
+<!--
+
+List: Metadata & Boxart (*New)
+List: Metadata & Miximage (<<< Existing List Variant)
+List: Metadata & Screenshot + Marquee (<<< Existing Immersive Variant)
+- What changes:
+   - Media Display
+      - game-art
+      - game-art-marquee
+- What's consistent:
+   - Gamelist
+   - Logo
+   - Metadata Display
+
+List: Boxart (*New)
+List: Miximage (*New)
+List: Screenshot + Marquee (<<< Existing No Metadata Variant)
+- What changes:
+   - Media Display
+      - game-art
+      - game-art-marquee
+- What's consistent:
+   - Gamelist
+   - Logo
+
+(Help Off) List: Metadata & Boxart
+(Help Off) List: Metadata & Boxart
+(Help Off) List: Metadata & Miximage
+(Help Off) List: Metadata & Screenshot + Marquee
+(Help Off) List: Boxart
+(Help Off) List: Miximage
+(Help Off) List: Screenshot + Marquee
+
+Basic
+
+-->

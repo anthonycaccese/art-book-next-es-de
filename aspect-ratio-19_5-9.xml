@@ -40,24 +40,11 @@
    System View
    ///
    -->
-   <variant name="
-      system-multi-gamelist-list-basic,
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-no-metadata,
-      system-multi-gamelist-list-basic-nh,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata-nh
-      ">
-      <view name="system">
-         <carousel name="system-carousel">
-            <maxItemCount>6.75</maxItemCount>
-         </carousel>
-      </view>
-   </variant>
+   <view name="system">
+      <carousel name="system-carousel">
+         <maxItemCount>6.75</maxItemCount>
+      </carousel>
+   </view>
 
    <!--
    ///

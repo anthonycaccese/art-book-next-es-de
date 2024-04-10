@@ -204,4 +204,86 @@
          <helpTextColorDimmed>cccccc</helpTextColorDimmed>
       </variables>
    </colorScheme>
+   <colorScheme name="black">
+      <variables>
+         <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
+         <!-- System View -->
+         <systemBackgroundColor>000000</systemBackgroundColor>
+         <systemArtSaturation>1</systemArtSaturation>
+         <systemArtColor>ffffff</systemArtColor>
+         <systemArtFade>00000044</systemArtFade>
+         <systemMaskColor>000000</systemMaskColor>
+         <systemLogoColor>ffffff</systemLogoColor>
+         <systemLogoTextColor>ffffff</systemLogoTextColor>
+         <!-- Gamelist View - List Variants -->
+         <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
+         <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>000000</gamelistListMetadataBackgroundColor>
+         <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
+         <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
+         <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
+         <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
+         <!-- Gamelist View - Carousel Variants -->
+         <gamelistCarouselLogoColor>ffffffaa</gamelistCarouselLogoColor>
+         <gamelistCarouselNoMetadataLogoColor>ffffffaa</gamelistCarouselNoMetadataLogoColor>
+         <gamelistCarouselBackgroundColor>000000</gamelistCarouselBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>111111</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselMetadataColor>ffffff88</gamelistCarouselMetadataColor>
+         <gamelistCarouselNoMetadataMetadataColor>ffffff88</gamelistCarouselNoMetadataMetadataColor>
+         <gamelistCarouselMetadataIconColor>ffffff33</gamelistCarouselMetadataIconColor>
+         <gamelistCarouselDescriptionColor>ffffffee</gamelistCarouselDescriptionColor>
+         <gamelistCarouselRatingColor>ffffff33</gamelistCarouselRatingColor>
+         <gamelistCarouselSeperatorColor>ffffff11</gamelistCarouselSeperatorColor>
+         <!-- Help System -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
+      </variables>
+   </colorScheme>
+   <colorScheme name="grayscale">
+      <variables>
+         <backgroundColor>000000</backgroundColor>
+         <artworkSource>artwork</artworkSource>
+         <!-- System View -->
+         <systemBackgroundColor>777777</systemBackgroundColor>
+         <systemArtSaturation>0</systemArtSaturation>
+         <systemArtColor>cccccc</systemArtColor>
+         <systemArtFade>00000044</systemArtFade>
+         <systemMaskColor>777777</systemMaskColor>
+         <systemLogoColor>ffffff</systemLogoColor>
+         <systemLogoTextColor>111111</systemLogoTextColor>
+         <!-- Gamelist View - List Variants -->
+         <gamelistListTextlistBackgroundColor>777777</gamelistListTextlistBackgroundColor>
+         <gamelistListLogoColor>ffffff</gamelistListLogoColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff22</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataBackgroundColor>dddddd</gamelistListMetadataBackgroundColor>
+         <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
+         <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
+         <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
+         <gamelistListRatingColor>00000055</gamelistListRatingColor>
+         <!-- Gamelist View - Carousel Variants -->
+         <gamelistCarouselLogoColor>ffffffaa</gamelistCarouselLogoColor>
+         <gamelistCarouselNoMetadataLogoColor>ffffff</gamelistCarouselNoMetadataLogoColor>
+         <gamelistCarouselBackgroundColor>777777</gamelistCarouselBackgroundColor>
+         <gamelistCarouselMetadataBackgroundColor>aaaaaa</gamelistCarouselMetadataBackgroundColor>
+         <gamelistCarouselMetadataColor>000000aa</gamelistCarouselMetadataColor>
+         <gamelistCarouselNoMetadataMetadataColor>ffffff</gamelistCarouselNoMetadataMetadataColor>
+         <gamelistCarouselMetadataIconColor>00000055</gamelistCarouselMetadataIconColor>
+         <gamelistCarouselDescriptionColor>000000dd</gamelistCarouselDescriptionColor>
+         <gamelistCarouselRatingColor>00000055</gamelistCarouselRatingColor>
+         <gamelistCarouselSeperatorColor>00000011</gamelistCarouselSeperatorColor>
+         <!-- Help System -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>ffffff66</helpIconColor>
+         <helpTextColor>ffffff66</helpTextColor>
+         <helpIconColorDimmed>cccccc</helpIconColorDimmed>
+         <helpTextColorDimmed>cccccc</helpTextColorDimmed>
+      </variables>
+   </colorScheme>
 </theme>

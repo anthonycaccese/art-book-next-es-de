@@ -3,19 +3,26 @@ theme name:    Art Book Next (ES-DE Edition)
 author:        Anthony Caccese
 license:       creative commons CC-BY-NC-SA
 -->
-
 <theme>
 
+   <!--
+   ///
+   Variables
+   ///
+   -->
    <variables>
-      <fontBold>./_inc/fonts/Oxygen-Bold.ttf</fontBold>
-      <fontLight>./_inc/fonts/Oxygen-Light.ttf</fontLight>
       <fontRegular>./_inc/fonts/Oxygen-Regular.ttf</fontRegular>
+      <fontBold>./_inc/fonts/Oxygen-Bold.ttf</fontBold>
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
-
    <include>./colors.xml</include>
 
+   <!--
+   ///
+   All Views
+   ///
+   -->
    <view name="system,gamelist">
       <image name="background">
          <origin>0 0</origin>
@@ -26,7 +33,6 @@ license:       creative commons CC-BY-NC-SA
          <zIndex>0</zIndex>
       </image>
    </view>
-   
    <include>./help-system.xml</include>
 
    <!--
@@ -36,7 +42,7 @@ license:       creative commons CC-BY-NC-SA
    -->
    <view name="system">
       <image name="background">
-         <color>${systemBackgroundColor}</color>
+         <color>000000</color>
       </image>
       <carousel name="system-carousel">
          <origin>0 0</origin>
@@ -46,51 +52,25 @@ license:       creative commons CC-BY-NC-SA
          <itemTransitions>animate</itemTransitions>
          <itemVerticalAlignment>center</itemVerticalAlignment>
          <fastScrolling>true</fastScrolling>
+         <defaultImage>./_inc/systems/${artworkSource}/_default.png</defaultImage>
+         <staticImage>./_inc/systems/${artworkSource}/${system.theme}.png</staticImage>
+         <imageColor>${systemArtColor}99</imageColor>
+         <imageSelectedColor>${systemArtColor}dd</imageSelectedColor>
+         <imageSaturation>${systemArtSaturation}</imageSaturation>
+         <itemScale>1</itemScale>
+         <itemSize>1 1</itemSize>
+         <textColor>00000000</textColor>
+         <zIndex>1</zIndex>
       </carousel>
+      <image name="system-logo">
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.5</pos>
+         <maxSize>0.5 0.3</maxSize>
+         <path>./_inc/systems/logos/${system.theme}.svg</path>
+         <color>${systemLogoColor}</color>
+         <zIndex>3</zIndex>
+      </image>
    </view>
-
-   <!--
-   ///
-   System View
-   ///
-   -->
-   <variant name="
-      system-multi-gamelist-list-basic,
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-no-metadata,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata-nh,
-      system-multi-gamelist-list-basic-nh
-      ">
-      <view name="system">
-         <image name="background">
-            <color>000000</color>
-         </image>
-         <carousel name="system-carousel">
-            <defaultImage>./_inc/systems/${artworkSource}/_default.png</defaultImage>
-            <staticImage>./_inc/systems/${artworkSource}/${system.theme}.png</staticImage>
-            <imageColor>${systemArtColor}99</imageColor>
-            <imageSelectedColor>${systemArtColor}dd</imageSelectedColor>
-            <imageSaturation>${systemArtSaturation}</imageSaturation>
-            <itemScale>1</itemScale>
-            <itemSize>1 1</itemSize>
-            <textColor>00000000</textColor>
-            <zIndex>1</zIndex>
-         </carousel>
-         <image name="system-logo">
-            <origin>0.5 0.5</origin>
-            <pos>0.5 0.5</pos>
-            <maxSize>0.5 0.3</maxSize>
-            <path>./_inc/systems/logos/${system.theme}.svg</path>
-            <color>${systemLogoColor}</color>
-            <zIndex>3</zIndex>
-         </image>
-      </view>
-   </variant>
 
    <!--
    ///
