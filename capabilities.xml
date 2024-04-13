@@ -2,11 +2,30 @@
    
    <themeName>Art Book Next</themeName>
 
+   <!--
+   ///
+   Aspect Ratios
+   ///
+   -->
    <aspectRatio>16:9</aspectRatio>
    <aspectRatio>16:10</aspectRatio>
    <aspectRatio>4:3</aspectRatio>
    <aspectRatio>19.5:9</aspectRatio>
 
+   <!--
+   ///
+   Font Size
+   ///
+   -->
+   <fontSize>small</fontSize>
+   <fontSize>medium</fontSize>
+   <fontSize>large</fontSize>
+
+   <!--
+   ///
+   Color Schemes
+   ///
+   -->
    <colorScheme name="art-book-next">
       <label>Art Book Next</label>
    </colorScheme>
@@ -29,6 +48,11 @@
       <label>Grayscale</label>
    </colorScheme>
 
+   <!--
+   ///
+   Transitions
+   ///
+   -->
    <transitions name="transitions">
       <label>transitions</label>
       <selectable>false</selectable>
@@ -46,7 +70,9 @@
    </suppressTransitionProfiles>
 
    <!--
+   ///
    List Variants - Metadata & Media
+   ///
    -->
    <!-- List: Metadata & Miximage -->
    <variant name="gamelist-list-metadata-miximage">
@@ -70,7 +96,9 @@
    </variant>
 
    <!--
+   ///
    List Variants - Media Only
+   ///
    -->
    <!-- List: Boxart -->
    <variant name="gamelist-list-cover">
@@ -92,7 +120,7 @@
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
-
+   
    <!--
    ///
    List Variants - Basic
@@ -142,7 +170,7 @@
       <override>
          <trigger>noMedia</trigger>
          <mediaType>cover</mediaType>
-         <useVariant>gamelist-list-basic</useVariant>
+         <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
    <!-- List: Screenshot + Marquee -->
@@ -163,24 +191,6 @@
    -->
    <variant name="gamelist-list-basic-nh">
       <label>(Help Off) List: Basic</label>
-      <selectable>false</selectable>
-   </variant>
-
-
-
-
-
-
-
-
-
-   <!-- System View - Multi Art - Carousel -->
-   <variant name="system-multi-gamelist-carousel">
-      <label>Multi Art + Carousel</label>
-      <selectable>false</selectable>
-   </variant>
-   <variant name="system-multi-gamelist-carousel-no-metadata">
-      <label>Multi Art + Carousel (No Metadata)</label>
       <selectable>false</selectable>
    </variant>
 

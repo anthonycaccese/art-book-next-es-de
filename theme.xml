@@ -32,8 +32,43 @@ license:       creative commons CC-BY-NC-SA
          <tile>true</tile>
          <zIndex>0</zIndex>
       </image>
+      <image name="help-background">
+         <origin>0 1</origin>
+         <pos>0 1</pos>
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <color>${helpBackgroundColor}</color>
+      </image>
+      <helpsystem name="help">
+         <origin>0.5 0.5</origin>
+         <textColor>${helpTextColor}</textColor>
+         <iconColor>${helpIconColor}</iconColor>
+         <!--<fontPath>${fontRegular}</fontPath>
+         <letterCase>capitalize</letterCase>-->
+         <!-- East Button -->
+         <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-east.svg</customButtonIcon>
+         <customButtonIcon button="button_b_PS">./_inc/images/help-button-east.svg</customButtonIcon>
+         <customButtonIcon button="button_b_switch">./_inc/images/help-button-south.svg</customButtonIcon>
+         <customButtonIcon button="button_b_SNES">./_inc/images/help-button-east.svg</customButtonIcon>
+         <!-- South Button -->
+         <customButtonIcon button="button_a_XBOX">./_inc/images/help-button-south.svg</customButtonIcon>
+         <customButtonIcon button="button_a_PS">./_inc/images/help-button-south.svg</customButtonIcon>
+         <customButtonIcon button="button_a_switch">./_inc/images/help-button-east.svg</customButtonIcon>
+         <customButtonIcon button="button_a_SNES">./_inc/images/help-button-south.svg</customButtonIcon>
+         <!-- North Button -->
+         <customButtonIcon button="button_y_XBOX">./_inc/images/help-button-north.svg</customButtonIcon>
+         <customButtonIcon button="button_y_PS">./_inc/images/help-button-north.svg</customButtonIcon>
+         <customButtonIcon button="button_y_switch">./_inc/images/help-button-west.svg</customButtonIcon>
+         <customButtonIcon button="button_y_SNES">./_inc/images/help-button-north.svg</customButtonIcon>
+         <!-- West Button -->
+         <customButtonIcon button="button_x_XBOX">./_inc/images/help-button-west.svg</customButtonIcon>
+         <customButtonIcon button="button_x_PS">./_inc/images/help-button-west.svg</customButtonIcon>
+         <customButtonIcon button="button_x_switch">./_inc/images/help-button-north.svg</customButtonIcon>
+         <customButtonIcon button="button_x_SNES">./_inc/images/help-button-west.svg</customButtonIcon>
+         <!-- Left Stick Click -->
+         <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
+      </helpsystem>
    </view>
-   <include>./help-system.xml</include>
 
    <!--
    ///
@@ -42,7 +77,7 @@ license:       creative commons CC-BY-NC-SA
    -->
    <view name="system">
       <image name="background">
-         <color>000000</color>
+         <color>${systemBackgroundColor}</color>
       </image>
       <carousel name="system-carousel">
          <origin>0 0</origin>
@@ -74,7 +109,7 @@ license:       creative commons CC-BY-NC-SA
 
    <!--
    ///
-   Gamelist View
+   Gamelist View - Global
    ///
    -->
    <view name="gamelist">
@@ -106,7 +141,7 @@ license:       creative commons CC-BY-NC-SA
 
    <!--
    ///
-   Gamelist View - List Variants
+   Gamelist View - Basic & List Variants
    ///
    -->
    <variant name="
@@ -123,7 +158,7 @@ license:       creative commons CC-BY-NC-SA
       ">
       <view name="gamelist">
          <image name="background">
-            <color>${backgroundColor}</color>
+            <color>${gamelistListBackgroundColor}</color>
          </image>
          <badges name="badges">
             <origin>1 0</origin>
@@ -155,7 +190,11 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </variant>
 
-   <!-- List (Basic) -->
+   <!--
+   ///
+   Gamelist View - Basic Variant
+   ///
+   -->
    <variant name="
       gamelist-list-basic,
       gamelist-list-basic-nh
@@ -170,12 +209,16 @@ license:       creative commons CC-BY-NC-SA
          <textlist name="gamelist-list">
             <origin>0.5 0</origin>
             <horizontalAlignment>center</horizontalAlignment>
-            <!-- Additional settings in Aspect Ratio Files -->
+            <!-- Additional settings handled in Aspect Ratio Files -->
          </textlist>
       </view>
    </variant>
 
-   <!-- List, List (Immersive) & List (No Metadata) -->
+   <!--
+   ///
+   Gamelist View - List Variants
+   ///
+   -->
    <variant name="
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-miximage-nh,
@@ -195,7 +238,11 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </variant>
 
-   <!-- List, List (Immersive) -->
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata
+   ///
+   -->
    <variant name="
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-miximage-nh,
@@ -309,7 +356,50 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </variant>
 
-   <!-- List, List (Immersive) No Help -->
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata & Miximage
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh
+      ">
+      <view name="gamelist">
+         <video name="video">
+            <origin>0.5 0.5</origin>
+            <imageType>miximage</imageType>
+         </video>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata & Screenshot + Marquee
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh
+      ">
+      <view name="gamelist">
+         <video name="video">
+            <origin>0.5 0.5</origin>
+            <imageType>screenshot</imageType>
+            <zIndex>1</zIndex>
+         </video>
+         <image name="marquee">
+            <origin>1 1</origin>
+            <imageType>marquee</imageType>
+         </image>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - NH List Variants: Metadata
+   ///
+   -->
    <variant name="
       gamelist-list-metadata-miximage-nh,
       gamelist-list-metadata-screenshot-marquee-nh
@@ -344,38 +434,11 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </variant>
 
-   <!-- List -->
-   <variant name="
-      gamelist-list-metadata-miximage,
-      gamelist-list-metadata-miximage-nh
-      ">
-      <view name="gamelist">
-         <video name="video">
-            <origin>0.5 0.5</origin>
-            <imageType>miximage</imageType>
-         </video>
-      </view>
-   </variant>
-
-   <!-- List (Immersive) -->
-   <variant name="
-      gamelist-list-metadata-screenshot-marquee,
-      gamelist-list-metadata-screenshot-marquee-nh
-      ">
-      <view name="gamelist">
-         <video name="video">
-            <origin>0.5 0.5</origin>
-            <imageType>screenshot,fanart</imageType>
-            <zIndex>1</zIndex>
-         </video>
-         <image name="marquee">
-            <origin>1 1</origin>
-            <imageType>marquee</imageType>
-         </image>
-      </view>
-   </variant>
-
-   <!-- List: Boxart -->
+   <!--
+   ///
+   Gamelist View - List Variants: Boxart
+   ///
+   -->
    <variant name="
       gamelist-list-cover,
       gamelist-list-cover-nh
@@ -388,7 +451,11 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </variant>
 
-   <!-- List: Screenshot + Marquee -->
+   <!--
+   ///
+   Gamelist View - List Variants: Screenshot + Marquee
+   ///
+   -->
    <variant name="
       gamelist-list-screenshot-marquee,
       gamelist-list-screenshot-marquee-nh
