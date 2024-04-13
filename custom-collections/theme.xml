@@ -11,10 +11,10 @@
       </text>
    </view>
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-screenshot-marquee
       ">
       <aspectRatio name="16:9">
          <view name="gamelist">

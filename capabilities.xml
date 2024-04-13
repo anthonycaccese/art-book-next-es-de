@@ -46,38 +46,134 @@
    </suppressTransitionProfiles>
 
    <!--
+   List Variants - Metadata & Media
+   -->
+   <!-- List: Metadata & Miximage -->
+   <variant name="gamelist-list-metadata-miximage">
+      <label>List: Metadata &amp; Miximage</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <!-- List: Metadata & Screenshot -->
+   <variant name="gamelist-list-metadata-screenshot-marquee">
+      <label>List: Metadata &amp; Screenshot + Marquee</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+
+   <!--
+   List Variants - Media Only
+   -->
+   <!-- List: Boxart -->
+   <variant name="gamelist-list-cover">
+      <label>List: Boxart</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>cover</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <!-- List: Screenshot + Marquee -->
+   <variant name="gamelist-list-screenshot-marquee">
+      <label>List: Screenshot + Marquee</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+
+   <!--
    ///
-   Variants
+   List Variants - Basic
    ///
    -->
-   <!-- System View - Multi Art - List -->
-   <variant name="system-multi-gamelist-list">
-      <label>List</label>
+   <!-- List: Basic -->
+   <variant name="gamelist-list-basic">
+      <label>List: Basic</label>
+      <selectable>false</selectable>
+   </variant>
+
+   <!--
+   ///
+   NH List Variants - Metadata & Media
+   ///
+   -->
+   <!-- List: Metadata & Miximage -->
+   <variant name="gamelist-list-metadata-miximage-nh">
+      <label>(Help Off) List: Metadata &amp; Miximage</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-multi-gamelist-list-basic</useVariant>
+         <mediaType>miximage</mediaType>
+         <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <variant name="system-multi-gamelist-list-immersive">
-      <label>List (Immersive)</label>
+   <!-- List: Metadata & Screenshot -->
+   <variant name="gamelist-list-metadata-screenshot-marquee-nh">
+      <label>(Help Off) List: Metadata &amp; Screenshot + Marquee</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-multi-gamelist-list-basic</useVariant>
+         <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <variant name="system-multi-gamelist-list-no-metadata">
-      <label>List (No Metadata)</label>
+
+   <!--
+   ///
+   NH List Variants - Media Only
+   ///
+   -->
+   <!-- List: Boxart -->
+   <variant name="gamelist-list-cover-nh">
+      <label>(Help Off) List: Boxart</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-multi-gamelist-list-basic</useVariant>
+         <mediaType>cover</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
+   <!-- List: Screenshot + Marquee -->
+   <variant name="gamelist-list-screenshot-marquee-nh">
+      <label>(Help Off) List: Screenshot + Marquee</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
+
+   <!--
+   ///
+   NH List Variants - Basic
+   ///
+   -->
+   <variant name="gamelist-list-basic-nh">
+      <label>(Help Off) List: Basic</label>
+      <selectable>false</selectable>
+   </variant>
+
+
+
+
+
+
+
+
+
    <!-- System View - Multi Art - Carousel -->
    <variant name="system-multi-gamelist-carousel">
       <label>Multi Art + Carousel</label>
@@ -85,45 +181,6 @@
    </variant>
    <variant name="system-multi-gamelist-carousel-no-metadata">
       <label>Multi Art + Carousel (No Metadata)</label>
-      <selectable>false</selectable>
-   </variant>
-   <!-- System View - Multi Art - Basic -->
-   <variant name="system-multi-gamelist-list-basic">
-      <label>Multi Art + List (Basic)</label>
-      <selectable>false</selectable>
-   </variant>
-
-   <!-- Help Off - System View - Multi Art - List -->
-   <variant name="system-multi-gamelist-list-nh">
-      <label>Help System Off + List</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
-      </override>
-   </variant>
-   <variant name="system-multi-gamelist-list-immersive-nh">
-      <label>Help System Off + List (Immersive)</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
-      </override>
-   </variant>
-   <variant name="system-multi-gamelist-list-no-metadata-nh">
-      <label>Help System Off + List (No Metadata)</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage,screenshot,titlescreen,fanart,cover,marquee</mediaType>
-         <useVariant>system-multi-gamelist-list-basic-nh</useVariant>
-      </override>
-   </variant>
-   <!-- Help Off - System View - Multi Art - Basic -->
-   <variant name="system-multi-gamelist-list-basic-nh">
-      <label>Help System Off: Multi Art + List (Basic)</label>
       <selectable>false</selectable>
    </variant>
 
@@ -144,7 +201,6 @@ List: Metadata & Screenshot + Marquee (<<< Existing Immersive Variant)
    - Metadata Display
 
 List: Boxart (*New)
-List: Miximage (*New)
 List: Screenshot + Marquee (<<< Existing No Metadata Variant)
 - What changes:
    - Media Display
@@ -155,11 +211,9 @@ List: Screenshot + Marquee (<<< Existing No Metadata Variant)
    - Logo
 
 (Help Off) List: Metadata & Boxart
-(Help Off) List: Metadata & Boxart
 (Help Off) List: Metadata & Miximage
 (Help Off) List: Metadata & Screenshot + Marquee
 (Help Off) List: Boxart
-(Help Off) List: Miximage
 (Help Off) List: Screenshot + Marquee
 
 Basic

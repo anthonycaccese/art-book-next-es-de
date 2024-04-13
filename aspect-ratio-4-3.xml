@@ -31,18 +31,20 @@
 
    <!--
    ///
-   Gamelist View - Basic & List Variants
+   Gamelist View - List Variants
    ///
    -->
    <variant name="
-      system-multi-gamelist-list-basic,
-      system-multi-gamelist-list-basic-nh,
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-basic,
+      gamelist-list-basic-nh,
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-cover,
+      gamelist-list-cover-nh,
+      gamelist-list-screenshot-marquee,
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -61,8 +63,8 @@
    ///
    -->
    <variant name="
-      system-multi-gamelist-list-basic,
-      system-multi-gamelist-list-basic-nh
+      gamelist-list-basic,
+      gamelist-list-basic-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -81,12 +83,14 @@
    ///
    -->
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-cover,
+      gamelist-list-cover-nh,
+      gamelist-list-screenshot-marquee,
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -109,10 +113,10 @@
 
    <!-- List & List (Immersive) -->
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <text name="description">
@@ -145,8 +149,8 @@
 
    <!-- List -->
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
@@ -165,8 +169,8 @@
 
    <!-- List (Immersive) -->
    <variant name="
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
@@ -188,8 +192,8 @@
 
    <!-- List + List (Immersive) Help System Off -->
    <variant name="
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive-nh
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="last-played-icon">
@@ -207,10 +211,23 @@
       </view>
    </variant>
 
-   <!-- List (No Metadata) -->
+   <!-- List: Boxart -->
    <variant name="
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-cover,
+      gamelist-list-cover-nh
+      ">
+      <view name="gamelist">
+         <video name="video">
+            <pos>0.5 0</pos><!-- 320 0 -->
+            <maxSize>0.5 1</maxSize><!-- 320 100% -->
+         </video>
+      </view>
+   </variant>
+
+   <!-- List: Screenshot + Marquee -->
+   <variant name="
+      gamelist-list-screenshot-marquee,
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="marquee">
@@ -221,127 +238,6 @@
             <pos>0.5 00</pos><!-- 320 0 -->
             <cropSize>0.5 1</cropSize><!-- 320 100% -->
          </video>
-      </view>
-   </variant>
-
-   <!--
-   ///
-   Carousel Variants
-   ///
-   -->
-   <variant name="
-      system-multi-gamelist-carousel,
-      system-multi-gamelist-carousel-no-metadata
-      ">
-      <view name="gamelist">
-         <image name="logo">
-            <pos>0.5 0.125</pos>
-            <maxSize>0.3 0.1</maxSize><!-- 300 60 -->
-         </image>
-         <badges name="badges">
-            <pos>0.5 0.7</pos>
-            <size>0.8 0.083333333333333</size><!-- 1372 40 -->
-         </badges>
-      </view>
-   </variant>
-
-   <!-- Carousel (No Metadata) -->
-   <variant name="
-      system-multi-gamelist-carousel-no-metadata
-      ">
-      <view name="gamelist">
-         <carousel name="gamelist-carousel">
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <itemSize>0.4 0.4</itemSize>
-            <itemScale>1.2</itemScale>
-            <maxItemCount>3</maxItemCount>
-            <unfocusedItemDimming>0.4</unfocusedItemDimming>
-         </carousel>
-      </view>
-   </variant>
-
-   <!-- Carousel -->
-   <variant name="
-      system-multi-gamelist-carousel
-      ">
-      <view name="gamelist">
-         <carousel name="gamelist-carousel">
-            <pos>0 0</pos>
-            <size>1 1</size>
-            <itemSize>0.4 0.4</itemSize>
-            <itemScale>1.2</itemScale>
-            <maxItemCount>3</maxItemCount>
-            <unfocusedItemDimming>0.4</unfocusedItemDimming>
-         </carousel>
-         <rating name="rating">
-            <origin>0 0</origin>
-            <pos>1 1</pos>
-         </rating>
-         <text name="genre">
-            <visible>false</visible>
-         </text>
-         <image name="icon-players">
-            <visible>false</visible>
-         </image>
-         <text name="players">
-            <visible>false</visible>
-         </text>
-         <image name="metadata-seperator-left">
-            <visible>false</visible>
-         </image>
-         <text name="description">
-            <origin>0.5 0</origin>
-            <pos>0.5 0.8</pos>
-            <size>0.8 0.2</size>
-         </text>
-         <image name="metadata-seperator-right">
-            <visible>false</visible>
-         </image>
-         <image name="icon-release-date">
-            <visible>false</visible>
-         </image>
-         <datetime name="releasedate">
-            <visible>false</visible>
-         </datetime>
-         <image name="icon-developer">
-            <visible>false</visible>
-         </image>
-         <text name="developer">
-            <visible>false</visible>
-         </text>
-         <image name="icon-publisher">
-            <visible>false</visible>
-         </image>
-         <text name="publisher">
-            <visible>false</visible>
-         </text>
-         <image name="game-metadata-background">
-            <pos>0 0.5</pos><!-- 0 240 -->
-            <size>1 0.5</size><!-- 100% 240 -->
-         </image>
-      </view>
-   </variant>
-
-   <variant name="
-      system-multi-gamelist-carousel
-      ">
-      <view name="gamelist">
-         <image name="game-artwork">
-            <cropSize>1 0.5</cropSize>
-         </image>
-      </view>
-   </variant>
-
-   <variant name="
-      system-multi-gamelist-carousel-no-metadata
-      ">
-      <view name="gamelist">
-         <text name="name">
-            <origin>0.5 0</origin>
-            <pos>0.5 0.77</pos>
-            <size>0.8 0.2</size>
-         </text>
       </view>
    </variant>
    

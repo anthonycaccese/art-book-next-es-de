@@ -16,10 +16,10 @@
       </helpsystem>
    </view>
    <variant name="
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata-nh,
-      system-multi-gamelist-list-basic-nh
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-screenshot-marquee-nh,
+      gamelist-list-basic-nh
       ">
       <view name="system,gamelist">
          <image name="help-background">
@@ -49,14 +49,14 @@
    ///
    -->
    <variant name="
-      system-multi-gamelist-list-basic,
-      system-multi-gamelist-list-basic-nh,
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh,
+      gamelist-list-basic,
+      gamelist-list-basic-nh,
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-screenshot-marquee,
+      gamelist-list-screenshot-marquee-nh,
       ">
       <view name="gamelist">
          <image name="logo">
@@ -69,10 +69,10 @@
       </view>
    </variant>
    <variant name="
-      system-multi-gamelist-list-basic-nh,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-basic-nh,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
@@ -87,8 +87,8 @@
    ///
    -->
    <variant name="
-      system-multi-gamelist-list-basic,
-      system-multi-gamelist-list-basic-nh
+      gamelist-list-basic,
+      gamelist-list-basic-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -102,7 +102,7 @@
    </variant>
    <!-- Basic Help System Off -->
    <variant name="
-      system-multi-gamelist-list-basic-nh
+      gamelist-list-basic-nh
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
@@ -117,12 +117,12 @@
    ///
    -->
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh,
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-screenshot-marquee,
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="logo">
@@ -145,10 +145,10 @@
 
    <!-- List & List (Immersive) -->
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <text name="description">
@@ -182,8 +182,8 @@
 
    <!-- List -->
    <variant name="
-      system-multi-gamelist-list,
-      system-multi-gamelist-list-nh
+      gamelist-list-metadata-miximage,
+      gamelist-list-metadata-miximage-nh
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
@@ -200,8 +200,8 @@
 
    <!-- List (Immersive) -->
    <variant name="
-      system-multi-gamelist-list-immersive,
-      system-multi-gamelist-list-immersive-nh
+      gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="game-metadata-background">
@@ -221,8 +221,8 @@
 
    <!-- List + List (Immersive) Help System Off -->
    <variant name="
-      system-multi-gamelist-list-nh,
-      system-multi-gamelist-list-immersive-nh
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
@@ -255,8 +255,8 @@
 
    <!-- List (No Metadata) -->
    <variant name="
-      system-multi-gamelist-list-no-metadata,
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-screenshot-marquee,
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="marquee">
@@ -272,7 +272,7 @@
 
    <!-- List (No Metadata) Help System Off -->
    <variant name="
-      system-multi-gamelist-list-no-metadata-nh
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
