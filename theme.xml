@@ -286,7 +286,6 @@ license:       creative commons CC-BY-NC-SA
          </image>
          <datetime name="releasedate">
             <origin>0 0.5</origin>
-            <format>%Y-%m-%d</format>
             <metadata>releasedate</metadata>
             <defaultValue>Unknown</defaultValue>
             <fontPath>${fontBold}</fontPath>

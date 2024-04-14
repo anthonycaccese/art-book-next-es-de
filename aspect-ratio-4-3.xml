@@ -315,9 +315,10 @@ based on 640x480
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.58984375 0.616666666666667</pos><!-- 377.5 296 -->
+            <pos>0.59375 0.616666666666667</pos><!-- 380 296 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <size>0 ${gamelistMetadataFontSize}</size>
+            <format>${gamelistReleaseDateFormat}</format>
             <visible>true</visible>
          </datetime>
          <rating name="rating">
@@ -333,16 +334,19 @@ based on 640x480
       <fontSize name="small">
          <variables>
             <gamelistMetadataFontSize>0.033333333333333</gamelistMetadataFontSize><!-- 16 -->
+            <gamelistReleaseDateFormat>%Y-%m-%d</gamelistReleaseDateFormat>
          </variables>
       </fontSize>
       <fontSize name="medium">
          <variables>
             <gamelistMetadataFontSize>0.039583333333333</gamelistMetadataFontSize><!-- 19 -->
+            <gamelistReleaseDateFormat>%Y-%m-%d</gamelistReleaseDateFormat>
          </variables>
       </fontSize>
       <fontSize name="large">
          <variables>
-            <gamelistMetadataFontSize>0.04375</gamelistMetadataFontSize><!-- 21 -->
+            <gamelistMetadataFontSize>0.045833333333333</gamelistMetadataFontSize><!-- 22 -->
+            <gamelistReleaseDateFormat>%Y-%m</gamelistReleaseDateFormat>
          </variables>
       </fontSize>
    </variant>
