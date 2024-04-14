@@ -3,7 +3,7 @@
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>111111</systemBackgroundColor>
+         <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
@@ -20,15 +20,15 @@
          <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
          <!-- Help System -->
          <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffffaa</helpIconColor>
-         <helpTextColor>ffffffaa</helpTextColor>
+         <helpIconColor>444444</helpIconColor>
+         <helpTextColor>666666</helpTextColor>
       </variables>
    </colorScheme>
    <colorScheme name="art-book">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>111111</systemBackgroundColor>
+         <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
@@ -53,7 +53,7 @@
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>0D141C</systemBackgroundColor>
+         <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
@@ -78,7 +78,7 @@
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>231942</systemBackgroundColor>
+         <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>

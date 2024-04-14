@@ -191,7 +191,7 @@
             <size>0.625 1</size><!-- 1200 100%-->
             <zIndex>1</zIndex>
          </image>
-         <video name="video">
+         <video name="game-art">
             <pos>0.6875 0.3375</pos><!-- 1320 405 -->
             <maxSize>0.5625 0.558333333333333</maxSize><!-- 1080 670 -->
          </video>
@@ -212,7 +212,7 @@
             <pos>0.973958333333333 0.6875</pos><!-- 1870 705 -->
             <maxSize>0.15625 0.18</maxSize><!-- 780 216 -->
          </image>
-         <video name="video">
+         <video name="game-art">
             <pos>0.6875 0.329166666666667</pos><!-- 1320 395 -->
             <cropSize>0.625 0.658333333333333</cropSize><!-- 1200 790 -->
          </video>
@@ -263,7 +263,7 @@
             <pos>0.6875 0.447916666666667</pos><!-- 1320 537.5 -->
             <maxSize>0.40625 0.754166666666667</maxSize><!-- 780 905 -->
          </image>
-         <video name="video">
+         <video name="game-art">
             <pos>0.375 0</pos><!-- 720 0 -->
             <cropSize>0.625 0.895833333333333</cropSize><!-- 1200 1075 -->
          </video>
@@ -282,7 +282,7 @@
             <pos>0.6875 0.5</pos><!-- 1320 50% -->
             <maxSize>0.40625 0.754166666666667</maxSize><!-- 780 905 -->
          </image>
-         <video name="video">
+         <video name="game-art">
             <pos>0.375 0</pos><!-- 720 0 -->
             <cropSize>0.625 1</cropSize><!-- 1200 100% -->
          </video>

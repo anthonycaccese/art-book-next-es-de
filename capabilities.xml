@@ -84,9 +84,19 @@
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <!-- List: Metadata & Screenshot -->
+   <!-- List: Metadata & Boxart -->
+   <variant name="gamelist-list-metadata-cover">
+      <label>List: Metadata &amp; Boxart</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <!-- List: Metadata, Screenshot & Marquee  -->
    <variant name="gamelist-list-metadata-screenshot-marquee">
-      <label>List: Metadata &amp; Screenshot + Marquee</label>
+      <label>List: Metadata, Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -112,7 +122,7 @@
    </variant>
    <!-- List: Screenshot + Marquee -->
    <variant name="gamelist-list-screenshot-marquee">
-      <label>List: Screenshot + Marquee</label>
+      <label>List: Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -139,7 +149,7 @@
    -->
    <!-- List: Metadata & Miximage -->
    <variant name="gamelist-list-metadata-miximage-nh">
-      <label>(Help Off) List: Metadata &amp; Miximage</label>
+      <label>[Help Off] List: Metadata &amp; Miximage</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -147,9 +157,19 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
+   <!-- List: Metadata & Boxart -->
+   <variant name="gamelist-list-metadata-cover-nh">
+      <label>[Help Off] List: Metadata &amp; Boxart</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>cover</mediaType>
+         <useVariant>gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
    <!-- List: Metadata & Screenshot -->
    <variant name="gamelist-list-metadata-screenshot-marquee-nh">
-      <label>(Help Off) List: Metadata &amp; Screenshot + Marquee</label>
+      <label>[Help Off] List: Metadata, Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -165,7 +185,7 @@
    -->
    <!-- List: Boxart -->
    <variant name="gamelist-list-cover-nh">
-      <label>(Help Off) List: Boxart</label>
+      <label>[Help Off] List: Boxart</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -175,7 +195,7 @@
    </variant>
    <!-- List: Screenshot + Marquee -->
    <variant name="gamelist-list-screenshot-marquee-nh">
-      <label>(Help Off) List: Screenshot + Marquee</label>
+      <label>[Help Off] List: Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
@@ -190,7 +210,7 @@
    ///
    -->
    <variant name="gamelist-list-basic-nh">
-      <label>(Help Off) List: Basic</label>
+      <label>[Help Off] List: Basic</label>
       <selectable>false</selectable>
    </variant>
 

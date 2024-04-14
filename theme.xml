@@ -12,7 +12,7 @@ license:       creative commons CC-BY-NC-SA
    -->
    <variables>
       <fontRegular>./_inc/fonts/Oxygen-Regular.ttf</fontRegular>
-      <fontBold>./_inc/fonts/Oxygen-Bold.ttf</fontBold>
+      <fontBold>./_inc/fonts/Roboto-Bold.ttf</fontBold>
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
@@ -43,8 +43,6 @@ license:       creative commons CC-BY-NC-SA
          <origin>0.5 0.5</origin>
          <textColor>${helpTextColor}</textColor>
          <iconColor>${helpIconColor}</iconColor>
-         <!--<fontPath>${fontRegular}</fontPath>
-         <letterCase>capitalize</letterCase>-->
          <!-- East Button -->
          <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-east.svg</customButtonIcon>
          <customButtonIcon button="button_b_PS">./_inc/images/help-button-east.svg</customButtonIcon>
@@ -120,17 +118,13 @@ license:       creative commons CC-BY-NC-SA
       </image>
       <badges name="badges">
          <lines>1</lines>
-         <itemsPerLine>6</itemsPerLine>
-         <slots>folder,favorite,manual,completed,collection,altemulator</slots>
+         <itemsPerLine>5</itemsPerLine>
+         <slots>folder,favorite,completed,collection,altemulator</slots>
          <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
-         <customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
-         <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
          <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
-         <customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+         <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
          <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
-         <customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
          <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
-         <customBadgeIcon badge="manual">./_inc/images/badge-manual.svg</customBadgeIcon>
          <controllerSize>0.8</controllerSize>
          <folderLinkSize>0.8</folderLinkSize>
       </badges>
@@ -149,6 +143,8 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-basic-nh,
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-cover,
+      gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
       gamelist-list-cover,
@@ -207,7 +203,6 @@ license:       creative commons CC-BY-NC-SA
             <!-- Handled in Aspect Ratio Files -->
          </image>
          <textlist name="gamelist-list">
-            <origin>0.5 0</origin>
             <horizontalAlignment>center</horizontalAlignment>
             <!-- Additional settings handled in Aspect Ratio Files -->
          </textlist>
@@ -222,6 +217,8 @@ license:       creative commons CC-BY-NC-SA
    <variant name="
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-cover,
+      gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
       gamelist-list-cover,
@@ -230,8 +227,10 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
-         <video name="video">
+         <video name="game-art">
             <delay>3</delay>
+            <iterationCount>1</iterationCount>
+            <onIterationsDone>image</onIterationsDone>
             <interpolation>nearest</interpolation>
             <pillarboxes>false</pillarboxes>
          </video>
@@ -246,6 +245,8 @@ license:       creative commons CC-BY-NC-SA
    <variant name="
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-cover,
+      gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh
       ">
@@ -273,26 +274,30 @@ license:       creative commons CC-BY-NC-SA
             <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
             <overlay>false</overlay>
             <color>${gamelistListRatingColor}</color>
+            <visible>false</visible>
          </rating>
          <image name="releasedate-icon">
             <origin>0 0.5</origin>
             <path>./_inc/images/icon-release-date.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
+            <visible>false</visible>
          </image>
          <datetime name="releasedate">
             <origin>0 0.5</origin>
             <format>%Y-%m-%d</format>
             <metadata>releasedate</metadata>
-            <defaultValue>Not Set</defaultValue>
+            <defaultValue>Unknown</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <visible>false</visible>
          </datetime>
          <image name="players-icon">
             <origin>0 0.5</origin>
             <path>./_inc/images/icon-players.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
+            <visible>false</visible>
          </image>
          <text name="players">
             <origin>0 0.5</origin>
@@ -300,6 +305,7 @@ license:       creative commons CC-BY-NC-SA
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
             <color>${gamelistListMetadataColor}</color>
+            <visible>false</visible>
          </text>
          <image name="genre-icon">
             <origin>0 0.5</origin>
@@ -358,6 +364,50 @@ license:       creative commons CC-BY-NC-SA
 
    <!--
    ///
+   Gamelist View - NH List Variants: Metadata
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-miximage-nh,
+      gamelist-list-metadata-cover-nh,
+      gamelist-list-metadata-screenshot-marquee-nh
+      ">
+      <view name="gamelist">
+         <image name="last-played-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-lastplayed.svg</path>
+            <color>${gamelistListMetadataIconColor}</color>
+            <metadataElement>true</metadataElement>
+            <visible>false</visible>
+         </image>
+         <datetime name="last-played">
+            <origin>0 0.5</origin>
+            <metadata>lastplayed</metadata>
+            <defaultValue>Never</defaultValue>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gamelistListMetadataColor}</color>
+            <visible>false</visible>
+         </datetime>
+         <image name="play-count-icon">
+            <origin>0 0.5</origin>
+            <path>./_inc/images/icon-playcount.svg</path>
+            <color>${gamelistListMetadataIconColor}</color>
+            <metadataElement>true</metadataElement>
+            <visible>false</visible>
+         </image>
+         <text name="play-count">
+            <origin>0 0.5</origin>
+            <metadata>playcount</metadata>
+            <defaultValue>Not Set</defaultValue>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gamelistListMetadataColor}</color>
+            <visible>false</visible>
+         </text>
+      </view>
+   </variant>
+
+   <!--
+   ///
    Gamelist View - List Variants: Metadata & Miximage
    ///
    -->
@@ -366,7 +416,7 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-metadata-miximage-nh
       ">
       <view name="gamelist">
-         <video name="video">
+         <video name="game-art">
             <origin>0.5 0.5</origin>
             <imageType>miximage</imageType>
          </video>
@@ -375,7 +425,24 @@ license:       creative commons CC-BY-NC-SA
 
    <!--
    ///
-   Gamelist View - List Variants: Metadata & Screenshot + Marquee
+   Gamelist View - List Variants: Metadata & Boxart
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-cover,
+      gamelist-list-metadata-cover-nh
+      ">
+      <view name="gamelist">
+         <video name="game-art">
+            <origin>0.5 0.5</origin>
+            <imageType>cover</imageType>
+         </video>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata, Screenshot & Marquee
    ///
    -->
    <variant name="
@@ -383,7 +450,7 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
-         <video name="video">
+         <video name="game-art">
             <origin>0.5 0.5</origin>
             <imageType>screenshot</imageType>
             <zIndex>1</zIndex>
@@ -397,45 +464,6 @@ license:       creative commons CC-BY-NC-SA
 
    <!--
    ///
-   Gamelist View - NH List Variants: Metadata
-   ///
-   -->
-   <variant name="
-      gamelist-list-metadata-miximage-nh,
-      gamelist-list-metadata-screenshot-marquee-nh
-      ">
-      <view name="gamelist">
-         <image name="last-played-icon">
-            <origin>0 0.5</origin>
-            <path>./_inc/images/icon-lastplayed.svg</path>
-            <color>${gamelistListMetadataIconColor}</color>
-            <metadataElement>true</metadataElement>
-         </image>
-         <datetime name="last-played">
-            <origin>0 0.5</origin>
-            <metadata>lastplayed</metadata>
-            <defaultValue>Never</defaultValue>
-            <fontPath>${fontBold}</fontPath>
-            <color>${gamelistListMetadataColor}</color>
-         </datetime>
-         <image name="play-count-icon">
-            <origin>0 0.5</origin>
-            <path>./_inc/images/icon-playcount.svg</path>
-            <color>${gamelistListMetadataIconColor}</color>
-            <metadataElement>true</metadataElement>
-         </image>
-         <text name="play-count">
-            <origin>0 0.5</origin>
-            <metadata>playcount</metadata>
-            <defaultValue>Not Set</defaultValue>
-            <fontPath>${fontBold}</fontPath>
-            <color>${gamelistListMetadataColor}</color>
-         </text>
-      </view>
-   </variant>
-
-   <!--
-   ///
    Gamelist View - List Variants: Boxart
    ///
    -->
@@ -444,7 +472,13 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-cover-nh
       ">
       <view name="gamelist">
-         <video name="video">
+         <image name="background">
+            <color>${gamelistListTextlistBackgroundColor}</color>
+         </image>
+         <video name="game-art">
+            <origin>0.5 0.5</origin>
+            <imageCornerRadius>0.01</imageCornerRadius>
+            <videoCornerRadius>0.01</videoCornerRadius>
             <imageType>cover</imageType>
             <zIndex>1</zIndex>
          </video>
@@ -461,7 +495,8 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
-         <video name="video">
+         <video name="game-art">
+            <origin>0.5 0.5</origin>
             <imageType>screenshot</imageType>
             <zIndex>1</zIndex>
          </video>
