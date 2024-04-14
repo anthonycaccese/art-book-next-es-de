@@ -13,7 +13,6 @@
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>222222</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
@@ -38,7 +37,6 @@
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>dddddd</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
@@ -63,7 +61,6 @@
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>23262F</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
@@ -88,7 +85,6 @@
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>514689</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
@@ -113,7 +109,6 @@
          <gamelistListLogoColor>DCD6B6</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>DCD6B6</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>DCD6B6</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>711521</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
@@ -138,7 +133,6 @@
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>000000</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
@@ -163,7 +157,6 @@
          <gamelistListLogoColor>ffffff</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff22</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataBackgroundColor>dddddd</gamelistListMetadataBackgroundColor>
          <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
          <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>

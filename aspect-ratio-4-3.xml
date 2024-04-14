@@ -287,8 +287,8 @@ based on 640x480
       </fontSize>
       <fontSize name="large">
          <variables>
-            <gamelistDescriptionFontSize>0.05</gamelistDescriptionFontSize><!-- 24 -->
-            <gamelistDescriptionLineSpacing>1.665</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
+            <gamelistDescriptionLineSpacing>1.49</gamelistDescriptionLineSpacing>
          </variables>
       </fontSize>
    </variant>
