@@ -127,7 +127,7 @@ based on 640x480
       </fontSize>
       <fontSize name="medium">
          <variables>
-            <gamelistLineSpacing>1.565</gamelistLineSpacing>
+            <gamelistLineSpacing>1.575</gamelistLineSpacing>
          </variables>
       </fontSize>
       <fontSize name="large">
@@ -282,7 +282,7 @@ based on 640x480
       <fontSize name="medium">
          <variables>
             <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
-            <gamelistDescriptionLineSpacing>1.51</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionLineSpacing>1.49</gamelistDescriptionLineSpacing>
          </variables>
       </fontSize>
       <fontSize name="large">
@@ -337,7 +337,7 @@ based on 640x480
       </fontSize>
       <fontSize name="medium">
          <variables>
-            <gamelistMetadataFontSize>0.0375</gamelistMetadataFontSize><!-- 18 -->
+            <gamelistMetadataFontSize>0.039583333333333</gamelistMetadataFontSize><!-- 19 -->
          </variables>
       </fontSize>
       <fontSize name="large">
