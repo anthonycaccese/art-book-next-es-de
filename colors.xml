@@ -8,7 +8,7 @@
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
+         <gamelistListBackgroundColor>222222</gamelistListBackgroundColor>
          <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
@@ -33,7 +33,7 @@
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
+         <gamelistListBackgroundColor>dddddd</gamelistListBackgroundColor>
          <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
@@ -58,7 +58,7 @@
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
+         <gamelistListBackgroundColor>23262F</gamelistListBackgroundColor>
          <gamelistListTextlistBackgroundColor>0D141C</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
@@ -83,7 +83,7 @@
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
+         <gamelistListBackgroundColor>514689</gamelistListBackgroundColor>
          <gamelistListTextlistBackgroundColor>231942</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
@@ -108,7 +108,7 @@
          <systemArtColor>DCD6B6</systemArtColor>
          <systemLogoColor>DCD6B6</systemLogoColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
+         <gamelistListBackgroundColor>DCD6B6</gamelistListBackgroundColor>
          <gamelistListTextlistBackgroundColor>711521</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>DCD6B6</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>DCD6B6</gamelistListTextlistSelectedColor>
@@ -158,7 +158,7 @@
          <systemArtColor>cccccc</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
+         <gamelistListBackgroundColor>dddddd</gamelistListBackgroundColor>
          <gamelistListTextlistBackgroundColor>777777</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>ffffff</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>

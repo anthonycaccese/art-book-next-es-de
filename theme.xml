@@ -251,11 +251,11 @@ license:       creative commons CC-BY-NC-SA
       gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
-         <image name="game-metadata-background">
+         <image name="game-art-background">
             <origin>0 0</origin>
             <path>${spacerImage}</path>
             <tile>true</tile>
-            <color>${gamelistListMetadataBackgroundColor}</color>
+            <color>000000</color>
             <metadataElement>true</metadataElement>
             <zIndex>2</zIndex>
          </image>
@@ -290,6 +290,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>releasedate</metadata>
             <defaultValue>Unknown</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
          </datetime>

@@ -263,12 +263,12 @@ based on 640x480
       gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
-         <image name="game-metadata-background">
-            <pos>0.5 0.520833333333333</pos><!-- 320 250 -->
-            <zIndex>3</zIndex>
+         <image name="game-art-background">
+            <pos>0.5 0</pos><!-- 320 0 -->
+            <size>0.5 0.520833333333333</size><!-- 320 250 -->
          </image>
          <text name="description">
-            <size>0.40625 0.25</size><!-- 260 120 -->
+            <size>0.3984375 0.25</size><!-- 255 120 -->
             <fontSize>${gamelistDescriptionFontSize}</fontSize>
             <lineSpacing>${gamelistDescriptionLineSpacing}</lineSpacing>
          </text>
@@ -287,8 +287,8 @@ based on 640x480
       </fontSize>
       <fontSize name="large">
          <variables>
-            <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
-            <gamelistDescriptionLineSpacing>1.52</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionFontSize>0.05</gamelistDescriptionFontSize><!-- 24 -->
+            <gamelistDescriptionLineSpacing>1.665</gamelistDescriptionLineSpacing>
          </variables>
       </fontSize>
    </variant>
@@ -298,11 +298,8 @@ based on 640x480
       gamelist-list-metadata-screenshot-marquee
       ">
       <view name="gamelist">
-         <image name="game-metadata-background">
-            <size>0.5 0.364583333333333</size><!-- 320 175 -->
-         </image>
          <text name="description">
-            <pos>0.55078125 0.572916666666667</pos><!-- 352.5 275 -->
+            <pos>0.55078125 0.583333333333333</pos><!-- 352.5 280 -->
          </text>
       </view>
    </variant>
@@ -312,22 +309,20 @@ based on 640x480
       gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
-         <image name="game-metadata-background">
-            <size>0.5 0.479166666666667</size><!-- 320 230 -->
-         </image>
          <image name="releasedate-icon">
-            <pos>0.55078125 0.614583333333333</pos><!-- 352.5 295 -->
+            <pos>0.55078125 0.616666666666667</pos><!-- 352.5 296 -->
             <size>0 0.041666666666667</size><!-- - 20 -->
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.5859375 0.614583333333333</pos><!-- 375 295 -->
+            <pos>0.58984375 0.616666666666667</pos><!-- 377.5 296 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
+            <size>0 ${gamelistMetadataFontSize}</size>
             <visible>true</visible>
          </datetime>
          <rating name="rating">
             <origin>1 0.5</origin>
-            <pos>0.9453125 0.614583333333333</pos><!-- 605 295 -->
+            <pos>0.953125 0.614583333333333</pos><!-- 610 295 -->
             <size>0 0.041666666666667</size><!-- - 20 -->
             <visible>true</visible>
          </rating>
@@ -347,7 +342,7 @@ based on 640x480
       </fontSize>
       <fontSize name="large">
          <variables>
-            <gamelistMetadataFontSize>0.0375</gamelistMetadataFontSize><!-- 18 -->
+            <gamelistMetadataFontSize>0.04375</gamelistMetadataFontSize><!-- 21 -->
          </variables>
       </fontSize>
    </variant>
@@ -414,9 +409,9 @@ based on 640x480
             <itemMargin>-1 0.0075</itemMargin>
          </badges>
          <image name="marquee">
-            <origin>0.5 0.5</origin>
-            <pos>0.75 0.489583333333333</pos><!-- 480 235 -->
-            <maxSize>0.3125 0.104166666666667</maxSize><!-- 200 50 -->
+            <origin>0.5 1</origin>
+            <pos>0.75 0.541666666666667</pos><!-- 480 260 -->
+            <maxSize>0.296875 0.125</maxSize><!-- 190 60 -->
          </image>
          <video name="game-art">
             <pos>0.75 0.25</pos><!-- 480 120 -->

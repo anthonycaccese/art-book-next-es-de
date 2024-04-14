@@ -9,6 +9,9 @@
          <horizontalAlignment>center</horizontalAlignment>
          <lineSpacing>1</lineSpacing>
       </text>
+      <image name="game-art-background">
+         <metadataElement>false</metadataElement>
+      </image>
    </view>
    <variant name="
       gamelist-list-basic,
