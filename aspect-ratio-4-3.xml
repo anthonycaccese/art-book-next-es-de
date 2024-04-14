@@ -122,7 +122,7 @@ based on 640x480
       </view>
       <fontSize name="small">
          <variables>
-            <gamelistLineSpacing>1.775</gamelistLineSpacing>
+            <gamelistLineSpacing>1.785</gamelistLineSpacing>
          </variables>
       </fontSize>
       <fontSize name="medium">
@@ -161,7 +161,7 @@ based on 640x480
       </fontSize>
       <fontSize name="large">
          <variables>
-            <gamelistLineSpacing>1.54</gamelistLineSpacing>
+            <gamelistLineSpacing>1.52</gamelistLineSpacing>
          </variables>
       </fontSize>
    </variant>
@@ -276,7 +276,7 @@ based on 640x480
       <fontSize name="small">
          <variables>
             <gamelistDescriptionFontSize>0.033333333333333</gamelistDescriptionFontSize><!-- 16 -->
-            <gamelistDescriptionLineSpacing>1.55</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionLineSpacing>1.5</gamelistDescriptionLineSpacing>
          </variables>
       </fontSize>
       <fontSize name="medium">
