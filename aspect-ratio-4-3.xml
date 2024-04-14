@@ -282,7 +282,7 @@ based on 640x480
       <fontSize name="medium">
          <variables>
             <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
-            <gamelistDescriptionLineSpacing>1.525</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionLineSpacing>1.51</gamelistDescriptionLineSpacing>
          </variables>
       </fontSize>
       <fontSize name="large">
@@ -302,7 +302,7 @@ based on 640x480
             <size>0.5 0.364583333333333</size><!-- 320 175 -->
          </image>
          <text name="description">
-            <pos>0.546875 0.572916666666667</pos><!-- 350 275 -->
+            <pos>0.55078125 0.572916666666667</pos><!-- 352.5 275 -->
          </text>
       </view>
    </variant>
@@ -316,12 +316,12 @@ based on 640x480
             <size>0.5 0.479166666666667</size><!-- 320 230 -->
          </image>
          <image name="releasedate-icon">
-            <pos>0.546875 0.614583333333333</pos><!-- 350 295 -->
+            <pos>0.55078125 0.614583333333333</pos><!-- 352.5 295 -->
             <size>0 0.041666666666667</size><!-- - 20 -->
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.5859375 0.614583333333333</pos><!-- 370 295 -->
+            <pos>0.5859375 0.614583333333333</pos><!-- 375 295 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <visible>true</visible>
          </datetime>
@@ -332,7 +332,7 @@ based on 640x480
             <visible>true</visible>
          </rating>
          <text name="description">
-            <pos>0.546875 0.682291666666667</pos><!-- 350 327.5 -->
+            <pos>0.55078125 0.682291666666667</pos><!-- 352.5 327.5 -->
          </text>
       </view>
       <fontSize name="small">
@@ -362,6 +362,11 @@ based on 640x480
       gamelist-list-metadata-miximage-nh
       ">
       <view name="gamelist">
+         <badges name="badges">
+            <pos>0.9609375 0.052083333333333</pos><!-- 615 25 -->
+            <size>0.0625 0.770833333333333</size><!-- 40 370 -->
+            <itemMargin>-1 0.0075</itemMargin>
+         </badges>
          <video name="game-art">
             <pos>0.75 0.25</pos><!-- 480 120 -->
             <maxSize>0.40625 0.375</maxSize><!-- 260 180 -->
@@ -380,6 +385,11 @@ based on 640x480
       gamelist-list-metadata-cover-nh
       ">
       <view name="gamelist">
+         <badges name="badges">
+            <pos>0.9609375 0.052083333333333</pos><!-- 615 25 -->
+            <size>0.0625 0.770833333333333</size><!-- 40 370 -->
+            <itemMargin>-1 0.0075</itemMargin>
+         </badges>
          <video name="game-art">
             <pos>0.75 0.25</pos><!-- 480 120 -->
             <maxSize>0.40625 0.375</maxSize><!-- 260 180 -->
@@ -398,6 +408,11 @@ based on 640x480
       gamelist-list-metadata-screenshot-marquee-nh
       ">
       <view name="gamelist">
+         <badges name="badges">
+            <pos>0.9609375 0.052083333333333</pos><!-- 615 25 -->
+            <size>0.0625 0.770833333333333</size><!-- 40 370 -->
+            <itemMargin>-1 0.0075</itemMargin>
+         </badges>
          <image name="marquee">
             <origin>0.5 0.5</origin>
             <pos>0.75 0.489583333333333</pos><!-- 480 235 -->

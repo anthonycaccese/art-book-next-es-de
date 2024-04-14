@@ -256,6 +256,7 @@ license:       creative commons CC-BY-NC-SA
             <path>${spacerImage}</path>
             <tile>true</tile>
             <color>${gamelistListMetadataBackgroundColor}</color>
+            <metadataElement>true</metadataElement>
             <zIndex>2</zIndex>
          </image>
          <text name="description">
