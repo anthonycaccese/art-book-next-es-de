@@ -1,0 +1,79 @@
+<theme>
+   <include>./../theme.xml</include>
+
+   <variant name="
+      system-multi-gamelist-list-basic,
+      system-multi-gamelist-list-basic-nh,
+      system-multi-gamelist-list,
+      system-multi-gamelist-list-nh,
+      system-multi-gamelist-list-immersive,
+      system-multi-gamelist-list-immersive-nh,
+      system-multi-gamelist-list-no-metadata,
+      system-multi-gamelist-list-no-metadata-nh
+      ">
+      <view name="gamelist">
+
+         <!-- START Reset -->
+         <textlist name="gamelist-list">
+            <origin>0 0</origin>
+            <pos>1 1</pos>
+         </textlist>
+         <video name="video">
+            <visible>false</visible>
+         </video>
+         <text name="
+            description,
+            players">
+            <visible>false</visible>
+         </text>
+         <rating name="rating">
+            <visible>false</visible>
+         </rating>
+         <datetime name="releasedate">
+            <visible>false</visible>
+         </datetime>
+         <image name="
+            gamelist-background,
+            game-metadata-background,
+            releasedate-icon,
+            players-icon">
+            <visible>false</visible>
+         </image>
+         <badges name="badges">
+            <visible>false</visible>
+         </badges>
+         <!-- END Reset -->
+
+         <image name="background">
+            <color>111111</color>
+         </image>
+
+         <image name="logo">
+            <pos>0.5 0.134259259259259</pos><!-- 50% 145 -->
+            <maxSize>0.276041666666667 0.111111111111111</maxSize><!-- 530 120 -->
+            <zIndex>400</zIndex>
+         </image>
+
+         <grid name="gamelist-grid">
+            <itemScale>1</itemScale>
+            <textColor>ffffff</textColor>
+            <textRelativeScale>0.8</textRelativeScale>
+            <fontPath>${fontRegular}</fontPath>
+            <fontSize>0.02</fontSize>
+            <lineSpacing>1</lineSpacing>
+
+            <imageType>marquee</imageType>
+            <imageFit>contain</imageFit>
+            <imageRelativeScale>0.8</imageRelativeScale>
+            <unfocusedItemDimming>0.6</unfocusedItemDimming>
+
+            <size>0.895833333333333 0.725925925925926</size><!-- 1720 784 -->
+            <pos>0.052083333333333 0.157407407407407</pos><!-- 100 170 -->
+            <itemSize>0.158333333333333 0.211111111111111</itemSize><!-- 304 228 -->
+            <itemSpacing>0.026041666666667 -1</itemSpacing><!-- 50 -->
+         </grid>
+
+      </view>
+   </variant>
+
+</theme>
