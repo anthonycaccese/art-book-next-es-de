@@ -17,21 +17,30 @@
       gamelist-list-basic,
       gamelist-list-basic-nh
       ">
+      <view name="gamelist">
+         <text name="custom-collection-name">
+            <pos>0.5 0.15625</pos><!-- 50% 75 -->
+            <fontSize>0.041666666666667</fontSize><!-- 20 -->
+         </text>
+      </view>
       <aspectRatio name="4:3">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.5 0.15625</pos><!-- 50% 75 -->
                <size>0.359375 0.041666666666667</size><!-- 230 80 -->
-               <fontSize>0.041666666666667</fontSize><!-- 20 -->
             </text>
          </view>
       </aspectRatio>
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.5 0.15625</pos><!-- 50% 75 -->
                <size>0.269636576787808 0.041666666666667</size><!-- 230 80 -->
-               <fontSize>0.041666666666667</fontSize><!-- 20 -->
+            </text>
+         </view>
+      </aspectRatio>
+      <aspectRatio name="16:10">
+         <view name="gamelist">
+            <text name="custom-collection-name">
+               <size>0.2734375 0.041666666666667</size><!-- 210 80 -->
             </text>
          </view>
       </aspectRatio>
@@ -48,12 +57,16 @@
       gamelist-list-screenshot-marquee,
       gamelist-list-screenshot-marquee-nh
       ">
+      <view name="gamelist">
+         <text name="custom-collection-name">
+            <fontSize>0.041666666666667</fontSize><!-- 20 -->
+         </text>
+      </view>
       <aspectRatio name="4:3">
          <view name="gamelist">
             <text name="custom-collection-name">
                <pos>0.25 0.15625</pos><!-- 160 75 -->
                <size>0.359375 0.041666666666667</size><!-- 230 80 -->
-               <fontSize>0.041666666666667</fontSize><!-- 20 -->
             </text>
          </view>
       </aspectRatio>
@@ -62,16 +75,14 @@
             <text name="custom-collection-name">
                <pos>0.18757327080891 0.15625</pos><!-- 160 75 -->
                <size>0.269636576787808 0.041666666666667</size><!-- 230 80 -->
-               <fontSize>0.041666666666667</fontSize><!-- 20 -->
             </text>
          </view>
       </aspectRatio>
       <aspectRatio name="16:10">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.1875 0.156666666666667</pos><!-- 360 188 -->
-               <size>0.276041666666667 0.036666666666667</size><!-- 530 44 -->
-               <fontSize>0.036666666666667</fontSize><!-- 44 -->
+               <pos>0.1875 0.15625</pos><!-- 144 75 -->
+               <size>0.2734375 0.036666666666667</size><!-- 210 80 -->
             </text>
          </view>
       </aspectRatio>
@@ -80,7 +91,6 @@
             <text name="custom-collection-name">
                <pos>0.153846153846154 0.156666666666667</pos><!-- 360 188 -->
                <size>0.226495726495726 0.036666666666667</size><!-- 530 44 -->
-               <fontSize>0.036666666666667</fontSize><!-- 44 -->
             </text>
          </view>
       </aspectRatio>
