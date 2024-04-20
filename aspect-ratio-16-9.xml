@@ -313,9 +313,7 @@ based on 853x480
          </rating>
          <image name="
             releasedate-icon,
-            players-icon,
-            last-played-icon,
-            play-count-icon
+            players-icon
             ">
             <maxSize>0.021101992966002 0.0375</maxSize><!-- 20 20 -->
             <visible>true</visible>

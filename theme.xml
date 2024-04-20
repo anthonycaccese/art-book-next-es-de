@@ -199,12 +199,8 @@ license:       creative commons CC-BY-NC-SA
          <image name="gamelist-background">
             <size>1 1</size>
          </image>
-         <image name="logo">
-            <!-- Handled in Aspect Ratio Files -->
-         </image>
          <textlist name="gamelist-list">
             <horizontalAlignment>center</horizontalAlignment>
-            <!-- Additional settings handled in Aspect Ratio Files -->
          </textlist>
       </view>
    </variant>
@@ -364,20 +360,6 @@ license:       creative commons CC-BY-NC-SA
             <containerType>horizontal</containerType>
             <visible>false</visible>
          </text>
-      </view>
-   </variant>
-
-   <!--
-   ///
-   Gamelist View - NH List Variants: Metadata
-   ///
-   -->
-   <variant name="
-      gamelist-list-metadata-miximage-nh,
-      gamelist-list-metadata-cover-nh,
-      gamelist-list-metadata-screenshot-marquee-nh
-      ">
-      <view name="gamelist">
          <image name="last-played-icon">
             <origin>0 0.5</origin>
             <path>./_inc/images/icon-lastplayed.svg</path>

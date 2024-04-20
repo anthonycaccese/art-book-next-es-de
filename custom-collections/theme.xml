@@ -26,6 +26,15 @@
             </text>
          </view>
       </aspectRatio>
+      <aspectRatio name="16:9">
+         <view name="gamelist">
+            <text name="custom-collection-name">
+               <pos>0.5 0.15625</pos><!-- 50% 75 -->
+               <size>0.269636576787808 0.041666666666667</size><!-- 230 80 -->
+               <fontSize>0.041666666666667</fontSize><!-- 20 -->
+            </text>
+         </view>
+      </aspectRatio>
    </variant>
    <variant name="
       gamelist-list-metadata-miximage,
@@ -51,9 +60,9 @@
       <aspectRatio name="16:9">
          <view name="gamelist">
             <text name="custom-collection-name">
-               <pos>0.1875 0.175925925925926</pos><!-- 360 190 -->
-               <size>0.276041666666667 0.040740740740741</size><!-- 530 44 -->
-               <fontSize>0.040740740740741</fontSize><!-- 44 -->
+               <pos>0.18757327080891 0.15625</pos><!-- 160 75 -->
+               <size>0.269636576787808 0.041666666666667</size><!-- 230 80 -->
+               <fontSize>0.041666666666667</fontSize><!-- 20 -->
             </text>
          </view>
       </aspectRatio>
