@@ -305,6 +305,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>players</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
          </text>
@@ -320,6 +321,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>genre</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <letterCase>capitalize</letterCase>
             <container>true</container>
@@ -338,6 +340,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>developer</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <container>true</container>
             <containerType>horizontal</containerType>
@@ -355,6 +358,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>publisher</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <container>true</container>
             <containerType>horizontal</containerType>
@@ -386,6 +390,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>lastplayed</metadata>
             <defaultValue>Never</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
          </datetime>
@@ -401,6 +406,7 @@ license:       creative commons CC-BY-NC-SA
             <metadata>playcount</metadata>
             <defaultValue>Not Set</defaultValue>
             <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
          </text>
@@ -420,6 +426,8 @@ license:       creative commons CC-BY-NC-SA
          <video name="game-art">
             <origin>0.5 0.5</origin>
             <imageType>miximage</imageType>
+            <imageCornerRadius>0.01</imageCornerRadius>
+            <videoCornerRadius>0.01</videoCornerRadius>
          </video>
       </view>
    </variant>
@@ -437,6 +445,8 @@ license:       creative commons CC-BY-NC-SA
          <video name="game-art">
             <origin>0.5 0.5</origin>
             <imageType>cover</imageType>
+            <imageCornerRadius>0.01</imageCornerRadius>
+            <videoCornerRadius>0.01</videoCornerRadius>
          </video>
       </view>
    </variant>
