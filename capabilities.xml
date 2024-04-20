@@ -7,9 +7,9 @@
    Aspect Ratios
    ///
    -->
+   <aspectRatio>4:3</aspectRatio>
    <aspectRatio>16:9</aspectRatio>
    <aspectRatio>16:10</aspectRatio>
-   <aspectRatio>4:3</aspectRatio>
    <aspectRatio>19.5:9</aspectRatio>
 
    <!--
@@ -120,7 +120,7 @@
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <!-- List: Screenshot + Marquee -->
+   <!-- List: Screenshot & Marquee -->
    <variant name="gamelist-list-screenshot-marquee">
       <label>List: Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
@@ -147,7 +147,7 @@
    NH List Variants - Metadata & Media
    ///
    -->
-   <!-- List: Metadata & Miximage -->
+   <!-- NH List: Metadata & Miximage -->
    <variant name="gamelist-list-metadata-miximage-nh">
       <label>[Help Off] List: Metadata &amp; Miximage</label>
       <selectable>true</selectable>
@@ -157,7 +157,7 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <!-- List: Metadata & Boxart -->
+   <!-- NH List: Metadata & Boxart -->
    <variant name="gamelist-list-metadata-cover-nh">
       <label>[Help Off] List: Metadata &amp; Boxart</label>
       <selectable>true</selectable>
@@ -167,7 +167,7 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <!-- List: Metadata & Screenshot -->
+   <!-- NH List: Metadata, Screenshot & Marquee -->
    <variant name="gamelist-list-metadata-screenshot-marquee-nh">
       <label>[Help Off] List: Metadata, Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
@@ -183,7 +183,7 @@
    NH List Variants - Media Only
    ///
    -->
-   <!-- List: Boxart -->
+   <!-- NH List: Boxart -->
    <variant name="gamelist-list-cover-nh">
       <label>[Help Off] List: Boxart</label>
       <selectable>true</selectable>
@@ -193,7 +193,7 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <!-- List: Screenshot + Marquee -->
+   <!-- NH List: Screenshot & Marquee -->
    <variant name="gamelist-list-screenshot-marquee-nh">
       <label>[Help Off] List: Screenshot &amp; Marquee</label>
       <selectable>true</selectable>
@@ -209,43 +209,10 @@
    NH List Variants - Basic
    ///
    -->
+   <!-- NH List: Basic -->
    <variant name="gamelist-list-basic-nh">
       <label>[Help Off] List: Basic</label>
       <selectable>false</selectable>
    </variant>
 
 </themeCapabilities>
-
-<!--
-
-List: Metadata & Boxart (*New)
-List: Metadata & Miximage (<<< Existing List Variant)
-List: Metadata & Screenshot + Marquee (<<< Existing Immersive Variant)
-- What changes:
-   - Media Display
-      - game-art
-      - game-art-marquee
-- What's consistent:
-   - Gamelist
-   - Logo
-   - Metadata Display
-
-List: Boxart (*New)
-List: Screenshot + Marquee (<<< Existing No Metadata Variant)
-- What changes:
-   - Media Display
-      - game-art
-      - game-art-marquee
-- What's consistent:
-   - Gamelist
-   - Logo
-
-(Help Off) List: Metadata & Boxart
-(Help Off) List: Metadata & Miximage
-(Help Off) List: Metadata & Screenshot + Marquee
-(Help Off) List: Boxart
-(Help Off) List: Screenshot + Marquee
-
-Basic
-
--->
