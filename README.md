@@ -5,7 +5,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 | System View | Gamelist View |
 |----|----|
-| <img width="1392" alt="Screenshot 2023-12-10 at 3 59 43 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/cea9e784-def2-4339-96ed-41f866166b21"> | <img width="1392" alt="Screenshot 2023-12-10 at 3 59 50 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/1a9c0ce1-31e2-4c5a-9eb2-4ed84c67a7e3"> |
+| <img src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/b912e4c4-c255-48bf-a7c5-80fab62cb086"> | <img src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/67dec9b0-4460-4320-8bfb-3f524e344bd4"> |
 
 ## **Configuration Options**
 
@@ -24,14 +24,6 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
    - `Famicom` - based on the Nintendo Famicom console colors
    - `Black` - A darker version of Art Book Next
    - `Grayscale` - A lightended version of the theme overall
-
-### Preview of the Theme Variants
-
-| Theme Variant | Preview |
-|----|----|
-| List | <img width="1392" alt="Screenshot 2023-12-10 at 4 01 33 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/e869ee33-b0e0-4c4c-b1e0-fbe9eb632af6"> |
-| List (Immersive) | <img width="1392" alt="Screenshot 2023-12-10 at 3 59 50 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/1a9c0ce1-31e2-4c5a-9eb2-4ed84c67a7e3"> |
-| List (No Metadata) | <img width="1392" alt="Screenshot 2023-12-10 at 4 02 30 PM" src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/063f0b4a-ea9f-46f3-b567-d7a90cb43d3b"> |
 
 ## **Additional Notes**
 
