@@ -47,6 +47,9 @@
    <colorScheme name="grayscale">
       <label>Grayscale</label>
    </colorScheme>
+   <colorScheme name="art-book-next-classic">
+      <label>Art Book Next [Classic Artwork]</label>
+   </colorScheme>
 
    <!--
    ///

@@ -1,8 +1,7 @@
 <theme>
-   <colorScheme name="art-book-next">
+   <colorScheme name="art-book-next,art-book-next-classic">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
@@ -21,6 +20,18 @@
          <helpBackgroundColor>000000</helpBackgroundColor>
          <helpIconColor>444444</helpIconColor>
          <helpTextColor>666666</helpTextColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="art-book-next">
+      <variables>
+         <!-- System View -->
+         <artworkSource>artwork</artworkSource>
+      </variables>
+   </colorScheme>
+   <colorScheme name="art-book-next-classic">
+      <variables>
+         <!-- System View -->
+         <artworkSource>artwork-classic</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="art-book">
