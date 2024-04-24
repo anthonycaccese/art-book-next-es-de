@@ -374,6 +374,7 @@ license:       creative commons CC-BY-NC-SA
             <fontPath>${fontBold}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
+            <displayRelative>false</displayRelative>
             <visible>false</visible>
          </datetime>
          <image name="play-count-icon">
