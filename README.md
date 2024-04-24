@@ -11,11 +11,14 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 - The theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE 
 - `Theme Aspect Ratio` - sets the aspect ratio the theme will render at. If needed, this can be changed to match the aspect ratio of your screen (though it should happen automatically).
-   - 16:9, 16:10 and 4:3 are supported
+   - 16:9, 16:10, 4:3 and 19.5:9 are supported
 - `Theme Variant` - sets the layout used for the gamelist view when media & metadata are scraped for your games.  There are 6 variants to choose from:
-   - `List` - A simple list that displays the miximage artwork and shows all game metadata
-   - `List (Immersive)` - A simple list that displays the cover, marquee and screenshot artwork and shows all game metadata
-   - `List (No Metadata)` - A simple list that removes all gamemetadata and displays the screenshot and marquee artwork
+   - `List: Metadata &amp; Miximage` - A simple list that displays the miximage artwork and shows all game metadata
+   - `List: Metadata &amp; Boxart'` - Same structure as above but it displays cover artwork instead of miximage
+   - `List: Metadata, Screenshot &amp; Marquee` - A simple list that displays the cover, marquee and screenshot artwork and shows all game metadata
+   - `List: Boxart` - A simple list that removes all gamemetadata and displays only a game's cover artwork
+   - `List: Screenshot &amp; Marquee` - A simple list that removes all gamemetadata and displays the screenshot and marquee artwork
+   - There is also a set of variants that remove the display of the help system.  You'll see those listed with the prefix of `[Help Off]`
 - `Theme Color Scheme` - sets the color scheme that is used for the overall theme on all views.  There are 7 built in color schems to choose from:
    - `Art Book Next` - the default color scheme.  Its an update the previous color scheme I used for Art Book in 2017
    - `Art Book` - the original color scheme from Art Book built in 2017
@@ -36,7 +39,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
    * Screenshots
    * Box Cover Images
    * Marquee (Wheel) Images
-* Other media is optional and will be used in cases where one of the above is missing (for example Title Screen images will be used if screenshots are missing)
+* Other media is optional and may be used in cases where one of the above is missing
 
 ### Versions for other ES forks:
 * If you use Retropie... then check out the version [here](https://github.com/anthonycaccese/art-book-next-retropie).
