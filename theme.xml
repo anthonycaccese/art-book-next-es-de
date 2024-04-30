@@ -41,6 +41,8 @@ license:       creative commons CC-BY-NC-SA
       </image>
       <helpsystem name="help">
          <origin>0.5 0.5</origin>
+         <originDimmed>0.5 0.5</originDimmed>
+         <posDimmed>0.5 0.942708333333333</posDimmed>
          <textColor>${helpTextColor}</textColor>
          <iconColor>${helpIconColor}</iconColor>
          <!-- East Button -->
