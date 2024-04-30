@@ -11,7 +11,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 - The theme has a simple set of options that can be changed directly from the UI Settings menu of ES-DE 
 - `Theme Aspect Ratio` - sets the aspect ratio the theme will render at. If needed, this can be changed to match the aspect ratio of your screen (though it should happen automatically).
-   - 16:9, 16:10, 4:3 and 19.5:9 are supported
+   - 16:9, 16:10, 4:3, 19.5:9 and 1:1 are supported
 - `Theme Variant` - sets the layout used for the gamelist view when media & metadata are scraped for your games.  There are 6 variants to choose from:
    - `List: Metadata &amp; Miximage` - A simple list that displays the miximage artwork and shows all game metadata
    - `List: Metadata &amp; Boxart'` - Same structure as above but it displays cover artwork instead of miximage
