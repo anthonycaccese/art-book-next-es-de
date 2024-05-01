@@ -523,6 +523,9 @@ license:       creative commons CC-BY-NC-SA
    <aspectRatio name="1:1">
       <include>./aspect-ratio-1-1.xml</include>
    </aspectRatio>
+   <aspectRatio name="3:2">
+      <include>./aspect-ratio-3-2.xml</include>
+   </aspectRatio>
 
    <!--
    ///
