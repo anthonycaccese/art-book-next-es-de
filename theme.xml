@@ -508,23 +508,26 @@ license:       creative commons CC-BY-NC-SA
    Aspect Ratios
    ///
    -->
-   <aspectRatio name="4:3">
-      <include>./aspect-ratio-4-3.xml</include>
-   </aspectRatio>
    <aspectRatio name="16:9">
       <include>./aspect-ratio-16-9.xml</include>
    </aspectRatio>
    <aspectRatio name="16:10">
       <include>./aspect-ratio-16-10.xml</include>
    </aspectRatio>
+   <aspectRatio name="3:2">
+      <include>./aspect-ratio-3-2.xml</include>
+   </aspectRatio>
+   <aspectRatio name="4:3">
+      <include>./aspect-ratio-4-3.xml</include>
+   </aspectRatio>
+   <aspectRatio name="5:4">
+      <include>./aspect-ratio-5-4.xml</include>
+   </aspectRatio>
    <aspectRatio name="19.5:9">
       <include>./aspect-ratio-19_5-9.xml</include>
    </aspectRatio>
    <aspectRatio name="1:1">
       <include>./aspect-ratio-1-1.xml</include>
-   </aspectRatio>
-   <aspectRatio name="3:2">
-      <include>./aspect-ratio-3-2.xml</include>
    </aspectRatio>
 
    <!--
