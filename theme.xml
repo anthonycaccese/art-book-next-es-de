@@ -529,6 +529,9 @@ license:       creative commons CC-BY-NC-SA
    <aspectRatio name="21:9">
       <include>./aspect-ratio-21-9.xml</include>
    </aspectRatio>
+   <aspectRatio name="32:9">
+      <include>./aspect-ratio-32-9.xml</include>
+   </aspectRatio>
    <aspectRatio name="1:1">
       <include>./aspect-ratio-1-1.xml</include>
    </aspectRatio>
