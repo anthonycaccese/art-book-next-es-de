@@ -31,11 +31,11 @@
    Color Schemes
    ///
    -->
-   <colorScheme name="art-book-next">
-      <label>Art Book Next</label>
+   <colorScheme name="default">
+      <label>Default</label>
    </colorScheme>
-   <colorScheme name="art-book">
-      <label>Art Book</label>
+   <colorScheme name="light">
+      <label>Light</label>
    </colorScheme>
    <colorScheme name="steam-os">
       <label>Steam OS</label>
@@ -46,11 +46,11 @@
    <colorScheme name="famicom">
       <label>Famicom</label>
    </colorScheme>
-   <colorScheme name="black">
-      <label>Black</label>
+   <colorScheme name="dmg">
+      <label>DMG</label>
    </colorScheme>
-   <colorScheme name="grayscale">
-      <label>Grayscale</label>
+   <colorScheme name="oled">
+      <label>OLED</label>
    </colorScheme>
 
    <!--

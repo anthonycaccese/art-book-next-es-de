@@ -1,5 +1,5 @@
 <theme>
-   <colorScheme name="art-book-next">
+   <colorScheme name="default">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
@@ -15,15 +15,15 @@
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
          <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
+         <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
          <!-- Help System -->
          <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="art-book">
+   <colorScheme name="light">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
@@ -39,19 +39,19 @@
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
          <gamelistListRatingColor>00000055</gamelistListRatingColor>
+         <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
          <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
+         <helpBackgroundColor>070707</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
    <colorScheme name="steam-os">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>000000</systemBackgroundColor>
+         <systemBackgroundColor>070a0f</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
@@ -63,19 +63,19 @@
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
          <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
+         <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
          <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
+         <helpBackgroundColor>070a0f</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
    <colorScheme name="snes">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>000000</systemBackgroundColor>
+         <systemBackgroundColor>140e26</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
@@ -85,14 +85,14 @@
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
-         <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
-         <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
+         <gamelistListMetadataColor>c6bde5</gamelistListMetadataColor>
+         <gamelistListMetadataIconColor>a293d5</gamelistListMetadataIconColor>
+         <gamelistListRatingColor>a293d5</gamelistListRatingColor>
+         <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
          <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
+         <helpBackgroundColor>140e26</helpBackgroundColor>
+         <helpIconColor>a293d5</helpIconColor>
+         <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
    <colorScheme name="famicom">
@@ -105,21 +105,45 @@
          <systemLogoColor>DCD6B6</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>DCD6B6</gamelistListBackgroundColor>
-         <gamelistListTextlistBackgroundColor>711521</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistBackgroundColor>2f090e</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>DCD6B6</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>DCD6B6</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
-         <gamelistListMetadataIconColor>711521</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
-         <gamelistListRatingColor>711521</gamelistListRatingColor>
+         <gamelistListMetadataColor>2f090e</gamelistListMetadataColor>
+         <gamelistListMetadataIconColor>4d1116</gamelistListMetadataIconColor>
+         <gamelistListRatingColor>4d1116</gamelistListRatingColor>
+         <gamelistListDescriptionColor>0e0304</gamelistListDescriptionColor>
          <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
+         <helpBackgroundColor>1e0609</helpBackgroundColor>
+         <helpIconColor>DCD6B688</helpIconColor>
+         <helpTextColor>DCD6B6aa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="black">
+   <colorScheme name="dmg">
+      <variables>
+         <!-- System View -->
+         <artworkSource>artwork</artworkSource>
+         <systemBackgroundColor>000000</systemBackgroundColor>
+         <systemArtSaturation>0</systemArtSaturation>
+         <systemArtColor>4f7c4b</systemArtColor>
+         <systemLogoColor>dbd8d6</systemLogoColor>
+         <!-- Gamelist View - List Variants -->
+         <gamelistListBackgroundColor>AAA7A6</gamelistListBackgroundColor>
+         <gamelistListTextlistBackgroundColor>0f180f</gamelistListTextlistBackgroundColor>
+         <gamelistListLogoColor>dbd8d6</gamelistListLogoColor>
+         <gamelistListTextlistSelectedColor>dbd8d6</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
+         <gamelistListMetadataIconColor>3d0d22</gamelistListMetadataIconColor>
+         <gamelistListRatingColor>3d0d22</gamelistListRatingColor>
+         <gamelistListDescriptionColor>000000cc</gamelistListDescriptionColor>
+         <!-- Help System -->
+         <helpBackgroundColor>959290</helpBackgroundColor>
+         <helpIconColor>3d0d22</helpIconColor>
+         <helpTextColor>000000cc</helpTextColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="oled">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
@@ -138,33 +162,9 @@
          <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
          <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
          <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
-      </variables>
-   </colorScheme>
-   <colorScheme name="grayscale">
-      <variables>
-         <!-- System View -->
-         <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>000000</systemBackgroundColor>
-         <systemArtSaturation>0</systemArtSaturation>
-         <systemArtColor>cccccc</systemArtColor>
-         <systemLogoColor>ffffff</systemLogoColor>
-         <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>dddddd</gamelistListBackgroundColor>
-         <gamelistListTextlistBackgroundColor>777777</gamelistListTextlistBackgroundColor>
-         <gamelistListLogoColor>ffffff</gamelistListLogoColor>
-         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
-         <gamelistListTextlistUnselectedColor>ffffff22</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
-         <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
-         <gamelistListDescriptionColor>000000dd</gamelistListDescriptionColor>
-         <gamelistListRatingColor>00000055</gamelistListRatingColor>
-         <!-- Help System -->
-         <helpBackgroundColor>000000</helpBackgroundColor>
-         <helpIconColor>ffffff66</helpIconColor>
-         <helpTextColor>ffffff88</helpTextColor>
+         <helpBackgroundColor>070707</helpBackgroundColor>
+         <helpIconColor>ffffff88</helpIconColor>
+         <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
 </theme>
