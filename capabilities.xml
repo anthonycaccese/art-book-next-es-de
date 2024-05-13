@@ -105,7 +105,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
+         <mediaType>screenshot,marquee</mediaType>
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -131,7 +131,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
+         <mediaType>screenshot,marquee</mediaType>
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -178,7 +178,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
+         <mediaType>screenshot,marquee</mediaType>
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
@@ -204,7 +204,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
+         <mediaType>screenshot,marquee</mediaType>
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
