@@ -56,7 +56,7 @@ based on 600x480
    -->
    <view name="system">
       <carousel name="system-carousel">
-         <maxItemCount>3.85</maxItemCount>
+         <maxItemCount>3.6</maxItemCount>
       </carousel>
       <image name="system-logo">
          <maxSize>0.6 0.4</maxSize>

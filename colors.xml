@@ -5,7 +5,7 @@
          <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
-         <systemArtColor>ffffff</systemArtColor>
+         <systemArtColor>ffffffdd</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>222222</gamelistListBackgroundColor>
@@ -29,7 +29,7 @@
          <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
-         <systemArtColor>ffffff</systemArtColor>
+         <systemArtColor>ffffffdd</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>dddddd</gamelistListBackgroundColor>
@@ -53,7 +53,7 @@
          <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>070a0f</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
-         <systemArtColor>ffffff</systemArtColor>
+         <systemArtColor>ffffffdd</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>23262F</gamelistListBackgroundColor>
@@ -77,7 +77,7 @@
          <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>140e26</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
-         <systemArtColor>ffffff</systemArtColor>
+         <systemArtColor>ffffffdd</systemArtColor>
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>514689</gamelistListBackgroundColor>
@@ -101,7 +101,7 @@
          <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>0</systemArtSaturation>
-         <systemArtColor>DCD6B6</systemArtColor>
+         <systemArtColor>DCD6B6dd</systemArtColor>
          <systemLogoColor>DCD6B6</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>DCD6B6</gamelistListBackgroundColor>
