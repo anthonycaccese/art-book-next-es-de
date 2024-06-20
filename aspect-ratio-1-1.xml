@@ -27,7 +27,7 @@ based on 480x480
    </fontSize>
    <fontSize name="medium,large">
       <variables>
-         <helpsystemFontSize>0.0375</helpsystemFontSize><!-- 18 -->
+         <helpsystemFontSize>0.033333333333333</helpsystemFontSize><!-- 16 -->
       </variables>
    </fontSize>
    <variant name="
