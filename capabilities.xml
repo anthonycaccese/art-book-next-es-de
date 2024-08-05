@@ -95,7 +95,7 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>miximage</mediaType>
+         <mediaType>cover</mediaType>
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
