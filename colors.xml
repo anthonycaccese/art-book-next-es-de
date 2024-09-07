@@ -1,5 +1,5 @@
 <theme>
-   <colorScheme name="default">
+   <colorScheme name="default,noir">
       <variables>
          <!-- System View -->
          <artworkSource>artwork</artworkSource>
@@ -21,6 +21,16 @@
          <helpBackgroundColor>000000</helpBackgroundColor>
          <helpIconColor>ffffff88</helpIconColor>
          <helpTextColor>ffffffaa</helpTextColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="default">
+      <variables>
+         <artworkSource>artwork</artworkSource>
+      </variables>
+   </colorScheme>
+   <colorScheme name="noir">
+      <variables>
+         <artworkSource>artwork-noir</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="light">

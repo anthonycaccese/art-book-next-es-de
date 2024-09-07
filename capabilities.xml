@@ -34,6 +34,9 @@
    <colorScheme name="default">
       <label>Default</label>
    </colorScheme>
+   <colorScheme name="noir">
+      <label>Noir</label>
+   </colorScheme>
    <colorScheme name="light">
       <label>Light</label>
    </colorScheme>
