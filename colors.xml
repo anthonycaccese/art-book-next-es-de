@@ -1,5 +1,5 @@
 <theme>
-   <colorScheme name="default,noir">
+   <colorScheme name="default,noir,streamer">
       <variables>
          <!-- System View -->
          <systemBackgroundColor>000000</systemBackgroundColor>
