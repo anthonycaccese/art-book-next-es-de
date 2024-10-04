@@ -55,6 +55,9 @@
    <colorScheme name="oled">
       <label>OLED</label>
    </colorScheme>
+   <colorScheme name="streamer">
+      <label>Streamer</label>
+   </colorScheme>
 
    <!--
    ///

@@ -2,7 +2,6 @@
    <colorScheme name="default,noir">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffffdd</systemArtColor>
@@ -31,6 +30,11 @@
    <colorScheme name="noir">
       <variables>
          <artworkSource>artwork-noir</artworkSource>
+      </variables>
+   </colorScheme>
+   <colorScheme name="streamer">
+      <variables>
+         <artworkSource>artwork-streamer</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="light">
@@ -163,7 +167,7 @@
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>000000</gamelistListBackgroundColor>
-         <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistBackgroundColor>000000</gamelistListTextlistBackgroundColor>
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
