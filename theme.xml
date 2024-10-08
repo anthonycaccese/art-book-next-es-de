@@ -17,7 +17,28 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
-   <include>./colors.xml</include>
+   <colorScheme name="
+      dark,
+      light,
+      noir,
+      steam-os,
+      snes,
+      famicom,
+      oled,
+      streamer
+      ">
+      <variables>
+         <colorSchemePath>./colors.xml</colorSchemePath>
+      </variables>
+   </colorScheme>
+   <colorScheme name="
+      custom
+      ">
+      <variables>
+         <colorSchemePath>./theme-customizations/colors-custom.xml</colorSchemePath>
+      </variables>
+   </colorScheme>
+   <include>${colorSchemePath}</include>
 
    <!--
    ///
@@ -88,8 +109,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <itemTransitions>animate</itemTransitions>
          <itemVerticalAlignment>center</itemVerticalAlignment>
          <fastScrolling>true</fastScrolling>
-         <defaultImage>./_inc/systems/${artworkSource}/_default.png</defaultImage>
-         <staticImage>./_inc/systems/${artworkSource}/${system.theme}.png</staticImage>
+         <defaultImage>${artworkSource}/_default.png</defaultImage>
+         <staticImage>${artworkSource}/${system.theme}.png</staticImage>
          <imageColor>${systemArtColor}</imageColor>
          <imageSelectedColor>${systemArtColor}</imageSelectedColor>
          <imageSaturation>${systemArtSaturation}</imageSaturation>

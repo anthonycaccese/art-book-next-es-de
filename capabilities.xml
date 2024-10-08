@@ -31,11 +31,8 @@
    Color Schemes
    ///
    -->
-   <colorScheme name="default">
-      <label>Default</label>
-   </colorScheme>
-   <colorScheme name="noir">
-      <label>Noir</label>
+   <colorScheme name="dark">
+      <label>Dark</label>
    </colorScheme>
    <colorScheme name="light">
       <label>Light</label>
@@ -49,14 +46,17 @@
    <colorScheme name="famicom">
       <label>Famicom</label>
    </colorScheme>
-   <colorScheme name="dmg">
-      <label>DMG</label>
-   </colorScheme>
    <colorScheme name="oled">
       <label>OLED</label>
    </colorScheme>
+   <colorScheme name="noir">
+      <label>Noir</label>
+   </colorScheme>
    <colorScheme name="streamer">
       <label>Streamer</label>
+   </colorScheme>
+   <colorScheme name="custom">
+      <label>Custom</label>
    </colorScheme>
 
    <!--

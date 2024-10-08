@@ -1,5 +1,5 @@
 <theme>
-   <colorScheme name="default,noir,streamer">
+   <colorScheme name="dark,noir,streamer">
       <variables>
          <!-- System View -->
          <systemBackgroundColor>000000</systemBackgroundColor>
@@ -22,25 +22,25 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="default">
+   <colorScheme name="dark">
       <variables>
-         <artworkSource>artwork</artworkSource>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="noir">
       <variables>
-         <artworkSource>artwork-noir</artworkSource>
+         <artworkSource>./_inc/systems/artwork-noir</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="streamer">
       <variables>
-         <artworkSource>artwork-streamer</artworkSource>
+         <artworkSource>./_inc/systems/artwork-streamer</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="light">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffffdd</systemArtColor>
@@ -64,7 +64,7 @@
    <colorScheme name="steam-os">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
          <systemBackgroundColor>070a0f</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffffdd</systemArtColor>
@@ -88,7 +88,7 @@
    <colorScheme name="snes">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
          <systemBackgroundColor>140e26</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffffdd</systemArtColor>
@@ -112,7 +112,7 @@
    <colorScheme name="famicom">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>0</systemArtSaturation>
          <systemArtColor>DCD6B6dd</systemArtColor>
@@ -133,34 +133,10 @@
          <helpTextColor>DCD6B6aa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="dmg">
-      <variables>
-         <!-- System View -->
-         <artworkSource>artwork</artworkSource>
-         <systemBackgroundColor>000000</systemBackgroundColor>
-         <systemArtSaturation>0</systemArtSaturation>
-         <systemArtColor>4f7c4b</systemArtColor>
-         <systemLogoColor>dbd8d6</systemLogoColor>
-         <!-- Gamelist View - List Variants -->
-         <gamelistListBackgroundColor>AAA7A6</gamelistListBackgroundColor>
-         <gamelistListTextlistBackgroundColor>0f180f</gamelistListTextlistBackgroundColor>
-         <gamelistListLogoColor>dbd8d6</gamelistListLogoColor>
-         <gamelistListTextlistSelectedColor>dbd8d6</gamelistListTextlistSelectedColor>
-         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
-         <gamelistListMetadataColor>000000aa</gamelistListMetadataColor>
-         <gamelistListMetadataIconColor>3d0d22</gamelistListMetadataIconColor>
-         <gamelistListRatingColor>3d0d22</gamelistListRatingColor>
-         <gamelistListDescriptionColor>000000cc</gamelistListDescriptionColor>
-         <!-- Help System -->
-         <helpBackgroundColor>959290</helpBackgroundColor>
-         <helpIconColor>3d0d22</helpIconColor>
-         <helpTextColor>000000cc</helpTextColor>
-      </variables>
-   </colorScheme>
    <colorScheme name="oled">
       <variables>
          <!-- System View -->
-         <artworkSource>artwork</artworkSource>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffff</systemArtColor>
