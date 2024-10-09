@@ -3,6 +3,7 @@
       <variables>
          <!-- System View -->
          <artworkSource>./theme-customizations/artwork-custom</artworkSource>
+         <logoSource>./theme-customizations/logos-custom</logoSource>
          <systemBackgroundColor>000000</systemBackgroundColor>
          <systemArtSaturation>1</systemArtSaturation>
          <systemArtColor>ffffffdd</systemArtColor>

@@ -123,7 +123,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <origin>0.5 0.5</origin>
          <pos>0.5 0.5</pos>
          <maxSize>0.5 0.3</maxSize>
-         <path>./_inc/systems/logos/${system.theme}.svg</path>
+         <default>./_inc/systems/logos/${system.theme}.svg</default>
+         <path>${logoSource}/${system.theme}.svg</path>
          <color>${systemLogoColor}</color>
          <zIndex>3</zIndex>
       </image>
@@ -137,7 +138,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
    <view name="gamelist">
       <image name="logo">
          <origin>0.5 0.5</origin>
-         <path>./_inc/systems/logos/${system.theme}.svg</path>
+         <default>./_inc/systems/logos/${system.theme}.svg</default>
+         <path>${logoSource}/${system.theme}.svg</path>
          <zIndex>5</zIndex>
       </image>
       <badges name="badges">
