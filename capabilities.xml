@@ -31,29 +31,59 @@
    Color Schemes
    ///
    -->
-   <colorScheme name="dark">
-      <label>Dark</label>
+   <colorScheme name="dark-nintendont">
+      <label>Dark [Nintendon't]</label>
    </colorScheme>
-   <colorScheme name="light">
-      <label>Light</label>
+   <colorScheme name="dark-original">
+      <label>Dark [Original]</label>
    </colorScheme>
-   <colorScheme name="steam-os">
-      <label>Steam OS</label>
+   <colorScheme name="dark-noir">
+      <label>Dark [Noir]</label>
    </colorScheme>
-   <colorScheme name="snes">
-      <label>SNES</label>
+   <colorScheme name="light-nintendont">
+      <label>Light [Nintendon't]</label>
    </colorScheme>
-   <colorScheme name="famicom">
-      <label>Famicom</label>
+   <colorScheme name="light-original">
+      <label>Light [Original]</label>
    </colorScheme>
-   <colorScheme name="oled">
-      <label>OLED</label>
+   <colorScheme name="light-noir">
+      <label>Light [Noir]</label>
    </colorScheme>
-   <colorScheme name="noir">
-      <label>Noir</label>
+   <colorScheme name="steam-os-nintendont">
+      <label>Steam OS [Nintendon't]</label>
    </colorScheme>
-   <colorScheme name="nintendont">
-      <label>Nintendon't</label>
+   <colorScheme name="steam-os-original">
+      <label>Steam OS [Original]</label>
+   </colorScheme>
+   <colorScheme name="steam-os-noir">
+      <label>Steam OS [Noir]</label>
+   </colorScheme>
+   <colorScheme name="snes-nintendont">
+      <label>SNES [Nintendon't]</label>
+   </colorScheme>
+   <colorScheme name="snes-original">
+      <label>SNES [Original]</label>
+   </colorScheme>
+   <colorScheme name="snes-noir">
+      <label>SNES [Noir]</label>
+   </colorScheme>
+   <colorScheme name="famicom-nintendont">
+      <label>Famicom [Nintendon't]</label>
+   </colorScheme>
+   <colorScheme name="famicom-original">
+      <label>Famicom [Original]</label>
+   </colorScheme>
+   <colorScheme name="famicom-noir">
+      <label>Famicom [Noir]</label>
+   </colorScheme>
+   <colorScheme name="oled-nintendont">
+      <label>OLED [Nintendon't]</label>
+   </colorScheme>
+   <colorScheme name="oled-original">
+      <label>OLED [Original]</label>
+   </colorScheme>
+   <colorScheme name="oled-noir">
+      <label>OLED [Noir]</label>
    </colorScheme>
    <colorScheme name="custom">
       <label>Custom</label>

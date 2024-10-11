@@ -18,14 +18,24 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
    <colorScheme name="
-      dark,
-      light,
-      noir,
-      steam-os,
-      snes,
-      famicom,
-      oled,
-      nintendont
+      dark-nintendont,
+      dark-original,
+      dark-noir,
+      light-nintendont,
+      light-original,
+      light-noir,
+      steam-os-nintendont,
+      steam-os-original,
+      steam-os-noir,
+      snes-nintendont,
+      snes-original,
+      snes-noir,
+      famicom-nintendont,
+      famicom-original,
+      famicom-noir,
+      oled-nintendont,
+      oled-original,
+      oled-noir,
       ">
       <variables>
          <colorSchemePath>./colors.xml</colorSchemePath>
