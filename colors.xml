@@ -1,5 +1,5 @@
 <theme>
-   <colorScheme name="dark,noir,streamer">
+   <colorScheme name="dark,noir,nintendont">
       <variables>
          <!-- System View -->
          <logoSource>./_inc/systems/logos</logoSource>
@@ -33,9 +33,9 @@
          <artworkSource>./_inc/systems/artwork-noir</artworkSource>
       </variables>
    </colorScheme>
-   <colorScheme name="streamer">
+   <colorScheme name="nintendont">
       <variables>
-         <artworkSource>./_inc/systems/artwork-streamer</artworkSource>
+         <artworkSource>./_inc/systems/artwork-nintendont</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="light">
