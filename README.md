@@ -27,7 +27,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
    - `Famicom` - based on the Nintendo Famicom console colors
    - `OLED` - A fully black version of the default color schmeme made for OLED displays
    - `Noir` - A custom artwork set created by tenlevels
-   - `Streamer` - A custom artwork set made for video creators who need to be careful with displaying certain IP
+   - `Nintendon't` - A custom artwork set made for video creators who need to be careful with displaying certain IP
    - `Custom` - Allows you to define your own color scheme and artwork (see instructions below)
 
 ## **Additional Notes**
@@ -83,6 +83,7 @@ If you make a custom color scheme and are comfortable with sharing I would love 
 * Auto-Collection Genre background art created by [@nautipuss](https://github.com/nautipuss)
 * Metadata Icons sourced from [FontAwesome](https://fontawesome.com/search?o=r&m=free)
 * The `Noir` System Artwork set was created and provided by [tenlevels](https://www.reddit.com/user/tenlevels/) with help from f8less and inspired by the artwork from the Epic Noir theme by chicuelo
+* The `Nintendon't` System Artwork was created and provided by [theUnBurn](https://github.com/theUnBurn)
 * Thank you to [GenoCL](https://genocl.carrd.co/) for the idea of the multi-artwork system view.  It got me to think about ES themes in a different way when building it out and it came out awesome.
 
 ## **License**
