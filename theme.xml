@@ -18,22 +18,22 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
    <colorScheme name="
-      dark-nintendont,
+      dark-screenshots,
       dark-original,
       dark-noir,
-      light-nintendont,
+      light-screenshots,
       light-original,
       light-noir,
-      steam-os-nintendont,
+      steam-os-screenshots,
       steam-os-original,
       steam-os-noir,
-      snes-nintendont,
+      snes-screenshots,
       snes-original,
       snes-noir,
-      famicom-nintendont,
+      famicom-screenshots,
       famicom-original,
       famicom-noir,
-      oled-nintendont,
+      oled-screenshots,
       oled-original,
       oled-noir,
       ">

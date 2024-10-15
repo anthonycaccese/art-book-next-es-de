@@ -31,59 +31,59 @@
    Color Schemes
    ///
    -->
-   <colorScheme name="dark-nintendont">
-      <label>Dark [Nintendon't]</label>
-   </colorScheme>
-   <colorScheme name="dark-original">
-      <label>Dark [Original]</label>
+   <colorScheme name="dark-screenshots">
+      <label>Dark [Screenshots]</label>
    </colorScheme>
    <colorScheme name="dark-noir">
       <label>Dark [Noir]</label>
    </colorScheme>
-   <colorScheme name="light-nintendont">
-      <label>Light [Nintendon't]</label>
+   <colorScheme name="dark-original">
+      <label>Dark [Original Screenshots]</label>
    </colorScheme>
-   <colorScheme name="light-original">
-      <label>Light [Original]</label>
+   <colorScheme name="light-screenshots">
+      <label>Light [Screenshots]</label>
    </colorScheme>
    <colorScheme name="light-noir">
       <label>Light [Noir]</label>
    </colorScheme>
-   <colorScheme name="steam-os-nintendont">
-      <label>Steam OS [Nintendon't]</label>
+   <colorScheme name="light-original">
+      <label>Light [Original Screenshots]</label>
    </colorScheme>
-   <colorScheme name="steam-os-original">
-      <label>Steam OS [Original]</label>
+   <colorScheme name="steam-os-screenshots">
+      <label>Steam OS [Screenshots]</label>
    </colorScheme>
    <colorScheme name="steam-os-noir">
       <label>Steam OS [Noir]</label>
    </colorScheme>
-   <colorScheme name="snes-nintendont">
-      <label>SNES [Nintendon't]</label>
+   <colorScheme name="steam-os-original">
+      <label>Steam OS [Original Screenshots]</label>
    </colorScheme>
-   <colorScheme name="snes-original">
-      <label>SNES [Original]</label>
+   <colorScheme name="snes-screenshots">
+      <label>SNES [Screenshots]</label>
    </colorScheme>
    <colorScheme name="snes-noir">
       <label>SNES [Noir]</label>
    </colorScheme>
-   <colorScheme name="famicom-nintendont">
-      <label>Famicom [Nintendon't]</label>
+   <colorScheme name="snes-original">
+      <label>SNES [Original Screenshots]</label>
    </colorScheme>
-   <colorScheme name="famicom-original">
-      <label>Famicom [Original]</label>
+   <colorScheme name="famicom-screenshots">
+      <label>Famicom [Screenshots]</label>
    </colorScheme>
    <colorScheme name="famicom-noir">
       <label>Famicom [Noir]</label>
    </colorScheme>
-   <colorScheme name="oled-nintendont">
-      <label>OLED [Nintendon't]</label>
+   <colorScheme name="famicom-original">
+      <label>Famicom [Original Screenshots]</label>
    </colorScheme>
-   <colorScheme name="oled-original">
-      <label>OLED [Original]</label>
+   <colorScheme name="oled-screenshots">
+      <label>OLED [Screenshots]</label>
    </colorScheme>
    <colorScheme name="oled-noir">
       <label>OLED [Noir]</label>
+   </colorScheme>
+   <colorScheme name="oled-original">
+      <label>OLED [Original Screenshots]</label>
    </colorScheme>
    <colorScheme name="custom">
       <label>Custom</label>

@@ -1,6 +1,6 @@
 <theme>
    <!-- colors -->
-   <colorScheme name="dark-nintendont,dark-original,dark-noir">
+   <colorScheme name="dark-screenshots,dark-original,dark-noir">
       <variables>
          <!-- System View -->
          <logoSource>./_inc/systems/logos</logoSource>
@@ -24,7 +24,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="light-nintendont,light-original,light-noir">
+   <colorScheme name="light-screenshots,light-original,light-noir">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -49,7 +49,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="steam-os-nintendont,steam-os-original,steam-os-noir">
+   <colorScheme name="steam-os-screenshots,steam-os-original,steam-os-noir">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -74,7 +74,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="snes-nintendont,snes-original,snes-noir">
+   <colorScheme name="snes-screenshots,snes-original,snes-noir">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -99,7 +99,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="famicom-nintendont,famicom-original,famicom-noir">
+   <colorScheme name="famicom-screenshots,famicom-original,famicom-noir">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -124,7 +124,7 @@
          <helpTextColor>DCD6B6aa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="oled-nintendont,oled-original,oled-noir">
+   <colorScheme name="oled-screenshots,oled-original,oled-noir">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -150,9 +150,9 @@
       </variables>
    </colorScheme>
    <!-- system artwork -->
-   <colorScheme name="dark-nintendont,light-nintendont,steam-os-nintendont,snes-nintendont,famicom-nintendont,oled-nintendont">
+   <colorScheme name="dark-screenshots,light-screenshots,steam-os-screenshots,snes-screenshots,famicom-screenshots,oled-screenshots">
       <variables>
-         <artworkSource>./_inc/systems/artwork-nintendont</artworkSource>
+         <artworkSource>./_inc/systems/artwork-screenshots</artworkSource>
       </variables>
    </colorScheme>
    <colorScheme name="dark-original,light-original,steam-os-original,snes-original,famicom-original,oled-original">
