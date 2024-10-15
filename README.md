@@ -19,16 +19,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
    - `List: Boxart` - A simple list that removes all gamemetadata and displays only a game's cover artwork
    - `List: Screenshot &amp; Marquee` - A simple list that removes all gamemetadata and displays the screenshot and marquee artwork
    - There is also a set of variants that remove the display of the help system.  You'll see those listed with the prefix of `[Help Off]`
-- `Theme Color Scheme` - sets the color scheme that is used for the overall theme on all views.  There are 7 built in color schems to choose from:
-   - `Dark` - the default color scheme.
-   - `Light` - the color scheme from the original Art Book that I built in 2017 for Retropie
-   - `Steam OS` - based on the primary colors used in Steam OS
-   - `SNES` - based on the Super Nintendo colors used in North America
-   - `Famicom` - based on the Nintendo Famicom console colors
-   - `OLED` - A fully black version of the default color schmeme made for OLED displays
-   - `Noir` - A custom artwork set created by tenlevels
-   - `Nintendon't` - A custom artwork set made for video creators who need to be careful with displaying certain IP
-   - `Custom` - Allows you to define your own color scheme and artwork (see instructions below)
+- `Theme Color Scheme` - sets the color scheme and system artwork that is used for the overall theme on all views.
 
 ## **Additional Notes**
 
@@ -83,7 +74,7 @@ If you make a custom color scheme and are comfortable with sharing I would love 
 * Auto-Collection Genre background art created by [@nautipuss](https://github.com/nautipuss)
 * Metadata Icons sourced from [FontAwesome](https://fontawesome.com/search?o=r&m=free)
 * The `Noir` System Artwork set was created and provided by [tenlevels](https://www.reddit.com/user/tenlevels/) with help from f8less and inspired by the artwork from the Epic Noir theme by chicuelo
-* The `Nintendon't` System Artwork was created and provided by [theUnBurn](https://github.com/theUnBurn)
+* Some System Artwork was created and provided by [theUnBurn](https://github.com/theUnBurn)
 * Thank you to [GenoCL](https://genocl.carrd.co/) for the idea of the multi-artwork system view.  It got me to think about ES themes in a different way when building it out and it came out awesome.
 
 ## **License**
