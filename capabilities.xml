@@ -37,6 +37,9 @@
    <colorScheme name="dark-noir">
       <label>Dark [Noir]</label>
    </colorScheme>
+   <colorScheme name="dark-circuit">
+      <label>Dark [Circuit]</label>
+   </colorScheme>
    <colorScheme name="dark-original">
       <label>Dark [Original Screenshots]</label>
    </colorScheme>
@@ -45,6 +48,9 @@
    </colorScheme>
    <colorScheme name="light-noir">
       <label>Light [Noir]</label>
+   </colorScheme>
+   <colorScheme name="light-circuit">
+      <label>Light [Circuit]</label>
    </colorScheme>
    <colorScheme name="light-original">
       <label>Light [Original Screenshots]</label>
@@ -55,6 +61,9 @@
    <colorScheme name="steam-os-noir">
       <label>Steam OS [Noir]</label>
    </colorScheme>
+   <colorScheme name="steam-os-circuit">
+      <label>Steam OS [Circuit]</label>
+   </colorScheme>
    <colorScheme name="steam-os-original">
       <label>Steam OS [Original Screenshots]</label>
    </colorScheme>
@@ -63,6 +72,9 @@
    </colorScheme>
    <colorScheme name="snes-noir">
       <label>SNES [Noir]</label>
+   </colorScheme>
+   <colorScheme name="snes-circuit">
+      <label>SNES [Circuit]</label>
    </colorScheme>
    <colorScheme name="snes-original">
       <label>SNES [Original Screenshots]</label>
@@ -73,6 +85,9 @@
    <colorScheme name="famicom-noir">
       <label>Famicom [Noir]</label>
    </colorScheme>
+   <colorScheme name="famicom-circuit">
+      <label>Famicom [Circuit]</label>
+   </colorScheme>
    <colorScheme name="famicom-original">
       <label>Famicom [Original Screenshots]</label>
    </colorScheme>
@@ -81,6 +96,9 @@
    </colorScheme>
    <colorScheme name="oled-noir">
       <label>OLED [Noir]</label>
+   </colorScheme>
+   <colorScheme name="oled-circuit">
+      <label>OLED [Circuit]</label>
    </colorScheme>
    <colorScheme name="oled-original">
       <label>OLED [Original Screenshots]</label>

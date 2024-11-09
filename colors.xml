@@ -1,6 +1,6 @@
 <theme>
    <!-- colors -->
-   <colorScheme name="dark-screenshots,dark-original,dark-noir">
+   <colorScheme name="dark-screenshots,dark-noir,dark-circuit,dark-original">
       <variables>
          <!-- System View -->
          <logoSource>./_inc/systems/logos</logoSource>
@@ -24,7 +24,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="light-screenshots,light-original,light-noir">
+   <colorScheme name="light-screenshots,light-noir,light-circuit,light-original">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -49,7 +49,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="steam-os-screenshots,steam-os-original,steam-os-noir">
+   <colorScheme name="steam-os-screenshots,steam-os-noir,steam-os-circuit,steam-os-original">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -74,7 +74,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="snes-screenshots,snes-original,snes-noir">
+   <colorScheme name="snes-screenshots,snes-noir,snes-circuit,snes-original">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -99,7 +99,7 @@
          <helpTextColor>ffffffaa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="famicom-screenshots,famicom-original,famicom-noir">
+   <colorScheme name="famicom-screenshots,famicom-noir,famicom-circuit,famicom-original">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -124,7 +124,7 @@
          <helpTextColor>DCD6B6aa</helpTextColor>
       </variables>
    </colorScheme>
-   <colorScheme name="oled-screenshots,oled-original,oled-noir">
+   <colorScheme name="oled-screenshots,oled-noir,oled-circuit,oled-original">
       <variables>
          <!-- System View -->
          <artworkSource>./_inc/systems/artwork</artworkSource>
@@ -155,14 +155,19 @@
          <artworkSource>./_inc/systems/artwork-screenshots</artworkSource>
       </variables>
    </colorScheme>
-   <colorScheme name="dark-original,light-original,steam-os-original,snes-original,famicom-original,oled-original">
-      <variables>
-         <artworkSource>./_inc/systems/artwork</artworkSource>
-      </variables>
-   </colorScheme>
    <colorScheme name="dark-noir,light-noir,steam-os-noir,snes-noir,famicom-noir,oled-noir">
       <variables>
          <artworkSource>./_inc/systems/artwork-noir</artworkSource>
+      </variables>
+   </colorScheme>
+   <colorScheme name="dark-circuit,light-circuit,steam-os-circuit,snes-circuit,famicom-circuit,oled-circuit">
+      <variables>
+         <artworkSource>./_inc/systems/artwork-circuit</artworkSource>
+      </variables>
+   </colorScheme>
+   <colorScheme name="dark-original,light-original,steam-os-original,snes-original,famicom-original,oled-original">
+      <variables>
+         <artworkSource>./_inc/systems/artwork</artworkSource>
       </variables>
    </colorScheme>
 </theme>
