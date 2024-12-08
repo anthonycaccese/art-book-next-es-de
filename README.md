@@ -25,7 +25,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ### **Creating your own color scheme:**
 
-1) In the resources folder you will find a template file called [colors-custom.xml](https://github.com/anthonycaccese/miniui-menu-es-de/blob/main/resources/colors-custom.xml)
+1) In the resources folder you will find a template file called [colors-custom.xml](https://github.com/anthonycaccese/art-book-next-es-de/blob/main/resources/colors-custom.xml)
 
 2) Make a folder named `theme-customizations` and place a copy of the `colors-custom.xml` file inside that folder.  The folder structure should look like this when you are done:
    ```
