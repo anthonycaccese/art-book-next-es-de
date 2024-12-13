@@ -25,7 +25,7 @@ based on 640x480
          <helpsystemFontSize>0.033333333333333</helpsystemFontSize><!-- 16 -->
       </variables>
    </fontSize>
-   <fontSize name="medium,large">
+   <fontSize name="medium,large,x-large">
       <variables>
          <helpsystemFontSize>0.0375</helpsystemFontSize><!-- 18 -->
       </variables>
@@ -101,7 +101,7 @@ based on 640x480
             <gamelistFontSize>0.041666666666667</gamelistFontSize><!-- 20 -->
          </variables>
       </fontSize>
-      <fontSize name="large">
+      <fontSize name="large,x-large">
          <variables>
             <gamelistFontSize>0.05</gamelistFontSize><!-- 24 -->
          </variables>
@@ -130,7 +130,7 @@ based on 640x480
             <gamelistLineSpacing>1.575</gamelistLineSpacing>
          </variables>
       </fontSize>
-      <fontSize name="large">
+      <fontSize name="large,x-large">
          <variables>
             <gamelistLineSpacing>1.45</gamelistLineSpacing>
          </variables>
@@ -159,7 +159,7 @@ based on 640x480
             <gamelistLineSpacing>1.67</gamelistLineSpacing>
          </variables>
       </fontSize>
-      <fontSize name="large">
+      <fontSize name="large,x-large">
          <variables>
             <gamelistLineSpacing>1.52</gamelistLineSpacing>
          </variables>
@@ -285,7 +285,7 @@ based on 640x480
             <gamelistDescriptionLineSpacing>1.49</gamelistDescriptionLineSpacing>
          </variables>
       </fontSize>
-      <fontSize name="large">
+      <fontSize name="large,x-large">
          <variables>
             <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
             <gamelistDescriptionLineSpacing>1.49</gamelistDescriptionLineSpacing>
@@ -343,7 +343,7 @@ based on 640x480
             <gamelistReleaseDateFormat>%Y-%m-%d</gamelistReleaseDateFormat>
          </variables>
       </fontSize>
-      <fontSize name="large">
+      <fontSize name="large,x-large">
          <variables>
             <gamelistMetadataFontSize>0.045833333333333</gamelistMetadataFontSize><!-- 22 -->
             <gamelistReleaseDateFormat>%Y-%m</gamelistReleaseDateFormat>

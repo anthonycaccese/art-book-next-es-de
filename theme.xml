@@ -12,7 +12,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
    ///
    -->
    <variables>
-      <fontRegular>./_inc/fonts/Oxygen-Regular.ttf</fontRegular>
+      <fontRegular>./_inc/fonts/Roboto-Regular.ttf</fontRegular>
       <fontBold>./_inc/fonts/Roboto-Bold.ttf</fontBold>
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
