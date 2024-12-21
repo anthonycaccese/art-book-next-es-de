@@ -68,7 +68,7 @@ based on 640x480
          <maxItemCount>4.1</maxItemCount>
       </carousel>
       <image name="system-logo">
-         <maxSize>0.7 0.4</maxSize>
+         <maxSize>0.65 0.4</maxSize>
       </image>
    </view>
 
