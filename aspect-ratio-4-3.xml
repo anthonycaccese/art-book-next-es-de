@@ -293,6 +293,7 @@ based on 640x480
          <text name="description">
             <fontSize>${gamelistDescriptionFontSize}</fontSize>
             <lineSpacing>${gamelistDescriptionLineSpacing}</lineSpacing>
+            <size>0.3984375 0.25</size><!-- 255 120 -->
          </text>
       </view>
       <fontSize name="small">
@@ -340,7 +341,6 @@ based on 640x480
       <view name="gamelist">
          <text name="description">
             <pos>0.55078125 0.58125</pos><!-- 352.5 279 -->
-            <size>0.3984375 0.25</size><!-- 255 120 -->
          </text>
       </view>
    </variant>
@@ -352,7 +352,6 @@ based on 640x480
       <view name="gamelist">
          <text name="description">
             <pos>0.55078125 0.69479167</pos><!-- 352.5 333.5 -->
-            <size>0.3984375 0.25</size><!-- 255 120 -->
          </text>
          <rating name="rating">
             <origin>1 0.5</origin>
