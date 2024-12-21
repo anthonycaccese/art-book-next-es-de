@@ -328,7 +328,7 @@ based on 720x480
             <gamelistDescriptionLineSpacing>1.7</gamelistDescriptionLineSpacing>
             <gamelistMetadataIconSize>0 0.05416667</gamelistMetadataIconSize><!-- 26 -->
             <gamelistMetadataFontSize>0.05</gamelistMetadataFontSize><!-- 24 -->
-            <gamelistDateFormat>%Y</gamelistDateFormat>
+            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
       </fontSize>
    </variant>
@@ -356,17 +356,17 @@ based on 720x480
          </text>
          <rating name="rating">
             <origin>1 0.5</origin>
-            <pos>0.953125 0.625</pos><!-- 610 300 -->
+            <pos>0.953125 0.625</pos><!-- 686.25 300 -->
             <size>${gamelistMetadataIconSize}</size>
             <visible>true</visible>
          </rating>
          <image name="releasedate-icon">
-            <pos>0.55078125 0.625</pos><!-- 352.5 300 -->
+            <pos>0.55078125 0.625</pos><!-- 396.5 300 -->
             <size>${gamelistMetadataIconSize}</size>
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.59375 0.625</pos><!-- 380 300 -->
+            <pos>0.59722222 0.625</pos><!-- 430 300 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
