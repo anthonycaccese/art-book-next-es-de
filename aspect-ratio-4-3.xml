@@ -307,7 +307,7 @@ based on 640x480
       <fontSize name="medium">
          <variables>
             <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
-            <gamelistDescriptionLineSpacing>1.54</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionLineSpacing>2.1</gamelistDescriptionLineSpacing>
             <gamelistMetadataIconSize>0 0.04583333</gamelistMetadataIconSize><!-- 22 -->
             <gamelistMetadataFontSize>0.04166667</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m</gamelistDateFormat>
