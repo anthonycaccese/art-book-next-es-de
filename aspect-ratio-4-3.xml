@@ -339,7 +339,7 @@ based on 640x480
       ">
       <view name="gamelist">
          <text name="description">
-            <pos>0.55078125 0.57916667</pos><!-- 352.5 278 -->
+            <pos>0.55078125 0.58020833</pos><!-- 352.5 278.5 -->
             <size>0.3984375 0.25</size><!-- 255 120 -->
          </text>
       </view>
@@ -351,7 +351,7 @@ based on 640x480
       ">
       <view name="gamelist">
          <text name="description">
-            <pos>0.55078125 0.692708333333333</pos><!-- 352.5 332.5 -->
+            <pos>0.55078125 0.69375</pos><!-- 352.5 333 -->
             <size>0.3984375 0.25</size><!-- 255 120 -->
          </text>
          <rating name="rating">
