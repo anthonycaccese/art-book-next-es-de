@@ -298,16 +298,16 @@ based on 720x480
       <fontSize name="small">
          <variables>
             <gamelistDescriptionFontSize>0.033333333333333</gamelistDescriptionFontSize><!-- 16 -->
-            <gamelistDescriptionLineSpacing>1.97</gamelistDescriptionLineSpacing>
-            <gamelistMetadataIconSize>0 0.04583333</gamelistMetadataIconSize><!-- 22 -->
-            <gamelistMetadataFontSize>0.0375</gamelistMetadataFontSize><!-- 18 -->
+            <gamelistDescriptionLineSpacing>1.9125</gamelistDescriptionLineSpacing>
+            <gamelistMetadataIconSize>0 0.04166667</gamelistMetadataIconSize><!-- 20 -->
+            <gamelistMetadataFontSize>0.033333333333333</gamelistMetadataFontSize><!-- 16 -->
             <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="medium">
          <variables>
             <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
-            <gamelistDescriptionLineSpacing>1.55</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionLineSpacing>2.125</gamelistDescriptionLineSpacing>
             <gamelistMetadataIconSize>0 0.04583333</gamelistMetadataIconSize><!-- 22 -->
             <gamelistMetadataFontSize>0.04166667</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
@@ -319,7 +319,7 @@ based on 720x480
             <gamelistDescriptionLineSpacing>1.7</gamelistDescriptionLineSpacing>
             <gamelistMetadataIconSize>0 0.04583333</gamelistMetadataIconSize><!-- 22 -->
             <gamelistMetadataFontSize>0.04583333</gamelistMetadataFontSize><!-- 22 -->
-            <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
+            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="x-large">
@@ -328,7 +328,7 @@ based on 720x480
             <gamelistDescriptionLineSpacing>1.7</gamelistDescriptionLineSpacing>
             <gamelistMetadataIconSize>0 0.05416667</gamelistMetadataIconSize><!-- 26 -->
             <gamelistMetadataFontSize>0.05</gamelistMetadataFontSize><!-- 24 -->
-            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
+            <gamelistDateFormat>%Y</gamelistDateFormat>
          </variables>
       </fontSize>
    </variant>

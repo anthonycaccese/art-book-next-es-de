@@ -298,16 +298,16 @@ based on 640x480
       <fontSize name="small">
          <variables>
             <gamelistDescriptionFontSize>0.033333333333333</gamelistDescriptionFontSize><!-- 16 -->
-            <gamelistDescriptionLineSpacing>1.97</gamelistDescriptionLineSpacing>
-            <gamelistMetadataIconSize>0 0.04583333</gamelistMetadataIconSize><!-- 22 -->
-            <gamelistMetadataFontSize>0.0375</gamelistMetadataFontSize><!-- 18 -->
-            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
+            <gamelistDescriptionLineSpacing>1.9125</gamelistDescriptionLineSpacing>
+            <gamelistMetadataIconSize>0 0.04166667</gamelistMetadataIconSize><!-- 20 -->
+            <gamelistMetadataFontSize>0.033333333333333</gamelistMetadataFontSize><!-- 16 -->
+            <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="medium">
          <variables>
             <gamelistDescriptionFontSize>0.041666666666667</gamelistDescriptionFontSize><!-- 20 -->
-            <gamelistDescriptionLineSpacing>2.1</gamelistDescriptionLineSpacing>
+            <gamelistDescriptionLineSpacing>2.125</gamelistDescriptionLineSpacing>
             <gamelistMetadataIconSize>0 0.04583333</gamelistMetadataIconSize><!-- 22 -->
             <gamelistMetadataFontSize>0.04166667</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m</gamelistDateFormat>
