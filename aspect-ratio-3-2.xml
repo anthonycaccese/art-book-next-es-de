@@ -239,14 +239,11 @@ based on 720x480
       ">
       <view name="gamelist">
          <image name="gamelist-background">
-            <size>0.5 1</size><!-- 50% 480 -->
+            <size>0.5 1</size><!-- 50% 100% -->
          </image>
          <image name="logo">
-            <pos>0.25 0.130208333333333</pos><!-- 180 62.5 -->
+            <pos>0.25 0.130208333333333</pos><!-- 25% 62.5 -->
          </image>
-         <video name="game-art">
-            <zIndex>2</zIndex>
-         </video>
       </view>
    </variant>
    <variant name="
@@ -424,7 +421,6 @@ based on 720x480
          <video name="game-art">
             <pos>0.75 0.25</pos><!-- 75% 120 -->
             <cropSize>0.5 0.541666666666667</cropSize><!-- 50% 260 -->
-            <zIndex>2</zIndex>
          </video>
       </view>
    </variant>
