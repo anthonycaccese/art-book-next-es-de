@@ -74,6 +74,7 @@ If you make a custom color scheme and are comfortable with sharing I would love 
 * Auto-Collection Genre background art created by [@nautipuss](https://github.com/nautipuss)
 * Metadata Icons sourced from [FontAwesome](https://fontawesome.com/search?o=r&m=free)
 * The `Noir` System Artwork set was created and provided by [tenlevels](https://www.reddit.com/user/tenlevels/) with help from f8less and inspired by the artwork from the Epic Noir theme by chicuelo
+* The `Outline` System Artwork set was created and provided by [Joppa Fallston](https://github.com/joppa-fallston)
 * Some System Artwork was created and provided by [theUnBurn](https://github.com/theUnBurn)
 * Thank you to [GenoCL](https://genocl.carrd.co/) for the idea of the multi-artwork system view.  It got me to think about ES themes in a different way when building it out and it came out awesome.
 

@@ -21,26 +21,32 @@ https://github.com/anthonycaccese/art-book-next-es-de
       dark-screenshots,
       dark-noir,
       dark-circuit,
+      dark-outline,
       dark-original,
       light-screenshots,
       light-noir,
       light-circuit,
+      light-outline,
       light-original,
       steam-os-screenshots,
       steam-os-noir,
       steam-os-circuit,
+      steam-os-outline,
       steam-os-original,
       snes-screenshots,
       snes-noir,
       snes-circuit,
+      snes-outline,
       snes-original,
       famicom-screenshots,
       famicom-noir,
       famicom-circuit,
+      famicom-outline,
       famicom-original,
       oled-screenshots,
       oled-noir,
       oled-circuit,
+      oled-outline,
       oled-original,
       ">
       <variables>
@@ -137,7 +143,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       </carousel>
       <image name="system-logo">
          <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
+         <pos>${systemViewLogoPos}</pos>
          <maxSize>0.5 0.3</maxSize>
          <default>./_inc/systems/logos/${system.theme}.svg</default>
          <path>${logoSource}/${system.theme}.svg</path>
