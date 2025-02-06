@@ -527,7 +527,8 @@ based on 853x480
       <view name="gamelist">
          <video name="game-art">
             <pos>0.675849941383353 0.447916666666667</pos><!-- 576.5 215 -->
-            <maxSize>0.554513481828839 0.75</maxSize><!-- 473 360 -->
+            <cropSize>0.554513481828839 0.75</cropSize><!-- 473 360 -->
+            <imageMaxSize>0.554513481828839 0.75</imageMaxSize><!-- 473 360 -->
          </video>
       </view>
    </variant>
@@ -535,7 +536,8 @@ based on 853x480
       <view name="gamelist">
          <video name="game-art">
             <pos>0.675849941383353 0.5</pos><!-- 576.5 240 -->
-            <maxSize>0.554513481828839 0.864583333333333</maxSize><!-- 473 415 -->
+            <cropSize>0.554513481828839 0.864583333333333</cropSize><!-- 473 415 -->
+            <imageMaxSize>0.554513481828839 0.864583333333333</imageMaxSize><!-- 473 415 -->
          </video>
       </view>
    </variant>

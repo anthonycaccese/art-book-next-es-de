@@ -23,6 +23,7 @@ based on 480x480
             <fontSize>${helpsystemFontSize}</fontSize><!-- 16 -->
             <entrySpacing>0.021875</entrySpacing><!-- 14 -->
             <iconTextSpacing>0.00625</iconTextSpacing><!-- 4 -->
+            <entries>back, start, a, b, x</entries>
          </helpsystem>
          <image name="help-background">
             <size>1 0.114583333333333</size><!-- 480 55 -->
@@ -33,9 +34,14 @@ based on 480x480
             <helpsystemFontSize>0.029166666666667</helpsystemFontSize><!-- 14 -->
          </variables>
       </fontSize>
-      <fontSize name="medium,large,x-large">
+      <fontSize name="medium">
          <variables>
-            <helpsystemFontSize>0.029166666666667</helpsystemFontSize><!-- 14 -->
+            <helpsystemFontSize>0.03333333</helpsystemFontSize><!-- 16 -->
+         </variables>
+      </fontSize>
+      <fontSize name="large,x-large">
+         <variables>
+            <helpsystemFontSize>0.0375</helpsystemFontSize><!-- 18 -->
          </variables>
       </fontSize>
    </variant>
@@ -422,7 +428,8 @@ based on 480x480
       <view name="gamelist">
          <video name="game-art">
             <pos>0.71875 0.447916666666667</pos><!-- 345 215 -->
-            <maxSize>0.4375 0.75</maxSize><!-- 210 360 -->
+            <cropSize>0.4375 0.75</cropSize><!-- 210 360 -->
+            <imageMaxSize>0.4375 0.75</imageMaxSize><!-- 210 360 -->
          </video>
       </view>
    </variant>
@@ -430,7 +437,8 @@ based on 480x480
       <view name="gamelist">
          <video name="game-art">
             <pos>0.71875 0.5</pos><!-- 345 240 -->
-            <maxSize>0.4375 0.864583333333333</maxSize><!-- 210 415 -->
+            <cropSize>0.4375 0.864583333333333</cropSize><!-- 210 415 -->
+            <imageMaxSize>0.4375 0.864583333333333</imageMaxSize><!-- 210 415 -->
          </video>
       </view>
    </variant>

@@ -23,6 +23,7 @@ based on 720x480
             <fontSize>${helpsystemFontSize}</fontSize>
             <entrySpacing>0.021875</entrySpacing><!-- 14 -->
             <iconTextSpacing>0.00625</iconTextSpacing><!-- 4 -->
+            <entries>back, start, a, b, x, left/right</entries>
          </helpsystem>
          <image name="help-background">
             <size>1 0.114583333333333</size><!-- 720 55 -->

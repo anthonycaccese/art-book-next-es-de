@@ -23,6 +23,7 @@ based on 640x480
             <fontSize>${helpsystemFontSize}</fontSize>
             <entrySpacing>0.021875</entrySpacing><!-- 14 -->
             <iconTextSpacing>0.00625</iconTextSpacing><!-- 4 -->
+            <entries>back, start, a, b, x</entries>
          </helpsystem>
          <image name="help-background">
             <size>1 0.114583333333333</size><!-- 640 55 -->
@@ -433,7 +434,8 @@ based on 640x480
       <view name="gamelist">
          <video name="game-art">
             <pos>0.734375 0.447916666666667</pos><!-- 470 215 -->
-            <maxSize>0.40625 0.75</maxSize><!-- 260 360 -->
+            <imageMaxSize>0.40625 0.75</imageMaxSize><!-- 260 360 -->
+            <cropSize>0.40625 0.75</cropSize><!-- 260 360 -->
          </video>
       </view>
    </variant>
@@ -441,7 +443,8 @@ based on 640x480
       <view name="gamelist">
          <video name="game-art">
             <pos>0.734375 0.5</pos><!-- 470 240 -->
-            <maxSize>0.40625 0.864583333333333</maxSize><!-- 260 415 -->
+            <imageMaxSize>0.40625 0.864583333333333</imageMaxSize><!-- 260 415 -->
+            <cropSize>0.40625 0.864583333333333</cropSize><!-- 260 415 -->
          </video>
       </view>
    </variant>
