@@ -13,7 +13,7 @@ based on 853x480
       <systemstatus name="system-status">
          <pos>0.97655334 0.04166667</pos><!-- 833 20 -->
          <height>${systemStatusHeight}</height>
-         <backgroundPadding>0.014068 0.02083333</backgroundPadding><!-- 12 10 -->
+         <backgroundPadding>0.01641266 0.02083333</backgroundPadding><!-- 14 10 -->
          <entries>all</entries>
       </systemstatus>
    </view>
