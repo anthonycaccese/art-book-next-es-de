@@ -12,9 +12,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
    ///
    -->
    <variables>
-      <fontLight>./_inc/fonts/Manrope-Light.ttf</fontLight>
-      <fontRegular>./_inc/fonts/Manrope-Medium.ttf</fontRegular>
-      <fontBold>./_inc/fonts/Manrope-Bold.ttf</fontBold>
+      <fontLight>./_inc/fonts/Mulish-Light.ttf</fontLight>
+      <fontRegular>./_inc/fonts/Mulish-Medium.ttf</fontRegular>
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
@@ -82,8 +81,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       </clock>
       <systemstatus name="system-status">
          <origin>1 0</origin>
-         <fontPath>${fontRegular}</fontPath>
-         <textRelativeScale>0.65</textRelativeScale>
+         <textRelativeScale>0.7</textRelativeScale>
+         <fontPath>${fontLight}</fontPath>
          <customIcon icon="icon_bluetooth">./_inc/images/icon-bluetooth.svg</customIcon>
          <customIcon icon="icon_wifi">./_inc/images/icon-wifi.svg</customIcon>
          <customIcon icon="icon_cellular">./_inc/images/icon-cellular.svg</customIcon>
@@ -94,14 +93,15 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <customIcon icon="icon_battery_low">./_inc/images/icon-battery-low.svg</customIcon>
          <color>${statusColor}</color>
          <backgroundColor>${statusBackgroundColor}</backgroundColor>
-         <backgroundCornerRadius>0.005</backgroundCornerRadius>
+         <backgroundCornerRadius>0.01</backgroundCornerRadius>
       </systemstatus>
       <helpsystem name="help-system-view,help-gamelist-view">
          <scope>view</scope>
          <iconColor>${helpIconColor}</iconColor>
          <textColor>${helpTextColor}</textColor>
          <backgroundColor>${helpBackgroundColor}</backgroundColor>
-         <backgroundCornerRadius>0.005</backgroundCornerRadius>
+         <backgroundCornerRadius>0.01</backgroundCornerRadius>
+         <entryRelativeScale>0.7</entryRelativeScale>
       </helpsystem>
       <helpsystem name="help-menu-view">
          <scope>menu</scope>
@@ -112,6 +112,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <backgroundColor>181818</backgroundColor>
          <backgroundPadding>0.1 0.1</backgroundPadding>
          <backgroundCornerRadius>0.005</backgroundCornerRadius>
+         <entryRelativeScale>0.8</entryRelativeScale>
       </helpsystem>
    </view>
 
@@ -168,6 +169,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <badges name="badges">
          <lines>1</lines>
          <itemsPerLine>5</itemsPerLine>
+         <itemMargin>0 0</itemMargin>
          <slots>folder,favorite,completed,collection,altemulator</slots>
          <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
          <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
@@ -201,9 +203,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
-      gamelist-list-screenshot-marquee-nh,
-      gamelist-list-screenshot-cover,
-      gamelist-list-screenshot-cover-nh
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <image name="background">
@@ -277,9 +277,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
-      gamelist-list-screenshot-marquee-nh,
-      gamelist-list-screenshot-cover,
-      gamelist-list-screenshot-cover-nh
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <video name="game-art">
@@ -567,29 +565,6 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <image name="marquee">
             <origin>0.5 0.5</origin>
             <imageType>marquee</imageType>
-         </image>
-      </view>
-   </variant>
-
-   <!--
-   ///
-   Gamelist View - List Variants: Screenshot + Boxart
-   ///
-   -->
-   <variant name="
-      gamelist-list-screenshot-cover,
-      gamelist-list-screenshot-cover-nh
-      ">
-      <view name="gamelist">
-         <video name="game-art">
-            <origin>0.5 0.5</origin>
-            <imageType>screenshot</imageType>
-            <zIndex>1</zIndex>
-         </video>
-         <image name="cover">
-            <origin>0 1</origin>
-            <imageType>cover</imageType>
-            <cornerRadius>0.005</cornerRadius>
          </image>
       </view>
    </variant>

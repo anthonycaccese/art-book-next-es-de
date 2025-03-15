@@ -61,9 +61,7 @@
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
-      gamelist-list-screenshot-marquee-nh,
-      gamelist-list-screenshot-cover,
-      gamelist-list-screenshot-cover-nh
+      gamelist-list-screenshot-marquee-nh
       ">
       <view name="gamelist">
          <text name="custom-collection-name">

@@ -218,16 +218,6 @@
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <!-- List: Screenshot & Boxart -->
-   <variant name="gamelist-list-screenshot-cover">
-      <label>List: Screenshot + Boxart</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
-         <useVariant>gamelist-list-basic</useVariant>
-      </override>
-   </variant>
    
    <!--
    ///
@@ -237,7 +227,7 @@
    <!-- List: Basic -->
    <variant name="gamelist-list-basic">
       <label>List</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
    </variant>
 
    <!--
@@ -311,16 +301,6 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <!-- NH List: Screenshot & Boxart -->
-   <variant name="gamelist-list-screenshot-cover-nh">
-      <label>[Help Off] List: Screenshot + Boxart</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>screenshot</mediaType>
-         <useVariant>gamelist-list-basic-nh</useVariant>
-      </override>
-   </variant>
 
    <!--
    ///
@@ -330,7 +310,7 @@
    <!-- NH List: Basic -->
    <variant name="gamelist-list-basic-nh">
       <label>[Help Off] List</label>
-      <selectable>true</selectable>
+      <selectable>false</selectable>
    </variant>
 
 </themeCapabilities>
