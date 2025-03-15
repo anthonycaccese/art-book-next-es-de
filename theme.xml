@@ -521,6 +521,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <image name="cover">
             <origin>1 1</origin>
             <imageType>cover</imageType>
+            <cornerRadius>0.005</cornerRadius>
          </image>
       </view>
    </variant>
