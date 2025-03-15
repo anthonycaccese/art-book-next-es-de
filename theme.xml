@@ -82,8 +82,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       </clock>
       <systemstatus name="system-status">
          <origin>1 0</origin>
-         <fontPath>${fontBold}</fontPath>
-         <textRelativeScale>0.7</textRelativeScale>
+         <fontPath>${fontRegular}</fontPath>
+         <textRelativeScale>0.65</textRelativeScale>
          <customIcon icon="icon_bluetooth">./_inc/images/icon-bluetooth.svg</customIcon>
          <customIcon icon="icon_wifi">./_inc/images/icon-wifi.svg</customIcon>
          <customIcon icon="icon_cellular">./_inc/images/icon-cellular.svg</customIcon>
