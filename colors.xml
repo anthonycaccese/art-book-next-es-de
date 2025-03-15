@@ -136,7 +136,7 @@
          <helpIconColor>DCD6B6</helpIconColor>
          <helpTextColor>DCD6B6aa</helpTextColor>
          <!-- System Status -->
-         <statusColor>ffffff</statusColor>
+         <statusColor>DCD6B6</statusColor>
          <statusBackgroundColor>2f090e</statusBackgroundColor>
       </variables>
    </colorScheme>
