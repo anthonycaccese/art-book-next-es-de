@@ -47,6 +47,21 @@
    <colorScheme name="dark-original">
       <label>Dark [Original Screenshots]</label>
    </colorScheme>
+   <colorScheme name="oled-screenshots">
+      <label>OLED [Screenshots]</label>
+   </colorScheme>
+   <colorScheme name="oled-noir">
+      <label>OLED [Noir]</label>
+   </colorScheme>
+   <colorScheme name="oled-circuit">
+      <label>OLED [Circuit]</label>
+   </colorScheme>
+   <colorScheme name="oled-outline">
+      <label>OLED [Outline]</label>
+   </colorScheme>
+   <colorScheme name="oled-original">
+      <label>OLED [Original Screenshots]</label>
+   </colorScheme>
    <colorScheme name="light-screenshots">
       <label>Light [Screenshots]</label>
    </colorScheme>
@@ -107,21 +122,6 @@
    <colorScheme name="famicom-original">
       <label>Famicom [Original Screenshots]</label>
    </colorScheme>
-   <colorScheme name="oled-screenshots">
-      <label>OLED [Screenshots]</label>
-   </colorScheme>
-   <colorScheme name="oled-noir">
-      <label>OLED [Noir]</label>
-   </colorScheme>
-   <colorScheme name="oled-circuit">
-      <label>OLED [Circuit]</label>
-   </colorScheme>
-   <colorScheme name="oled-outline">
-      <label>OLED [Outline]</label>
-   </colorScheme>
-   <colorScheme name="oled-original">
-      <label>OLED [Original Screenshots]</label>
-   </colorScheme>
    <colorScheme name="custom">
       <label>Custom</label>
    </colorScheme>
@@ -178,7 +178,17 @@
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
-         <mediaType>screenshot,marquee</mediaType>
+         <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <!-- List: Metadata, Screenshot & Boxart  -->
+   <variant name="gamelist-list-metadata-screenshot-cover">
+      <label>List: Metadata &amp; Screenshot + Boxart</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -252,6 +262,16 @@
       <override>
          <trigger>noMedia</trigger>
          <mediaType>screenshot,marquee</mediaType>
+         <useVariant>gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
+   <!-- NH List: Metadata, Screenshot & Boxart -->
+   <variant name="gamelist-list-metadata-screenshot-cover-nh">
+      <label>[Help Off] List: Metadata &amp; Screenshot + Boxart</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>screenshot</mediaType>
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>

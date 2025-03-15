@@ -92,6 +92,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <customIcon icon="icon_battery_high">./_inc/images/icon-battery-high.svg</customIcon>
          <customIcon icon="icon_battery_medium">./_inc/images/icon-battery-medium.svg</customIcon>
          <customIcon icon="icon_battery_low">./_inc/images/icon-battery-low.svg</customIcon>
+         <color>${statusColor}</color>
          <backgroundColor>${statusBackgroundColor}</backgroundColor>
          <backgroundCornerRadius>0.005</backgroundCornerRadius>
       </systemstatus>
@@ -195,6 +196,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
@@ -229,7 +232,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <selectedColor>${gamelistListTextlistSelectedColor}</selectedColor>
             <primaryColor>${gamelistListTextlistUnselectedColor}</primaryColor>
             <secondaryColor>${gamelistListTextlistUnselectedColor}</secondaryColor>
-            <selectedBackgroundColor>ffffffdd</selectedBackgroundColor>
+            <selectedBackgroundColor>${gamelistListTextlistSelectedBackgroundColor}</selectedBackgroundColor>
             <selectedBackgroundCornerRadius>0.005</selectedBackgroundCornerRadius>
             <zIndex>5</zIndex>
          </textlist>
@@ -267,6 +270,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
@@ -294,7 +299,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-metadata-cover,
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
-      gamelist-list-metadata-screenshot-marquee-nh
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh
       ">
       <view name="gamelist">
          <text name="description">
@@ -492,6 +499,28 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <image name="marquee">
             <origin>1 1</origin>
             <imageType>marquee</imageType>
+         </image>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata, Screenshot & Marquee
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh
+      ">
+      <view name="gamelist">
+         <video name="game-art">
+            <origin>0.5 1</origin>
+            <imageType>screenshot</imageType>
+            <zIndex>1</zIndex>
+         </video>
+         <image name="cover">
+            <origin>1 1</origin>
+            <imageType>cover</imageType>
          </image>
       </view>
    </variant>

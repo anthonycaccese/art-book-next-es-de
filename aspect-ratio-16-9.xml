@@ -13,7 +13,7 @@ based on 853x480
       <systemstatus name="system-status">
          <pos>0.97655334 0.04166667</pos><!-- 833 20 -->
          <height>${systemStatusHeight}</height>
-         <backgroundPadding>0.01172333 0.02083333</backgroundPadding><!-- 10 10 -->
+         <backgroundPadding>0.014068 0.02083333</backgroundPadding><!-- 12 10 -->
          <entries>all</entries>
       </systemstatus>
    </view>
@@ -22,6 +22,7 @@ based on 853x480
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-cover,
       gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-cover,
       gamelist-list-cover,
       gamelist-list-screenshot-marquee
       ">
@@ -67,6 +68,7 @@ based on 853x480
       gamelist-list-metadata-miximage-nh,
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee-nh,
       gamelist-list-basic-nh
@@ -139,6 +141,8 @@ based on 853x480
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
@@ -184,6 +188,7 @@ based on 853x480
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-cover,
       gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-cover,
       gamelist-list-cover,
       gamelist-list-screenshot-marquee
       ">
@@ -218,6 +223,7 @@ based on 853x480
       gamelist-list-metadata-miximage-nh,
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee-nh
       ">
@@ -290,6 +296,8 @@ based on 853x480
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
@@ -308,6 +316,7 @@ based on 853x480
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-cover,
       gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-cover,
       gamelist-list-cover,
       gamelist-list-screenshot-marquee
       ">
@@ -321,6 +330,7 @@ based on 853x480
       gamelist-list-metadata-miximage-nh,
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee-nh
       ">
@@ -342,7 +352,9 @@ based on 853x480
       gamelist-list-metadata-cover,
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
-      gamelist-list-metadata-screenshot-marquee-nh
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       ">
       <view name="gamelist">
          <text name="description">
@@ -387,9 +399,11 @@ based on 853x480
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-cover,
       gamelist-list-metadata-screenshot-marquee,
+      gamelist-list-metadata-screenshot-cover,
       gamelist-list-metadata-miximage-nh,
       gamelist-list-metadata-cover-nh,
-      gamelist-list-metadata-screenshot-marquee-nh
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover-nh
       ">
       <view name="gamelist">
          <text name="description">
@@ -486,6 +500,33 @@ based on 853x480
             <origin>0.5 1</origin>
             <pos>0.89449004 0.66666667</pos><!-- 763 320 -->
             <maxSize>0.17584994 0.125</maxSize><!-- 150 60 -->
+         </image>
+         <video name="game-art">
+            <pos>0.68757327 0.63541667</pos><!-- 586.5 305 -->
+            <cropSize>0.62485346 0.63541667</cropSize><!-- 533 305 -->
+         </video>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata, Screenshot & Marquee
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh
+      ">
+      <view name="gamelist">
+         <badges name="badges">
+            <pos>0.41031653 0.63541667</pos><!-- 350 305 -->
+            <size>0.26266417 0.05833333</size><!-- 140 28  -->
+            <itemMargin>0 0</itemMargin>
+         </badges>
+         <image name="cover">
+            <origin>0.5 1</origin>
+            <pos>0.89449004 0.66666667</pos><!-- 763 320 -->
+            <maxSize>0.17584994 0.33333333</maxSize><!-- 150 160 -->
          </image>
          <video name="game-art">
             <pos>0.68757327 0.63541667</pos><!-- 586.5 305 -->
