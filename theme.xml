@@ -201,7 +201,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
-      gamelist-list-screenshot-marquee-nh
+      gamelist-list-screenshot-marquee-nh,
+      gamelist-list-screenshot-cover,
+      gamelist-list-screenshot-cover-nh
       ">
       <view name="gamelist">
          <image name="background">
@@ -275,7 +277,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
-      gamelist-list-screenshot-marquee-nh
+      gamelist-list-screenshot-marquee-nh,
+      gamelist-list-screenshot-cover,
+      gamelist-list-screenshot-cover-nh
       ">
       <view name="gamelist">
          <video name="game-art">
@@ -538,7 +542,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <view name="gamelist">
          <video name="game-art">
             <origin>0.5 0.5</origin>
-            <imageCornerRadius>0.01</imageCornerRadius>
+            <imageCornerRadius>0.005</imageCornerRadius>
             <imageType>cover</imageType>
             <zIndex>1</zIndex>
          </video>
@@ -563,6 +567,29 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <image name="marquee">
             <origin>0.5 0.5</origin>
             <imageType>marquee</imageType>
+         </image>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - List Variants: Screenshot + Boxart
+   ///
+   -->
+   <variant name="
+      gamelist-list-screenshot-cover,
+      gamelist-list-screenshot-cover-nh
+      ">
+      <view name="gamelist">
+         <video name="game-art">
+            <origin>0.5 0.5</origin>
+            <imageType>screenshot</imageType>
+            <zIndex>1</zIndex>
+         </video>
+         <image name="cover">
+            <origin>0 1</origin>
+            <imageType>cover</imageType>
+            <cornerRadius>0.005</cornerRadius>
          </image>
       </view>
    </variant>

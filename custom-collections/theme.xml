@@ -9,9 +9,6 @@
          <horizontalAlignment>center</horizontalAlignment>
          <lineSpacing>1</lineSpacing>
       </text>
-      <image name="game-art-background">
-         <metadataElement>false</metadataElement>
-      </image>
    </view>
    <variant name="
       gamelist-list-basic,
@@ -59,10 +56,14 @@
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
-      gamelist-list-screenshot-marquee-nh
+      gamelist-list-screenshot-marquee-nh,
+      gamelist-list-screenshot-cover,
+      gamelist-list-screenshot-cover-nh
       ">
       <view name="gamelist">
          <text name="custom-collection-name">
