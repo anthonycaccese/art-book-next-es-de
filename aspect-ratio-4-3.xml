@@ -380,6 +380,7 @@ based on 640x480
             <size>0.390625 0.25</size><!-- 250 120 -->
             <fontSize>${gamelistDescriptionFontSize}</fontSize>
             <lineSpacing>${gamelistDescriptionLineSpacing}</lineSpacing>
+            <visible>true</visible>
          </text>
       </view>
       <fontSize name="small">

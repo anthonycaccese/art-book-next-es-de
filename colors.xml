@@ -38,7 +38,7 @@
          <systemLogoColor>ffffff</systemLogoColor>
          <!-- Gamelist View - List Variants -->
          <gamelistListBackgroundColor>dddddd</gamelistListBackgroundColor>
-         <gamelistListLogoColor>000000aa</gamelistListLogoColor>
+         <gamelistListLogoColor>000000cc</gamelistListLogoColor>
          <gamelistListTextlistBackgroundColor>eeeeee</gamelistListTextlistBackgroundColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistSelectedBackgroundColor>111111</gamelistListTextlistSelectedBackgroundColor>

@@ -316,6 +316,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <container>true</container>
             <containerStartDelay>6</containerStartDelay>
             <containerVerticalSnap>false</containerVerticalSnap>
+            <visible>false</visible>
          </text>
          <rating name="rating">
             <origin>0 0.5</origin>

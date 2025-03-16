@@ -363,6 +363,7 @@ based on 853x480
             <size>0.35169988 0.25</size><!-- 300 120 -->
             <fontSize>${gamelistDescriptionFontSize}</fontSize>
             <lineSpacing>${gamelistDescriptionLineSpacing}</lineSpacing>
+            <visible>true</visible>
          </text>
          <image name="
             releasedate-icon,
