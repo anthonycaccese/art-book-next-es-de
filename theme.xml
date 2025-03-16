@@ -110,7 +110,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <iconColor>999999</iconColor>
          <textColor>999999</textColor>
          <backgroundColor>181818</backgroundColor>
-         <backgroundPadding>0.1 0.1</backgroundPadding>
+         <backgroundHorizontalPadding>0.05 0.05</backgroundHorizontalPadding>
+         <backgroundVerticalPadding>0.05 0.05</backgroundVerticalPadding>
          <backgroundCornerRadius>0.005</backgroundCornerRadius>
          <entryRelativeScale>0.8</entryRelativeScale>
       </helpsystem>

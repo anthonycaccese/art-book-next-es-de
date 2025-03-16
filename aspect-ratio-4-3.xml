@@ -13,7 +13,8 @@ based on 640x480
       <systemstatus name="system-status">
          <pos>0.96875 0.04166667</pos><!-- 620 20 -->
          <height>${systemStatusHeight}</height>
-         <backgroundPadding>0.021875 0.02083333</backgroundPadding><!-- 14 10 -->
+         <backgroundHorizontalPadding>0.0109375 0.0109375</backgroundHorizontalPadding><!-- 7 -->
+         <backgroundVerticalPadding>0.01041667 0.01041667</backgroundVerticalPadding><!-- 5 -->
          <entries>all</entries>
       </systemstatus>
    </view>
@@ -29,7 +30,8 @@ based on 640x480
       <view name="system,gamelist">
          <helpsystem name="help-system-view,help-gamelist-view">
             <fontSize>${helpsystemFontSize}</fontSize>
-            <backgroundPadding>0.03125 0.02916667</backgroundPadding><!-- 20 14 -->
+            <backgroundHorizontalPadding>0.015625 0.015625</backgroundHorizontalPadding><!-- 10 -->
+            <backgroundVerticalPadding>0.01458333 0.01458333</backgroundVerticalPadding><!-- 7 -->
             <entrySpacing>0.01875</entrySpacing><!-- 12 -->
             <iconTextSpacing>0.0078125</iconTextSpacing><!-- 5 -->
          </helpsystem>
@@ -410,7 +412,7 @@ based on 640x480
       <fontSize name="x-large">
          <variables>
             <gamelistDescriptionFontSize>0.04583333</gamelistDescriptionFontSize><!-- 22 -->
-            <gamelistDescriptionLineSpacing>1.81818182</gamelistDescriptionLineSpacing><!-- 120/3/22 -->
+            <gamelistDescriptionLineSpacing>1.84848485</gamelistDescriptionLineSpacing><!-- 122/3/22 -->
             <gamelistMetadataFontSize>0.04166667</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
@@ -467,7 +469,7 @@ based on 640x480
       <view name="gamelist">
          <image name="marquee">
             <origin>0.5 1</origin>
-            <pos>0.75 0.5625</pos><!-- 480 270 -->
+            <pos>0.75 0.5625</pos><!-- 75% 270 -->
             <maxSize>0.296875 0.125</maxSize><!-- 190 60 -->
          </image>
          <video name="game-art">

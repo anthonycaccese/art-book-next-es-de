@@ -13,7 +13,8 @@ based on 853x480
       <systemstatus name="system-status">
          <pos>0.97655334 0.04166667</pos><!-- 833 20 -->
          <height>${systemStatusHeight}</height>
-         <backgroundPadding>0.01641266 0.02083333</backgroundPadding><!-- 14 10 -->
+         <backgroundHorizontalPadding>0.00820633 0.00820633</backgroundHorizontalPadding><!-- 7 -->
+         <backgroundVerticalPadding>0.01041667 0.01041667</backgroundVerticalPadding><!-- 5 -->
          <entries>all</entries>
       </systemstatus>
    </view>
@@ -29,7 +30,8 @@ based on 853x480
       <view name="system,gamelist">
          <helpsystem name="help-system-view,help-gamelist-view">
             <fontSize>${helpsystemFontSize}</fontSize>
-            <backgroundPadding>0.02344666 0.02916667</backgroundPadding><!-- 20 14 -->
+            <backgroundHorizontalPadding>0.01172333 0.01172333</backgroundHorizontalPadding><!-- 10 -->
+            <backgroundVerticalPadding>0.01458333 0.01458333</backgroundVerticalPadding><!-- 7 -->
             <entrySpacing>0.014068</entrySpacing><!-- 12 -->
             <iconTextSpacing>0.00586166</iconTextSpacing><!-- 5 -->
          </helpsystem>
