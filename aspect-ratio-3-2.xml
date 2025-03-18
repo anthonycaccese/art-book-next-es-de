@@ -431,9 +431,9 @@ based on 720x480
       <view name="gamelist">
          <video name="game-art">
             <origin>0.5 0.5</origin>
-            <pos>0.75 0.27083333</pos><!-- 75% 130 -->
-            <cropSize>0.5 0.54166667</cropSize><!-- 50% 260 -->
-            <imageMaxSize>0.40277778 0.46875</imageMaxSize><!-- 290 225 -->
+            <pos>0.75 0.26041667</pos><!-- 75% 125 -->
+            <cropSize>0.5 0.54166667</cropSize><!-- 50% 250 -->
+            <imageMaxSize>0.40277778 0.44791667</imageMaxSize><!-- 290 215 -->
          </video>
       </view>
    </variant>
@@ -450,9 +450,9 @@ based on 720x480
       <view name="gamelist">
          <video name="game-art">
             <origin>0.5 1</origin>
-            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
-            <cropSize>0.5 0.54166667</cropSize><!-- 50% 260 -->
-            <imageMaxSize>0.40277778 0.46875</imageMaxSize><!-- 290 225 -->
+            <pos>0.75 0.52083333</pos><!-- 75% 250 -->
+            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
+            <imageMaxSize>0.40277778 0.44791667</imageMaxSize><!-- 290 215 -->
          </video>
       </view>
    </variant>
@@ -469,12 +469,12 @@ based on 720x480
       <view name="gamelist">
          <image name="marquee">
             <origin>0.5 1</origin>
-            <pos>0.75 0.5625</pos><!-- 75% 270 -->
+            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
             <maxSize>0.29861111 0.125</maxSize><!-- 215 60 -->
          </image>
          <video name="game-art">
-            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
-            <cropSize>0.5 0.541666666666667</cropSize><!-- 50% 260 -->
+            <pos>0.75 0.52083333</pos><!-- 75% 250 -->
+            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
          </video>
       </view>
    </variant>
@@ -490,13 +490,13 @@ based on 720x480
       ">
       <view name="gamelist">
          <image name="cover">
-            <origin>0 1</origin>
-            <pos>0.54861111 0.5625</pos><!-- 395 270 -->
+            <origin>1 1</origin>
+            <pos>0.95833333 0.54166667</pos><!-- 690 260 -->
             <maxSize>0.16666667 0.3125</maxSize><!-- 120 150 -->
          </image>
          <video name="game-art">
-            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
-            <cropSize>0.5 0.541666666666667</cropSize><!-- 50% 260 -->
+            <pos>0.75 0.52083333</pos><!-- 75% 250 -->
+            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
          </video>
       </view>
    </variant>

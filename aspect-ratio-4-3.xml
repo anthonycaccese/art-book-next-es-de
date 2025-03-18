@@ -361,19 +361,19 @@ based on 640x480
       ">
       <view name="gamelist">
          <image name="releasedate-icon">
-            <pos>0.55 0.63125</pos><!-- 352 303 -->
+            <pos>0.55 0.625</pos><!-- 352 300 -->
             <size>0 0.0625</size><!-- 30 30 -->
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.60625 0.63125</pos><!-- 388 303 -->
+            <pos>0.60625 0.625</pos><!-- 388 300 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
          </datetime>
          <rating name="rating">
             <origin>1 0.5</origin>
-            <pos>0.9453125 0.63125</pos><!-- 605 303 -->
+            <pos>0.9453125 0.625</pos><!-- 605 300 -->
             <size>0 0.04583333</size><!-- 22 22 -->
             <visible>true</visible>
          </rating>
@@ -431,9 +431,9 @@ based on 640x480
       <view name="gamelist">
          <video name="game-art">
             <origin>0.5 0.5</origin>
-            <pos>0.75 0.27083333</pos><!-- 75% 130 -->
-            <cropSize>0.5 0.54166667</cropSize><!-- 50% 260 -->
-            <imageMaxSize>0.40625 0.46875</imageMaxSize><!-- 260 225 -->
+            <pos>0.75 0.26041667</pos><!-- 75% 125 -->
+            <cropSize>0.5 0.54166667</cropSize><!-- 50% 250 -->
+            <imageMaxSize>0.40625 0.44791667</imageMaxSize><!-- 260 215 -->
          </video>
       </view>
    </variant>
@@ -450,9 +450,9 @@ based on 640x480
       <view name="gamelist">
          <video name="game-art">
             <origin>0.5 1</origin>
-            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
-            <cropSize>0.5 0.54166667</cropSize><!-- 50% 260 -->
-            <imageMaxSize>0.40625 0.46875</imageMaxSize><!-- 260 225 -->
+            <pos>0.75 0.52083333</pos><!-- 75% 250 -->
+            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
+            <imageMaxSize>0.40625 0.44791667</imageMaxSize><!-- 260 215 -->
          </video>
       </view>
    </variant>
@@ -469,12 +469,12 @@ based on 640x480
       <view name="gamelist">
          <image name="marquee">
             <origin>0.5 1</origin>
-            <pos>0.75 0.5625</pos><!-- 75% 270 -->
+            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
             <maxSize>0.296875 0.125</maxSize><!-- 190 60 -->
          </image>
          <video name="game-art">
-            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
-            <cropSize>0.5 0.54166667</cropSize><!-- 50% 260 -->
+            <pos>0.75 0.52083333</pos><!-- 75% 250 -->
+            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
          </video>
       </view>
    </variant>
@@ -490,13 +490,13 @@ based on 640x480
       ">
       <view name="gamelist">
          <image name="cover">
-            <origin>0 1</origin>
-            <pos>0.5546875 0.5625</pos><!-- 355 270 -->
+            <origin>1 1</origin>
+            <pos>0.953125 0.54166667</pos><!-- 610 260 -->
             <maxSize>0.1875 0.3125</maxSize><!-- 120 150 -->
          </image>
          <video name="game-art">
-            <pos>0.75 0.54166667</pos><!-- 75% 260 -->
-            <cropSize>0.5 0.54166667</cropSize><!-- 50% 260 -->
+            <pos>0.75 0.52083333</pos><!-- 75% 250 -->
+            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
          </video>
       </view>
    </variant>
