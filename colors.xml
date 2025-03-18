@@ -20,12 +20,12 @@
          <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
          <gamelistListDescriptionColor>ffffffee</gamelistListDescriptionColor>
          <!-- Help System -->
-         <helpBackgroundColor>111111aa</helpBackgroundColor>
-         <helpIconColor>ffffffdd</helpIconColor>
-         <helpTextColor>ffffff99</helpTextColor>
+         <helpBackgroundColor>111111ee</helpBackgroundColor>
+         <helpIconColor>ffffff</helpIconColor>
+         <helpTextColor>999999</helpTextColor>
          <!-- System Status -->
          <statusColor>ffffff</statusColor>
-         <statusBackgroundColor>111111aa</statusBackgroundColor>
+         <statusBackgroundColor>111111ee</statusBackgroundColor>
       </variables>
    </colorScheme>
    <colorScheme name="light-screenshots,light-noir,light-circuit,light-outline,light-original">
@@ -45,12 +45,12 @@
          <gamelistListTextlistUnselectedColor>444444</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataColor>000000</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>00000055</gamelistListMetadataIconColor>
-         <gamelistListRatingColor>00000055</gamelistListRatingColor>
+         <gamelistListRatingColor>000000cc</gamelistListRatingColor>
          <gamelistListDescriptionColor>000000</gamelistListDescriptionColor>
          <!-- Help System -->
          <helpBackgroundColor>eeeeee</helpBackgroundColor>
          <helpIconColor>111111</helpIconColor>
-         <helpTextColor>000000aa</helpTextColor>
+         <helpTextColor>444444</helpTextColor>
          <!-- System Status -->
          <statusColor>111111</statusColor>
          <statusBackgroundColor>eeeeee</statusBackgroundColor>
@@ -98,10 +98,10 @@
          <gamelistListTextlistBackgroundColor>140e26</gamelistListTextlistBackgroundColor>
          <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
          <gamelistListTextlistSelectedBackgroundColor>402e79</gamelistListTextlistSelectedBackgroundColor>
-         <gamelistListTextlistUnselectedColor>ffffff33</gamelistListTextlistUnselectedColor>
+         <gamelistListTextlistUnselectedColor>ffffff55</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>a293d5</gamelistListMetadataIconColor>
-         <gamelistListRatingColor>ffffff44</gamelistListRatingColor>
+         <gamelistListRatingColor>a293d5</gamelistListRatingColor>
          <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
          <!-- Help System -->
          <helpBackgroundColor>140e26</helpBackgroundColor>
@@ -160,12 +160,12 @@
          <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
          <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
          <!-- Help System -->
-         <helpBackgroundColor>000000aa</helpBackgroundColor>
+         <helpBackgroundColor>000000ee</helpBackgroundColor>
          <helpIconColor>ffffff</helpIconColor>
-         <helpTextColor>ffffffaa</helpTextColor>
+         <helpTextColor>999999</helpTextColor>
          <!-- System Status -->
          <statusColor>ffffff</statusColor>
-         <statusBackgroundColor>000000aa</statusBackgroundColor>
+         <statusBackgroundColor>000000ee</statusBackgroundColor>
       </variables>
    </colorScheme>
    <!-- artwork settings -->
