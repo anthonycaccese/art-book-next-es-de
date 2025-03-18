@@ -96,7 +96,7 @@ based on 600x480
          <systemStatusHeight>0.04166667</systemStatusHeight><!-- 20 -->
          <helpsystemFontSize>0.04583333</helpsystemFontSize><!-- 22 -->
          <helpSystemViewEntries>start,a,x,left/right</helpSystemViewEntries>
-         <helpGamelistViewEntries>back,start,a</helpGamelistViewEntries>
+         <helpGamelistViewEntries>back,start</helpGamelistViewEntries>
       </variables>
    </fontSize>
    <fontSize name="large">
@@ -398,7 +398,7 @@ based on 600x480
             <gamelistDescriptionFontSize>0.0375</gamelistDescriptionFontSize><!-- 18 -->
             <gamelistDescriptionLineSpacing>1.66666667</gamelistDescriptionLineSpacing><!-- 120/4/18 -->
             <gamelistMetadataFontSize>0.02916667</gamelistMetadataFontSize><!-- 14 -->
-            <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
+            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="large">
@@ -406,7 +406,7 @@ based on 600x480
             <gamelistDescriptionFontSize>0.04166667</gamelistDescriptionFontSize><!-- 20 -->
             <gamelistDescriptionLineSpacing>1.5</gamelistDescriptionLineSpacing><!-- 120/4/20 -->
             <gamelistMetadataFontSize>0.0375</gamelistMetadataFontSize><!-- 18 -->
-            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
+            <gamelistDateFormat>%Y</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="x-large">
@@ -414,7 +414,7 @@ based on 600x480
             <gamelistDescriptionFontSize>0.05</gamelistDescriptionFontSize><!-- 24 -->
             <gamelistDescriptionLineSpacing>1.63888889</gamelistDescriptionLineSpacing><!-- 118/3/24 -->
             <gamelistMetadataFontSize>0.04166667</gamelistMetadataFontSize><!-- 20 -->
-            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
+            <gamelistDateFormat>%Y</gamelistDateFormat>
          </variables>
       </fontSize>
    </variant>
