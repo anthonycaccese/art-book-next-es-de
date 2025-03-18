@@ -7,14 +7,15 @@
    Aspect Ratios
    ///
    -->
+   <aspectRatio>32:9</aspectRatio>
+   <aspectRatio>21:9</aspectRatio>
+   <aspectRatio>19.5:9</aspectRatio>
    <aspectRatio>16:9</aspectRatio>
    <aspectRatio>16:10</aspectRatio>
    <aspectRatio>3:2</aspectRatio>
    <aspectRatio>4:3</aspectRatio>
    <aspectRatio>5:4</aspectRatio>
-   <aspectRatio>19.5:9</aspectRatio>
-   <aspectRatio>21:9</aspectRatio>
-   <aspectRatio>32:9</aspectRatio>
+   <aspectRatio>8:7</aspectRatio>
    <aspectRatio>1:1</aspectRatio>
 
    <!--

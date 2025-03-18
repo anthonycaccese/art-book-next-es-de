@@ -576,6 +576,15 @@ https://github.com/anthonycaccese/art-book-next-es-de
    Aspect Ratios
    ///
    -->
+   <aspectRatio name="32:9">
+      <include>./aspect-ratio-32-9.xml</include>
+   </aspectRatio>
+   <aspectRatio name="21:9">
+      <include>./aspect-ratio-21-9.xml</include>
+   </aspectRatio>
+   <aspectRatio name="19.5:9">
+      <include>./aspect-ratio-19_5-9.xml</include>
+   </aspectRatio>
    <aspectRatio name="16:9">
       <include>./aspect-ratio-16-9.xml</include>
    </aspectRatio>
@@ -591,14 +600,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
    <aspectRatio name="5:4">
       <include>./aspect-ratio-5-4.xml</include>
    </aspectRatio>
-   <aspectRatio name="19.5:9">
-      <include>./aspect-ratio-19_5-9.xml</include>
-   </aspectRatio>
-   <aspectRatio name="21:9">
-      <include>./aspect-ratio-21-9.xml</include>
-   </aspectRatio>
-   <aspectRatio name="32:9">
-      <include>./aspect-ratio-32-9.xml</include>
+   <aspectRatio name="8:7">
+      <include>./aspect-ratio-8-7.xml</include>
    </aspectRatio>
    <aspectRatio name="1:1">
       <include>./aspect-ratio-1-1.xml</include>
