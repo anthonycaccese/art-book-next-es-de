@@ -25,15 +25,15 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ### **Creating your own color scheme:**
 
-1) In the resources folder you will find a template file called [colors-custom.xml](https://github.com/anthonycaccese/art-book-next-es-de/blob/main/resources/colors-custom.xml)
+1) In the resources folder you will find a template file called [colors-custom.xml](https://github.com/anthonycaccese/art-book-next-es-de/blob/main/resources/colors.xml)
 
-2) Make a folder named `theme-customizations` and place a copy of the `colors-custom.xml` file inside that folder.  The folder structure should look like this when you are done:
+2) Make a folder named `theme-customizations` and place a copy of the `colors.xml` file inside that folder.  The folder structure should look like this when you are done:
    ```
-   /ES-DE/themes/art-book-next-es-de/theme-customizations/colors-custom.xml
+   /ES-DE/themes/art-book-next-es-de/theme-customizations/colors.xml
    ```
    *Note: This structure will allow you to continue to get updates for the theme from the theme downloader while also retaining your customizations.*
 
-3) Edit the properites in `colors-custom.xml` to create your custom color scheme:
+3) Edit the properites in `colors.xml` to create your custom color scheme:
    - Here is a definition of each property:
       - `artworkSource` - Sets the path to where your custom artwork for system view is stored.  
          - You shouldn't need to change this from the value that is set in the template you copied in step 2.  
