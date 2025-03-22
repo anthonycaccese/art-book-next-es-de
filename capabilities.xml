@@ -9,6 +9,7 @@
    -->
    <aspectRatio>32:9</aspectRatio>
    <aspectRatio>21:9</aspectRatio>
+   <aspectRatio>20:9</aspectRatio>
    <aspectRatio>19.5:9</aspectRatio>
    <aspectRatio>16:9</aspectRatio>
    <aspectRatio>16:10</aspectRatio>
@@ -153,16 +154,6 @@
    List Variants - Metadata & Media
    ///
    -->
-   <!-- List: Metadata & Miximage -->
-   <variant name="gamelist-list-metadata-miximage">
-      <label>List: Metadata &amp; Miximage</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage</mediaType>
-         <useVariant>gamelist-list-basic</useVariant>
-      </override>
-   </variant>
    <!-- List: Metadata & Boxart -->
    <variant name="gamelist-list-metadata-cover">
       <label>List: Metadata &amp; Boxart</label>
@@ -173,7 +164,7 @@
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <!-- List: Metadata, Screenshot & Marquee  -->
+   <!-- List: Metadata & Screenshot + Marquee  -->
    <variant name="gamelist-list-metadata-screenshot-marquee">
       <label>List: Metadata &amp; Screenshot + Marquee</label>
       <selectable>true</selectable>
@@ -183,13 +174,23 @@
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
-   <!-- List: Metadata, Screenshot & Boxart  -->
+   <!-- List: Metadata & Screenshot + Boxart  -->
    <variant name="gamelist-list-metadata-screenshot-cover">
       <label>List: Metadata &amp; Screenshot + Boxart</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
          <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+   <!-- List: Metadata & Miximage -->
+   <variant name="gamelist-list-metadata-miximage">
+      <label>List: Metadata &amp; Miximage</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage</mediaType>
          <useVariant>gamelist-list-basic</useVariant>
       </override>
    </variant>
@@ -236,16 +237,6 @@
    NH List Variants - Metadata & Media
    ///
    -->
-   <!-- NH List: Metadata & Miximage -->
-   <variant name="gamelist-list-metadata-miximage-nh">
-      <label>[Help Off] List: Metadata &amp; Miximage</label>
-      <selectable>true</selectable>
-      <override>
-         <trigger>noMedia</trigger>
-         <mediaType>miximage</mediaType>
-         <useVariant>gamelist-list-basic-nh</useVariant>
-      </override>
-   </variant>
    <!-- NH List: Metadata & Boxart -->
    <variant name="gamelist-list-metadata-cover-nh">
       <label>[Help Off] List: Metadata &amp; Boxart</label>
@@ -256,7 +247,7 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <!-- NH List: Metadata, Screenshot & Marquee -->
+   <!-- NH List: Metadata & Screenshot + Marquee -->
    <variant name="gamelist-list-metadata-screenshot-marquee-nh">
       <label>[Help Off] List: Metadata &amp; Screenshot + Marquee</label>
       <selectable>true</selectable>
@@ -266,13 +257,23 @@
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
-   <!-- NH List: Metadata, Screenshot & Boxart -->
+   <!-- NH List: Metadata & Screenshot + Boxart -->
    <variant name="gamelist-list-metadata-screenshot-cover-nh">
       <label>[Help Off] List: Metadata &amp; Screenshot + Boxart</label>
       <selectable>true</selectable>
       <override>
          <trigger>noMedia</trigger>
          <mediaType>screenshot</mediaType>
+         <useVariant>gamelist-list-basic-nh</useVariant>
+      </override>
+   </variant>
+   <!-- NH List: Metadata & Miximage -->
+   <variant name="gamelist-list-metadata-miximage-nh">
+      <label>[Help Off] List: Metadata &amp; Miximage</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>miximage</mediaType>
          <useVariant>gamelist-list-basic-nh</useVariant>
       </override>
    </variant>
