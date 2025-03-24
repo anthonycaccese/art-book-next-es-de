@@ -308,10 +308,10 @@ based on 853x480
       ">
       <view name="gamelist">
          <image name="gamelist-background">
-            <size>0.30769231 1</size><!-- 320 480 -->
+            <size>0.37514654 1</size><!-- 320 480 -->
          </image>
          <image name="logo">
-            <pos>0.15384615 0.130208333333333</pos><!-- 160 62.5 -->
+            <pos>0.18757327 0.130208333333333</pos><!-- 160 62.5 -->
          </image>
       </view>
    </variant>
