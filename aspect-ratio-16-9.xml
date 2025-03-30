@@ -370,46 +370,42 @@ based on 853x480
          <image name="
             releasedate-icon,
             players-icon,
-            last-played-icon,
-            play-count-icon
+            last-played-icon
             ">
             <size>0 0.05</size><!-- 24 24 -->
             <visible>true</visible>
          </image>
+         <rating name="rating">
+            <size>0 0.05</size><!-- 24 24 -->
+            <pos>0.82063306 0.72916667</pos><!-- 700 350 -->
+            <visible>true</visible>
+         </rating>
          <image name="releasedate-icon">
-            <pos>0.82063306 0.73125</pos><!-- 700 351 -->
-         </image>
-         <image name="players-icon">
             <pos>0.82063306 0.79375</pos><!-- 700 381 -->
          </image>
-         <image name="last-played-icon">
+         <image name="players-icon">
             <pos>0.82063306 0.85625</pos><!-- 700 411 -->
          </image>
-         <image name="play-count-icon">
+         <image name="last-played-icon">
             <pos>0.82063306 0.91875</pos><!-- 700 441 -->
          </image>
          <datetime name="releasedate">
-            <pos>0.86049238 0.73125</pos><!-- 734 351 -->
+            <pos>0.86049238 0.79375</pos><!-- 734 381 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
          </datetime>
          <text name="players">
-            <pos>0.86049238 0.79375</pos><!-- 734 381 -->
+            <pos>0.86049238 0.85625</pos><!-- 734 411 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <visible>true</visible>
          </text>
          <datetime name="last-played">
-            <pos>0.86049238 0.85625</pos><!-- 734 411 -->
+            <pos>0.86049238 0.91875</pos><!-- 734 441 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
          </datetime>
-         <text name="play-count">
-            <pos>0.86049238 0.91875</pos><!-- 734 441 -->
-            <fontSize>${gamelistMetadataFontSize}</fontSize>
-            <visible>true</visible>
-         </text>
       </view>
       <fontSize name="small">
          <variables>
