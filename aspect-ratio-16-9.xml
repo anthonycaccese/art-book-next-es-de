@@ -377,7 +377,7 @@ based on 853x480
          </image>
          <rating name="rating">
             <size>0 0.05</size><!-- 24 24 -->
-            <pos>0.82063306 0.72916667</pos><!-- 700 350 -->
+            <pos>0.82063306 0.725</pos><!-- 700 348 -->
             <visible>true</visible>
          </rating>
          <image name="releasedate-icon">
