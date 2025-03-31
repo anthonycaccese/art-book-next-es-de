@@ -52,7 +52,7 @@ based on 480x480
          </helpsystem>
          <helpsystem name="help-gamelist-view">
             <origin>0 1</origin>
-            <pos>0.05208333 0.9375</pos><!-- 25 450 -->
+            <pos>0.0625 0.9375</pos><!-- 30 450 -->
             <entries>${helpGamelistViewEntries}</entries>
          </helpsystem>
       </view>
@@ -156,7 +156,7 @@ based on 480x480
             <maxSize>0.35416667 0.10416667</maxSize><!-- 170 50 -->
          </image>
          <textlist name="gamelist-list">
-            <pos>0.05208333 0.26041667</pos><!-- 25 125 -->
+            <pos>0.0625 0.26041667</pos><!-- 30 125 -->
             <fontSize>${gamelistFontSize}</fontSize>
             <selectedBackgroundMargins>${gamelistSelectedBackgroundMargins}</selectedBackgroundMargins>
          </textlist>
@@ -325,7 +325,7 @@ based on 480x480
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
-            <size>0.39583333 0.57083333</size><!-- 190 274 -->
+            <size>0.36458333 0.57083333</size><!-- 175 274 -->
          </textlist>
       </view>
    </variant>
@@ -339,7 +339,7 @@ based on 480x480
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
-            <size>0.39583333 0.69791667</size><!-- 180 335 -->
+            <size>0.36458333 0.69791667</size><!-- 175 335 -->
          </textlist>
       </view>
    </variant>
