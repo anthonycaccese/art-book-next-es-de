@@ -52,7 +52,7 @@ based on 480x480
          </helpsystem>
          <helpsystem name="help-gamelist-view">
             <origin>0 1</origin>
-            <pos>0.07291667 0.9375</pos><!-- 35 450 -->
+            <pos>0.05208333 0.9375</pos><!-- 25 450 -->
             <entries>${helpGamelistViewEntries}</entries>
          </helpsystem>
       </view>
@@ -112,7 +112,7 @@ based on 480x480
          <systemStatusHeight>0.0625</systemStatusHeight><!-- 30 -->
          <helpsystemFontSize>0.06666667</helpsystemFontSize><!-- 32 -->
          <helpSystemViewEntries>a,left/right</helpSystemViewEntries>
-         <helpGamelistViewEntries>a</helpGamelistViewEntries>
+         <helpGamelistViewEntries>a,b</helpGamelistViewEntries>
       </variables>
    </fontSize>
 
@@ -156,7 +156,7 @@ based on 480x480
             <maxSize>0.35416667 0.10416667</maxSize><!-- 170 50 -->
          </image>
          <textlist name="gamelist-list">
-            <pos>0.07291667 0.26041667</pos><!-- 35 125 -->
+            <pos>0.05208333 0.26041667</pos><!-- 25 125 -->
             <fontSize>${gamelistFontSize}</fontSize>
             <selectedBackgroundMargins>${gamelistSelectedBackgroundMargins}</selectedBackgroundMargins>
          </textlist>
@@ -325,7 +325,7 @@ based on 480x480
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
-            <size>0.35416667 0.57083333</size><!-- 170 274 -->
+            <size>0.39583333 0.57083333</size><!-- 190 274 -->
          </textlist>
       </view>
    </variant>
@@ -339,7 +339,7 @@ based on 480x480
       ">
       <view name="gamelist">
          <textlist name="gamelist-list">
-            <size>0.35416667 0.69791667</size><!-- 170 335 -->
+            <size>0.39583333 0.69791667</size><!-- 180 335 -->
          </textlist>
       </view>
    </variant>
@@ -400,23 +400,23 @@ based on 480x480
 
          <text name="releasedate-label">
             <text>Released</text>
-            <pos>0.78125 0.75</pos><!-- 375 360 -->
+            <pos>0.80208333 0.75</pos><!-- 385 360 -->
          </text>
          <datetime name="releasedate">
-            <pos>0.78125 0.7625</pos><!-- 375 366 -->
+            <pos>0.80208333 0.7625</pos><!-- 385 366 -->
          </datetime>
          <text name="players-label">
             <text>Players</text>
-            <pos>0.78125 0.8875</pos><!-- 375 426 -->
+            <pos>0.80208333 0.8875</pos><!-- 385 426 -->
          </text>
          <text name="players">
-            <pos>0.78125 0.9</pos><!-- 375 432 -->
+            <pos>0.80208333 0.9</pos><!-- 385 432 -->
          </text>
       </view>
       <fontSize name="small,medium">
          <variables>
             <gamelistMetadataFontSize>0.02916667</gamelistMetadataFontSize><!-- 14 -->
-            <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
+            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="large,x-large">
