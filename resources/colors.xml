@@ -1,0 +1,32 @@
+<theme>
+   <colorScheme name="custom">
+      <variables>
+         <!-- System View -->
+         <artworkSource>./_inc/systems/artwork</artworkSource>
+         <logoSource>./theme-customizations/logos</logoSource>
+         <systemBackgroundColor>000000</systemBackgroundColor>
+         <systemArtSaturation>1</systemArtSaturation>
+         <systemArtColor>ffffff</systemArtColor>
+         <systemLogoColor>ffffff</systemLogoColor>
+         <systemViewLogoPos>0.5 0.5</systemViewLogoPos>
+         <!-- Gamelist View - List Variants -->
+         <gamelistListBackgroundColor>111111</gamelistListBackgroundColor>
+         <gamelistListLogoColor>ffffff</gamelistListLogoColor>
+         <gamelistListTextlistBackgroundColor>000000</gamelistListTextlistBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistSelectedBackgroundColor>3f55a0</gamelistListTextlistSelectedBackgroundColor>
+         <gamelistListTextlistUnselectedColor>ffffff55</gamelistListTextlistUnselectedColor>
+         <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
+         <gamelistListMetadataIconColor>3f55a0</gamelistListMetadataIconColor>
+         <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
+         <gamelistListRatingColor>ffffff33</gamelistListRatingColor>
+         <!-- Help System -->
+         <helpBackgroundColor>000000</helpBackgroundColor>
+         <helpIconColor>3f55a0</helpIconColor>
+         <helpTextColor>ffffff</helpTextColor>
+         <!-- System Status -->
+         <statusColor>ffffff</statusColor>
+         <statusBackgroundColor>000000</statusBackgroundColor>
+      </variables>
+   </colorScheme>
+</theme>

@@ -1,6 +1,6 @@
 <!-- 
-19.5:9 aspect ratio
-based on 1040x480
+20:9 aspect ratio
+based on 1067x480
 -->
 <theme>
 
@@ -123,7 +123,7 @@ based on 1040x480
    -->
    <view name="system">
       <carousel name="system-carousel">
-         <maxItemCount>6.725</maxItemCount>
+         <maxItemCount>6.9</maxItemCount>
       </carousel>
    </view>
 

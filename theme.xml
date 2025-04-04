@@ -12,8 +12,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
    ///
    -->
    <variables>
-      <fontRegular>./_inc/fonts/Roboto-Regular.ttf</fontRegular>
-      <fontBold>./_inc/fonts/Roboto-Bold.ttf</fontBold>
+      <fontLight>./_inc/fonts/Mulish-Light.ttf</fontLight>
+      <fontRegular>./_inc/fonts/Mulish-Medium.ttf</fontRegular>
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
@@ -57,7 +57,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       custom
       ">
       <variables>
-         <colorSchemePath>./theme-customizations/colors-custom.xml</colorSchemePath>
+         <colorSchemePath>./theme-customizations/colors.xml</colorSchemePath>
       </variables>
    </colorScheme>
    <include>${colorSchemePath}</include>
@@ -76,19 +76,32 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <tile>true</tile>
          <zIndex>0</zIndex>
       </image>
-      <image name="help-background">
-         <origin>0 1</origin>
-         <pos>0 1</pos>
-         <path>${spacerImage}</path>
-         <tile>true</tile>
-         <color>${helpBackgroundColor}</color>
-      </image>
-      <helpsystem name="help">
-         <origin>0.5 0.5</origin>
-         <originDimmed>0.5 0.5</originDimmed>
-         <posDimmed>0.5 0.942708333333333</posDimmed>
-         <textColor>${helpTextColor}</textColor>
+      <clock name="clock">
+         <opacity>0</opacity>
+      </clock>
+      <systemstatus name="system-status">
+         <origin>1 0</origin>
+         <textRelativeScale>0.7</textRelativeScale>
+         <fontPath>${fontLight}</fontPath>
+         <customIcon icon="icon_bluetooth">./_inc/images/icon-bluetooth.svg</customIcon>
+         <customIcon icon="icon_wifi">./_inc/images/icon-wifi.svg</customIcon>
+         <customIcon icon="icon_cellular">./_inc/images/icon-cellular.svg</customIcon>
+         <customIcon icon="icon_battery_charging">./_inc/images/icon-battery-charging.svg</customIcon>
+         <customIcon icon="icon_battery_full">./_inc/images/icon-battery-full.svg</customIcon>
+         <customIcon icon="icon_battery_high">./_inc/images/icon-battery-high.svg</customIcon>
+         <customIcon icon="icon_battery_medium">./_inc/images/icon-battery-medium.svg</customIcon>
+         <customIcon icon="icon_battery_low">./_inc/images/icon-battery-low.svg</customIcon>
+         <color>${statusColor}</color>
+         <backgroundColor>${statusBackgroundColor}</backgroundColor>
+         <backgroundCornerRadius>0.01</backgroundCornerRadius>
+      </systemstatus>
+      <helpsystem name="help-system-view,help-gamelist-view">
+         <scope>view</scope>
          <iconColor>${helpIconColor}</iconColor>
+         <textColor>${helpTextColor}</textColor>
+         <backgroundColor>${helpBackgroundColor}</backgroundColor>
+         <backgroundCornerRadius>0.01</backgroundCornerRadius>
+         <entryRelativeScale>0.7</entryRelativeScale>
          <!-- East Button -->
          <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-east.svg</customButtonIcon>
          <customButtonIcon button="button_b_PS">./_inc/images/help-button-east.svg</customButtonIcon>
@@ -109,8 +122,18 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <customButtonIcon button="button_x_PS">./_inc/images/help-button-west.svg</customButtonIcon>
          <customButtonIcon button="button_x_switch">./_inc/images/help-button-north.svg</customButtonIcon>
          <customButtonIcon button="button_x_SNES">./_inc/images/help-button-west.svg</customButtonIcon>
-         <!-- Left Stick Click -->
-         <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
+      </helpsystem>
+      <helpsystem name="help-menu-view">
+         <scope>menu</scope>
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.95</pos>
+         <iconColor>999999</iconColor>
+         <textColor>999999</textColor>
+         <backgroundColor>181818</backgroundColor>
+         <backgroundHorizontalPadding>0.05 0.05</backgroundHorizontalPadding>
+         <backgroundVerticalPadding>0.05 0.05</backgroundVerticalPadding>
+         <backgroundCornerRadius>0.005</backgroundCornerRadius>
+         <entryRelativeScale>0.8</entryRelativeScale>
       </helpsystem>
    </view>
 
@@ -128,6 +151,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <pos>0 0</pos>
          <size>1 1</size>
          <color>00000000</color>
+         <textColor>00000000</textColor>
          <itemTransitions>animate</itemTransitions>
          <itemVerticalAlignment>center</itemVerticalAlignment>
          <fastScrolling>true</fastScrolling>
@@ -138,7 +162,6 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <imageSaturation>${systemArtSaturation}</imageSaturation>
          <itemScale>1</itemScale>
          <itemSize>1 1</itemSize>
-         <textColor>00000000</textColor>
          <zIndex>1</zIndex>
       </carousel>
       <image name="system-logo">
@@ -167,6 +190,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <badges name="badges">
          <lines>1</lines>
          <itemsPerLine>5</itemsPerLine>
+         <itemMargin>0 0</itemMargin>
          <slots>folder,favorite,completed,collection,altemulator</slots>
          <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
          <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
@@ -195,6 +219,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
@@ -205,9 +231,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <color>${gamelistListBackgroundColor}</color>
          </image>
          <badges name="badges">
-            <origin>1 0</origin>
-            <horizontalAlignment>right</horizontalAlignment>
-            <direction>column</direction>
+            <origin>0 0.5</origin>
+            <horizontalAlignment>left</horizontalAlignment>
+            <direction>row</direction>
          </badges>
          <image name="gamelist-background">
             <origin>0 0</origin>
@@ -223,12 +249,14 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <textlist name="gamelist-list">
             <origin>0 0</origin>
             <horizontalAlignment>left</horizontalAlignment>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <systemNameSuffix>false</systemNameSuffix>
             <selectorColor>00000000</selectorColor>
             <selectedColor>${gamelistListTextlistSelectedColor}</selectedColor>
             <primaryColor>${gamelistListTextlistUnselectedColor}</primaryColor>
             <secondaryColor>${gamelistListTextlistUnselectedColor}</secondaryColor>
+            <selectedBackgroundColor>${gamelistListTextlistSelectedBackgroundColor}</selectedBackgroundColor>
+            <selectedBackgroundCornerRadius>0.005</selectedBackgroundCornerRadius>
             <zIndex>5</zIndex>
          </textlist>
       </view>
@@ -265,6 +293,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
       gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover,
       gamelist-list-cover-nh,
       gamelist-list-screenshot-marquee,
@@ -292,26 +322,22 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-metadata-cover,
       gamelist-list-metadata-cover-nh,
       gamelist-list-metadata-screenshot-marquee,
-      gamelist-list-metadata-screenshot-marquee-nh
+      gamelist-list-metadata-screenshot-marquee-nh,
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh
       ">
       <view name="gamelist">
-         <image name="game-art-background">
-            <origin>0 0</origin>
-            <path>${spacerImage}</path>
-            <tile>true</tile>
-            <color>000000</color>
-            <metadataElement>true</metadataElement>
-            <zIndex>2</zIndex>
-         </image>
          <text name="description">
             <origin>0 0</origin>
-            <fontPath>${fontRegular}</fontPath>
+            <fontPath>${fontLight}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
+            <verticalAlignment>center</verticalAlignment>
             <color>${gamelistListDescriptionColor}</color>
             <metadata>description</metadata>
             <container>true</container>
             <containerStartDelay>6</containerStartDelay>
             <containerVerticalSnap>false</containerVerticalSnap>
+            <visible>false</visible>
          </text>
          <rating name="rating">
             <origin>0 0.5</origin>
@@ -332,7 +358,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>releasedate</metadata>
             <defaultValue>Unknown</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
@@ -348,7 +374,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>players</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
@@ -364,7 +390,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>genre</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <letterCase>capitalize</letterCase>
@@ -383,7 +409,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>developer</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <container>true</container>
@@ -401,7 +427,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>publisher</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <container>true</container>
@@ -419,10 +445,10 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>lastplayed</metadata>
             <defaultValue>Never</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
-            <displayRelative>false</displayRelative>
+            <displayRelative>true</displayRelative>
             <visible>false</visible>
          </datetime>
          <image name="play-count-icon">
@@ -436,7 +462,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0 0.5</origin>
             <metadata>playcount</metadata>
             <defaultValue>Not Set</defaultValue>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>
             <visible>false</visible>
@@ -455,10 +481,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
       ">
       <view name="gamelist">
          <video name="game-art">
-            <origin>0.5 0.5</origin>
+            <origin>0.5 1</origin>
             <imageType>miximage</imageType>
-            <imageCornerRadius>0.01</imageCornerRadius>
-            <videoCornerRadius>0.01</videoCornerRadius>
          </video>
       </view>
    </variant>
@@ -474,10 +498,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
       ">
       <view name="gamelist">
          <video name="game-art">
-            <origin>0.5 0.5</origin>
+            <origin>0.5 1</origin>
             <imageType>cover</imageType>
-            <imageCornerRadius>0.01</imageCornerRadius>
-            <videoCornerRadius>0.01</videoCornerRadius>
+            <imageCornerRadius>0.005</imageCornerRadius>
          </video>
       </view>
    </variant>
@@ -493,13 +516,36 @@ https://github.com/anthonycaccese/art-book-next-es-de
       ">
       <view name="gamelist">
          <video name="game-art">
-            <origin>0.5 0.5</origin>
+            <origin>0.5 1</origin>
             <imageType>screenshot</imageType>
             <zIndex>1</zIndex>
          </video>
          <image name="marquee">
             <origin>1 1</origin>
             <imageType>marquee</imageType>
+         </image>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - List Variants: Metadata, Screenshot & Marquee
+   ///
+   -->
+   <variant name="
+      gamelist-list-metadata-screenshot-cover,
+      gamelist-list-metadata-screenshot-cover-nh
+      ">
+      <view name="gamelist">
+         <video name="game-art">
+            <origin>0.5 1</origin>
+            <imageType>screenshot</imageType>
+            <zIndex>1</zIndex>
+         </video>
+         <image name="cover">
+            <origin>1 1</origin>
+            <imageType>cover</imageType>
+            <cornerRadius>0.005</cornerRadius>
          </image>
       </view>
    </variant>
@@ -514,13 +560,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
       gamelist-list-cover-nh
       ">
       <view name="gamelist">
-         <image name="background">
-            <color>${gamelistListTextlistBackgroundColor}</color>
-         </image>
          <video name="game-art">
             <origin>0.5 0.5</origin>
-            <imageCornerRadius>0.01</imageCornerRadius>
-            <videoCornerRadius>0.01</videoCornerRadius>
+            <imageCornerRadius>0.005</imageCornerRadius>
             <imageType>cover</imageType>
             <zIndex>1</zIndex>
          </video>
@@ -554,6 +596,18 @@ https://github.com/anthonycaccese/art-book-next-es-de
    Aspect Ratios
    ///
    -->
+   <aspectRatio name="32:9">
+      <include>./aspect-ratio-32-9.xml</include>
+   </aspectRatio>
+   <aspectRatio name="21:9">
+      <include>./aspect-ratio-21-9.xml</include>
+   </aspectRatio>
+   <aspectRatio name="20:9">
+      <include>./aspect-ratio-20-9.xml</include>
+   </aspectRatio>
+   <aspectRatio name="19.5:9">
+      <include>./aspect-ratio-19_5-9.xml</include>
+   </aspectRatio>
    <aspectRatio name="16:9">
       <include>./aspect-ratio-16-9.xml</include>
    </aspectRatio>
@@ -569,14 +623,8 @@ https://github.com/anthonycaccese/art-book-next-es-de
    <aspectRatio name="5:4">
       <include>./aspect-ratio-5-4.xml</include>
    </aspectRatio>
-   <aspectRatio name="19.5:9">
-      <include>./aspect-ratio-19_5-9.xml</include>
-   </aspectRatio>
-   <aspectRatio name="21:9">
-      <include>./aspect-ratio-21-9.xml</include>
-   </aspectRatio>
-   <aspectRatio name="32:9">
-      <include>./aspect-ratio-32-9.xml</include>
+   <aspectRatio name="8:7">
+      <include>./aspect-ratio-8-7.xml</include>
    </aspectRatio>
    <aspectRatio name="1:1">
       <include>./aspect-ratio-1-1.xml</include>
