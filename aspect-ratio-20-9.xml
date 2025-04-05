@@ -10,6 +10,12 @@ based on 1067x480
    ///
    -->
    <view name="system,gamelist">
+      <clock name="clock">
+         <pos>0.02211538 0.04791667</pos><!-- 23 23 -->
+         <fontSize>${clockFontSize}</fontSize>
+         <backgroundHorizontalPadding>0.00673077 0.00673077</backgroundHorizontalPadding><!-- 7 -->
+         <backgroundVerticalPadding>0.01666667 0.01666667</backgroundVerticalPadding><!-- 8 -->
+      </clock>
       <systemstatus name="system-status">
          <pos>0.98076923 0.04166667</pos><!-- 1020 20 -->
          <height>${systemStatusHeight}</height>
@@ -85,6 +91,7 @@ based on 1067x480
    </variant>
    <fontSize name="small">
       <variables>
+         <clockFontSize>0.025</clockFontSize><!-- 12 -->
          <systemStatusHeight>0.0375</systemStatusHeight><!-- 18 -->
          <helpsystemFontSize>0.04166667</helpsystemFontSize><!-- 20 -->
          <helpSystemViewEntries>start,a,x,left/right</helpSystemViewEntries>
@@ -93,6 +100,7 @@ based on 1067x480
    </fontSize>
    <fontSize name="medium">
       <variables>
+         <clockFontSize>0.02916667</clockFontSize><!-- 14 -->
          <systemStatusHeight>0.04166667</systemStatusHeight><!-- 20 -->
          <helpsystemFontSize>0.04583333</helpsystemFontSize><!-- 22 -->
          <helpSystemViewEntries>start,a,x,left/right</helpSystemViewEntries>
@@ -101,6 +109,7 @@ based on 1067x480
    </fontSize>
    <fontSize name="large">
       <variables>
+         <clockFontSize>0.03333333</clockFontSize><!-- 16 -->
          <systemStatusHeight>0.04583333</systemStatusHeight><!-- 22 -->
          <helpsystemFontSize>0.05</helpsystemFontSize><!-- 24 -->
          <helpSystemViewEntries>start,a,x,left/right</helpSystemViewEntries>
@@ -109,6 +118,7 @@ based on 1067x480
    </fontSize>
    <fontSize name="x-large">
       <variables>
+         <clockFontSize>0.05</clockFontSize><!-- 24 -->
          <systemStatusHeight>0.0625</systemStatusHeight><!-- 30 -->
          <helpsystemFontSize>0.06666667</helpsystemFontSize><!-- 32 -->
          <helpSystemViewEntries>start,a,left/right</helpSystemViewEntries>

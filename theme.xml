@@ -69,33 +69,13 @@ https://github.com/anthonycaccese/art-book-next-es-de
    -->
    <view name="system,gamelist">
       <!-- Start: menu styling resets -->
-      <clock name="clock-menu-view">
-         <scope>menu</scope>
-         <origin>0 0</origin>
-         <pos>0.0075 0.01</pos>
-         <backgroundColor>222222</backgroundColor>
-         <color>cccccc</color>
-         <backgroundHorizontalPadding>0.02 0.01</backgroundHorizontalPadding>
-         <backgroundVerticalPadding>0.02 0.01</backgroundVerticalPadding>
-         <backgroundCornerRadius>0.005</backgroundCornerRadius>
-      </clock>
-      <systemstatus name="system-status-menu-view">
-         <scope>menu</scope>
-         <origin>1 0</origin>
-         <pos>0.99 0.01</pos>
-         <backgroundColor>222222</backgroundColor>
-         <color>cccccc</color>
-         <backgroundHorizontalPadding>0.0075 0.02</backgroundHorizontalPadding>
-         <backgroundVerticalPadding>0.02 0.01</backgroundVerticalPadding>
-         <backgroundCornerRadius>0.005</backgroundCornerRadius>
-      </systemstatus>
       <helpsystem name="help-menu-view">
          <scope>menu</scope>
          <origin>0.5 1</origin>
          <pos>0.5 0.9875</pos>
          <iconColor>cccccc</iconColor>
          <textColor>cccccc</textColor>
-         <backgroundColor>222222</backgroundColor>
+         <backgroundColor>181818</backgroundColor>
          <backgroundHorizontalPadding>0.01 0.01</backgroundHorizontalPadding>
          <backgroundVerticalPadding>0.015 0.02</backgroundVerticalPadding>
          <backgroundCornerRadius>0.005</backgroundCornerRadius>
@@ -111,11 +91,13 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <zIndex>0</zIndex>
       </image>
       <clock name="clock">
-         <scope>view</scope>
-         <opacity>0</opacity>
+         <origin>0 0</origin>
+         <fontPath>${fontLight}</fontPath>
+         <color>${statusColor}</color>
+         <backgroundColor>${statusBackgroundColor}</backgroundColor>
+         <backgroundCornerRadius>0.01</backgroundCornerRadius>
       </clock>
       <systemstatus name="system-status">
-         <scope>view</scope>
          <origin>1 0</origin>
          <textRelativeScale>0.7</textRelativeScale>
          <fontPath>${fontLight}</fontPath>
@@ -205,6 +187,9 @@ https://github.com/anthonycaccese/art-book-next-es-de
    ///
    -->
    <view name="gamelist">
+      <clock name="clock">
+         <scope>none</scope>
+      </clock>
       <image name="logo">
          <origin>0.5 0.5</origin>
          <default>./_inc/systems/logos/${system.theme}.svg</default>
