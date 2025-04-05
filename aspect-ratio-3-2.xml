@@ -371,12 +371,12 @@ based on 720x480
       ">
       <view name="gamelist">
          <image name="releasedate-icon">
-            <pos>0.55078125 0.63125</pos><!-- 396.5 303 -->
+            <pos>0.54444444 0.63125</pos><!-- 392 303 -->
             <size>0 0.0625</size><!-- 30 30 -->
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.59722222 0.63125</pos><!-- 430 303 -->
+            <pos>0.59444444 0.63125</pos><!-- 428 303 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
@@ -384,7 +384,7 @@ based on 720x480
          <rating name="rating">
             <origin>1 0.5</origin>
             <pos>0.953125 0.63125</pos><!-- 686.25 303 -->
-            <size>0 0.04583333</size><!-- 22 22 -->
+            <size>0 0.05833333</size><!-- 28 -->
             <visible>true</visible>
          </rating>
          <text name="description">
@@ -399,7 +399,7 @@ based on 720x480
          <variables>
             <gamelistDescriptionFontSize>0.03333333</gamelistDescriptionFontSize><!-- 16 -->
             <gamelistDescriptionLineSpacing>1.5</gamelistDescriptionLineSpacing><!-- 120/5/16 -->
-            <gamelistMetadataFontSize>0.02916667</gamelistMetadataFontSize><!-- 14 -->
+            <gamelistMetadataFontSize>0.03333333</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
          </variables>
       </fontSize>
@@ -407,7 +407,7 @@ based on 720x480
          <variables>
             <gamelistDescriptionFontSize>0.0375</gamelistDescriptionFontSize><!-- 18 -->
             <gamelistDescriptionLineSpacing>1.66666667</gamelistDescriptionLineSpacing><!-- 120/4/18 -->
-            <gamelistMetadataFontSize>0.02916667</gamelistMetadataFontSize><!-- 14 -->
+            <gamelistMetadataFontSize>0.03333333</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
          </variables>
       </fontSize>
@@ -415,7 +415,7 @@ based on 720x480
          <variables>
             <gamelistDescriptionFontSize>0.04166667</gamelistDescriptionFontSize><!-- 20 -->
             <gamelistDescriptionLineSpacing>1.5</gamelistDescriptionLineSpacing><!-- 120/4/20 -->
-            <gamelistMetadataFontSize>0.0375</gamelistMetadataFontSize><!-- 18 -->
+            <gamelistMetadataFontSize>0.04166667</gamelistMetadataFontSize><!-- 20 -->
             <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
       </fontSize>
