@@ -469,8 +469,7 @@ based on 853x480
          </badges>
          <video name="game-art">
             <pos>0.68757327 0.63541667</pos><!-- 586.5 305 -->
-            <cropSize>0.62485346 0.63541667</cropSize><!-- 533 305 -->
-            <imageMaxSize>0.55509965 0.5625</imageMaxSize><!-- 473.5 270 -->
+            <maxSize>0.55509965 0.5625</maxSize><!-- 473.5 270 -->
          </video>
       </view>
    </variant>
