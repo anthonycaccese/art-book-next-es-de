@@ -461,8 +461,7 @@ based on 549x480
          <video name="game-art">
             <origin>0.5 1</origin>
             <pos>0.75 0.52083333</pos><!-- 75% 250 -->
-            <cropSize>0.5 0.52083333</cropSize><!-- 50% 250 -->
-            <imageMaxSize>0.40625 0.44791667</imageMaxSize><!-- 260 215 -->
+            <maxSize>0.40625 0.44791667</maxSize><!-- 260 215 -->
          </video>
       </view>
    </variant>
