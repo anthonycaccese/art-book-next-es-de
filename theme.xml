@@ -270,6 +270,16 @@ https://github.com/anthonycaccese/art-book-next-es-de
          </textlist>
       </view>
    </variant>
+   <variant name="
+      gamelist-list-cover,
+      gamelist-list-cover-nh,
+      ">
+      <view name="gamelist">
+         <image name="background">
+            <color>${gamelistListTextlistBackgroundColor}</color>
+         </image>
+      </view>
+   </variant>
 
    <!--
    ///
