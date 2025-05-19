@@ -376,7 +376,7 @@ based on 549x480
             <visible>true</visible>
          </image>
          <datetime name="releasedate">
-            <pos>0.60625 0.625</pos><!-- 388 300 -->
+            <pos>0.61566485 0.625</pos><!-- 338 300 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
