@@ -400,7 +400,7 @@ based on 549x480
             <gamelistDescriptionFontSize>0.03333333</gamelistDescriptionFontSize><!-- 16 -->
             <gamelistDescriptionLineSpacing>1.5</gamelistDescriptionLineSpacing><!-- 120/5/16 -->
             <gamelistMetadataFontSize>0.02916667</gamelistMetadataFontSize><!-- 14 -->
-            <gamelistDateFormat>%Y-%m-%d</gamelistDateFormat>
+            <gamelistDateFormat>%Y-%m</gamelistDateFormat>
          </variables>
       </fontSize>
       <fontSize name="medium">
