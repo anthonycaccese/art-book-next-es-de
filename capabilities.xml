@@ -230,7 +230,7 @@
    <!-- List: Basic -->
    <variant name="gamelist-list-basic">
       <label>List</label>
-      <selectable>false</selectable>
+      <selectable>true</selectable>
    </variant>
 
    <!--
@@ -313,7 +313,7 @@
    <!-- NH List: Basic -->
    <variant name="gamelist-list-basic-nh">
       <label>[Help Off] List</label>
-      <selectable>false</selectable>
+      <selectable>true</selectable>
    </variant>
 
 </themeCapabilities>
