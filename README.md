@@ -25,9 +25,9 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ### **Creating your own color scheme:**
 
-1) In the resources folder you will find a template file called [colors-custom.xml](https://github.com/anthonycaccese/art-book-next-es-de/blob/main/resources/colors.xml)
+1) In the resources folder you will find a template file called [colors.xml](https://github.com/anthonycaccese/art-book-next-es-de/blob/main/resources/colors.xml)
 
-2) Make a folder named `theme-customizations` and place a copy of the `colors.xml` file inside that folder.  The folder structure should look like this when you are done:
+2) Make a folder named in the Art Book Next folder called `theme-customizations` and place a copy of the `colors.xml` file inside that folder.  The folder structure should look like this when you are done:
    ```
    /ES-DE/themes/art-book-next-es-de/theme-customizations/colors.xml
    ```
@@ -36,9 +36,13 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 3) Edit the properites in `colors.xml` to create your custom color scheme:
    - Here is a definition of each property:
       - `artworkSource` - Sets the path to where your custom artwork for system view is stored.  
-         - You shouldn't need to change this from the value that is set in the template you copied in step 2.  
-         - There are mask files in the `resources/artwork-masks` that you can use to create artwork your own custom artwork for system view.
-         - Export any custom artwork you create a `.png` with nearest neighboor scaling and place them in `/ES-DE/themes/art-book-next-es-de/theme-customizations/artwork-custom/`.
+         - If you want to create and display custom artwork then make sure `artworkSource` is set to point to `./theme-customizations/artwork`
+         - There are mask files in the `resources/artwork-masks` that you can use to create your own custom artwork.
+         - Export your artwork as a `.png` with nearest neighboor scaling and place it in `/theme-customizations/artwork/`.
+         - For any system images you don't customize you can copy the source images from the theme the theme into `./theme-customizations/artwork`
+      - `logoSource` - Sets the path to where your custom logos are stored.  
+         - Make sure `artworkSource` is set to point to `./theme-customizations/logos`
+         - logos just need to be in SVG format, named the same as the system value and placed in the above folder.
       - `systemBackgroundColor` - Sets the color to be used for the background on System View. 
       - `systemArtSaturation` - Sets the saturation level for system artwork.  1 is full color and 0 is no color.
       - `systemArtColor` - Sets the color for system artwork.  You can use this to create consistent color across all artwork if you like.  If you leave it as `ffffff` then it will display the default color of the artwork.
