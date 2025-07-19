@@ -25,6 +25,12 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ### **Creating your own color scheme:**
 
+#### Video Walkthrough:
+
+[![Customize Art Book Next](https://github.com/user-attachments/assets/5664b1be-793f-48c1-9363-49b941acbe15)](https://www.youtube.com/watch?v=gZTTwSI8QIc)
+
+#### Instructions:
+
 1) In the resources folder you will find a template file called [colors.xml](https://github.com/anthonycaccese/art-book-next-es-de/blob/main/resources/colors.xml)
 
 2) Make a folder named in the Art Book Next folder called `theme-customizations` and place a copy of the `colors.xml` file inside that folder.  The folder structure should look like this when you are done:
