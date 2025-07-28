@@ -5,7 +5,9 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 | System View | Gamelist View |
 |----|----|
-| <img src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/b912e4c4-c255-48bf-a7c5-80fab62cb086"> | <img src="https://github.com/anthonycaccese/art-book-next-es-de/assets/1454947/67dec9b0-4460-4320-8bfb-3f524e344bd4"> |
+| <img src="https://github.com/user-attachments/assets/f49037ad-1b86-430f-a8ab-e00d8afa08d9" /> | <img src="https://github.com/user-attachments/assets/5ebd03a0-163d-4ca8-8371-7cfd0aa8052b" /> |
+
+
 
 ## **Configuration Options**
 
