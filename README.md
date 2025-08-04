@@ -3,11 +3,11 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ## **Preview**
 
+[![Art Book Next Overview](https://github.com/user-attachments/assets/d9a46907-2be3-430f-a841-96a1050c0461)](https://www.youtube.com/watch?v=vFmecuEw2As)
+
 | System View | Gamelist View |
 |----|----|
 | <img src="https://github.com/user-attachments/assets/f49037ad-1b86-430f-a8ab-e00d8afa08d9" /> | <img src="https://github.com/user-attachments/assets/5ebd03a0-163d-4ca8-8371-7cfd0aa8052b" /> |
-
-
 
 ## **Configuration Options**
 
@@ -27,7 +27,7 @@ A simple theme for the version of EmulationStation used in [ES-DE](https://es-de
 
 ### **Creating your own color scheme:**
 
-#### Video Walkthrough:
+#### Video Tutorial
 
 [![Customize Art Book Next](https://github.com/user-attachments/assets/5664b1be-793f-48c1-9363-49b941acbe15)](https://www.youtube.com/watch?v=gZTTwSI8QIc)
 
