@@ -68,6 +68,7 @@ A custom color scheme lets you to modify any of the colors, artwork and logos us
 > If you make a custom color scheme and are comfortable with sharing it, I would love to check it out 😊
 > - Please feel free to create an issue in this repo called `Custom Color Scheme: [Name of your Color Scheme]`
 > - Include the values you used for the properties above (xml is preferred), the artwork and logos you added (if any) and a screenshot of what it looks like.
+> - You can view examples of user submitted color schemes here: [https://github.com/anthonycaccese/art-book-next-es-de/issues?q=label%3A%22color-scheme%22](https://github.com/anthonycaccese/art-book-next-es-de/issues?q=label%3A%22color-scheme%22)
 
 ### **2. Adding Custom Artwork & Logos for Custom Collections**
 
