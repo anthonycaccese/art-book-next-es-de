@@ -12,8 +12,8 @@
          <gamelistListBackgroundColor>222222</gamelistListBackgroundColor>
          <gamelistListLogoColor>ffffffaa</gamelistListLogoColor>
          <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
-         <gamelistListTextlistSelectedColor>000000</gamelistListTextlistSelectedColor>
-         <gamelistListTextlistSelectedBackgroundColor>ffffffdd</gamelistListTextlistSelectedBackgroundColor>
+         <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+         <gamelistListTextlistSelectedBackgroundColor>444444</gamelistListTextlistSelectedBackgroundColor>
          <gamelistListTextlistUnselectedColor>ffffff55</gamelistListTextlistUnselectedColor>
          <gamelistListMetadataColor>ffffff88</gamelistListMetadataColor>
          <gamelistListMetadataIconColor>ffffff33</gamelistListMetadataIconColor>
