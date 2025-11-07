@@ -380,7 +380,6 @@ based on 768x480
          <image name="
             releasedate-icon,
             players-icon,
-            last-played-icon,
             play-time-icon
             ">
             <size>0 0.05</size><!-- 24 24 -->
