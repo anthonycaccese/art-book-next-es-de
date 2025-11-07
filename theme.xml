@@ -440,17 +440,17 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <displayRelative>true</displayRelative>
             <visible>false</visible>
          </datetime>
-         <image name="play-count-icon">
+         <image name="play-time-icon">
             <origin>0 0.5</origin>
-            <path>./_inc/images/icon-playcount.svg</path>
+            <path>./_inc/images/icon-playtime.svg</path>
             <color>${gamelistListMetadataIconColor}</color>
             <metadataElement>true</metadataElement>
             <visible>false</visible>
          </image>
-         <text name="play-count">
+         <text name="play-time">
             <origin>0 0.5</origin>
-            <metadata>playcount</metadata>
-            <defaultValue>Not Set</defaultValue>
+            <metadata>playtime</metadata>
+            <defaultValue>None</defaultValue>
             <fontPath>${fontRegular}</fontPath>
             <lineSpacing>1</lineSpacing>
             <color>${gamelistListMetadataColor}</color>

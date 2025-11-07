@@ -381,41 +381,37 @@ based on 768x480
             releasedate-icon,
             players-icon,
             last-played-icon,
-            play-count-icon
+            play-time-icon
             ">
             <size>0 0.05</size><!-- 24 24 -->
             <visible>true</visible>
          </image>
+         <rating name="rating">
+            <size>0 0.05</size><!-- 24 24 -->
+            <pos>0.80078125 0.725</pos><!-- 615 348 -->
+            <visible>true</visible>
+         </rating>
          <image name="releasedate-icon">
-            <pos>0.80078125 0.73125</pos><!-- 615 351 -->
-         </image>
-         <image name="players-icon">
             <pos>0.80078125 0.79375</pos><!-- 615 381 -->
          </image>
-         <image name="last-played-icon">
+         <image name="players-icon">
             <pos>0.80078125 0.85625</pos><!-- 615 411 -->
          </image>
-         <image name="play-count-icon">
+         <image name="play-time-icon">
             <pos>0.80078125 0.91875</pos><!-- 615 441 -->
          </image>
          <datetime name="releasedate">
-            <pos>0.84505208 0.73125</pos><!-- 649 351 -->
+            <pos>0.84505208 0.79375</pos><!-- 649 381 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
          </datetime>
          <text name="players">
-            <pos>0.84505208 0.79375</pos><!-- 649 381 -->
+            <pos>0.84505208 0.85625</pos><!-- 649 411 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <visible>true</visible>
          </text>
-         <datetime name="last-played">
-            <pos>0.84505208 0.85625</pos><!-- 649 411 -->
-            <fontSize>${gamelistMetadataFontSize}</fontSize>
-            <format>${gamelistDateFormat}</format>
-            <visible>true</visible>
-         </datetime>
-         <text name="play-count">
+         <text name="play-time">
             <pos>0.84505208 0.91875</pos><!-- 649 441 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <visible>true</visible>

@@ -380,7 +380,7 @@ based on 853x480
          <image name="
             releasedate-icon,
             players-icon,
-            last-played-icon
+            play-time-icon
             ">
             <size>0 0.05</size><!-- 24 24 -->
             <visible>true</visible>
@@ -396,7 +396,7 @@ based on 853x480
          <image name="players-icon">
             <pos>0.82063306 0.85625</pos><!-- 700 411 -->
          </image>
-         <image name="last-played-icon">
+         <image name="play-time-icon">
             <pos>0.82063306 0.91875</pos><!-- 700 441 -->
          </image>
          <datetime name="releasedate">
@@ -410,12 +410,11 @@ based on 853x480
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <visible>true</visible>
          </text>
-         <datetime name="last-played">
+         <text name="play-time">
             <pos>0.86049238 0.91875</pos><!-- 734 441 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
-            <format>${gamelistDateFormat}</format>
             <visible>true</visible>
-         </datetime>
+         </text>
       </view>
       <fontSize name="small">
          <variables>

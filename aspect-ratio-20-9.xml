@@ -378,7 +378,7 @@ based on 1067x480
             releasedate-icon,
             players-icon,
             last-played-icon,
-            play-count-icon,
+            play-time-icon,
             genre-icon,
             publisher-icon,
             developer-icon
@@ -395,7 +395,7 @@ based on 1067x480
          <image name="last-played-icon">
             <pos>0.67307692 0.85625</pos><!-- 700 411 -->
          </image>
-         <image name="play-count-icon">
+         <image name="play-time-icon">
             <pos>0.67307692 0.91875</pos><!-- 700 441 -->
          </image>
          <datetime name="releasedate">
@@ -415,7 +415,7 @@ based on 1067x480
             <format>${gamelistDateFormat}</format>
             <visible>true</visible>
          </datetime>
-         <text name="play-count">
+         <text name="play-time">
             <pos>0.70576923 0.91875</pos><!-- 734 441 -->
             <fontSize>${gamelistMetadataFontSize}</fontSize>
             <visible>true</visible>
