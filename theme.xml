@@ -585,6 +585,44 @@ https://github.com/anthonycaccese/art-book-next-es-de
 
    <!--
    ///
+   Gamelist View - Grid Variants: Boxart
+   ///
+   -->
+   <variant name="gamelist-grid-boxart">
+      <view name="gamelist">
+         <image name="background">
+            <color>${gamelistListBackgroundColor}</color>
+         </image>
+         <grid name="grid">
+            <origin>0.5 0.5</origin>
+            <imageType>cover</imageType>
+            <imageCornerRadius>0.005</imageCornerRadius>
+            <unfocusedItemOpacity>1</unfocusedItemOpacity>
+            <unfocusedItemDimming>0.6</unfocusedItemDimming>
+            <zIndex>5</zIndex>
+         </grid>
+         <!-- Right side preview - copying from list-metadata-screenshot-cover -->
+         <video name="game-art">
+            <origin>0.5 1</origin>
+            <imageType>screenshot</imageType>
+            <delay>3</delay>
+            <iterationCount>1</iterationCount>
+            <onIterationsDone>image</onIterationsDone>
+            <interpolation>nearest</interpolation>
+            <pillarboxes>false</pillarboxes>
+            <zIndex>1</zIndex>
+         </video>
+         <image name="cover">
+            <origin>1 1</origin>
+            <imageType>cover</imageType>
+            <cornerRadius>0.005</cornerRadius>
+            <zIndex>2</zIndex>
+         </image>
+      </view>
+   </variant>
+
+   <!--
+   ///
    Aspect Ratios
    ///
    -->
