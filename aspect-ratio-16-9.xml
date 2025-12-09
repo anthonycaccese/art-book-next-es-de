@@ -564,4 +564,149 @@ based on 853x480
       </view>
    </variant>
 
+   <!--
+   ///
+   Gamelist View - Grid Variants: Boxart (16:9)
+   ///
+   -->
+   <variant name="gamelist-grid-boxart">
+      <view name="gamelist">
+         <!-- Background - full screen with 0.6 opacity (aa in hex) -->
+         <image name="grid-background">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+            <path>${spacerImage}</path>
+            <tile>true</tile>
+            <color>000000aa</color>
+            <zIndex>1</zIndex>
+         </image>
+         
+         <!-- Left side background behind grid with 0.9 opacity (e6 in hex) -->
+         <image name="grid-left-background">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>0.55 1</size>
+            <path>${spacerImage}</path>
+            <tile>true</tile>
+            <color>000000e6</color>
+            <zIndex>2</zIndex>
+         </image>
+         
+         <image name="logo">
+            <pos>0.27 0.13020833</pos>
+            <maxSize>0.26963658 0.10416667</maxSize>
+            <zIndex>10</zIndex>
+         </image>
+         
+         <!-- 3x4 Grid on left side with spacing - smaller items -->
+         <grid name="grid">
+            <pos>0.28 0.60</pos>
+            <size>0.50 0.65</size>
+            <origin>0.5 0.5</origin>
+            <itemSpacing>0.03 0.03</itemSpacing>
+            <imageCornerRadius>0.005</imageCornerRadius>
+            <unfocusedItemOpacity>1</unfocusedItemOpacity>
+            <unfocusedItemDimming>0.4</unfocusedItemDimming>
+            <itemSize>0.13 0.25</itemSize>
+            <textColor>ffffff</textColor>
+            <zIndex>5</zIndex>
+         </grid>
+         
+         <!-- Right side preview - marquee/logo on top of screenshot -->
+         <!-- Shifted up by 0.15 (15%) -->
+         <image name="marquee">
+            <origin>0.5 0</origin>
+            <pos>0.77 0.10</pos><!-- Was 0.25, now 0.10 (shifted up 0.15) -->
+            <maxSize>0.30 0.10</maxSize>
+            <imageType>marquee</imageType>
+            <metadataElement>true</metadataElement>
+            <zIndex>8</zIndex>
+         </image>
+         
+         <video name="game-art">
+            <origin>0.5 0</origin>
+            <pos>0.77 0.23</pos><!-- Was 0.38, now 0.23 (shifted up 0.15) -->
+            <maxSize>0.40 0.30</maxSize>
+            <imageType>screenshot</imageType>
+            <delay>3</delay>
+            <zIndex>6</zIndex>
+         </video>
+
+         <image name="physicalmedia">
+            <origin>0.5 0</origin>
+            <pos>0.92 0.45</pos><!-- Top-right corner, like marquee -->
+            <maxSize>0.15 0.15</maxSize>
+            <imageType>physicalmedia</imageType>
+            <metadataElement>true</metadataElement>
+            <zIndex>8</zIndex>
+         </image>
+         
+         <!-- Rating, Play Time Icon, Play Time Text all on same line -->
+         <rating name="rating">
+            <origin>0 0.5</origin>
+            <pos>0.59 0.62</pos>
+            <size>0 0.04</size>
+            <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+            <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
+            <color>ffffff</color>
+            <overlay>false</overlay>
+            <visible>true</visible>
+            <zIndex>7</zIndex>
+         </rating>
+         
+         <!-- Play Time Icon -->
+         <image name="play-time-icon">
+            <origin>0 0.5</origin>
+            <pos>0.71 0.62</pos>
+            <size>0 0.03</size>
+            <path>./_inc/images/icon-playtime.svg</path>
+            <color>ffffff</color>
+            <metadataElement>true</metadataElement>
+            <visible>true</visible>
+            <zIndex>7</zIndex>
+         </image>
+         
+         <!-- Play Time Text -->
+         <text name="play-time">
+            <origin>0 0.5</origin>
+            <pos>0.73 0.62</pos>
+            <fontSize>0.025</fontSize>
+            <fontPath>${fontRegular}</fontPath>
+            <color>ffffff</color>
+            <visible>true</visible>
+            <zIndex>7</zIndex>
+         </text>
+         
+         <!-- Last Played Date -->
+         <datetime name="last-played">
+            <origin>0 0.5</origin>
+            <pos>0.84 0.62</pos>
+            <fontSize>0.022</fontSize>
+            <fontPath>${fontRegular}</fontPath>
+            <color>ffffffcc</color>
+            <defaultValue>Never</defaultValue>
+            <visible>true</visible>
+            <zIndex>7</zIndex>
+         </datetime>
+                  
+         <!-- Description -->
+         <text name="description">
+            <origin>0 0</origin>
+            <pos>0.59 0.70</pos><!-- Was 0.85, now 0.70 (shifted up 0.15) -->
+            <size>0.38 0.12</size>
+            <fontSize>0.020</fontSize>
+            <fontPath>${fontLight}</fontPath>
+            <color>ffffffdd</color>
+            <metadata>description</metadata>
+            <lineSpacing>1.2</lineSpacing>
+            <container>true</container>
+            <containerStartDelay>4</containerStartDelay>
+            <visible>true</visible>
+            <zIndex>7</zIndex>
+         </text>
+         
+      </view>
+   </variant>
+
 </theme>
