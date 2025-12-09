@@ -316,4 +316,20 @@
       <selectable>true</selectable>
    </variant>
 
+   <!--
+   ///
+   Grid Variants - Boxart
+   ///
+   -->
+   <!-- Grid: Boxart -->
+   <variant name="gamelist-grid-boxart">
+      <label>Grid: Boxart</label>
+      <selectable>true</selectable>
+      <override>
+         <trigger>noMedia</trigger>
+         <mediaType>cover</mediaType>
+         <useVariant>gamelist-list-basic</useVariant>
+      </override>
+   </variant>
+
 </themeCapabilities>
