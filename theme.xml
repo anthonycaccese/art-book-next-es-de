@@ -17,50 +17,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
       <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
       <spacerImage>./_inc/images/space.png</spacerImage>
    </variables>
-   <colorScheme name="
-      dark-screenshots,
-      dark-noir,
-      dark-circuit,
-      dark-outline,
-      dark-original,
-      light-screenshots,
-      light-noir,
-      light-circuit,
-      light-outline,
-      light-original,
-      steam-os-screenshots,
-      steam-os-noir,
-      steam-os-circuit,
-      steam-os-outline,
-      steam-os-original,
-      snes-screenshots,
-      snes-noir,
-      snes-circuit,
-      snes-outline,
-      snes-original,
-      famicom-screenshots,
-      famicom-noir,
-      famicom-circuit,
-      famicom-outline,
-      famicom-original,
-      oled-screenshots,
-      oled-noir,
-      oled-circuit,
-      oled-outline,
-      oled-original,
-      ">
-      <variables>
-         <colorSchemePath>./colors.xml</colorSchemePath>
-      </variables>
-   </colorScheme>
-   <colorScheme name="
-      custom
-      ">
-      <variables>
-         <colorSchemePath>./theme-customizations/colors.xml</colorSchemePath>
-      </variables>
-   </colorScheme>
-   <include>${colorSchemePath}</include>
+   <include>./colors.xml</include>
 
    <!--
    ///

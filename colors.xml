@@ -1,6 +1,6 @@
 <theme>
    <!-- colors -->
-   <colorScheme name="dark-screenshots,dark-noir,dark-circuit,dark-outline,dark-original">
+   <colorScheme name="dark-screenshots,dark-noir,dark-circuit,dark-outline,dark-original,custom">
       <variables>
          <!-- System View -->
          <logoSource>./_inc/systems/logos</logoSource>
@@ -169,7 +169,7 @@
       </variables>
    </colorScheme>
    <!-- artwork settings -->
-   <colorScheme name="dark-screenshots,light-screenshots,steam-os-screenshots,snes-screenshots,famicom-screenshots,oled-screenshots">
+   <colorScheme name="dark-screenshots,light-screenshots,steam-os-screenshots,snes-screenshots,famicom-screenshots,oled-screenshots,custom">
       <variables>
          <artworkSource>./_inc/systems/artwork-screenshots</artworkSource>
          <systemViewLogoPos>0.5 0.5</systemViewLogoPos>
@@ -199,4 +199,10 @@
          <systemViewLogoPos>0.5 0.5</systemViewLogoPos>
       </variables>
    </colorScheme>
+   <colorScheme name="custom">
+      <variables>
+         <customizationPath>./theme-customizations/colors.xml</customizationPath>
+      </variables>
+   </colorScheme>
+   <include>${customizationPath}</include>
 </theme>
