@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Vircon32</systemName>
+        <systemDescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era.</systemDescription>
+        <systemManufacturer>Carra</systemManufacturer>
+        <systemReleaseYear>2021</systemReleaseYear>
+        <systemReleaseDate>2021</systemReleaseDate>
+        <systemReleaseDateFormated>2021</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>4-3</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>3F616F</systemColor>
+        <systemColorPalette1>80B3FF</systemColorPalette1>
+        <systemColorPalette2>00FFFF</systemColorPalette2>
+        <systemColorPalette3>5FD38D</systemColorPalette3>
+        <systemColorPalette4>66FF00</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Vircon32 عبارة عن وحدة تحكم افتراضية مستوحاة من أنظمة 16 و32 بت الكلاسيكية بالإضافة إلى عصر الآركيد.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Vircon32 és una consola virtual inspirada en sistemes clàssics de 16 i 32 bits, així com en l'era de l'arcade.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Vircon32 ist eine virtuelle Konsole, die von klassischen 16- und 32-Bit-Systemen sowie von der Arcade-Ära inspiriert ist.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Vircon32 es una consola virtual inspirada en los sistemas clásicos de 16 y 32 bits, así como en la era arcade.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Vircon32 est une console virtuelle inspirée des systèmes 16 et 32 bits classiques et de l'ère de l'arcade.</systemDescription>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Vircon32 è una console virtuale ispirata ai classici sistemi a 16 e 32 bit e all'era degli arcade.</systemDescription>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Vircon32は、古典的な16ビットと32ビットのシステムとアーケード時代に触発された仮想コンソールです。</systemDescription>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Vircon32는 고전적인 16비트 및 32비트 시스템과 아케이드 시대에서 영감을 받은 가상 콘솔입니다.</systemDescription>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Vircon32 is een virtuele console geïnspireerd door klassieke 16- en 32-bits systemen en het arcade-tijdperk.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Vircon32 to wirtualna konsola inspirowana klasycznymi 16- i 32-bitowymi systemami, a także erą arcade.</systemDescription>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Vircon32 é um console virtual inspirado nos sistemas clássicos de 16 e 32 bits, bem como na era dos fliperamas.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Vircon32 este o consolă virtuală inspirată de sistemele clasice pe 16 și 32 de biți, precum și de era arcade.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Vircon32 - это виртуальная консоль, вдохновленная классическими 16- и 32-битными системами, а также эпохой аркад.</systemDescription>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Vircon32 is a virtual console inspired by classic 16- and 32-bit systems as well as the arcade era.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Vircon32 är en virtuell konsol som är inspirerad av klassiska 16- och 32-bitars system samt av arkadtiden.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Vircon32 是一款虚拟控制台，其灵感来自经典的 16 位和 32 位系统以及街机时代。</systemDescription>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Vircon32 是一款虛擬控制台，靈感來自經典的 16 位元和 32 位元系統以及街機時代。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
+        </variables>
+    </language>
+</theme>

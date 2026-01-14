@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Mark III</systemName>
+        <systemDescription>The Sega Mark III is a third-generation 8-bit home video game console manufactured by Sega, as the third iteration of the SG-1000 series of consoles. It was released in Japan in 1985 and featured enhanced graphical capabilities over its predecessors. Outside of Japan it was branded as the Sega Master System.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1985</systemReleaseYear>
+        <systemReleaseDate>1985-10-20</systemReleaseDate>
+        <systemReleaseDateFormated>October 20, 1985</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>243-340</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>198AC8</systemColor>
+        <systemColorPalette1>95897A</systemColorPalette1>
+        <systemColorPalette2>D8B945</systemColorPalette2>
+        <systemColorPalette3>447094</systemColorPalette3>
+        <systemColorPalette4>CBCBCB</systemColorPalette4>
+        <systemCartSize>112-67</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Sega Mark III هو الجيل الثالث من الجيل الثالث من أجهزة ألعاب الفيديو المنزلية ذات 8 بت التي صنعتها شركة Sega، وهو التكرار الثالث لسلسلة أجهزة SG-1000. تم إصدارها في اليابان في عام 1985 وتميزت بقدرات رسومية محسّنة عن سابقاتها. أما خارج اليابان فقد كانت تحمل اسم Sega Master System.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Sega Mark III je 8-bitna kućna konzola za video igre koja proizvodi Sega, kao treća iteracija serije SG-1000 konzola. Puštena je u Japanu 1985. godine, a pokazala su poboljšane grafičke mogućnosti nad svojim prethodnicima. Izvan Japana brendiran je kao master sistem SEGA.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Sega Mark III és una videoconsola domèstica de 8 bits de tercera generació fabricada per Sega, com a tercera iteració de la sèrie SG-1000 de consoles. Va sortir a la venda al Japó el 1985 i oferia funcions gràfiques millorades respecte a les seves predecessores. Fora de Japó es va denominar Sega Master System.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Sega Mark III ist eine 8-Bit-Heimvideospielkonsole der dritten Generation, die von Sega als dritte Generation der SG-1000-Konsolenreihe hergestellt wurde. Es kam 1985 in Japan auf den Markt und bot gegenüber seinen Vorgängern verbesserte grafische Möglichkeiten. Außerhalb Japans wurde es unter dem Namen Sega Master System vertrieben.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Sega Mark III es una videoconsola doméstica de 8 bits de tercera generación fabricada por Sega, como tercera iteración de la serie SG-1000 de consolas. Salió a la venta en Japón en 1985 y ofrecía funciones gráficas mejoradas con respecto a sus predecesoras. Fuera de Japón se denominó Sega Master System.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Sega Mark III est une console de jeu vidéo de salon 8 bits de troisième génération fabriquée par Sega, troisième itération de la série de consoles SG-1000. Elle est sortie au Japon en 1985 et présentait des capacités graphiques améliorées par rapport à ses prédécesseurs. En dehors du Japon, elle était connue sous le nom de Sega Master System.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>SEGA Mark III je 8-bitna 8-bitna konzola za video igre treće generacije koju je proizvela SEGA, kao treća iteracija serije konzola SG-1000. Objavljen je u Japanu 1985. godine i sadržavao je poboljšane grafičke mogućnosti nad svojim prethodnicima. Izvan Japana markiran je kao glavni sustav Sega.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Sega Mark III è una console per videogiochi domestici a 8 bit di terza generazione prodotta da Sega, come terza iterazione della serie di console SG-1000. Fu rilasciata in Giappone nel 1985 e presentava funzionalità grafiche migliorate rispetto ai suoi predecessori. Al di fuori del Giappone è stata commercializzata con il nome di Sega Master System.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>セガ・マークIIIは、SG-1000シリーズの第3弾としてセガが製造した、第3世代の8ビット家庭用ゲーム機である。日本では1985年に発売され、前作よりもグラフィック機能が強化された。日本国外では「セガ・マスターシステム」のブランド名で発売された。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>세가 마크 III는 세가에서 제조한 3세대 8비트 가정용 비디오 게임 콘솔로, SG-1000 시리즈 콘솔의 세 번째 버전입니다. 1985년 일본에서 출시되었으며 이전 모델보다 향상된 그래픽 기능이 특징입니다. 일본 외 지역에서는 세가 마스터 시스템으로 브랜드화되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Sega Mark III is een derde generatie 8-bit videogameconsole voor thuisgebruik, geproduceerd door Sega, als derde iteratie van de SG-1000 serie consoles. Het werd in 1985 in Japan uitgebracht en had verbeterde grafische mogelijkheden ten opzichte van zijn voorgangers. Buiten Japan werd het aangeduid als het Sega Master System.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Sega Mark III to 8-bitowa domowa konsola do gier wideo trzeciej generacji wyprodukowana przez firmę Sega, jako trzecia iteracja serii konsol SG-1000. Została wydana w Japonii w 1985 roku i posiadała ulepszone możliwości graficzne w stosunku do swoich poprzedników. Poza Japonią znana była pod nazwą Sega Master System.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Sega Mark III é um console de videogame doméstico de 8 bits de terceira geração fabricado pela Sega, como a terceira iteração da série de consoles SG-1000. Ele foi lançado no Japão em 1985 e apresentava recursos gráficos aprimorados em relação aos seus antecessores. Fora do Japão, era conhecido como Sega Master System.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Sega Mark III é um console de videogame caseiro de terceira geração de 8 bits fabricado pela SEGA, como a terceira iteração da série de consoles SG-1000. Foi lançado no Japão em 1985 e apresentava recursos gráficos aprimorados sobre seus antecessores. Fora do Japão, era marcado como o Sistema Master Sega.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Sega Mark III este o consolă de jocuri video pe 8 biți de a treia generație fabricată de Sega, ca a treia iterație a seriei de console SG-1000. A fost lansată în Japonia în 1985 și a prezentat capacități grafice îmbunătățite față de predecesoarele sale. În afara Japoniei a fost comercializată ca Sega Master System.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Sega Mark III - это 8-битная домашняя игровая приставка третьего поколения, выпущенная компанией Sega и ставшая третьей итерацией серии приставок SG-1000. Она была выпущена в Японии в 1985 году и отличалась улучшенными графическими возможностями по сравнению со своими предшественницами. За пределами Японии консоль называлась Sega Master System.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Сега Марк ИИИ је трећа генерација 8-битна конзола видео игре које је произвела Сега, као трећа итерација СГ-1000 серија конзола.Објављен је у Јапану 1985. године и представио је појачане графичке могућности над својим претходницима.Изван Јапана је био маркиран као мастер систем СЕГА.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Sega Mark III är en tredje generationens 8-bitars hemkonsol för videospel som tillverkades av Sega, som den tredje iterationen av SG-1000-serien av konsoler. Den släpptes i Japan 1985 och hade förbättrad grafisk kapacitet jämfört med sina föregångare. Utanför Japan var den känd som Sega Master System.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>世嘉 Mark III 是世嘉公司生产的第三代 8 位家用视频游戏机，是 SG-1000 系列游戏机的第三代产品。它于 1985 年在日本发布，与前代产品相比，图形处理能力有所增强。在日本以外的地区，它被称为世嘉 Master System。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega Mark III 是 Sega 製造的第三代 8 位元家用視訊遊戲機，也是 SG-1000 系列遊戲機的第三次迭代。它於 1985 年在日本發售，與前代產品相比，圖形功能有所增強。在日本以外的地區，它被稱為 Sega Master System。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

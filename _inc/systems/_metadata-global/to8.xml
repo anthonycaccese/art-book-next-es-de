@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Thomson TO8</systemName>
+        <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+        <systemManufacturer>Thomson SA</systemManufacturer>
+        <systemReleaseYear>1986</systemReleaseYear>
+        <systemReleaseDate>1986</systemReleaseDate>
+        <systemReleaseDateFormated>1986</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2a539c</systemColor>
+        <systemColorPalette1>E6F0EF</systemColorPalette1>
+        <systemColorPalette2>F0C73B</systemColorPalette2>
+        <systemColorPalette3>4F8E5C</systemColorPalette3>
+        <systemColorPalette4>2C2D2C</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>طومسون TO8 هو كمبيوتر منزلي قدمته شركة Thomson SA الفرنسية في عام 1986، بتكلفة 2,990 فرنك فرنسي. وهو يحل محل سابقه، طومسون TO7/70، مع بقائه متوافقًا بشكل أساسي.  الميزات الجديدة في TO8، مثل ذاكرة أكبر (256 كيلوبايت) وأوضاع رسومات أفضل (مدعوم بشريحة الرسومات Thomson EF9369)، وهي مشتركة مع الجيل الثالث من حواسيب Thomson الأخرى (MO6 و TO9+).  يحتوي TO8 على محرك أشرطة ومحرك مايكروسوفت BASIC 1.0 (في الإصدارين القياسي و 512 كيلوبايت)[9] على ذاكرة القراءة فقط الداخلية، وهناك محرك أقراص مرنة خارجي اختياري. تم توفير الرسومات بواسطة رقاقة Thomson EF9369، مما يسمح بعرض 16 لونًا من لوحة ألوان 4096.  توجد أكثر من 120 لعبة للنظام.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Thomson To8 és un ordinador domèstic introduït per la companyia francesa Thomson SA el 1986, amb un cost de 2.990 ff. Substitueix el seu predecessor, el Thomson TO7/70, mentre que es manté essencialment compatible. Les noves característiques del TO8, com la memòria més gran (256kB) i els millors modes gràfics (alimentats pel xip gràfic Thomson EF9369), es comparteixen amb els altres ordinadors Thomson Thomson (MO6 i TO9). El TO8 té una unitat de cinta i Microsoft Basic 1.0 (en versions estàndard i 512 KB) [9] a la seva ROM interna, i hi ha una unitat de disquet externa opcional. Els gràfics van ser proporcionats pel xip Thomson EF9369, permetent la visualització de 16 colors d'una paleta de 4096. Hi ha més de 120 jocs per al sistema.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Thomson TO8 ist ein Heimcomputer, der 1986 von der französischen Firma Thomson SA zu einem Preis von 2.990 FF auf den Markt gebracht wurde. Er ersetzt seinen Vorgänger, den Thomson TO7/70, bleibt aber im Wesentlichen kompatibel.  Die neuen Funktionen des TO8, wie ein größerer Speicher (256 KB) und bessere Grafikmodi (angetrieben durch den Thomson EF9369-Grafikchip), werden von den anderen Thomson-Computern der dritten Generation (MO6 und TO9+) übernommen.  Der TO8 verfügt über ein Bandlaufwerk und Microsoft BASIC 1.0 (in Standard- und 512-KB-Versionen)[9] auf seinem internen ROM, und es gibt ein optionales externes Diskettenlaufwerk. Als Grafikkarte diente der Thomson EF9369-Chip, der die Darstellung von 16 Farben aus einer Palette von 4096 Farben ermöglichte.  Für das System gibt es mehr als 120 Spiele.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Thomson TO8 es un ordenador doméstico presentado por la empresa francesa Thomson SA en 1986, con un coste de 2.990 FF. Sustituye a su predecesor, el Thomson TO7/70, aunque sigue siendo esencialmente compatible.  Las nuevas características del TO8, como una mayor memoria (256 KB) y mejores modos gráficos (gracias al chip gráfico Thomson EF9369), se comparten con los otros ordenadores Thomson de tercera generación ( MO6 y TO9+).  El TO8 tiene una unidad de cinta y Microsoft BASIC 1.0 (en versiones estándar y de 512 KB)[9] en su ROM interna, y hay una unidad de disquete externa opcional. Los gráficos eran proporcionados por el chip Thomson EF9369, que permitía la visualización de 16 colores de una paleta de 4096.  Existen más de 120 juegos para el sistema.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Thomson TO8 est un ordinateur domestique lancé par la société française Thomson SA en 1986, au prix de 2 990 FF. Il remplace son prédécesseur, le Thomson TO7/70, tout en restant essentiellement compatible.  Les nouvelles caractéristiques du TO8, comme une plus grande mémoire (256 Ko) et de meilleurs modes graphiques (alimentés par la puce graphique Thomson EF9369), sont partagées avec les autres ordinateurs Thomson de troisième génération (MO6 et TO9+).  Le TO8 dispose d'un lecteur de bande et de Microsoft BASIC 1.0 (en versions standard et 512 Ko)[9] sur sa ROM interne, et il existe un lecteur de disquette externe en option. Le graphisme était assuré par la puce Thomson EF9369, permettant l'affichage de 16 couleurs à partir d'une palette de 4096.  Plus de 120 jeux existent pour ce système.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Thomson TO8 è un home computer introdotto dalla società francese Thomson SA nel 1986, con un costo di 2.990 FF. Sostituisce il suo predecessore, il Thomson TO7/70, pur rimanendo sostanzialmente compatibile.  Le nuove caratteristiche del TO8, come la memoria più grande (256KB) e le migliori modalità grafiche (alimentate dal chip grafico Thomson EF9369), sono condivise con gli altri computer Thomson di terza generazione (MO6 e TO9+).  Il TO8 dispone di un lettore di nastri e di Microsoft BASIC 1.0 (in versione standard e da 512 KB)[9] sulla sua ROM interna, ed è disponibile un lettore di floppy esterno opzionale. La grafica era fornita dal chip Thomson EF9369, che permetteva la visualizzazione di 16 colori da una tavolozza di 4096.  Esistono più di 120 giochi per il sistema.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>トムソンTO8は、フランスのトムソンSAが1986年に発表した家庭用コンピュータで、価格は2,990FF。前身のトムソンTO7/70を置き換えるもので、基本的な互換性は保たれている。  大容量メモリ（256KB）や優れたグラフィックモード（トムソンEF9369グラフィックチップ搭載）といったTO8の新機能は、他の第3世代トムソンコンピュータ（MO6およびTO9+）と共有されている。  TO8は内蔵ROMにテープドライブとMicrosoft BASIC 1.0（標準版と512KB版）[9]を搭載しており、オプションで外付けフロッピードライブもある。グラフィックはThomson EF9369チップによって提供され、4096色のパレットから16色を表示することができた。  120以上のゲームが存在する。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Thomson TO8은 1986년 프랑스 회사 Thomson SA에서 출시한 가정용 컴퓨터로, 가격은 2,990FF입니다. 이전 모델인 Thomson TO7/70을 대체하는 동시에 본질적인 호환성을 유지합니다.  더 큰 메모리(256KB)와 더 나은 그래픽 모드(Thomson EF9369 그래픽 칩 기반)와 같은 TO8의 새로운 기능은 다른 3세대 Thomson 컴퓨터(MO6 및 TO9+)와 공유됩니다.  TO8에는 테이프 드라이브와 Microsoft BASIC 1.0(표준 및 512KB 버전)[9]이 내부 ROM에 탑재되어 있으며 외장 플로피 드라이브는 옵션으로 제공됩니다. 그래픽은 톰슨 EF9369 칩으로 제공되어 4096개의 팔레트에서 16가지 색상을 표시할 수 있습니다.  이 시스템에는 120개 이상의 게임이 존재합니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Thomson TO8 is een thuiscomputer die in 1986 werd geïntroduceerd door het Franse bedrijf Thomson SA en 2.990 FF kostte. Hij vervangt zijn voorganger, de Thomson TO7/70, maar blijft in wezen compatibel.  De nieuwe functies van de TO8, zoals een groter geheugen (256 KB) en betere grafische modi (aangedreven door de Thomson EF9369 grafische chip), worden gedeeld met de andere derde generatie Thomson computers (MO6 en TO9+).  De TO8 heeft een tapedrive en Microsoft BASIC 1.0 (in standaard en 512 KB versies)[9] op zijn interne ROM, en er is een optioneel extern floppydrive. Graphics werden geleverd door de Thomson EF9369 chip, waarmee 16 kleuren uit een palet van 4096 konden worden weergegeven.  Er bestaan meer dan 120 spelletjes voor het systeem.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Thomson TO8 to komputer domowy wprowadzony przez francuską firmę Thomson SA w 1986 roku, kosztujący 2,990 FF. Zastąpił on swojego poprzednika, Thomson TO7/70, pozostając zasadniczo kompatybilnym.  Nowe funkcje TO8, takie jak większa pamięć (256 KB) i lepsze tryby graficzne (zasilane przez układ graficzny Thomson EF9369), są współdzielone z innymi komputerami Thomson trzeciej generacji (MO6 i TO9+).  TO8 ma napęd taśmowy i Microsoft BASIC 1.0 (w wersji standardowej i 512 KB)[9] w wewnętrznej pamięci ROM, a opcjonalnie dostępny jest zewnętrzny napęd dyskietek. Grafikę zapewniał układ Thomson EF9369, pozwalający na wyświetlanie 16 kolorów z palety 4096.  Dla systemu istnieje ponad 120 gier.</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Thomson TO8 é um computador doméstico lançado pela empresa francesa Thomson SA em 1986, com um custo de 2.990 FF. Ele substitui seu antecessor, o Thomson TO7/70, embora permaneça essencialmente compatível.  Os novos recursos do TO8, como memória maior (256 KB) e melhores modos gráficos (alimentados pelo chip gráfico Thomson EF9369), são compartilhados com os outros computadores Thomson de terceira geração (MO6 e TO9+).  O TO8 tem uma unidade de fita e o Microsoft BASIC 1.0 (nas versões padrão e de 512 KB)[9] em sua ROM interna, e há uma unidade de disquete externa opcional. Os gráficos eram fornecidos pelo chip Thomson EF9369, permitindo a exibição de 16 cores de uma paleta de 4096.  Existem mais de 120 jogos para o sistema.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Thomson TO8 este un computer de casă introdus de compania franceză Thomson SA în 1986, cu un cost de 2.990 FF. Acesta îl înlocuiește pe predecesorul său, Thomson TO7/70, rămânând în esență compatibil.  Noile caracteristici ale TO8, cum ar fi memoria mai mare (256KB) și moduri grafice mai bune (alimentate de cipul grafic Thomson EF9369), sunt comune cu celelalte calculatoare Thomson din a treia generație ( MO6 și TO9+).  TO8 are o unitate de bandă și Microsoft BASIC 1.0 (în versiunile standard și de 512 KB)[9] pe ROM-ul său intern, și există o unitate de dischetă externă opțională. Grafica era asigurată de cipul Thomson EF9369, care permitea afișarea a 16 culori dintr-o paletă de 4096.  Există mai mult de 120 de jocuri pentru acest sistem.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Thomson TO8 - домашний компьютер, представленный французской компанией Thomson SA в 1986 году по цене 2 990 франков. Он пришел на смену своему предшественнику Thomson TO7/70, сохранив при этом свою основную совместимость.  Новые возможности TO8, такие как увеличенный объем памяти (256 КБ) и улучшенные графические режимы (на базе графического чипа Thomson EF9369), разделяются с другими компьютерами Thomson третьего поколения (MO6 и TO9+).  TO8 оснащен ленточным накопителем и Microsoft BASIC 1.0 (в стандартной и 512 КБ версиях)[9] на внутреннем ПЗУ, а также опциональным внешним флоппи-дисководом. Графика обеспечивалась микросхемой Thomson EF9369, позволявшей отображать 16 цветов из палитры в 4096.  Для системы существует более 120 игр.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Thomson TO8 är en hemdator som introducerades av det franska företaget Thomson SA 1986 och kostade 2.990 FF. Den ersätter sin föregångare, Thomson TO7/70, men är i huvudsak kompatibel med denna.  De nya funktionerna i TO8, som större minne (256KB) och bättre grafikfunktioner (drivs av Thomson EF9369 grafikchip), delas med de andra tredje generationens Thomson-datorer (MO6 och TO9+).  TO8 har en bandstation och Microsoft BASIC 1.0 (i standard- och 512 KB-versioner)[9] på sitt interna ROM, och det finns en extern diskettenhet som tillval. Grafiken levererades av Thomson EF9369-chipet, vilket möjliggjorde visning av 16 färger från en palett på 4096.  Mer än 120 spel finns för systemet.</systemDescription>
+            <systemHardwareType>Dator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>汤姆逊 TO8 是法国汤姆逊公司于 1986 年推出的一款家用电脑，售价 2,990 法郎。它取代了其前身汤姆逊 TO7/70，但基本保持兼容。  TO8 的新功能，如更大的内存（256KB）和更好的图形模式（由汤姆逊 EF9369 图形芯片驱动），与其他第三代汤姆逊电脑（MO6 和 TO9+）共享。  TO8 的内部 ROM 上有磁带驱动器和 Microsoft BASIC 1.0（标准版和 512 KB 版）[9]，还可选配外置软驱。图形由 Thomson EF9369 芯片提供，可显示 4096 色调色板中的 16 种颜色。  该系统有 120 多款游戏。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Thomson TO8 是法國 Thomson SA 公司於 1986 年推出的家用電腦，售價為 2,990 法郎。它取代了前一代產品 Thomson TO7/70，但基本上仍保持相容性。  TO8 的新功能，如更大的記憶體 (256KB) 和更好的圖形模式 (由 Thomson EF9369 圖形晶片驅動)，與其他第三代 Thomson 電腦 (MO6 和 TO9+) 共享。  TO8 的內部 ROM 上有磁帶驅動器與 Microsoft BASIC 1.0 (標準與 512 KB 版本)[9]，而且還有選購的外接式磁碟機。圖形由 Thomson EF9369 晶片提供，可從 4096 色調中顯示 16 色。  該系統有超過 120 款遊戲。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
+        </variables>
+    </language>
+</theme>

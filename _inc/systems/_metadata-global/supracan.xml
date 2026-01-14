@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Super A'can</systemName>
+        <systemDescription>The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo. Twelve games have been confirmed to exist for the system.</systemDescription>
+        <systemManufacturer>Funtech</systemManufacturer>
+        <systemReleaseYear>1995</systemReleaseYear>
+        <systemReleaseDate>1995-10-25</systemReleaseDate>
+        <systemReleaseDateFormated>October 25, 1995</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>0DBD91</systemColor>
+        <systemColorPalette1>F6DD08</systemColorPalette1>
+        <systemColorPalette2>800000</systemColorPalette2>
+        <systemColorPalette3>FF0000</systemColorPalette3>
+        <systemColorPalette4>303030</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Super A'can هو جهاز ألعاب فيديو منزلي تم إصداره حصرياً في تايوان عام 1995 من قبل Funtech/Dunhuang Technology. وهو يعتمد على رقاقة موتورولا 68000، والتي تستخدم أيضاً في سيجا جينيسيس ونيو جيو. تم تأكيد وجود 12 لعبة لهذا النظام.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo. Twelve games have been confirmed to exist for the system.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Super A'Can és una consola de videojocs a casa llançada exclusivament a Taiwan el 1995 per FunTech/Dunhuang Technology. Es basa al voltant del microxip de Motorola 68000, que també s’utilitza en el Sega Genesis i Neo Geo. S'han confirmat que existeixen dotze jocs per al sistema.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Super A'can ist eine Videospielkonsole für den Heimgebrauch, die 1995 von Funtech/Dunhuang Technology exklusiv in Taiwan veröffentlicht wurde. Sie basiert auf dem Motorola 68000 Mikrochip, der auch im Sega Genesis und Neo Geo verwendet wird. Zwölf Spiele wurden für das System bestätigt.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Super A'can es una videoconsola doméstica lanzada exclusivamente en Taiwán en 1995 por Funtech/Dunhuang Technology. Está basada en el microchip Motorola 68000, que también se utiliza en la Sega Genesis y la Neo Geo. Se ha confirmado la existencia de doce juegos para este sistema.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Super A'can est une console de jeu vidéo de salon commercialisée exclusivement à Taiwan en 1995 par Funtech/Dunhuang Technology. Elle est basée sur la puce Motorola 68000, également utilisée dans la Sega Genesis et la Neo Geo. Douze jeux ont été confirmés pour ce système.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo. Twelve games have been confirmed to exist for the system.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Super A'can è una console per videogiochi domestica rilasciata esclusivamente a Taiwan nel 1995 da Funtech/Dunhuang Technology. È basata sul microchip Motorola 68000, utilizzato anche nel Sega Genesis e nel Neo Geo. È stata confermata l'esistenza di dodici giochi per il sistema.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Super A'canは、Funtech/敦煌科技が1995年に台湾限定で発売した家庭用ゲーム機である。セガ・ジェネシスやネオジオにも採用されているモトローラ68000マイクロチップを搭載している。12本のゲームが確認されている。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>슈퍼 아캔은 1995년 펀테크/둔황 테크놀로지가 대만에서 독점적으로 출시한 가정용 비디오 게임기입니다. 세가 제네시스와 네오 지오에도 사용된 모토로라 68000 마이크로칩을 기반으로 합니다. 이 시스템에는 12개의 게임이 존재하는 것으로 확인되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Super A'can is een videogameconsole voor thuisgebruik die in 1995 exclusief in Taiwan werd uitgebracht door Funtech/Dunhuang Technology. Het is gebaseerd op de Motorola 68000 microchip, die ook wordt gebruikt in de Sega Genesis en Neo Geo. Het bestaan van twaalf spellen voor het systeem is bevestigd.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Super A'can to domowa konsola do gier wideo wydana wyłącznie na Tajwanie w 1995 roku przez Funtech/Dunhuang Technology. Opiera się na mikroukładzie Motorola 68000, który jest również używany w Sega Genesis i Neo Geo. Potwierdzono istnienie dwunastu gier na ten system.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Super A'can é um console de videogame doméstico lançado exclusivamente em Taiwan em 1995 pela Funtech/Dunhuang Technology. Ele é baseado no microchip Motorola 68000, que também é usado no Sega Genesis e no Neo Geo. Foi confirmada a existência de doze jogos para o sistema.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo. Twelve games have been confirmed to exist for the system.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Super A'can este o consolă de jocuri video pentru acasă lansată exclusiv în Taiwan în 1995 de Funtech/Dunhuang Technology. Se bazează pe microcipul Motorola 68000, care este, de asemenea, utilizat în Sega Genesis și Neo Geo. A fost confirmată existența a douăsprezece jocuri pentru acest sistem.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Super A'can - домашняя игровая консоль, выпущенная компанией Funtech/Dunhuang Technology эксклюзивно на Тайване в 1995 году. Она основана на микрочипе Motorola 68000, который также используется в Sega Genesis и Neo Geo. Было подтверждено существование двенадцати игр для этой системы.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Super A'can is a home video game console released exclusively in Taiwan in 1995 by Funtech/Dunhuang Technology. It is based around the Motorola 68000 microchip, which is also used in the Sega Genesis and Neo Geo. Twelve games have been confirmed to exist for the system.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Super A'can är en hemkonsol för videospel som släpptes exklusivt i Taiwan 1995 av Funtech/Dunhuang Technology. Den är baserad på Motorola 68000-mikrochipet, som också används i Sega Genesis och Neo Geo. Tolv spel har bekräftats existera till systemet.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Super A'can 是 Funtech/Dunhuang Technology 于 1995 年在台湾独家发布的一款家用视频游戏机。它以摩托罗拉 68000 微芯片为基础，该芯片也用于世嘉 Genesis 和 Neo Geo。该系统已确认有 12 款游戏。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Super A'can 是 Funtech/Dunhuang Technology 於 1995 年在台灣獨家推出的家用視訊遊戲機。它以 Motorola 68000 微晶片為基礎，Sega Genesis 和 Neo Geo 也使用此微晶片。目前已確認有 12 款遊戲適用於此系統。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

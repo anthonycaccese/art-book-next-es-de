@@ -1,0 +1,134 @@
+<theme>
+    <variables>
+        <systemName>Last Played</systemName>
+        <systemDescription>View your recently played games across the entire library.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Collection</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>عرض الألعاب التي لعبتها مؤخراً عبر المكتبة بأكملها.</systemDescription>
+            <systemHardwareType>المجموعة</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Pogledajte svoje nedavno reproducirane igre širom cijele biblioteke.</systemDescription>
+            <systemHardwareType>Zbirka</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Consulteu els jocs recentment jugats a tota la biblioteca.</systemDescription>
+            <systemHardwareType>Collection</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Zeigen Sie Ihre zuletzt gespielten Spiele in der gesamten Bibliothek an.</systemDescription>
+            <systemHardwareType>Sammlung</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Consulta los juegos que has jugado recientemente en toda la biblioteca.</systemDescription>
+            <systemHardwareType>Colección</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Affichez vos jeux récents dans l'ensemble de la bibliothèque.</systemDescription>
+            <systemHardwareType>Collection</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Pogledajte svoje nedavno igrane igre u cijeloj knjižnici.</systemDescription>
+            <systemHardwareType>Kolekcija</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Visualizzare i giochi giocati di recente nell'intera libreria.</systemDescription>
+            <systemHardwareType>Collezione</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>最近プレイしたゲームをライブラリ全体で表示。</systemDescription>
+            <systemHardwareType>コレクション</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>전체 라이브러리에서 최근에 플레이한 게임을 확인합니다.</systemDescription>
+            <systemHardwareType>컬렉션</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Bekijk je recent gespeelde games in de hele bibliotheek.</systemDescription>
+            <systemHardwareType>Collectie</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Wyświetlanie ostatnio granych gier w całej bibliotece.</systemDescription>
+            <systemHardwareType>Kolekcja</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Veja seus jogos jogados recentemente em toda a biblioteca.</systemDescription>
+            <systemHardwareType>Coleção</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Veja seus jogos recentemente jogados em toda a biblioteca.</systemDescription>
+            <systemHardwareType>Coleção</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Vizualizați jocurile jucate recent în întreaga bibliotecă.</systemDescription>
+            <systemHardwareType>Colecție</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Просматривайте недавно сыгранные игры во всей библиотеке.</systemDescription>
+            <systemHardwareType>Коллекция</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Погледајте своје недавно одигране игре у целој библиотеци.</systemDescription>
+            <systemHardwareType>Збирка</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Visa dina senast spelade spel i hela biblioteket.</systemDescription>
+            <systemHardwareType>Samling</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>在整个游戏库中查看最近玩过的游戏。</systemDescription>
+            <systemHardwareType>收藏品</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>在整個圖書館檢視您最近玩過的遊戲。</systemDescription>
+            <systemHardwareType>系列</systemHardwareType>
+        </variables>
+    </language>
+</theme>

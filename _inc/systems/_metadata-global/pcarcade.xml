@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>PC Arcade Games</systemName>
+        <systemDescription>In the beginning of the 2000s arcade system manufacturers started to move away from custom board designs, and as part of this change many instead adapted the standard PC architecture. There were numerous such designs running Linux or Windows, for instance Sega Lindbergh, Namco System N2 and Taito Type X.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Folder</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5B60B7</systemColor>
+        <systemColorPalette1>F6DD08</systemColorPalette1>
+        <systemColorPalette2>800000</systemColorPalette2>
+        <systemColorPalette3>FF0000</systemColorPalette3>
+        <systemColorPalette4>303030</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>في بداية العقد الأول من القرن الحادي والعشرين بدأت الشركات المصنعة لأنظمة الأركيد في الابتعاد عن تصميمات اللوحات المخصصة، وكجزء من هذا التغيير قام العديد منهم بدلاً من ذلك بتكييف بنية الكمبيوتر الشخصي القياسية. كان هناك العديد من هذه التصاميم التي تعمل بنظام لينكس أو ويندوز، على سبيل المثال سيجا ليندبيرغ ونظام N2 من Namco و Taito Type X.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Na početku 2000-ih arkadski sustav proizvođači su se počeli odlikovati od dizajna prilagođenih ploča, a kao dio ove promjene mnogi su umjesto toga prilagodili standardnu PC arhitekturu. Bilo je brojnih takvih dizajna koji pokreću Linux ili Windows, na primjer, Sega Lindbergh, Namco System N2 i Taito Tip X.</systemDescription>
+            <systemHardwareType>Mapa</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Al començament dels anys 2000, els fabricants del sistema Arcade van començar a allunyar -se dels dissenys de taulers personalitzats i, com a part d’aquest canvi, molts van adaptar l’arquitectura de PC estàndard. Hi havia nombrosos dissenys que funcionaven Linux o Windows, per exemple, Sega Lindbergh, Namco System N2 i Taito Type X.</systemDescription>
+            <systemHardwareType>Folder</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Anfang der 2000er Jahre begannen die Hersteller von Spielhallensystemen, sich von kundenspezifischen Board-Designs zu verabschieden, und als Teil dieser Veränderung adaptierten viele stattdessen die Standard-PC-Architektur. Es gab zahlreiche solcher Designs, die unter Linux oder Windows liefen, zum Beispiel Sega Lindbergh, Namco System N2 und Taito Type X.</systemDescription>
+            <systemHardwareType>Mappe</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>A principios de la década de 2000, los fabricantes de sistemas arcade empezaron a alejarse de los diseños de placas personalizadas y, como parte de este cambio, muchos adaptaron la arquitectura estándar de los PC. Hubo numerosos diseños de este tipo que ejecutaban Linux o Windows, por ejemplo Sega Lindbergh, Namco System N2 y Taito Type X.</systemDescription>
+            <systemHardwareType>Carpeta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Au début des années 2000, les fabricants de systèmes d'arcade ont commencé à s'éloigner de la conception de cartes personnalisées et, dans le cadre de ce changement, nombre d'entre eux ont adapté l'architecture PC standard. Il existe de nombreux modèles de ce type fonctionnant sous Linux ou Windows, par exemple Sega Lindbergh, Namco System N2 et Taito Type X.</systemDescription>
+            <systemHardwareType>Dossier</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Početkom 2000 -ih, proizvođači arkadnog sustava počeli su se odmaknuti od dizajna prilagođenih ploča, a kao dio ove promjene mnogi su umjesto toga prilagodili standardnu arhitekturu PC -a. Postojali su brojni takvi dizajni koji su radili Linux ili Windows, na primjer, Sega Lindbergh, Namco System N2 i Taito Type X.</systemDescription>
+            <systemHardwareType>Mapa</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>All'inizio degli anni 2000 i produttori di sistemi arcade hanno iniziato ad abbandonare la progettazione di schede personalizzate e, nell'ambito di questo cambiamento, molti hanno adattato l'architettura standard dei PC. Esistono numerosi progetti di questo tipo che funzionano con Linux o Windows, ad esempio Sega Lindbergh, Namco System N2 e Taito Type X.</systemDescription>
+            <systemHardwareType>Cartella</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>2000年代初頭、アーケード・システム・メーカーはカスタム基板設計から脱却し始め、その一環として多くのメーカーが標準的なPCアーキテクチャを採用した。例えば、セガ・リンドバーグ、ナムコ・システムN2、タイトー・タイプXなど、LinuxやWindowsを実行するそのような設計が数多くあった。</systemDescription>
+            <systemHardwareType>フォルダ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>2000년대 초 아케이드 시스템 제조업체들은 맞춤형 보드 설계에서 벗어나기 시작했고, 이러한 변화의 일환으로 많은 업체들이 표준 PC 아키텍처를 채택했습니다. 예를 들어 세가 린드버그, 남코 시스템 N2, 타이토 타입 X와 같이 Linux 또는 Windows를 실행하는 수많은 디자인이 있었습니다.</systemDescription>
+            <systemHardwareType>폴더</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>In het begin van de jaren 2000 begonnen fabrikanten van arcadesystemen af te stappen van zelfontworpen bordontwerpen en als onderdeel van deze verandering pasten veel fabrikanten in plaats daarvan de standaard PC-architectuur toe. Er waren veel van zulke ontwerpen die Linux of Windows draaiden, bijvoorbeeld Sega Lindbergh, Namco System N2 en Taito Type X.</systemDescription>
+            <systemHardwareType>Map</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Na początku XXI wieku producenci systemów arcade zaczęli odchodzić od niestandardowych projektów płyt, a w ramach tej zmiany wielu z nich zaadaptowało standardową architekturę PC. Istniało wiele takich projektów działających pod kontrolą systemu Linux lub Windows, na przykład Sega Lindbergh, Namco System N2 i Taito Type X.</systemDescription>
+            <systemHardwareType>Folder</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>No início dos anos 2000, os fabricantes de sistemas de fliperama começaram a se afastar dos projetos de placas personalizadas e, como parte dessa mudança, muitos adaptaram a arquitetura padrão do PC. Havia vários projetos desse tipo que executavam Linux ou Windows, por exemplo, Sega Lindbergh, Namco System N2 e Taito Type X.</systemDescription>
+            <systemHardwareType>Pasta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>No início dos anos 2000, os fabricantes de sistemas de arcade começaram a se afastar dos projetos personalizados da placa e, como parte dessa mudança, muitos adaptaram a arquitetura PC padrão. Havia inúmeros projetos executando Linux ou Windows, por exemplo, Sega Lindbergh, Namco System N2 e Toito Type X.</systemDescription>
+            <systemHardwareType>Pasta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>La începutul anilor 2000, producătorii de sisteme arcade au început să renunțe la plăcile personalizate și, ca parte a acestei schimbări, mulți au adaptat arhitectura PC standard. Au existat numeroase astfel de modele care rulează Linux sau Windows, de exemplu Sega Lindbergh, Namco System N2 și Taito Type X.</systemDescription>
+            <systemHardwareType>Dosar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>В начале 2000-х годов производители аркадных систем начали отказываться от индивидуальных разработок плат, и многие из них перешли на стандартную архитектуру ПК. Было создано множество таких систем, работающих под управлением Linux или Windows, например Sega Lindbergh, Namco System N2 и Taito Type X.</systemDescription>
+            <systemHardwareType>Папка</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Почетком 2000-их је произвођачи аркадног система почели да се одсели од дизајна прилагођених плоча, а као део ове промене, уместо тога, уместо тога прилагођава стандардну архитектуру рачунара.Било је бројних таквих дизајна који покрећу Линук или Виндовс, на пример, Сега Линдбергх, Намцо систем Н2 и Таито Типе Кс.</systemDescription>
+            <systemHardwareType>Мапа</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>I början av 2000-talet började tillverkarna av arkadsystem att gå ifrån specialdesignade kort och som en del av denna förändring anpassade många istället standardarkitekturen för PC. Det fanns många sådana konstruktioner som körde Linux eller Windows, till exempel Sega Lindbergh, Namco System N2 och Taito Type X.</systemDescription>
+            <systemHardwareType>Mapp</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>2000 年代初，街机系统制造商开始放弃定制板卡设计，许多公司转而采用标准 PC 架构。运行 Linux 或 Windows 的此类设计不胜枚举，例如世嘉林白（Sega Lindbergh）、Namco System N2 和 Taito Type X。</systemDescription>
+            <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>在 2000 年代初，街機系統製造商開始摒棄客製化的電腦板設計，許多製造商改用標準的 PC 架構。有許多這類執行 Linux 或 Windows 的設計，例如 Sega Lindbergh、Namco System N2 和 Taito Type X。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
+        </variables>
+    </language>
+</theme>

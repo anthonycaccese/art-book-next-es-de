@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>M.U.G.E.N</systemName>
+        <systemDescription>Mugen (stylized as M.U.G.E.N) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created. It is written in C and originally used the Allegro library. The latest versions of the engine use the SDL library.</systemDescription>
+        <systemManufacturer>Elecbyte</systemManufacturer>
+        <systemReleaseYear>1999</systemReleaseYear>
+        <systemReleaseDate>1999-07-27</systemReleaseDate>
+        <systemReleaseDateFormated>July 27, 1999</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>4283A4</systemColor>
+        <systemColorPalette1>B5B8F1</systemColorPalette1>
+        <systemColorPalette2>E5F5FE</systemColorPalette2>
+        <systemColorPalette3>FFFFFF</systemColorPalette3>
+        <systemColorPalette4>A1B687</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Mugen (منمق باسم M.U.G.E.N) هو محرك ألعاب قتال ثنائي الأبعاد مجاني صممته Elecbyte. يتم إنشاء المحتوى من قبل المجتمع، وقد تم إنشاء الآلاف من المقاتلين، سواءً الأصليين أو من القصص الخيالية الشائعة. وهو مكتوب بلغة C ويستخدم في الأصل مكتبة Allegro. تستخدم أحدث إصدارات المحرك مكتبة SDL.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Mugen (stilizirani kao m.u.g.e.n) je besplatni 2D borbeni motor koji je dizajnirao Elecbyte. Sadržaj kreira u zajednici i hiljade boraca, i originalne i od popularne fikcije, su stvorene. Napisana je u C i prvobitno je koristila Allegro biblioteku. Najnovije verzije motora koriste SDL biblioteku.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Mugen (estilitzat com M. U. G. E. N) és un motor de jocs de lluita 2D gratuït dissenyat per Elecbyte. El contingut és creat per la comunitat i s’han creat milers de combatents, tant originals com des de la ficció popular. Està escrit a C i s’utilitza originalment la Biblioteca Allegro. Les darreres versions del motor utilitzen la biblioteca SDL.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Mugen (stilisiert als M.U.G.E.N) ist eine Freeware 2D Kampfspiel-Engine, die von Elecbyte entwickelt wurde. Die Inhalte werden von der Community erstellt, und es wurden Tausende von Kämpfern, sowohl originale als auch aus populären Romanen, erstellt. Sie ist in C geschrieben und verwendete ursprünglich die Allegro-Bibliothek. Die neuesten Versionen der Engine verwenden die SDL-Bibliothek.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Mugen (estilizado como M.U.G.E.N) es un motor gratuito de juegos de lucha en 2D diseñado por Elecbyte. El contenido es creado por la comunidad, y se han creado miles de luchadores, tanto originales como de ficción popular. Está escrito en C y originalmente utilizaba la biblioteca Allegro. Las últimas versiones del motor utilizan la biblioteca SDL.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Mugen (stylisé en M.U.G.E.N) est un moteur de jeu de combat 2D gratuit conçu par Elecbyte. Le contenu est créé par la communauté, et des milliers de combattants, originaux ou issus de la fiction populaire, ont été créés. Il est écrit en C et utilisait à l'origine la bibliothèque Allegro. Les dernières versions du moteur utilisent la bibliothèque SDL.</systemDescription>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Mugen (stiliziran kao M. U. G. E. N) je Freeware 2D motor borbene igre koji je dizajnirao Elecbyte. Sadržaj je stvorila zajednica, a stvorene su tisuće boraca, originalnih i iz popularne fikcije. Napisana je u C i izvorno je koristila biblioteku Allegro. Najnovije verzije motora koriste SDL biblioteku.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Mugen (stilizzato come M.U.G.E.N) è un motore freeware per giochi di combattimento 2D progettato da Elecbyte. I contenuti sono creati dalla comunità e sono stati creati migliaia di combattenti, sia originali che tratti da fiction popolari. È scritto in C e originariamente utilizzava la libreria Allegro. Le ultime versioni del motore utilizzano la libreria SDL.</systemDescription>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Mugen（M.U.G.E.Nの略）はElecbyteによってデザインされたフリーウェアの2D格闘ゲームエンジンである。コンテンツはコミュニティによって作成され、オリジナルと人気のあるフィクションの両方で何千ものファイターが作成されています。C言語で書かれており、当初はAllegroライブラリを使用していた。最新バージョンではSDLライブラリを使用している。</systemDescription>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Mugen(M.U.G.E.N으로 표기)은 일렉바이트에서 개발한 프리웨어 2D 격투 게임 엔진입니다. 커뮤니티에서 콘텐츠를 제작하고 있으며, 오리지널 및 인기 소설에 등장하는 수천 명의 파이터들이 만들어졌습니다. C로 작성되었으며 원래 Allegro 라이브러리를 사용했습니다. 최신 버전의 엔진은 SDL 라이브러리를 사용합니다.</systemDescription>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Mugen (gestileerd als M.U.G.E.N) is een freeware 2D vechtgame engine ontworpen door Elecbyte. Inhoud wordt gemaakt door de community en er zijn duizenden vechters gemaakt, zowel originele als uit populaire fictie. Het is geschreven in C en gebruikte oorspronkelijk de Allegro bibliotheek. De nieuwste versies van de engine gebruiken de SDL-bibliotheek.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Mugen (stylizowany na M.U.G.E.N) to darmowa bijatyka 2D zaprojektowana przez firmę Elecbyte. Zawartość jest tworzona przez społeczność, a tysiące wojowników, zarówno oryginalnych, jak i pochodzących z popularnej fikcji, zostało stworzonych. Jest on napisany w języku C i pierwotnie wykorzystywał bibliotekę Allegro. Najnowsze wersje silnika wykorzystują bibliotekę SDL.</systemDescription>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Mugen (estilizado como M.U.G.E.N) é um mecanismo de jogo de luta 2D gratuito desenvolvido pela Elecbyte. O conteúdo é criado pela comunidade, e milhares de lutadores, tanto originais quanto de ficção popular, foram criados. Ele é escrito em C e originalmente usava a biblioteca Allegro. As versões mais recentes do mecanismo usam a biblioteca SDL.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Mugen (estilizado como M. U. G. E. N) é um mecanismo de jogo de luta 2D Freeware, projetado por Elecbyte. O conteúdo é criado pela comunidade e milhares de lutadores, originais e de ficção popular, foram criados. Está escrito em C e originalmente usou a Biblioteca Allegro. As versões mais recentes do motor usam a biblioteca SDL.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Mugen (stilizat ca M.U.G.E.N) este un motor de joc de lupte 2D freeware proiectat de Elecbyte. Conținutul este creat de comunitate și au fost creați mii de luptători, atât originali, cât și din ficțiunea populară. Acesta este scris în C și a folosit inițial biblioteca Allegro. Cele mai recente versiuni ale motorului utilizează biblioteca SDL.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Mugen (стилизованный под M.U.G.E.N) - это бесплатный движок для 2D-файтингов, разработанный компанией Elecbyte. Контент создается сообществом, были созданы тысячи бойцов, как оригинальных, так и взятых из популярной фантастики. Он написан на языке C и первоначально использовал библиотеку Allegro. В последних версиях движка используется библиотека SDL.</systemDescription>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Муген (стилизована АС М.У.Г.Е.Н) је Фрееваре 2Д борбени мотор дивљачи дизајнирао Елецбите.Садржај је створио заједница и хиљаде бораца, и оригинално и из популарне фикције, створене су.Написано је у Ц и првобитно је користио Аллегро библиотеку.Последње верзије мотора користе СДЛ библиотеку.</systemDescription>
+            <systemHardwareType>Мотор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Mugen (stiliserat som M.U.G.E.N) är en freeware 2D fighting game engine designad av Elecbyte. Innehållet skapas av communityt och tusentals fighters, både original och från populärfiktion, har skapats. Den är skriven i C och använde ursprungligen Allegro-biblioteket. De senaste versionerna av motorn använder SDL-biblioteket.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Mugen（文体为 M.U.G.E.N）是 Elecbyte 设计的一款免费 2D 格斗游戏引擎。游戏内容由社区创建，目前已创建了数以千计的格斗游戏，包括原创格斗游戏和流行小说中的格斗游戏。该引擎用 C 语言编写，最初使用 Allegro 库。最新版本的引擎使用 SDL 库。</systemDescription>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Mugen（風格化為 M.U.G.E.N）是由 Elecbyte 設計的免費 2D 格鬥遊戲引擎。內容由社群創造，目前已創造出數以千計的格鬥遊戲，包括原創與來自流行小說的格鬥遊戲。它以 C 語言寫成，最初使用 Allegro 函式庫。最新版本的引擎使用 SDL 函式庫。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
+        </variables>
+    </language>
+</theme>

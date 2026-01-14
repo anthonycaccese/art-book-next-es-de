@@ -1,0 +1,223 @@
+<theme>
+    <variables>
+        <systemName>LCD Games</systemName>
+        <systemDescription>Handheld electronic games are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games. The controls, display and speakers are all part of a single unit.
+
+Rather than a general-purpose screen made up of a grid of small pixels, they usually have custom displays designed to play one game. This simplicity means they can be made as small as a smartwatch, and sometimes are. The visual output of these games can range from a few small light bulbs or LED lights to calculator-like alphanumerical screens; later these were mostly displaced by liquid crystal and vacuum fluorescent display screens with detailed images and in the case of VFD games, color. 
+
+Handhelds' popularity was at its peak from the late 1970s into the early 1990s before declining. They are the precursors to the handheld game console.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>CE413E</systemColor>
+        <systemColorPalette1>B3A98B</systemColorPalette1>
+        <systemColorPalette2>A24F41</systemColorPalette2>
+        <systemColorPalette3>C3C9C7</systemColorPalette3>
+        <systemColorPalette4>3D6F78</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>الألعاب الإلكترونية المحمولة باليد هي أجهزة صغيرة جداً ومحمولة لممارسة الألعاب الإلكترونية التفاعلية، وغالباً ما تكون نسخاً مصغرة من ألعاب الفيديو. تكون عناصر التحكم والشاشة ومكبرات الصوت جزءًا من وحدة واحدة.
+
+وبدلاً من أن تكون الشاشة ذات الأغراض العامة مكونة من شبكة من وحدات البكسل الصغيرة، عادةً ما تحتوي على شاشات عرض مخصصة مصممة لتشغيل لعبة واحدة. هذه البساطة تعني أنها يمكن أن تكون صغيرة مثل الساعة الذكية، وأحياناً تكون كذلك. يمكن أن يتراوح الإخراج المرئي لهذه الألعاب من بضعة مصابيح صغيرة أو مصابيح LED إلى شاشات أبجدية رقمية تشبه الآلة الحاسبة؛ وقد تم استبدالها في وقت لاحق في الغالب بشاشات عرض بلورية سائلة وشاشات عرض فلورية مفرغة من الهواء مع صور مفصلة وفي حالة ألعاب VFD، ملونة.
+
+بلغت شعبية الأجهزة المحمولة باليد ذروتها من أواخر السبعينيات إلى أوائل التسعينيات قبل أن تتراجع. وهي سلائف وحدة التحكم في الألعاب المحمولة باليد.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Ručne elektroničke igre su vrlo mali, prenosivi uređaji za reprodukciju interaktivnih elektroničkih igara, često minijaturiziranih verzija video igara. Kontrole, displej i zvučnici su dio jedinstvene jedinice.
+
+Umjesto da se ekran opće namjene sačinjeni od mreže malih piksela, obično imaju prilagođene ekrane dizajnirane za reprodukciju jedne igre. Ova jednostavnost znači da se mogu napraviti kao manji kao pametni sat, a ponekad i. Vizualni izlaz ovih igara može se kretati od nekoliko malih žarulja ili LED svjetla do alfanumeričkih ekrana sličnih kalkulatora;Kasnije su to uglavnom raseljeni tečnim kristalnim i vakuumskim fluorescentnim ekranima s detaljnim slikama i u slučaju VFD igara, boju.
+
+Popularnost ručne ruke bila je na vrhu na vrhuncu od kraja 1970-ih u rana 1990-ih prije nego što opada. Oni su prekursori na ručno igračku konzolu.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Els jocs electrònics de mà són dispositius portàtils molt petits per jugar a jocs electrònics interactius, sovint versions miniaturitzades de videojocs. Els controls, la pantalla i els altaveus formen part d’una sola unitat.
+
+En lloc d'una pantalla de propòsit general formada per una graella de píxels petits, solen tenir pantalles personalitzades dissenyades per jugar un joc. Aquesta senzillesa significa que es poden fer tan petites com un smartwatch i, de vegades, ho són. La sortida visual d’aquests jocs pot anar des d’unes quantes bombetes petites o llums LED fins a pantalles alfanumèriques semblants a la calculadora;Més tard es van desplaçar majoritàriament per pantalles de visualització fluorescent de cristall líquid i de buit amb imatges detallades i en el cas de jocs VFD, color.
+
+La popularitat dels talls de mà va estar al seu punt àlgid des de finals dels anys 70 fins a principis dels anys 90 abans de declinar. Són els precursors de la consola de joc de mà.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Elektronische Handheld-Spiele sind sehr kleine, tragbare Geräte zum Spielen interaktiver elektronischer Spiele, oft miniaturisierte Versionen von Videospielen. Die Bedienelemente, das Display und die Lautsprecher sind in einem einzigen Gerät untergebracht.
+
+Anstelle eines allgemeinen Bildschirms, der aus einem Gitter aus kleinen Pixeln besteht, verfügen sie in der Regel über spezielle Displays, die für ein bestimmtes Spiel entwickelt wurden. Diese Einfachheit bedeutet, dass sie so klein wie eine Smartwatch sein können, was sie manchmal auch sind. Die visuelle Ausgabe dieser Spiele kann von einigen kleinen Glühbirnen oder LED-Leuchten bis hin zu taschenrechnerähnlichen alphanumerischen Bildschirmen reichen; später wurden diese meist durch Flüssigkristall- und Vakuumfluoreszenzbildschirme mit detaillierten Bildern und im Fall von VFD-Spielen auch Farbe ersetzt.
+
+Die Popularität von Handhelds erreichte Ende der 1970er bis Anfang der 1990er Jahre ihren Höhepunkt, bevor sie zurückging. Sie sind die Vorläufer der Handheld-Konsolen.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Los juegos electrónicos portátiles son dispositivos muy pequeños y portátiles para jugar a juegos electrónicos interactivos, a menudo versiones miniaturizadas de videojuegos. Los mandos, la pantalla y los altavoces forman parte de una sola unidad.
+
+En lugar de una pantalla de uso general formada por una cuadrícula de pequeños píxeles, suelen tener pantallas personalizadas diseñadas para jugar a un solo juego. Esta simplicidad hace que puedan ser tan pequeños como un smartwatch, y a veces lo son. La salida visual de estos juegos puede variar desde unas pequeñas bombillas o luces LED hasta pantallas alfanuméricas similares a las de las calculadoras; más tarde, éstas fueron desplazadas en su mayoría por pantallas de cristal líquido y fluorescentes al vacío con imágenes detalladas y, en el caso de los juegos VFD, en color.
+
+La popularidad de los dispositivos portátiles alcanzó su punto álgido entre finales de los años 70 y principios de los 90, antes de declinar. Son los precursores de las videoconsolas portátiles.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Les jeux électroniques de poche sont de très petits appareils portables permettant de jouer à des jeux électroniques interactifs, souvent des versions miniaturisées de jeux vidéo. Les commandes, l'écran et les haut-parleurs font partie d'une seule unité.
+
+Plutôt qu'un écran polyvalent composé d'une grille de petits pixels, ils sont généralement dotés d'un affichage personnalisé conçu pour jouer à un seul jeu. Cette simplicité signifie qu'ils peuvent être aussi petits qu'une smartwatch, et le sont parfois. La sortie visuelle de ces jeux peut aller de quelques petites ampoules ou lumières LED à des écrans alphanumériques de type calculatrice. Plus tard, ces écrans ont été remplacés par des écrans à cristaux liquides et des écrans fluorescents à vide avec des images détaillées et, dans le cas des jeux VFD, en couleur.
+
+La popularité des ordinateurs de poche a atteint son apogée entre la fin des années 1970 et le début des années 1990, avant de décliner. Ils sont les précurseurs de la console de jeu portable.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Ručne elektroničke igre vrlo su mali, prijenosni uređaji za igranje interaktivnih elektroničkih igara, često minijaturiziranih verzija videoigara. Kontrole, prikaz i zvučnici su dio jedne jedinice.
+
+Umjesto zaslona opće namjene sastavljene od mreže malih piksela, obično imaju prilagođene zaslone dizajnirane za igranje jedne igre. Ova jednostavnost znači da ih mogu učiniti malim kao pametni sat, a ponekad i jesu. Vizualni izlaz ovih igara može se kretati od nekoliko malih žarulja ili LED svjetla do alfanumeričkih ekrana sličnih kalkulatoru;Kasnije su to uglavnom premještene s tekućim kristalnim i vakuumskim fluorescentnim zaslonima s detaljnim slikama, a u slučaju VFD igara, boja.
+
+Popularnost ručnih proizvoda bila je na vrhuncu od kraja 1970 -ih do početka 1990 -ih, prije nego što je opadao. Oni su prethodnici ručne konzole za igru.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>I giochi elettronici portatili sono dispositivi molto piccoli e portatili per giocare a giochi elettronici interattivi, spesso versioni miniaturizzate di videogiochi. I comandi, il display e gli altoparlanti fanno parte di un'unica unità.
+
+Invece di uno schermo generico composto da una griglia di piccoli pixel, di solito hanno display personalizzati progettati per la riproduzione di un solo gioco. Grazie a questa semplicità, possono essere realizzati con le dimensioni di uno smartwatch, e a volte lo sono. L'output visivo di questi giochi può variare da alcune piccole lampadine o luci LED a schermi alfanumerici simili a quelli di una calcolatrice; in seguito questi schermi sono stati sostituiti da schermi a cristalli liquidi e a fluorescenza sottovuoto con immagini dettagliate e, nel caso dei giochi VFD, a colori.
+
+La popolarità dei palmari ha raggiunto il suo apice tra la fine degli anni '70 e l'inizio degli anni '90, prima di diminuire. Sono i precursori delle console di gioco portatili.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>携帯型電子ゲームは、インタラクティブな電子ゲームをプレイするための非常に小型の携帯機器であり、ビデオゲームの小型版であることが多い。操作部、ディスプレイ、スピーカーはすべて1つのユニットになっている。
+
+小さなピクセルのグリッドで構成された汎用スクリーンではなく、通常、1つのゲームをプレイするために設計されたカスタム・ディスプレイを備えている。このシンプルさは、スマートウォッチのように小型化できることを意味し、実際に小型化されることもある。これらのゲームの視覚的な出力は、数個の小さな電球やLEDライトから電卓のような英数字の画面まで様々である。後にこれらは、詳細な画像とVFDゲームの場合にはカラーを備えた液晶ディスプレイや真空蛍光ディスプレイの画面にほとんど取って代わられた。
+
+ハンドヘルド機の人気は1970年代後半から1990年代前半にかけてピークに達し、その後衰退した。携帯ゲーム機の前身である。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>휴대용 전자 게임은 대화형 전자 게임을 플레이하기 위한 매우 작은 휴대용 장치로, 비디오 게임의 소형 버전인 경우가 많습니다. 컨트롤, 디스플레이, 스피커가 모두 하나의 장치에 포함되어 있습니다.
+
+작은 픽셀 그리드로 구성된 범용 화면이 아니라 일반적으로 하나의 게임을 플레이하도록 설계된 맞춤형 디스플레이가 있습니다. 이러한 단순성 덕분에 스마트워치만큼 작게 만들 수 있으며, 실제로 그렇게 만들기도 합니다. 이러한 게임의 시각적 출력은 작은 전구 몇 개나 LED 조명부터 계산기와 같은 영숫자 화면까지 다양하지만, 나중에는 대부분 액정 및 진공 형광 디스플레이 화면으로 대체되었고, VFD 게임의 경우 컬러로 바뀌었습니다.
+
+핸드헬드의 인기는 1970년대 후반부터 1990년대 초반까지 절정에 달했다가 하락세로 돌아섰습니다. 핸드헬드는 휴대용 게임 콘솔의 선구자입니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Handheld elektronische spellen zijn zeer kleine, draagbare apparaten voor het spelen van interactieve elektronische spellen, vaak geminiaturiseerde versies van videospellen. De bediening, het scherm en de luidsprekers maken allemaal deel uit van één apparaat.
+
+In plaats van een algemeen scherm dat bestaat uit een raster van kleine pixels, hebben ze meestal aangepaste displays die ontworpen zijn om één spel te spelen. Door deze eenvoud kunnen ze zo klein worden gemaakt als een smartwatch, en soms zijn ze dat ook. De visuele output van deze spellen kan variëren van een paar kleine gloeilampjes of LED-lampjes tot rekenmachine-achtige alfanumerieke schermen; later werden deze meestal vervangen door schermen met vloeibare kristallen en vacuüm fluorescerende schermen met gedetailleerde beelden en, in het geval van VFD-spellen, kleur.
+
+De populariteit van handhelds bereikte een hoogtepunt van eind jaren 1970 tot begin jaren 1990, waarna ze weer afnamen. Ze zijn de voorlopers van de draagbare spelconsole.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Ręczne gry elektroniczne to bardzo małe, przenośne urządzenia do grania w interaktywne gry elektroniczne, często zminiaturyzowane wersje gier wideo. Elementy sterujące, wyświetlacz i głośniki są częścią jednego urządzenia.
+
+Zamiast ekranu ogólnego przeznaczenia składającego się z siatki małych pikseli, mają one zwykle niestandardowe wyświetlacze zaprojektowane do grania w jedną grę. Ta prostota oznacza, że mogą być tak małe jak smartwatch, a czasami są. Efekt wizualny tych gier może wahać się od kilku małych żarówek lub świateł LED do podobnych do kalkulatorów ekranów alfanumerycznych; później zostały one w większości wyparte przez ciekłokrystaliczne i próżniowe wyświetlacze fluorescencyjne ze szczegółowymi obrazami, a w przypadku gier VFD - kolorami.
+
+Popularność handheldów była najwyższa od późnych lat 70-tych do wczesnych 90-tych, a następnie spadła. Są one prekursorami przenośnych konsol do gier.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Os jogos eletrônicos portáteis são dispositivos muito pequenos e portáteis para jogar jogos eletrônicos interativos, geralmente versões miniaturizadas de videogames. Os controles, a tela e os alto-falantes fazem parte de uma única unidade.
+
+Em vez de uma tela de uso geral composta por uma grade de pequenos pixels, eles geralmente têm telas personalizadas projetadas para jogar um jogo. Essa simplicidade significa que eles podem ser tão pequenos quanto um smartwatch, e às vezes são. A saída visual desses jogos pode variar de algumas pequenas lâmpadas ou luzes de LED a telas alfanuméricas semelhantes a calculadoras; mais tarde, essas telas foram substituídas principalmente por telas de cristal líquido e fluorescentes a vácuo com imagens detalhadas e, no caso dos jogos VFD, coloridas.
+
+A popularidade dos dispositivos portáteis atingiu seu auge entre o final da década de 1970 e o início da década de 1990, antes de entrar em declínio. Eles são os precursores do console de jogos portátil.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Os jogos eletrônicos portáteis são dispositivos portáteis muito pequenos para jogar jogos eletrônicos interativos, versões muitas vezes miniaturizadas de videogames. Os controles, exibição e alto -falantes fazem parte de uma única unidade.
+
+Em vez de uma tela de uso geral composto de uma grade de pequenos pixels, eles geralmente têm monitores personalizados projetados para jogar um jogo. Essa simplicidade significa que eles podem ser feitos tão pequenos quanto um smartwatch, e às vezes são. A saída visual desses jogos pode variar de algumas pequenas lâmpadas ou luzes LED até telas alfanuméricas semelhantes à calculadora;Posteriormente, estes foram deslocados principalmente por telas de exibição fluorescente de cristal líquido e a vácuo com imagens detalhadas e no caso de jogos VFD, cor.
+
+A popularidade dos computadores de mão estava no auge do final da década de 1970 até o início dos anos 90 antes do declínio. Eles são os precursores do console de jogos portáteis.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Jocurile electronice portabile sunt dispozitive foarte mici, portabile pentru a juca jocuri electronice interactive, adesea versiuni miniaturizate ale jocurilor video. Comenzile, ecranul și difuzoarele fac parte dintr-o singură unitate.
+
+În loc de un ecran de uz general alcătuit dintr-o rețea de pixeli mici, acestea au, de obicei, ecrane personalizate concepute pentru a juca un singur joc. Această simplitate înseamnă că pot fi făcute la fel de mici ca un smartwatch, și uneori chiar sunt. Rezultatele vizuale ale acestor jocuri pot varia de la câteva becuri mici sau lumini LED la ecrane alfanumerice de tip calculator; ulterior, acestea au fost înlocuite în mare parte de ecrane cu cristale lichide și ecrane fluorescente în vid cu imagini detaliate și, în cazul jocurilor VFD, color.
+
+Popularitatea dispozitivelor portabile a fost la apogeu de la sfârșitul anilor 1970 până la începutul anilor 1990, înainte de a scădea. Acestea sunt precursorii consolelor de jocuri portabile.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Портативные электронные игры - это очень маленькие, портативные устройства для игры в интерактивные электронные игры, часто миниатюрные версии видеоигр. Элементы управления, дисплей и динамики являются частью одного устройства.
+
+Вместо универсального экрана, состоящего из сетки мелких пикселей, в них обычно устанавливаются специальные дисплеи, предназначенные для игры в одну игру. Благодаря такой простоте они могут быть сделаны такими же маленькими, как смарт-часы, и иногда так и происходит. Визуальный ряд этих игр может варьироваться от нескольких маленьких лампочек или светодиодов до буквенно-цифровых экранов, похожих на калькулятор; позже они были в основном вытеснены жидкокристаллическими и вакуумными флуоресцентными дисплеями с детальным изображением и, в случае VFD-игр, цветом.
+
+Пик популярности карманных компьютеров пришелся на конец 1970-х - начало 1990-х годов, а затем пошел на спад. Они стали предшественниками портативных игровых консолей.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Ручно електронске игре су врло мали, преносиви уређаји за репродукцију интерактивних електронских игара, често минијатурисане верзије видео игара.Контроле, екран и звучници су сви део једне јединице.
+
+А не на екрану опште намене који се састоји од мреже малих пиксела, обично имају прилагођене дисплеје дизајниране за играње једне игре.Ова једноставност значи да се могу направити што је мале као и паметначе, а понекад и су.Визуелни излаз ових игара може се кретати од неколико малих сијалица или ЛЕД лампица до алфанумеричких екрана попут калкулатора;Касније су их углавном раселили течним кристалним и вакуумским флуоресцентним екраном са детаљним сликама и у случају ВФД игара, боје.
+
+Ручни популарност је била на врхунцу од краја 1970-их у ране 1990-их пре него што је опадала.Они су прекурсори ручној игриској конзоли.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Handhållna elektroniska spel är mycket små, bärbara enheter för att spela interaktiva elektroniska spel, ofta miniatyriserade versioner av videospel. Reglage, display och högtalare är alla delar av en och samma enhet.
+
+I stället för en vanlig skärm som består av ett rutnät av små pixlar har de vanligtvis specialanpassade skärmar som är utformade för att spela ett spel. Denna enkelhet innebär att de kan göras lika små som en smartklocka, vilket de ibland också är. Det visuella resultatet av dessa spel kan variera från några små glödlampor eller LED-lampor till miniräknarliknande alfanumeriska skärmar; senare ersattes dessa mestadels av flytande kristaller och vakuumfluorescerande skärmar med detaljerade bilder och i fallet med VFD-spel, färg.
+
+Handdatorernas popularitet nådde sin topp från slutet av 1970-talet till början av 1990-talet för att sedan minska. De är föregångare till den handhållna spelkonsolen.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>手持电子游戏机是一种非常小的便携式设备，用于玩互动电子游戏，通常是视频游戏的小型化版本。控制装置、显示屏和扬声器都是一个整体。
+
+手持电子游戏机的显示屏不是由小像素网格组成的通用屏幕，而是专为玩一种游戏而设计的定制显示屏。这种简洁性意味着它们可以做得和智能手表一样小，有时甚至可以做得和智能手表一样小。这些游戏的视觉输出从几个小灯泡或 LED 灯到类似计算器的字母数字屏幕不等；后来，这些屏幕大多被液晶和真空荧光显示屏取代，液晶和真空荧光显示屏图像细腻，VFD 游戏还能显示色彩。
+
+20 世纪 70 年代末到 90 年代初，掌上电脑的普及率达到顶峰，随后逐渐下降。它们是掌上游戏机的前身。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>手持式電子遊戲是非常小的可攜式裝置，用來玩互動式電子遊戲，通常是視訊遊戲的小型化版本。控制器、顯示器和喇叭都是單一裝置的一部分。
+
+手持式電子遊戲機的螢幕並非由小像素網格組成的通用螢幕，而是專為玩一種遊戲而設計的客製螢幕。這種簡易性意味著它們可以做得和智慧型手錶一樣小，有時候甚至可以做得和智慧型手錶一樣小。這些遊戲的視覺輸出範圍可從幾個小燈泡或 LED 燈到類似計算機的字母數字螢幕；後來這些螢幕大多被液晶和真空螢光顯示螢幕取代，液晶和真空螢光顯示螢幕具有細緻的影像，而 VFD 遊戲則具有色彩。
+
+掌上型電腦在 1970 年代末到 1990 年代初達到最流行的階段，之後逐漸式微。它們是掌上型遊戲機的前身。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

@@ -1,0 +1,135 @@
+<theme>
+    <variables>
+        <systemName>Mega Drive</systemName>
+        <systemDescription>The Mega Drive is a 16-bit fourth-generation home video game console developed and sold by Sega. It's Sega's third console and the successor to the Master System. The Mega Drive was adapted from Sega's System 16 arcade board.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1990</systemReleaseYear>
+        <systemReleaseDate>1990</systemReleaseDate>
+        <systemReleaseDateFormated>1990</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>243-340</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>0374d1</systemColor>
+        <systemCartSize>112-67</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Mega Drive هو جهاز ألعاب فيديو منزلي من الجيل الرابع من الجيل الرابع 16 بت تم تطويره وبيعه من قبل Sega. إنه وحدة التحكم الثالثة من Sega وخليفة نظام Master System. تم اقتباس ميجا درايف من لوحة أركيد سيستم 16 من سيجا.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Mega Drive je 16-bitna konzola za video igre četvrte generacije koju je razvio i prodao po sega. To je treća konzola Sega i nasljednik master sistema. Mega pogon prilagođen je iz Seganog sistema 16 arkadenih ploča.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Mega Drive és una consola de videojocs a casa de quarta generació de 16 bits desenvolupada i venuda per Sega.És la tercera consola de Sega i el successor del sistema mestre. La Mega Drive es va adaptar del Sistema 16 Arcade Board.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Mega Drive ist eine 16-Bit-Videospielkonsole der vierten Generation, die von Sega entwickelt und verkauft wurde. Es ist die dritte Konsole von Sega und der Nachfolger des Master System. Das Mega Drive wurde von Segas System 16 Arcade-Board übernommen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Mega Drive es una videoconsola doméstica de 16 bits de cuarta generación desarrollada y comercializada por Sega. Es la tercera consola de Sega y la sucesora de la Master System. La Mega Drive fue una adaptación de la placa arcade System 16 de Sega.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Mega Drive est une console de jeux vidéo de salon 16 bits de quatrième génération développée et vendue par Sega. C'est la troisième console de Sega et le successeur du Master System. La Mega Drive a été adaptée de la console d'arcade System 16 de Sega.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Mega Drive je 16-bitna konzola za video igre četvrte generacije koju je razvila i prodala Sega. To je treća konzola Sege i nasljednik glavnog sustava. Mega pogon prilagođen je iz SEGA -inog sustava Arcade System 16.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Mega Drive è una console per videogiochi domestici di quarta generazione a 16 bit sviluppata e venduta da Sega. È la terza console di Sega e il successore del Master System. Il Mega Drive è stato adattato dalla scheda arcade System 16 di Sega.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>メガドライブは、セガが開発・販売した16ビットの第4世代家庭用ゲーム機。セガにとって3番目のゲーム機であり、マスターシステムの後継機である。メガドライブはセガのアーケード基板「システム16」を流用した。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>메가 드라이브는 세가에서 개발 및 판매한 16비트 4세대 가정용 비디오 게임 콘솔입니다. 메가 드라이브는 세가의 세 번째 콘솔이자 마스터 시스템의 후속 제품입니다. 메가 드라이브는 세가의 시스템 16 아케이드 보드를 개조한 것입니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Mega Drive is een 16-bit vierde generatie spelcomputer voor thuisgebruik, ontwikkeld en verkocht door Sega. Het is de derde console van Sega en de opvolger van het Master System. De Mega Drive werd aangepast van Sega's System 16 arcadebord.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Mega Drive to 16-bitowa domowa konsola do gier wideo czwartej generacji opracowana i sprzedawana przez firmę Sega. Jest to trzecia konsola firmy Sega i następca Master System. Konsola Mega Drive została zaadaptowana z konsoli zręcznościowej System 16 firmy Sega.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Mega Drive é um console de videogame doméstico de quarta geração de 16 bits desenvolvido e vendido pela Sega. É o terceiro console da Sega e o sucessor do Master System. O Mega Drive foi adaptado da placa de arcade System 16 da Sega.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Mega Drive é um console de videogame em casa de 16 bits de quarta geração desenvolvido e vendido pela Sega.É o terceiro console da SEGA e o sucessor do sistema mestre. O mega drive foi adaptado do System 16 Arcade Board da Sega.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Mega Drive este o consolă de jocuri video pe 16 biți din a patra generație dezvoltată și vândută de Sega. Este a treia consolă Sega și succesorul lui Master System. Mega Drive a fost adaptat de la placa arcade System 16 a Sega.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Mega Drive - 16-битная игровая приставка четвертого поколения, разработанная и продаваемая компанией Sega. Это третья консоль Sega и преемница Master System. Mega Drive была адаптирована на основе аркадной платы System 16 компании Sega.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>МЕГА ДРИВЕ је 16-битна четврта генерација кућне видео игре која је развила и продала Сега.То је Сега-ова трећа конзола и наследник главног система.Мега погон је прилагођен Сеги-овом систему 16 аркадних плоча.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Mega Drive är en 16-bitars fjärde generationens hemkonsol för videospel som utvecklats och säljs av Sega. Det är Segas tredje konsol och efterföljaren till Master System. Mega Drive anpassades från Segas System 16 arkadkort.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Mega Drive 是世嘉开发和销售的 16 位第四代家用视频游戏机。它是世嘉的第三台游戏机，也是 Master System 的后继机。Mega Drive 由世嘉的 System 16 街机板改装而成。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Mega Drive 是由 Sega 開發和銷售的 16 位元第四代家用視訊遊戲機。它是 Sega 的第三台遊戲機，也是 Master System 的後繼機種。Mega Drive 由 Sega 的 System 16 遊戲機板改裝而成。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

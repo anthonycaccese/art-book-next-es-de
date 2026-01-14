@@ -1,0 +1,65 @@
+<theme>
+   <aspectRatio name="16:9">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.1981242 0.352083</itemSize><!-- 5 across: 169 169 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="16:10">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.1979167 0.3166667</itemSize><!-- 5 across: 152 152 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="3:2">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.2479167 0.371875</itemSize><!-- 4 across: 178.5 178.5 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="4:3,5:4">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.2476562 0.3302083</itemSize><!-- 4 across: 158.5 158.5 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="8:7">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.3309047 0.3784722</itemSize><!-- 3 across: 181.6666667 181.6666667 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="1:1">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.3305556 0.3305556</itemSize><!-- 3 across: 158.6666667 158.6666667 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="19.5:9,20:9,21:9">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.1646635 0.3567708</itemSize><!-- 6 across: 171.25 171.25 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="32:9">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.1088804 0.3869792</itemSize><!-- 9 across: 187.75 187.75 -->
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="5:3_vertical">
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <itemSize>0.4965278 0.2979167</itemSize><!-- 2 across: 143 143 -->
+         </grid>
+      </view>
+   </aspectRatio>
+</theme>

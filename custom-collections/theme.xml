@@ -138,4 +138,18 @@
          </view>
       </aspectRatio>
    </variant>
+   <variant name="
+      gamelist-grid-cover,
+      gamelist-grid-cover-nh,
+      gamelist-grid-cover-steamgriddb,
+      gamelist-grid-cover-steamgriddb-nh,
+      gamelist-grid-screenshot,
+      gamelist-grid-screenshot-nh
+      ">
+      <view name="gamelist">
+         <text name="custom-collection-name">
+            <visible>false</visible>
+         </text>
+      </view>
+   </variant>
 </theme>

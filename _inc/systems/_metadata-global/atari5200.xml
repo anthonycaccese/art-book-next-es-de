@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Atari 5200</systemName>
+        <systemDescription>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a second generation (1976–1992) video game console developed and distributed by Atari, Inc. It was released in November 1982 in North America at a retail price of $269. It was not released outside North America. The 5200's internal hardware was almost identical to Atari's 8-bit computers however it came with an innovative controller featuring a 360-degree non-centering joystick with a numeric keypad, start, pause, and reset buttons. The console was discontinued on May 21, 1984.</systemDescription>
+        <systemManufacturer>Atari</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemReleaseDate>1982-11-01</systemReleaseDate>
+        <systemReleaseDateFormated>November 1, 1982</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>3b589d</systemColor>
+        <systemColorPalette1>1E6547</systemColorPalette1>
+        <systemColorPalette2>CFA634</systemColorPalette2>
+        <systemColorPalette3>973E3A</systemColorPalette3>
+        <systemColorPalette4>1C6EB8</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز أتاري 5200 سوبر سيستم، المعروف باسم أتاري 5200، هو الجيل الثاني (1976-1992) من أجهزة ألعاب الفيديو التي طورتها ووزعتها شركة أتاري. وقد تم إصداره في نوفمبر 1982 في أمريكا الشمالية بسعر تجزئة 269 دولارًا أمريكيًا. لم يتم إصداره خارج أمريكا الشمالية. كانت الأجهزة الداخلية لجهاز 5200 متطابقة تقريباً مع أجهزة أتاري 8 بت، إلا أنه كان مزوداً بوحدة تحكم مبتكرة تتميز بعصا تحكم غير متمركزة بزاوية 360 درجة مع لوحة مفاتيح رقمية وأزرار بدء وإيقاف مؤقت وإعادة ضبط. تم إيقاف وحدة التحكم في 21 مايو 1984.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Supersystem Atari 5200, obično poznat kao ATARI 5200, je druga generacija (1976-1992) videoigračka konzola za video igre razvijena i distribuirana od strane Atari, Inc. Objavljen je u novembru 1982. u Severnoj Americi u maloprodajnoj ceni od 269 dolara. Nije pušteno izvan Sjeverne Amerike. Unutarnji hardver 5200 bio je gotovo identičan ATARI-ovim 8-bitnim računarima, ali došlo je s inovativnim kontrolerom koji sadrži brojeve od 360 stupnjeva nestorbica s numeričkom tipkovnicom, pauzijom i resetiranjem. Konzola je prekinuta 21. maja 1984. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El SuperSystem Atari 5200, conegut comunament com a Atari 5200, és una consola de videojocs de segona generació (1976–1992) desenvolupada i distribuïda per Atari, Inc. Es va publicar el novembre de 1982 a Amèrica del Nord a un preu al detall de 269 dòlars. No es va alliberar fora d'Amèrica del Nord. El maquinari intern del 5200 era gairebé idèntic als ordinadors de 8 bits d’Atari, però va arribar amb un controlador innovador amb un joystick de 360 ​​graus que no centrava amb un teclat numèric, l’inici, la pausa i els botons de restabliment. La consola es va suspendre el 21 de maig de 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Atari 5200 SuperSystem, allgemein bekannt als Atari 5200, ist eine Videospielkonsole der zweiten Generation (1976-1992), die von Atari, Inc. entwickelt und vertrieben wurde. Es wurde im November 1982 in Nordamerika zu einem Einzelhandelspreis von 269 $ veröffentlicht. Außerhalb Nordamerikas wurde es nicht veröffentlicht. Die interne Hardware des 5200 war fast identisch mit den 8-Bit-Computern von Atari, jedoch war sie mit einem innovativen Controller ausgestattet, der einen nicht zentrierbaren 360-Grad-Joystick mit einem numerischen Tastenfeld sowie Start-, Pause- und Reset-Tasten enthielt. Die Konsole wurde am 21. Mai 1984 aus dem Programm genommen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Atari 5200 SuperSystem, comúnmente conocida como Atari 5200, es una videoconsola de segunda generación (1976-1992) desarrollada y distribuida por Atari, Inc. Salió a la venta en noviembre de 1982 en Norteamérica a un precio de venta al público de 269 dólares. No salió a la venta fuera de Norteamérica. El hardware interno de la 5200 era casi idéntico al de los ordenadores de 8 bits de Atari, pero incluía un innovador mando con un joystick no centrado de 360 grados, teclado numérico y botones de inicio, pausa y reinicio. La consola dejó de fabricarse el 21 de mayo de 1984.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Atari 5200 SuperSystem, communément appelé Atari 5200, est une console de jeux vidéo de deuxième génération (1976-1992) développée et distribuée par Atari, Inc. Elle est sortie en novembre 1982 en Amérique du Nord au prix de détail de 269 dollars. Elle n'a pas été commercialisée en dehors de l'Amérique du Nord. Le matériel interne de la 5200 était presque identique à celui des ordinateurs 8 bits d'Atari, mais elle était équipée d'une manette innovante comprenant un joystick non centré à 360 degrés, un clavier numérique et des boutons de démarrage, de pause et de réinitialisation. La console a été abandonnée le 21 mai 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem, obično poznat kao Atari 5200, druga je generacija (1976–1992) konzola za video igre koju je razvio i distribuirao Atari, Inc. Objavljen je u studenom 1982. u Sjevernoj Americi po maloprodajnoj cijeni od 269 dolara. Nije objavljen izvan Sjeverne Amerike. Unutarnji hardver 5200 bio je gotovo identičan Atarijevim 8-bitnim računalima, ali došao je s inovativnim kontrolerom s 360-stupnjevim džojstikom koji nije ušao u numeričku tipkovnicu, start, pauza i resetiranje gumba. Konzola je prekinuta 21. svibnja 1984. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Atari 5200 SuperSystem, comunemente noto come Atari 5200, è una console per videogiochi di seconda generazione (1976-1992) sviluppata e distribuita da Atari, Inc. È stata rilasciata nel novembre 1982 in Nord America a un prezzo al dettaglio di 269 dollari. Non è stata distribuita al di fuori del Nord America. L'hardware interno del 5200 era quasi identico a quello dei computer a 8 bit di Atari, ma era dotato di un innovativo controller con joystick non centrato a 360 gradi, tastierino numerico, pulsanti di avvio, pausa e reset. La console fu dismessa il 21 maggio 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アタリ5200スーパーシステム（Atari 5200 SuperSystem）、通称アタリ5200は、アタリ社が開発・販売した第2世代（1976年～1992年）のビデオゲーム機である。1982年11月に北米で発売され、小売価格は269ドル。北米以外では発売されなかった。5200の内部ハードウェアはアタリの8ビットコンピュータとほぼ同じであったが、テンキー、スタート、一時停止、リセットボタンを備えた360度非中心ジョイスティックを特徴とする革新的なコントローラが付属していた。このゲーム機は1984年5月21日に販売終了となった。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>일반적으로 아타리 5200으로 알려진 아타리 5200 슈퍼시스템은 아타리에서 개발하고 배포한 2세대(1976~1992) 비디오 게임 콘솔입니다. 1982년 11월 북미에서 269달러의 소매가로 출시되었습니다. 북미 이외 지역에는 출시되지 않았습니다. 5200의 내부 하드웨어는 Atari의 8비트 컴퓨터와 거의 동일했지만 숫자 키패드, 시작, 일시 중지, 재설정 버튼이 있는 360도 비중심 조이스틱을 갖춘 혁신적인 컨트롤러가 함께 제공되었습니다. 이 콘솔은 1984년 5월 21일에 단종되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Atari 5200 SuperSystem, beter bekend als de Atari 5200, is een videospelconsole van de tweede generatie (1976-1992), ontwikkeld en gedistribueerd door Atari, Inc. Hij werd in november 1982 uitgebracht in Noord-Amerika voor een verkoopprijs van $269. Buiten Noord-Amerika werd hij niet uitgebracht. Hij werd niet buiten Noord-Amerika uitgebracht. De interne hardware van de 5200 was bijna identiek aan de 8-bit computers van Atari, maar er zat een innovatieve controller bij met een 360-graden niet-centrerende joystick met een numeriek toetsenblok, start-, pauze- en resetknoppen. De console werd gestopt op 21 mei 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem, powszechnie znany jako Atari 5200, to konsola do gier wideo drugiej generacji (1976-1992) opracowana i dystrybuowana przez Atari, Inc. Została wydana w listopadzie 1982 roku w Ameryce Północnej w cenie detalicznej 269 USD. Nie została wydana poza Ameryką Północną. Wewnętrzny sprzęt 5200 był prawie identyczny z 8-bitowymi komputerami Atari, jednak był wyposażony w innowacyjny kontroler z 360-stopniowym niecentrującym joystickiem z klawiaturą numeryczną, przyciskami startu, pauzy i resetowania. Konsola została wycofana z produkcji 21 maja 1984 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Atari 5200 SuperSystem, comumente conhecido como Atari 5200, é um console de videogame de segunda geração (1976-1992) desenvolvido e distribuído pela Atari, Inc. Foi lançado em novembro de 1982 na América do Norte a um preço de varejo de US$ 269. Não foi lançado fora da América do Norte. O hardware interno do 5200 era quase idêntico ao dos computadores de 8 bits da Atari, mas ele vinha com um controle inovador com um joystick não centralizado de 360 graus com um teclado numérico e botões de início, pausa e reinicialização. O console foi descontinuado em 21 de maio de 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Atari 5200 Supersystem, comumente conhecido como Atari 5200, é um console de videogame de segunda geração (1976-1992) desenvolvido e distribuído pela Atari, Inc. foi lançado em novembro de 1982 na América do Norte a um preço de varejo de US $ 269. Não foi lançado fora da América do Norte. O hardware interno do 5200 era quase idêntico aos computadores de 8 bits da Atari, no entanto, veio com um controlador inovador com um joystick não central de 360 graus com um teclado numérico, iniciantes, pausas e botões de redefinição. O console foi descontinuado em 21 de maio de 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem, cunoscut în mod obișnuit ca Atari 5200, este o consolă de jocuri video din a doua generație (1976-1992) dezvoltată și distribuită de Atari, Inc. A fost lansată în noiembrie 1982 în America de Nord la un preț de vânzare cu amănuntul de 269 $. Nu a fost lansată în afara Americii de Nord. Hardware-ul intern al 5200 a fost aproape identic cu cel al computerelor Atari pe 8 biți, însă a venit cu un controler inovator, cu un joystick necentrat la 360 de grade cu o tastatură numerică, butoane de pornire, pauză și resetare. Consola a fost abandonată la 21 mai 1984.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem, широко известная как Atari 5200, - игровая приставка второго поколения (1976-1992), разработанная и распространяемая компанией Atari, Inc. Она была выпущена в ноябре 1982 года в Северной Америке по розничной цене 269 долларов. За пределами Северной Америки она не выпускалась. Внутреннее устройство 5200 было практически идентично 8-битным компьютерам Atari, однако в комплект поставки входил инновационный контроллер с 360-градусным нецентрируемым джойстиком, цифровой клавиатурой, кнопками запуска, паузы и сброса. Консоль была снята с производства 21 мая 1984 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Суперсистем Атари 5200, обично познат и као Атари 5200, је друга генерација (1976-1992) конзола за видео игру коју је развио Атари, Инц. Објављен је у новембру 1982. у Северној Америци на малопродајној цени од 269 долара.Није пуштен изван Северне Америке.Унутрашњи хардвер од 5200 је скоро идентичан Атаровим 8-битним рачунарима, али је дошао са иновативним контролером који садржи џојстик од 360 степени не-центрирајући џојстик са нумеричким тастатурама, стартом, паузи и ресетовањем дугмади.Конзола је прекинута 21. маја 1984. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem, allmänt känd som Atari 5200, är en andra generationens (1976-1992) videospelskonsol som utvecklades och distribuerades av Atari, Inc. Den släpptes i november 1982 i Nordamerika till ett detaljhandelspris av 269 dollar. Den släpptes inte utanför Nordamerika. Den interna hårdvaran i 5200 var nästan identisk med Ataris 8-bitarsdatorer, men den hade en innovativ handkontroll med en 360-graders icke-centrerad joystick med numeriskt tangentbord, start-, paus- och återställningsknappar. Konsolen slutade säljas den 21 maj 1984.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>雅达利 5200 超级系统（Atari 5200）是雅达利公司开发和销售的第二代（1976-1992 年）视频游戏机。它于 1982 年 11 月在北美发布，零售价为 269 美元。它没有在北美以外的地区发行。5200 的内部硬件与雅达利的 8 位计算机几乎完全相同，但它配备了一个创新的控制器，具有 360 度无中心操纵杆、数字键盘、开始、暂停和重置按钮。该控制台于 1984 年 5 月 21 日停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari 5200 SuperSystem 通常被稱為 Atari 5200，是由 Atari 公司開發和代理的第二代（1976-1992 年）視訊遊戲機。它於 1982 年 11 月在北美發行，零售價為 269 美元。它沒有在北美以外的地區發行。5200 的內部硬體幾乎與 Atari 的 8 位元電腦完全相同，但它配備了創新的控制器，具有 360 度不對中搖桿、數字鍵盤、開始、暫停和重設按鈕。該控制台於 1984 年 5 月 21 日停產。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

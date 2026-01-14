@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Sega Model 3</systemName>
+        <systemDescription>The Sega Model 3 is an arcade platform produced by Sega in partnership with Lockheed Martin. It is a successor to the Sega Model 2 platform, and was released in 1996. The Model 3 hardware is very different to the Model 1 and Model 2 boards which preceded it. It was desinged with one purpose in mind - to push as many textured polygons as possible for as least money as possible. Upon release, the Model 3 board was more powerful than any other arcade platform on the market, as well as any home console or computer.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1996</systemReleaseYear>
+        <systemReleaseDate>1996-01-01</systemReleaseDate>
+        <systemReleaseDateFormated>January 1, 1996</systemReleaseDateFormated>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>3b96ef</systemColor>
+        <systemColorPalette1>034693</systemColorPalette1>
+        <systemColorPalette2>FFFFFF</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>4C9EFB</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سيجا موديل 3 هي منصة أركيد أنتجتها شركة Sega بالشراكة مع شركة لوكهيد مارتن. وهي خليفة لمنصة Sega Model 2، وتم إصدارها في عام 1996. تختلف أجهزة الموديل 3 اختلافًا كبيرًا عن لوحات الموديل 1 والموديل 2 التي سبقتها. فقد صُممت لغرض واحد في الاعتبار - وهو دفع أكبر عدد ممكن من المضلعات المزخرفة بأقل قدر ممكن من المال. عند الإصدار، كانت لوحة موديل 3 أقوى من أي منصة ألعاب أخرى في السوق، بالإضافة إلى أي وحدة تحكم أو كمبيوتر منزلي.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Sega Model 3 je arkadna platforma proizvedena od strane Sega u partnerstvu sa Lockheed Martinom. Sljedbenik je platforme Sega Model 2, a objavljen je 1996. godine. Hardver modela 3 vrlo je različit od modela 1 i modela 2 ploče koje su joj prethodile. Na umu su se poljtila sa jednom svrhom - da pritisnem što je moguće više teksturiranih poligona za najmanje najmanje novca. Nakon puštanja, odbor modela 3 bio je moćniji od bilo koje druge arkadne platforme na tržištu, kao i bilo koja domaća konzola ili računar.</systemDescription>
+            <systemHardwareType>Arkada</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El SEGA Model 3 és una plataforma d'arcades produïda per Sega en col·laboració amb Lockheed Martin.És un successor de la plataforma SEGA Model 2 i es va publicar el 1996. El maquinari Model 3 és molt diferent al de les juntes Model 1 i Model 2 que el van precedir. Es va preocupar amb un propòsit en ment: empènyer el màxim de polígons amb textures possibles per al mínim de diners possible. Al llançar -se, la placa Model 3 era més potent que qualsevol altra plataforma d'arcades del mercat, així com qualsevol consola o ordinador domèstic.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Sega Model 3 ist eine Arcade-Plattform, die von Sega in Zusammenarbeit mit Lockheed Martin entwickelt wurde. Es ist ein Nachfolger der Sega Model 2 Plattform und wurde 1996 veröffentlicht. Die Hardware des Model 3 unterscheidet sich stark von den Vorgängermodellen Model 1 und Model 2. Sie wurde mit einem Ziel vor Augen entwickelt - so viele texturierte Polygone wie möglich für so wenig Geld wie möglich zu produzieren. Bei der Veröffentlichung war das Modell 3 leistungsfähiger als jede andere Arcade-Plattform auf dem Markt sowie jede Heimkonsole oder jeder Computer.</systemDescription>
+            <systemHardwareType>Spielhalle</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Sega Model 3 es una plataforma arcade producida por Sega en colaboración con Lockheed Martin. Es sucesora de la plataforma Sega Model 2, y salió a la venta en 1996. El hardware del Model 3 es muy diferente de las plataformas Model 1 y Model 2 que lo precedieron. Se diseñó con un único objetivo: ofrecer la mayor cantidad de polígonos texturizados por el menor coste posible. En el momento de su lanzamiento, la placa Model 3 era más potente que cualquier otra plataforma arcade del mercado, así como que cualquier consola doméstica u ordenador.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Sega Model 3 est une plate-forme d'arcade produite par Sega en partenariat avec Lockheed Martin. Elle succède à la Sega Model 2 et est sortie en 1996. Le matériel de la Model 3 est très différent de celui des Model 1 et Model 2 qui l'ont précédée. Il a été conçu dans un seul but : produire autant de polygones texturés que possible pour un prix aussi bas que possible. À sa sortie, la carte Model 3 était plus puissante que n'importe quelle autre plate-forme d'arcade sur le marché, ainsi que n'importe quelle console de salon ou ordinateur.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>SEGA Model 3 je arkadna platforma koju je SEGA proizvela u partnerstvu s Lockheedom Martinom. To je nasljednik platforme SEGA Model 2, a objavljen je 1996. godine. Hardver Model 3 vrlo je različit od ploča Model 1 i Model 2 koji su mu prethodili. Otkrio je s jednom svrhom - gurnuti što više teksturiranih poligona za najmanje moguće. Nakon izlaska, ploča Model 3 bila je moćnija od bilo koje druge arkadne platforme na tržištu, kao i bilo koje kućne konzole ili računala.</systemDescription>
+            <systemHardwareType>Arkada</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Sega Model 3 è una piattaforma arcade prodotta da Sega in collaborazione con Lockheed Martin. È il successore della piattaforma Sega Model 2 ed è stato rilasciato nel 1996. L'hardware del Model 3 è molto diverso da quello delle schede Model 1 e Model 2 che lo hanno preceduto. È stata progettata con un unico scopo: spingere il maggior numero possibile di poligoni texturizzati spendendo il meno possibile. Al momento dell'uscita, la scheda Model 3 era più potente di qualsiasi altra piattaforma arcade sul mercato, nonché di qualsiasi console o computer domestico.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>セガ・モデル3は、セガがロッキード・マーチンと提携して製作したアーケード・プラットフォームである。セガ・モデル2の後継機であり、1996年に発売された。Model 3のハードウェアは、それ以前のModel 1やModel 2の基板とは大きく異なっている。それは、できるだけお金をかけずに、できるだけ多くのテクスチャ・ポリゴンを押し出すことだった。発売当初、Model 3ボードは、市場の他のどのアーケード・プラットフォームよりも、またどの家庭用ゲーム機やコンピューターよりもパワフルだった。</systemDescription>
+            <systemHardwareType>アーケード</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>세가 모델 3는 세가가 록히드 마틴과 제휴하여 제작한 아케이드 플랫폼입니다. Sega Model 2 플랫폼의 후속작으로 1996년에 출시되었습니다. 모델 3 하드웨어는 그 이전의 모델 1 및 모델 2 보드와는 매우 다릅니다. 가능한 한 적은 비용으로 가능한 한 많은 텍스처 폴리곤을 밀어 넣는다는 한 가지 목적을 염두에 두고 설계되었습니다. 출시 당시 Model 3 보드는 가정용 콘솔이나 컴퓨터는 물론 시중의 어떤 아케이드 플랫폼보다 강력했습니다.</systemDescription>
+            <systemHardwareType>아케이드</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Sega Model 3 is een arcadeplatform geproduceerd door Sega in samenwerking met Lockheed Martin. Het is een opvolger van het Sega Model 2 platform en werd uitgebracht in 1996. De Model 3 hardware is heel anders dan de Model 1 en Model 2 borden die eraan voorafgingen. Het werd ontworpen met één doel voor ogen - zoveel mogelijk getextureerde polygonen pushen voor zo min mogelijk geld. Bij de release was het Model 3-bord krachtiger dan elk ander arcadeplatform op de markt, en ook krachtiger dan elke thuisconsole of computer.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Sega Model 3 to platforma zręcznościowa wyprodukowana przez firmę Sega we współpracy z Lockheed Martin. Jest następcą platformy Sega Model 2 i została wydana w 1996 roku. Sprzęt Model 3 bardzo różni się od poprzedzających go platform Model 1 i Model 2. Został zaprojektowany w jednym celu - aby wypchnąć jak najwięcej teksturowanych wielokątów za jak najmniejsze pieniądze. W momencie premiery płyta Model 3 była potężniejsza niż jakakolwiek inna platforma arcade na rynku, a także jakakolwiek domowa konsola lub komputer.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Sega Model 3 é uma plataforma de fliperama produzida pela Sega em parceria com a Lockheed Martin. Ela é a sucessora da plataforma Sega Model 2 e foi lançada em 1996. O hardware da Model 3 é muito diferente das placas Model 1 e Model 2 que a precederam. Ela foi projetada com um único objetivo em mente: produzir o maior número possível de polígonos texturizados pelo menor custo possível. Após o lançamento, a placa Model 3 era mais potente do que qualquer outra plataforma de arcade no mercado, bem como do que qualquer console doméstico ou computador.</systemDescription>
+            <systemHardwareType>Fliperama</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Sega Model 3 é uma plataforma de arcade produzida pela Sega em parceria com a Lockheed Martin.É um sucessor da plataforma Sega Model 2 e foi lançado em 1996. O hardware do Modelo 3 é muito diferente das placas Modelo 1 e Modelo 2 que o precederam. Foi desingido com um propósito em mente - pressionar o maior número possível de polígonos texturizados pelo menor dinheiro possível. Após o lançamento, a placa Modelo 3 era mais poderosa do que qualquer outra plataforma de arcade no mercado, bem como qualquer console ou computador doméstico.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Sega Model 3 este o platformă arcade produsă de Sega în parteneriat cu Lockheed Martin. Este un succesor al platformei Sega Model 2, și a fost lansat în 1996. Hardware-ul Model 3 este foarte diferit de plăcile Model 1 și Model 2 care l-au precedat. A fost proiectat cu un singur scop în minte - să împingă cât mai mulți poligoane texturate pentru cât mai puțini bani posibil. La lansare, placa Model 3 era mai puternică decât orice altă platformă arcade de pe piață, precum și decât orice consolă de acasă sau computer.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Sega Model 3 - это аркадная платформа, выпущенная компанией Sega совместно с Lockheed Martin. Она является преемником платформы Sega Model 2 и была выпущена в 1996 году. Аппаратная часть Model 3 сильно отличается от предшествующих ей платформ Model 1 и Model 2. Она была спроектирована с одной целью - выжать как можно больше текстурных полигонов за как можно меньшие деньги. На момент выпуска плата Model 3 была мощнее любой другой аркадной платформы на рынке, а также любой домашней консоли или компьютера.</systemDescription>
+            <systemHardwareType>Аркада</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Сега Модел 3 је аркадна платформа коју је производила Сега у партнерству са Лоцкхеед Мартином.То је наследник платформе СЕГА Модел 2, а објављен је 1996. године. Хардвер модел 3 је врло различит од модела 1 и модел 2 плоче који су је претходили.У виду је на уму једну сврху - да је могуће да је више текстурираних полигона што је могуће више новца.Након пуштања, модел 3 одбор је био снажнији од било које друге аркадне платформе на тржишту, као и било коју кућну конзолу или рачунар.</systemDescription>
+            <systemHardwareType>Аркада</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Sega Model 3 är en arkadplattform som tillverkas av Sega i samarbete med Lockheed Martin. Den är en efterföljare till Sega Model 2-plattformen och släpptes 1996. Model 3-hårdvaran skiljer sig mycket från Model 1- och Model 2-korten som föregick den. Den designades med ett enda syfte i åtanke - att trycka så många texturerade polygoner som möjligt för så lite pengar som möjligt. Vid lanseringen var Model 3-kortet kraftfullare än någon annan arkadplattform på marknaden, liksom någon hemkonsol eller dator.</systemDescription>
+            <systemHardwareType>Arkad</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>世嘉 Model 3 是世嘉公司与洛克希德-马丁公司合作生产的一款街机平台。它是世嘉 Model 2 平台的后续产品，于 1996 年发布。Model 3 的硬件与之前的 Model 1 和 Model 2 截然不同。它的设计目的只有一个--用尽可能少的钱制作尽可能多的纹理多边形。Model 3 游戏板一经推出，其功能就比市场上任何其他街机平台以及任何家用游戏机或电脑都要强大。</systemDescription>
+            <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega Model 3 是 Sega 與洛克希德馬丁公司合作生產的街機平台。它是 Sega Model 2 平台的後繼機種，於 1996 年推出。Model 3 的硬體與之前的 Model 1 和 Model 2 非常不同。它的設計目的只有一個 - 盡可能花最少的錢，製作最多的多邊形。Model 3 推出時，其功能比市場上任何其他街機平台，以及任何家用主機或電腦都要強大。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
+        </variables>
+    </language>
+</theme>

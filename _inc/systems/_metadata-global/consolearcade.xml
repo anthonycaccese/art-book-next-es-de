@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Console Arcade Games</systemName>
+        <systemDescription>While arcade boards have traditionally been custom designs, there have been a number of systems that were instead based on home console platforms. The first such board was the Nintendo VS. System, based on the Famicom and released in 1984. The last console-based board was Namco System 369 which was released in 2011 and based on the Sony PlayStation 3.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Folder</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>5B60B7</systemColor>
+        <systemColorPalette1>F6DD08</systemColorPalette1>
+        <systemColorPalette2>800000</systemColorPalette2>
+        <systemColorPalette3>FF0000</systemColorPalette3>
+        <systemColorPalette4>303030</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>في حين أن لوحات الأركيد كانت تقليديًا عبارة عن تصميمات مخصصة، كان هناك عدد من الأنظمة التي كانت تعتمد بدلاً من ذلك على منصات وحدات التحكم المنزلية. كانت أول لوحة من هذا النوع هي Nintendo VS. سيستم، استنادًا إلى نظام Famicom الذي تم إصداره في عام 1984. وكانت اللوحة الأخيرة القائمة على وحدة التحكم هي Namco System 369 التي صدرت في عام 2011 وكانت مبنية على PlayStation 3 من سوني.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Dok su arkadni odbori tradicionalno bili prilagođeni dizajni, postojali su i niz sistema koji su umjesto toga bili zasnovani na platformama kućnih konzola. Prvi takav odbor bio je Nintendo vs. Sistem, na osnovu porodice i pušten 1984. godine. Zadnja ploča sa sjedištem u konzoli bila je NAMCO sistem 369 koji je objavljen 2011. godine i na osnovu Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Mapa</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Si bé els taulers Arcade han estat tradicionalment dissenys personalitzats, hi ha hagut diversos sistemes basats en plataformes de consoles domèstiques. El primer tauler d'aquest tipus va ser la Nintendo Vs. System, basat en Famicom i llançat el 1984. L’última junta basada en consoles va ser Namco System 369, que es va publicar el 2011 i basat en la Sony Playstation 3.</systemDescription>
+            <systemHardwareType>Folder</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Während Arcade-Boards traditionell individuell gestaltet wurden, gab es eine Reihe von Systemen, die stattdessen auf Heimkonsolen-Plattformen basierten. Das erste System dieser Art war das Nintendo VS. System, das auf dem Famicom basierte und 1984 veröffentlicht wurde. Das letzte konsolenbasierte Board war das Namco System 369, das 2011 veröffentlicht wurde und auf der Sony PlayStation 3 basiert.</systemDescription>
+            <systemHardwareType>Mappe</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Aunque los tableros arcade han sido tradicionalmente diseños personalizados, ha habido una serie de sistemas basados en plataformas de consolas domésticas. La primera de estas consolas fue la Nintendo VS. System, basada en la Famicom y lanzada en 1984. La última placa basada en una consola fue Namco System 369, lanzada en 2011 y basada en la PlayStation 3 de Sony.</systemDescription>
+            <systemHardwareType>Carpeta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Alors que les bornes d'arcade sont traditionnellement conçues sur mesure, un certain nombre de systèmes ont été basés sur des plates-formes de consoles de salon. La première console de ce type a été la Nintendo VS. System, basée sur la Famicom et sortie en 1984. Le dernier jeu basé sur une console est le Namco System 369, sorti en 2011 et basé sur la PlayStation 3 de Sony.</systemDescription>
+            <systemHardwareType>Dossier</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Iako su arkadne ploče tradicionalno bili prilagođeni dizajni, bilo je nekoliko sustava koji su se umjesto toga temeljili na platformama kućnih konzola. Prvi takav odbor bio je Nintendo vs. Sustav, temeljen na Famicomu i objavljen 1984. godine. Posljednja ploča koja se temelji na konzoli bio je Namco System 369 koji je objavljen 2011. godine i na temelju Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Mapa</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Sebbene i tabelloni arcade siano stati tradizionalmente progettati su misura, sono stati realizzati diversi sistemi basati sulle piattaforme delle console domestiche. La prima console di questo tipo è stata la Nintendo VS. System, basato sul Famicom e rilasciato nel 1984. L'ultima scheda basata su una console è stata Namco System 369, uscita nel 2011 e basata sulla PlayStation 3 di Sony.</systemDescription>
+            <systemHardwareType>Cartella</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アーケードボードは伝統的にカスタムデザインであったが、代わりに家庭用ゲーム機のプラットフォームをベースにしたシステムが数多く存在した。そのような最初の基板は、任天堂VS.システムで、ファミコンをベースに1984年に発売された。最後のゲーム機ベースの基板は、2011年に発売されたナムコシステム369で、ソニーのプレイステーション3をベースにしている。</systemDescription>
+            <systemHardwareType>フォルダ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>아케이드 보드는 전통적으로 맞춤형 디자인이었지만, 가정용 콘솔 플랫폼을 기반으로 한 시스템도 다수 존재했습니다. 최초의 보드는 1984년에 출시된 패미컴 기반의 닌텐도 VS. 1984년에 출시된 패미컴을 기반으로 한 시스템입니다. 마지막 콘솔 기반 보드는 2011년에 출시된 소니 플레이스테이션 3를 기반으로 한 남코 시스템 369였습니다.</systemDescription>
+            <systemHardwareType>폴더</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Hoewel arcadeborden van oudsher zelf ontworpen zijn, zijn er ook een aantal systemen geweest die gebaseerd waren op thuisconsoles. Het eerste bord van dit type was het Nintendo VS. System, gebaseerd op de Famicom en uitgebracht in 1984. Het laatste bord dat gebaseerd was op een console was Namco System 369, dat in 2011 werd uitgebracht en gebaseerd was op de Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Map</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Podczas gdy deski arcade tradycyjnie były niestandardowymi projektami, istniało wiele systemów, które zamiast tego były oparte na platformach konsol domowych. Pierwszą taką konsolą był Nintendo VS. System, oparta na Famicom i wydana w 1984 roku. Ostatnim systemem opartym na konsoli był Namco System 369, który został wydany w 2011 roku i bazował na Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Folder</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Embora as placas de fliperama tenham sido tradicionalmente projetadas de forma personalizada, houve uma série de sistemas que foram baseados em plataformas de console doméstico. A primeira placa desse tipo foi o Nintendo VS. System, baseado no Famicom e lançado em 1984. A última placa baseada em console foi a Namco System 369, lançada em 2011 e baseada no Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Pasta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Embora os quadros de arcade tenham sido tradicionalmente designs personalizados, houve vários sistemas que se baseavam em plataformas de console doméstico. A primeira placa desse tipo foi o Nintendo vs. Sistema, baseado no Famicom e lançado em 1984. O último conselho baseado em console foi o Namco System 369, lançado em 2011 e baseado no Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Pasta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>În timp ce plăcile arcade au fost în mod tradițional modele personalizate, au existat o serie de sisteme care s-au bazat în schimb pe platformele consolelor de acasă. Prima astfel de placă a fost Nintendo VS. System, bazat pe Famicom și lansat în 1984. Ultima placă bazată pe consolă a fost Namco System 369, lansată în 2011 și bazată pe Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Dosar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Хотя аркадные платы традиционно создавались по индивидуальному заказу, было создано несколько систем, основанных на платформах домашних консолей. Первой такой доской стала Nintendo VS. System, основанная на Famicom и выпущенная в 1984 году. Последней консольной доской стала Namco System 369, выпущенная в 2011 году и основанная на Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Папка</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Док су аркадни одбори традиционално били прилагођени дизајни, постојали су бројни системи који су уместо тога били засновани на платформи за кућне конзоле.Први такав одбор био је Нинтендо Вс.Систем, заснован на породици и објављен 1984. Последњи одбор заснован на конзоли био је Намцо систем 369 који је објављен у 2011. години и на основу Сони ПлаиСтатион 3.</systemDescription>
+            <systemHardwareType>Мапа</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Även om arkadbrädor traditionellt har varit specialdesignade har det funnits ett antal system som istället baserats på hemkonsolplattformar. Det första sådana brädet var Nintendo VS. System, som baserades på Famicom och släpptes 1984. Det senaste konsolbaserade brädet var Namco System 369 som släpptes 2011 och var baserat på Sony PlayStation 3.</systemDescription>
+            <systemHardwareType>Mapp</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>虽然街机板传统上都是定制设计，但也有一些系统是基于家用游戏机平台的。第一款此类游戏机是任天堂 VS.系统，基于 Famicom，于 1984 年发布。最后一款基于游戏机的游戏机是 2011 年发布的 Namco System 369，它基于索尼 PlayStation 3。</systemDescription>
+            <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>雖然街機板傳統上都是客製化設計，但也有許多系統是以家用主機平台為基礎。第一款這樣的遊戲機是 Nintendo VS.System，以 Famicom 為基礎，於 1984 年推出。最後一款以控制台為基礎的遊戲機是 Namco System 369，於 2011 年推出，以 Sony PlayStation 3 為基礎。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
+        </variables>
+    </language>
+</theme>

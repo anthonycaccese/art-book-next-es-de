@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Atari 7800</systemName>
+        <systemDescription>The Atari 7800 Pro System, commonly known as the Atari 7800, is a third generation (1983-2003) video game console developed and distributed by Atari Corporation. It was released in May 1986 in North America at a retail price of $79.95. The console was later released in Europe (1987). The 7800 is considered one of the first backward-compatible consoles as it could play Atari 2600 games without the use of additional modules. The console was discontinued on January 1, 1992.</systemDescription>
+        <systemManufacturer>Atari</systemManufacturer>
+        <systemReleaseYear>1986</systemReleaseYear>
+        <systemReleaseDate>1986-05-01</systemReleaseDate>
+        <systemReleaseDateFormated>May 1, 1986</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2777cc</systemColor>
+        <systemColorPalette1>BABBBD</systemColorPalette1>
+        <systemColorPalette2>AA2C39</systemColorPalette2>
+        <systemColorPalette3>A7B0B5</systemColorPalette3>
+        <systemColorPalette4>333333</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام Atari 7800 Pro System، المعروف باسم Atari 7800، هو الجيل الثالث (1983-2003) من أجهزة ألعاب الفيديو التي طورتها ووزعتها شركة Atari Corporation. وقد تم إصداره في مايو 1986 في أمريكا الشمالية بسعر تجزئة 79.95 دولارًا أمريكيًا. تم إصدار وحدة التحكم لاحقًا في أوروبا (1987). تعتبر 7800 واحدة من أولى وحدات التحكم المتوافقة مع الإصدارات السابقة حيث كان بإمكانها تشغيل ألعاب أتاري 2600 دون استخدام وحدات إضافية. تم إيقاف وحدة التحكم في 1 يناير 1992.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Atari 7800 Pro sistem, obično poznat kao Atari 7800, je treća generacija (1983-2003) videozapis za video igre razvijena i distribuirana od strane Atari Corporation. Pušten je u maju 1986. u Severnoj Americi u maloprodajnoj ceni od 79,95 dolara. Konzola je kasnije objavljena u Evropi (1987).7800 se smatra jednim od prvih unazad kompatibilnih konzola jer bi moglo igrati Atari 2600 Igre bez upotrebe dodatnih modula. Konzola je prekinuta 1. januara 1992. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El sistema Atari 7800 Pro, conegut comunament com a Atari 7800, és una consola de videojocs de tercera generació (1983-2003) desenvolupada i distribuïda per Atari Corporation. Va ser llançat el maig de 1986 a Amèrica del Nord a un preu al detall de 79,95 dòlars. La consola es va publicar més tard a Europa (1987). El 7800 es considera una de les primeres consoles compatibles amb el retrocés, ja que podria jugar a Atari 2600 jocs sense utilitzar mòduls addicionals. La consola es va suspendre l'1 de gener de 1992.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Atari 7800 Pro System, allgemein bekannt als Atari 7800, ist eine Videospielkonsole der dritten Generation (1983-2003), die von der Atari Corporation entwickelt und vertrieben wurde. Sie wurde im Mai 1986 in Nordamerika zu einem Verkaufspreis von 79,95 $ veröffentlicht. Die Konsole wurde später auch in Europa (1987) veröffentlicht. Der 7800 gilt als eine der ersten abwärtskompatiblen Konsolen, da er Atari-2600-Spiele ohne zusätzliche Module abspielen konnte. Die Konsole wurde am 1. Januar 1992 aus dem Programm genommen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Atari 7800 Pro System, comúnmente conocida como Atari 7800, es una videoconsola de tercera generación (1983-2003) desarrollada y distribuida por Atari Corporation. Salió a la venta en mayo de 1986 en Norteamérica a un precio de venta al público de 79,95 dólares. La consola se lanzó posteriormente en Europa (1987). La 7800 se considera una de las primeras consolas retrocompatibles, ya que podía reproducir juegos de Atari 2600 sin necesidad de módulos adicionales. La consola dejó de fabricarse el 1 de enero de 1992.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Atari 7800 Pro System, communément appelé Atari 7800, est une console de jeux vidéo de troisième génération (1983-2003) développée et distribuée par Atari Corporation. Elle est sortie en mai 1986 en Amérique du Nord au prix de 79,95 dollars. La console a été commercialisée plus tard en Europe (1987). La 7800 est considérée comme l'une des premières consoles rétrocompatibles car elle pouvait jouer aux jeux Atari 2600 sans utiliser de modules supplémentaires. La console a été arrêtée le 1er janvier 1992.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Atari 7800 Pro System, obično poznat kao Atari 7800, treća je generacija (1983-2003) konzola za video igre koju je razvila i distribuirala Atari Corporation. Objavljen je u svibnju 1986. u Sjevernoj Americi po maloprodajnoj cijeni od 79,95 USD. Konzola je kasnije objavljena u Europi (1987).7800 smatra se jednom od prvih konzola kompatibilnih s unatrag jer bi mogao igrati Atari 2600 igara bez upotrebe dodatnih modula. Konzola je prekinuta 1. siječnja 1992.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Atari 7800 Pro System, comunemente noto come Atari 7800, è una console per videogiochi di terza generazione (1983-2003) sviluppata e distribuita da Atari Corporation. È stata rilasciata nel maggio 1986 in Nord America a un prezzo al dettaglio di 79,95 dollari. La console è stata successivamente rilasciata in Europa (1987). La 7800 è considerata una delle prime console retrocompatibili, in quanto poteva giocare ai giochi dell'Atari 2600 senza l'uso di moduli aggiuntivi. La console fu dismessa il 1° gennaio 1992.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アタリ7800プロシステム、通称アタリ7800は、アタリ社が開発・販売した第3世代（1983年～2003年）のビデオゲーム機です。1986年5月に北米で発売され、小売価格は79.95ドル。後にヨーロッパでも発売された（1987年）。7800は、追加モジュールを使用せずにアタリ2600のゲームをプレイすることができたため、最初の下位互換コンソールの1つと考えられている。このゲーム機は1992年1月1日に販売終了となった。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>아타리 7800 프로 시스템은 일반적으로 아타리 7800으로 알려진 3세대(1983-2003) 비디오 게임 콘솔로, 아타리 코퍼레이션에서 개발 및 배포한 제품입니다. 1986년 5월 북미에서 79.95달러의 소매가로 출시되었습니다. 이 콘솔은 나중에 유럽(1987년)에서 출시되었습니다. 7800은 추가 모듈을 사용하지 않고도 Atari 2600 게임을 플레이할 수 있어 최초의 하위 호환 콘솔 중 하나로 꼽힙니다. 이 콘솔은 1992년 1월 1일에 단종되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Het Atari 7800 Pro System, beter bekend als de Atari 7800, is een videospelconsole van de derde generatie (1983-2003), ontwikkeld en gedistribueerd door Atari Corporation. Hij werd in mei 1986 uitgebracht in Noord-Amerika voor een verkoopprijs van 79,95 dollar. De console werd later in Europa uitgebracht (1987). De 7800 wordt beschouwd als een van de eerste achterwaarts compatibele consoles omdat het Atari 2600 spellen kon spelen zonder het gebruik van extra modules. De console werd stopgezet op 1 januari 1992.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Atari 7800 Pro System, powszechnie znany jako Atari 7800, to konsola do gier wideo trzeciej generacji (1983-2003) opracowana i dystrybuowana przez Atari Corporation. Została wydana w maju 1986 roku w Ameryce Północnej w cenie detalicznej 79,95 USD. Konsola została później wydana w Europie (1987). Model 7800 jest uważany za jedną z pierwszych konsol kompatybilnych wstecz, ponieważ mógł odtwarzać gry Atari 2600 bez użycia dodatkowych modułów. Konsola została wycofana z produkcji 1 stycznia 1992 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Atari 7800 Pro System, comumente conhecido como Atari 7800, é um console de videogame de terceira geração (1983-2003) desenvolvido e distribuído pela Atari Corporation. Foi lançado em maio de 1986 na América do Norte a um preço de varejo de US$ 79,95. O console foi lançado posteriormente na Europa (1987). O 7800 é considerado um dos primeiros consoles compatíveis com versões anteriores, pois podia jogar jogos do Atari 2600 sem o uso de módulos adicionais. O console foi descontinuado em 1º de janeiro de 1992.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O sistema Atari 7800 Pro, comumente conhecido como Atari 7800, é um console de videogame de terceira geração (1983-2003) desenvolvido e distribuído pela Atari Corporation. Foi lançado em maio de 1986 na América do Norte a um preço de varejo de US $ 79,95. O console foi lançado posteriormente na Europa (1987). O 7800 é considerado um dos primeiros consoles compatíveis com versões anteriores, pois pode jogar Atari 2600 Games sem o uso de módulos adicionais. O console foi descontinuado em 1º de janeiro de 1992.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Atari 7800 Pro System, cunoscut în mod obișnuit ca Atari 7800, este o consolă de jocuri video din a treia generație (1983-2003) dezvoltată și distribuită de Atari Corporation. A fost lansată în mai 1986 în America de Nord la un preț de vânzare cu amănuntul de 79,95 $. Consola a fost lansată ulterior în Europa (1987). 7800 este considerată una dintre primele console retrocompatibile, deoarece putea reda jocuri Atari 2600 fără utilizarea de module suplimentare. Consola a fost întreruptă la 1 ianuarie 1992.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Atari 7800 Pro System, широко известная как Atari 7800, - игровая консоль третьего поколения (1983-2003), разработанная и распространяемая корпорацией Atari. Она была выпущена в мае 1986 года в Северной Америке по розничной цене $79,95. Позже консоль была выпущена в Европе (1987). 7800 считается одной из первых обратно совместимых консолей, так как она могла играть в игры Atari 2600 без использования дополнительных модулей. Консоль была снята с производства 1 января 1992 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Атари 7800 ПРО систем, обично познат као Атари 7800, трећа генерација (1983-2003) конзола за видео игру коју је развио и дистрибуирао Атари Цорпоратион.Објављен је у мају 1986. у Северној Америци на малопродајној цени од 79,95 долара.Конзола је касније објављена у Европи (1987).7800 се сматра једним од првих конзола компатибилних уназад као што би могао да репродукује Атари 2600 игара без употребе додатних модула.Конзола је прекинута 1. јануара 1992. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Atari 7800 Pro System, allmänt känt som Atari 7800, är en tredje generationens (1983-2003) videospelskonsol som utvecklades och distribuerades av Atari Corporation. Den släpptes i maj 1986 i Nordamerika till ett detaljhandelspris av 79,95 dollar. Konsolen släpptes senare i Europa (1987). 7800 anses vara en av de första bakåtkompatibla konsolerna eftersom den kunde spela Atari 2600-spel utan att använda extra moduler. Konsolen slutade säljas den 1 januari 1992.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>雅达利 7800 Pro 系统，俗称雅达利 7800，是雅达利公司开发和销售的第三代（1983-2003 年）视频游戏机。它于 1986 年 5 月在北美发布，零售价为 79.95 美元。该游戏机随后（1987 年）在欧洲发布。7800 被认为是首批向后兼容的游戏机之一，因为它可以在不使用额外模块的情况下播放雅达利 2600 游戏。该控制台于 1992 年 1 月 1 日停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari 7800 Pro System 一般稱為 Atari 7800，是由 Atari Corporation 所開發與代理的第三代（1983-2003）視訊遊戲主機。它於 1986 年 5 月在北美發行，零售價為 79.95 美元。該遊戲機後來在歐洲發行（1987 年）。7800 被認為是最早向後相容的控制台之一，因為它可以在不使用額外模組的情況下玩 Atari 2600 遊戲。該控制台於 1992 年 1 月 1 日停產。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

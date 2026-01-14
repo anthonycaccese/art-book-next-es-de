@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Nintendo Switch</systemName>
+        <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2017</systemReleaseYear>
+        <systemReleaseDate>2017-03-03</systemReleaseDate>
+        <systemReleaseDateFormated>March 3, 2017</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>105-170</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>ff6550</systemColor>
+        <systemColorPalette1>DA4A4B</systemColorPalette1>
+        <systemColorPalette2>65BADE</systemColorPalette2>
+        <systemColorPalette3>000000</systemColorPalette3>
+        <systemColorPalette4>EBECEE</systemColorPalette4>
+        <systemCartSize>5-7</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز نينتندو سويتش هو جهاز ألعاب فيديو منزلي من الجيل الثامن (من 2012 حتى الآن) تم تطويره وتوزيعه من قبل شركة نينتندو. تم إصداره في 3 مارس 2017 في أمريكا الشمالية بسعر تجزئة 299.99 دولار أمريكي. تم إصدار وحدة التحكم في نفس الوقت في اليابان (2017) وأوروبا (2017) وأمريكا الجنوبية (2017) وأستراليا (2017) وغيرها من الأسواق العالمية (2017). تم تصميم Switch ليكون وحدة تحكم هجينة، مما يسمح بلعب الألعاب على التلفزيون، ثم أثناء التنقل عن طريق فك النظام واللعب من الوحدة المحمولة باليد نفسها. حتى هذا التاريخ، لا تزال وحدة التحكم قيد الإنتاج.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Nintendo Switch és una consola de videojocs a casa de la vuitena generació (2012) desenvolupada i distribuïda per Nintendo. Va ser llançat el 3 de març de 2017 a Amèrica del Nord a un preu al detall de 299,99 dòlars. La consola es va publicar simultàniament a Japó (2017), Europa (2017), South America (2017), Austràlia (2017) i altres mercats mundials (2017). L’interruptor està dissenyat per ser una consola híbrida, permetent jugar els jocs en un televisor i, a continuació, va desfer el sistema i jugar des de la unitat de mà. A partir d'aquesta data, la consola encara està en producció.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Nintendo Switch ist eine Videospielkonsole der achten Generation (2012 bis heute), die von Nintendo entwickelt und vertrieben wird. Sie wurde am 3. März 2017 in Nordamerika zu einem Verkaufspreis von 299,99 $ veröffentlicht. Die Konsole wurde gleichzeitig in Japan (2017), Europa (2017), Südamerika (2017), Australien (2017) und anderen weltweiten Märkten (2017) veröffentlicht. Die Switch ist als Hybrid-Konsole konzipiert, die es ermöglicht, Spiele am Fernseher und unterwegs zu spielen, indem man das System abdockt und von der Handheld-Einheit selbst spielt. Zum jetzigen Zeitpunkt befindet sich die Konsole noch in der Produktion.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Nintendo Switch es una videoconsola doméstica de octava generación (2012-presente) desarrollada y distribuida por Nintendo. Salió a la venta el 3 de marzo de 2017 en Norteamérica a un precio de venta al público de 299,99 dólares. La consola se lanzó simultáneamente en Japón (2017), Europa (2017), Sudamérica (2017), Australia (2017) y otros mercados mundiales (2017). La Switch está diseñada para ser una consola híbrida, que permite jugar a los juegos en un televisor, y luego sobre la marcha desacoplando el sistema y jugando desde la propia unidad portátil. A fecha de hoy, la consola sigue en producción.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Nintendo Switch est une console de jeux vidéo de salon de huitième génération (2012-présent) développée et distribuée par Nintendo. Elle est sortie le 3 mars 2017 en Amérique du Nord au prix de détail de 299,99 $. La console est sortie simultanément au Japon (2017), en Europe (2017), en Amérique du Sud (2017), en Australie (2017) et sur d'autres marchés mondiaux (2017). La Switch est conçue pour être une console hybride, permettant de jouer à des jeux devant un téléviseur, puis en déplacement en détachant le système et en jouant à partir de l'unité portable elle-même. À ce jour, la console est toujours en cours de production.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Nintendo Switch è una console per videogiochi domestici di ottava generazione (2012-presente) sviluppata e distribuita da Nintendo. È stata rilasciata il 3 marzo 2017 in Nord America al prezzo di vendita al pubblico di 299,99 dollari. La console è stata rilasciata contemporaneamente in Giappone (2017), Europa (2017), Sud America (2017), Australia (2017) e altri mercati mondiali (2017). La Switch è stata progettata per essere una console ibrida, che consente di giocare a un televisore e poi in movimento, sganciando il sistema e giocando dall'unità portatile stessa. A tutt'oggi, la console è ancora in fase di produzione.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Nintendo Switch（ニンテンドースイッチ）は、任天堂が開発・販売する第8世代（2012年～）の家庭用ゲーム機。北米では2017年3月3日に小売価格299.99ドルで発売された。日本（2017年）、欧州（2017年）、南米（2017年）、オーストラリア（2017年）、その他の世界市場（2017年）でも同時発売された。Switchはハイブリッド・コンソールとして設計されており、ゲームはテレビで、そして外出先ではシステムのドックを外して携帯機本体からプレイすることができる。現時点では、このゲーム機はまだ生産中である。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>닌텐도 스위치는 닌텐도에서 개발 및 유통하는 8세대(2012년 현재) 가정용 비디오 게임 콘솔입니다. 2017년 3월 3일 북미에서 299.99달러의 소매가로 출시되었습니다. 이 콘솔은 일본(2017년), 유럽(2017년), 남미(2017년), 호주(2017년) 및 기타 전 세계 시장에서 동시에 출시되었습니다. Switch는 하이브리드 콘솔로 설계되어 TV에서 게임을 플레이하다가 이동 중에 시스템을 도킹 해제하고 휴대용 장치 자체에서 게임을 플레이할 수 있습니다. 이 날짜 현재 이 콘솔은 아직 생산 중입니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Nintendo Switch is een achtste generatie (2012-heden) videogameconsole voor thuisgebruik, ontwikkeld en gedistribueerd door Nintendo. Hij werd op 3 maart 2017 uitgebracht in Noord-Amerika voor een verkoopprijs van 299,99 dollar. De console werd tegelijkertijd uitgebracht in Japan (2017), Europa (2017), Zuid-Amerika (2017), Australië (2017) en andere wereldwijde markten (2017). De Switch is ontworpen als hybride console, die het mogelijk maakt om games te spelen op een tv en onderweg door het systeem los te koppelen en vanaf de handheld zelf te spelen. Op dit moment is de console nog steeds in productie.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Nintendo Switch to domowa konsola do gier wideo ósmej generacji (2012-obecnie) opracowana i dystrybuowana przez Nintendo. Została wydana 3 marca 2017 roku w Ameryce Północnej w cenie detalicznej 299,99 USD. Konsola została jednocześnie wydana w Japonii (2017), Europie (2017), Ameryce Południowej (2017), Australii (2017) i na innych rynkach światowych (2017). Switch został zaprojektowany jako konsola hybrydowa, umożliwiająca granie w gry na telewizorze, a następnie w podróży poprzez odłączenie systemu i granie z samego urządzenia przenośnego. Na dzień dzisiejszy konsola jest nadal w produkcji.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Nintendo Switch é um console de videogame doméstico de oitava geração (2012-presente) desenvolvido e distribuído pela Nintendo. Foi lançado em 3 de março de 2017 na América do Norte a um preço de varejo de US$ 299,99. O console foi lançado simultaneamente no Japão (2017), Europa (2017), América do Sul (2017), Austrália (2017) e outros mercados mundiais (2017). O Switch foi projetado para ser um console híbrido, permitindo que os jogos sejam jogados em uma TV e, em seguida, em qualquer lugar, desacoplando o sistema e jogando na própria unidade portátil. Até a presente data, o console ainda está em produção.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Nintendo Switch este o consolă de jocuri video de acasă din a opta generație (2012-prezent) dezvoltată și distribuită de Nintendo. A fost lansată pe 3 martie 2017 în America de Nord la un preț de vânzare cu amănuntul de 299,99 $. Consola a fost lansată simultan în Japonia (2017), Europa (2017), America de Sud (2017), Australia (2017) și alte piețe mondiale (2017). Switch este conceput pentru a fi o consolă hibridă, permițând redarea jocurilor la un televizor și apoi în deplasare prin desfacerea sistemului și redarea de pe unitatea portabilă în sine. Până la această dată, consola este încă în producție.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Nintendo Switch - домашняя игровая консоль восьмого поколения (с 2012 года по настоящее время), разработанная и распространяемая компанией Nintendo. Она была выпущена 3 марта 2017 года в Северной Америке по розничной цене 299,99 доллара. Одновременно консоль была выпущена в Японии (2017), Европе (2017), Южной Америке (2017), Австралии (2017) и на других мировых рынках (2017). Switch задумана как гибридная консоль, позволяющая играть в игры на телевизоре, а затем на ходу, отсоединив систему и играя с портативного устройства. На данный момент консоль все еще находится в производстве.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Nintendo Switch är en åttonde generationens (2012-nuvarande) hemkonsol för videospel som utvecklas och distribueras av Nintendo. Den släpptes den 3 mars 2017 i Nordamerika till ett detaljhandelspris på 299,99 USD. Konsolen släpptes samtidigt i Japan (2017), Europa (2017), Sydamerika (2017), Australien (2017) och på andra världsmarknader (2017). Switch är utformad för att vara en hybridkonsol som gör det möjligt att spela spel vid en TV och sedan på språng genom att koppla ur systemet och spela från själva den handhållna enheten. Vid denna tidpunkt är konsolen fortfarande under produktion.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>任天堂 Switch 是任天堂开发和发行的第八代（2012 年至今）家用视频游戏机。它于 2017 年 3 月 3 日在北美发布，零售价为 299.99 美元。该游戏机同时在日本（2017 年）、欧洲（2017 年）、南美（2017 年）、澳大利亚（2017 年）和其他全球市场（2017 年）发布。Switch 被设计为混合型游戏机，可以在电视上玩游戏，也可以在旅途中解锁系统，通过手持设备本身玩游戏。截至目前，该游戏机仍在生产中。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Nintendo Switch 是任天堂公司開發和代理的第八代（2012 年至今）家用視頻遊戲控制台。它於 2017 年 3 月 3 日在北美發售，零售價為 299.99 美元。該遊戲機同時在日本 (2017)、歐洲 (2017)、南美洲 (2017)、澳洲 (2017) 及其他全球市場 (2017) 發售。Switch 設計為混合型遊戲機，可在電視上玩遊戲，然後在外出時解鎖系統，從手持裝置本身玩遊戲。截至目前為止，該控制台仍在生產中。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

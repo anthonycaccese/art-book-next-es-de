@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Othello Multivision</systemName>
+        <systemDescription>The Othello Multivision (オセロマルチビジョン) is a licensed SG-1000 clone manufactured by Tsukuda Original. It exists because Sega's original intention for the SC-3000 computer was to allow other manufacturers to produce compatible computers in the hope of having a worldwide standard. Unfortunately, possibly with the emergance of the MSX, this tactic failed, and very few SG-1000/SC-3000 compatible machines were produced. The Othello Multivision was one of those machines.</systemDescription>
+        <systemManufacturer>Tsukuda Original</systemManufacturer>
+        <systemReleaseYear>1983</systemReleaseYear>
+        <systemReleaseDate>1983</systemReleaseDate>
+        <systemReleaseDateFormated>1983</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>4959A0</systemColor>
+        <systemColorPalette1>EFEBE1</systemColorPalette1>
+        <systemColorPalette2>571229</systemColorPalette2>
+        <systemColorPalette3>183B67</systemColorPalette3>
+        <systemColorPalette4>E8E342</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن حاسوب Othello Multivision (オオオロロロルマチチビジョジョン) هو استنساخ مرخص من SG-1000 تم تصنيعه بواسطة شركة Tsukuda Original. وهو موجود لأن النية الأصلية لـ Sega لحاسوب SC-3000 كانت السماح للمصنعين الآخرين بإنتاج حواسيب متوافقة على أمل الحصول على معيار عالمي. ولسوء الحظ، ربما مع ظهور MSX، فشل هذا التكتيك وفشل هذا التكتيك، وتم إنتاج عدد قليل جداً من الأجهزة المتوافقة مع SG-1000/SC-3000. وكان جهاز Othello Multivision أحد هذه الأجهزة.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Othello Multivision (オセロマルチビジョン) je licencirani klon SG-1000 proizveden od strane Tsukuda original. Postoji jer je Originalna namjera SEGA za računar SC-3000 bila omogućiti drugim proizvođačima da proizvode kompatibilne računare u nadi da će imati svjetskog standarda. Nažalost, možda i uz hitan položaj MSX-a, ova taktika nije uspjela, a vrlo je malo kompatibilnih strojeva SG-1000 / SC-3000. Othello Multivision bio je jedan od tih mašina.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>L’Othello Multivision (オセロマルチビジョン) és un clon SG-1000 amb llicència fabricat per Tsukuda Original. Existeix perquè la intenció original de Sega per a l’ordinador SC-3000 era permetre a altres fabricants produir ordinadors compatibles amb l’esperança de tenir un estàndard mundial. Malauradament, possiblement amb l’aparició del MSX, aquesta tàctica va fallar i es van produir molt poques màquines compatibles amb SG-1000/SC-3000. La multivisió Othello va ser una d'aquestes màquines.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Othello Multivision (オセロマルチビジョン) ist ein lizenzierter SG-1000-Klon, der von Tsukuda Original hergestellt wird. Er existiert, weil Segas ursprüngliche Absicht für den SC-3000-Computer darin bestand, anderen Herstellern die Herstellung kompatibler Computer zu ermöglichen, in der Hoffnung, einen weltweiten Standard zu haben. Leider schlug diese Taktik fehl, möglicherweise mit dem Aufkommen des MSX, und es wurden nur sehr wenige SG-1000/SC-3000-kompatible Computer produziert. Der Othello Multivision war einer dieser Computer.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Othello Multivision (オセロマルチビジョン) es un clon licenciado del SG-1000 fabricado por Tsukuda Original. Existe porque la intención original de Sega para el ordenador SC-3000 era permitir a otros fabricantes producir ordenadores compatibles con la esperanza de tener un estándar mundial. Por desgracia, posiblemente con la aparición del MSX, esta táctica fracasó, y se produjeron muy pocas máquinas compatibles SG-1000/SC-3000. El Othello Multivision fue una de esas máquinas.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Othello Multivision (オセロマルチビジョン) est un clone sous licence du SG-1000 fabriqué par Tsukuda Original. Il existe parce que l'intention originale de Sega pour l'ordinateur SC-3000 était de permettre à d'autres fabricants de produire des ordinateurs compatibles dans l'espoir d'avoir un standard mondial. Malheureusement, peut-être à cause de l'émergence du MSX, cette tactique a échoué et très peu de machines compatibles SG-1000/SC-3000 ont été produites. L'Othello Multivision était l'une de ces machines.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Othello Multivision (オセロマルチビジョン) je licencirani klon SG-1000 koji je proizveo Tsukuda Original. Postoji zato što je SEGA-ina izvorna namjera za računalo SC-3000 bila omogućiti drugim proizvođačima da proizvode kompatibilna računala u nadi da će imati svjetski standard. Nažalost, možda s pojavom MSX-a, ova taktika nije uspjela, a proizvedeno je vrlo malo strojeva kompatibilnih SG-1000/SC-3000. Othello multivision bio je jedan od tih strojeva.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Othello Multivision (オセロマルチビジョン) è un clone dell'SG-1000 prodotto su licenza da Tsukuda Original. Esiste perché l'intenzione originale di Sega per il computer SC-3000 era quella di consentire ad altri produttori di produrre computer compatibili, nella speranza di avere uno standard mondiale. Purtroppo, forse a causa della comparsa dell'MSX, questa tattica fallì e furono prodotte pochissime macchine compatibili con l'SG-1000/SC-3000. L'Othello Multivision era una di queste macchine.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>オセロマルチビジョン（Othello Multivision）は、ツクダオリジナルが製造したSG-1000クローンのライセンス製品である。セガがSC-3000コンピュータを開発した当初の意図は、世界標準のコンピュータを作るために、他のメーカーが互換性のあるコンピュータを製造できるようにすることであった。残念ながら、MSXの登場もあってか、この作戦は失敗し、SG-1000/SC-3000互換機はほとんど生産されなかった。オセロマルチビジョンもその1つである。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>오셀로 멀티비전(オセロマルチビジョン)은 츠쿠다 오리지널에서 제조한 라이선스 SG-1000 복제품입니다. SC-3000 컴퓨터에 대한 세가의 원래 의도는 다른 제조업체가 호환 가능한 컴퓨터를 생산하여 전 세계 표준을 만들 수 있도록 하는 것이었기 때문에 존재합니다. 안타깝게도 MSX의 등장으로 이 전략은 실패로 돌아갔고, SG-1000/SC-3000 호환 컴퓨터는 거의 생산되지 않았습니다. 오델로 멀티비전도 그 중 하나였습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Othello Multivision (オセロマルチビジョン) is een gelicentieerde SG-1000-kloon gemaakt door Tsukuda Original. Hij bestaat omdat Sega's oorspronkelijke bedoeling met de SC-3000 computer was om andere fabrikanten compatibele computers te laten maken in de hoop op een wereldwijde standaard. Helaas, mogelijk met de opkomst van de MSX, mislukte deze tactiek en werden er maar weinig SG-1000/SC-3000 compatibele machines geproduceerd. De Othello Multivision was één van die machines.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Othello Multivision (オセロマルチビジョン) to licencjonowany klon SG-1000 wyprodukowany przez Tsukuda Original. Istnieje, ponieważ pierwotnym zamiarem Sega dla komputera SC-3000 było umożliwienie innym producentom produkcji kompatybilnych komputerów w nadziei na posiadanie światowego standardu. Niestety, prawdopodobnie wraz z pojawieniem się MSX, ta taktyka zawiodła i wyprodukowano bardzo niewiele kompatybilnych maszyn SG-1000/SC-3000. Othello Multivision był jedną z takich maszyn.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Othello Multivision (オセロマルチビジョン) é um clone licenciado do SG-1000 fabricado pela Tsukuda Original. Ele existe porque a intenção original da Sega para o computador SC-3000 era permitir que outros fabricantes produzissem computadores compatíveis, na esperança de ter um padrão mundial. Infelizmente, possivelmente com o surgimento do MSX, essa tática falhou e pouquíssimas máquinas compatíveis com o SG-1000/SC-3000 foram produzidas. O Othello Multivision foi uma dessas máquinas.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Othello Multivision (オセロマルチビジョン) é um clone SG-1000 licenciado fabricado pela Tsukuda Original. Ele existe porque a intenção original da SEGA para o computador SC-3000 era permitir que outros fabricantes produzissem computadores compatíveis na esperança de ter um padrão mundial. Infelizmente, possivelmente com a emergência do MSX, essa tática falhou e muito poucas máquinas compatíveis com SG-1000/SC-3000 foram produzidas. A multivisão de Otelo era uma dessas máquinas.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Othello Multivision (オセロマルチビジョン) este o clonă SG-1000 cu licență fabricată de Tsukuda Original. Acesta există deoarece intenția inițială a Sega pentru computerul SC-3000 a fost de a permite altor producători să producă computere compatibile în speranța de a avea un standard mondial. Din păcate, probabil odată cu apariția MSX, această tactică a eșuat și au fost produse foarte puține aparate compatibile SG-1000/SC-3000. Othello Multivision a fost unul dintre aceste aparate.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Othello Multivision (オセロマルチビジョン) - лицензионный клон SG-1000, произведенный компанией Tsukuda Original. Он существует потому, что по первоначальному замыслу Sega компьютер SC-3000 должен был позволить другим производителям выпускать совместимые компьютеры в надежде на мировой стандарт. К сожалению, возможно, с появлением MSX, эта тактика провалилась, и было выпущено очень мало совместимых с SG-1000/SC-3000 компьютеров. Othello Multivision был одной из таких машин.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Мултивизија Отхелло (オセロマルチヒション) је лиценцирани СГ-1000 клони који је произвео оригинал Тсукуда.Постоји зато што је Сеганова оригинална намера за рачунаром СЦ-3000 била да омогући другим произвођачима да производе компатибилне рачунаре у нади да ће имати светски стандард.Нажалост, вероватно са нападом МСКС-а, ова тактика није успела, а произведено је врло мало СГ-1000 / СЦ-3000 компатибилних машина.Мултивизија Отхелло била је једна од тих машина.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Othello Multivision (オセロマルチビジョン) är en licensierad SG-1000-klon som tillverkas av Tsukuda Original. Den existerar eftersom Segas ursprungliga avsikt med SC-3000-datorn var att låta andra tillverkare tillverka kompatibla datorer i hopp om att få en världsomspännande standard. Tyvärr misslyckades denna taktik, möjligen i och med MSX:s framväxt, och mycket få SG-1000/SC-3000-kompatibla maskiner tillverkades. Othello Multivision var en av dessa maskiner.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Othello Multivision（オセロマルチビジョン）是由 Tsukuda Original 生产的 SG-1000 授权克隆机。它之所以存在，是因为世嘉设计 SC-3000 电脑的初衷是让其他制造商也能生产兼容电脑，以实现全球统一标准。不幸的是，可能是由于 MSX 的出现，这一策略失败了，生产出的 SG-1000/SC-3000 兼容机寥寥无几。Othello Multivision 就是其中之一。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Othello Multivision（オセロマルチビジョン）是由 Tsukuda Original 製造的 SG-1000 克隆版授權產品。它的存在是因為 Sega 對 SC-3000 電腦的原意是讓其他製造商生產相容的電腦，希望能有一個世界性的標準。不幸的是，可能是因為 MSX 的出現，這個策略失敗了，很少有 SG-1000/SC-3000 相容的機器被生產出來。Othello Multivision 就是其中之一。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

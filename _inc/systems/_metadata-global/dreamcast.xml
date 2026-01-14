@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>Dreamcast</systemName>
+        <systemDescription>The Dreamcast is a home video game console released by Sega on November 27, 1998 in Japan, September 9, 1999 in North America, and October 14, 1999 in Europe. It was the first in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Nintendo's GameCube, and Microsoft's Xbox. The Dreamcast was Sega's final home console, marking the end of the company's eighteen years in the console market.
+
+In contrast to the expensive hardware of the unsuccessful Sega Saturn, the Dreamcast was designed to reduce costs with "off-the-shelf" components, including a Hitachi SH-4 CPU and an NEC PowerVR2 GPU. Released in Japan to a subdued reception, the Dreamcast enjoyed a successful U.S. launch backed by a large marketing campaign, but interest in the system steadily declined as Sony built hype for the upcoming PlayStation 2. Sales did not meet Sega's expectations despite several price cuts, and the company continued to incur significant financial losses. After a change in leadership, Sega discontinued the Dreamcast on March 31, 2001, withdrawing from the console business and restructuring itself as a third-party publisher. In total, 9.13 million Dreamcast units were sold worldwide.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemReleaseDate>1998-11-27</systemReleaseDate>
+        <systemReleaseDateFormated>November 27, 1998</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>497ed9</systemColor>
+        <systemColorPalette1>C1C3C2</systemColorPalette1>
+        <systemColorPalette2>3E649F</systemColorPalette2>
+        <systemColorPalette3>030303</systemColorPalette3>
+        <systemColorPalette4>E4E5E4</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>دريم كاست هو جهاز ألعاب فيديو منزلي أصدرته سيجا في 27 نوفمبر 1998 في اليابان، و9 سبتمبر 1999 في أمريكا الشمالية، و14 أكتوبر 1999 في أوروبا. كان الأول في الجيل السادس من أجهزة ألعاب الفيديو، حيث سبق بلاي ستيشن 2 من سوني، وجيم كيوب من نينتندو، وإكس بوكس من مايكروسوفت. كان دريم كاست هو آخر وحدة تحكم منزلية من سيجا، مما يمثل نهاية ثمانية عشر عامًا للشركة في سوق وحدات التحكم.
+
+وعلى عكس أجهزة سيجا ساتورن غير الناجحة التي كانت باهظة الثمن، صُمم جهاز دريم كاست لخفض التكاليف باستخدام مكونات "جاهزة"، بما في ذلك وحدة المعالجة المركزية هيتاشي SH-4 ووحدة معالجة الرسومات NEC PowerVR2. تم إطلاق جهاز دريم كاست في اليابان وسط استقبال ضعيف في الولايات المتحدة الأمريكية مدعومًا بحملة تسويقية كبيرة، لكن الاهتمام بالنظام انخفض بشكل مطرد مع قيام سوني ببناء ضجة كبيرة لجهاز بلاي ستيشن 2 القادم. لم تحقق المبيعات توقعات سيجا على الرغم من التخفيضات العديدة في الأسعار، واستمرت الشركة في تكبد خسائر مالية كبيرة. وبعد تغيير في القيادة، أوقفت سيجا جهاز دريم كاست في 31 مارس 2001، وانسحبت من أعمال وحدة التحكم وأعادت هيكلة نفسها كناشر خارجي. وإجمالاً، تم بيع 9.13 مليون وحدة Dreamcast في جميع أنحاء العالم.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Dreamcast je konzola za kućnu video igricu koju je objavio 27. novembra 1998. u Japanu, 9. septembra 1999. u Severnoj Americi i 14. oktobra 1999. u Evropi. Bila je prva u šestoj generaciji konzola za video igre, prethodila Sonyjevu PlayStation 2, Nintendo's Gamecube i Microsoftov Xbox. Dreamcast je bila konačna domaća konzola Sega, obilježila kraj osamnaest godina kompanije na tržištu konzole.
+
+Za razliku od skupog hardvera neuspješnog Sega Saturna, Dreamcast je dizajniran za smanjenje troškova sa komponentama "Off-the-polica", uključujući HITACHI SH-4 CPU i NEC POWERVR2 GPU. Pušten u Japanu na pokopni prijem, Dreamcast je uživao u uspješnom američkom kampanju, ali zanimanje za sustav je stalno odbijeno kao Sony izgrađen Hype za predstojeće playstation 2. Nakon promjene vodstva, SEGA je sastavio Dreamcast 31. marta 2001. godine, povlačenjem iz poslovanja konzole i restrukturirati se kao izdavač treće strane. Ukupno je prodato 9,13 miliona dreamcast jedinica širom svijeta.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>The Dreamcast és una consola de videojocs a casa publicada per Sega el 27 de novembre de 1998 al Japó, el 9 de setembre de 1999 a Amèrica del Nord i el 14 d'octubre de 1999 a Europa. Va ser la primera de la sisena generació de consoles de videojocs, precedent a PlayStation 2 de Sony, Nintendo's Gamecube i Microsoft's Xbox. El Dreamcast va ser la consola final de Sega, marcant el final dels divuit anys de la companyia al mercat de les consoles.
+
+En contrast amb el costós maquinari del Sega Saturn infructuós, el Dreamcast va ser dissenyat per reduir costos amb components "fora de la plataforma", inclosa una CPU Hitachi SH-4 i una GPU NEC PowerVR2. Dreat al Japó a una recepció sotmesa, el Dreamcast va gaudir d'un èxit de llançament dels Estats Units avalat per una gran campanya de màrqueting, però l'interès pel sistema va disminuir constantment quan Sony va crear un bombo per a la propera PlayStation 2. Les vendes no van complir les expectatives de Sega malgrat diverses retallades de preus,I la companyia va continuar incorporant importants pèrdues financeres. Després d'un canvi de lideratge, Sega va suspendre el Dreamcast el 31 de març del 2001, retirant-se del negoci de la consola i reestructurant-se com a editor de tercers. En total, es van vendre 9,13 milions d’unitats de somni a tot el món.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Dreamcast ist eine Videospielkonsole, die von Sega am 27. November 1998 in Japan, am 9. September 1999 in Nordamerika und am 14. Oktober 1999 in Europa auf den Markt gebracht wurde. Sie war die erste in der sechsten Generation von Videospielkonsolen, vor Sonys PlayStation 2, Nintendos GameCube und Microsofts Xbox. Die Dreamcast war die letzte Heimkonsole von Sega und markierte das Ende der achtzehnjährigen Präsenz des Unternehmens auf dem Konsolenmarkt.
+
+Im Gegensatz zu der teuren Hardware des erfolglosen Sega Saturn, wurde die Dreamcast entwickelt, um die Kosten mit "off-the-shelf" Komponenten zu reduzieren, einschließlich einer Hitachi SH-4 CPU und einer NEC PowerVR2 GPU. Die Dreamcast wurde in Japan mit gedämpfter Resonanz veröffentlicht und genoss einen erfolgreichen Start in den USA, der durch eine große Marketingkampagne unterstützt wurde, aber das Interesse an dem System nahm stetig ab, als Sony den Hype für die kommende PlayStation 2 aufbaute. Die Verkäufe entsprachen trotz mehrerer Preissenkungen nicht den Erwartungen von Sega, und das Unternehmen musste weiterhin erhebliche finanzielle Verluste hinnehmen. Nach einem Führungswechsel stellte Sega die Dreamcast am 31. März 2001 ein, zog sich aus dem Konsolengeschäft zurück und strukturierte sich als Third-Party-Publisher um. Insgesamt wurden weltweit 9,13 Millionen Dreamcast-Einheiten verkauft.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Dreamcast es una videoconsola doméstica lanzada por Sega el 27 de noviembre de 1998 en Japón, el 9 de septiembre de 1999 en Norteamérica y el 14 de octubre de 1999 en Europa. Fue la primera de la sexta generación de consolas de videojuegos, precediendo a la PlayStation 2 de Sony, la GameCube de Nintendo y la Xbox de Microsoft. La Dreamcast fue la última consola doméstica de Sega, marcando el final de los dieciocho años de la compañía en el mercado de las consolas.
+
+En contraste con el costoso hardware de la fracasada Sega Saturn, la Dreamcast se diseñó para reducir costes con componentes "listos para usar", como una CPU Hitachi SH-4 y una GPU NEC PowerVR2. Lanzada en Japón con escasa acogida, la Dreamcast tuvo un exitoso lanzamiento en EE.UU., respaldado por una gran campaña de marketing, pero el interés por el sistema fue decayendo a medida que Sony creaba expectación por la inminente PlayStation 2. Las ventas no alcanzaron los objetivos de Sega en el mercado. Las ventas no cumplieron las expectativas de Sega a pesar de varios recortes de precios, y la empresa siguió incurriendo en importantes pérdidas financieras. Tras un cambio de liderazgo, Sega dejó de comercializar Dreamcast el 31 de marzo de 2001, retirándose del negocio de las consolas y reestructurándose como editora de terceros. En total, se vendieron 9,13 millones de unidades de Dreamcast en todo el mundo.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Dreamcast est une console de jeux vidéo de salon commercialisée par Sega le 27 novembre 1998 au Japon, le 9 septembre 1999 en Amérique du Nord et le 14 octobre 1999 en Europe. Elle était la première de la sixième génération de consoles de jeux vidéo, précédant la PlayStation 2 de Sony, la GameCube de Nintendo et la Xbox de Microsoft. La Dreamcast a été la dernière console de salon de Sega, marquant la fin des dix-huit années de présence de l'entreprise sur le marché des consoles.
+
+Contrairement au matériel coûteux de la Sega Saturn, qui n'a pas connu le succès escompté, la Dreamcast a été conçue pour réduire les coûts grâce à des composants "prêts à l'emploi", notamment un processeur Hitachi SH-4 et un processeur graphique NEC PowerVR2. Lancée au Japon avec un accueil mitigé, la Dreamcast a bénéficié d'un lancement réussi aux États-Unis, soutenu par une vaste campagne de marketing, mais l'intérêt pour la console a régulièrement décliné, Sony faisant de la publicité pour la future PlayStation 2. Les ventes n'ont pas répondu aux attentes de Sega malgré plusieurs baisses de prix, et la société a continué à subir des pertes financières importantes. Après un changement de direction, Sega a mis fin à la commercialisation de la Dreamcast le 31 mars 2001, se retirant du marché des consoles et se restructurant en tant qu'éditeur tiers. Au total, 9,13 millions d'unités Dreamcast ont été vendues dans le monde.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Dreamcast je kućna konzola za video igre koju je SEGA objavila 27. studenog 1998. u Japanu, 9. rujna 1999. u Sjevernoj Americi, te 14. listopada 1999. u Europi. Bila je prva u šestoj generaciji konzola za video igre, koja je prethodila Sonyjevom PlayStation 2, Nintendovom Gamecubeu i Microsoftovom Xboxu. Dreamcast je bila posljednja kućna konzola Sege, što je obilježilo kraj osamnaest godina tvrtke na tržištu konzole.
+
+Za razliku od skupog hardvera neuspješne Sege Saturn, Dreamcast je dizajniran za smanjenje troškova komponentama "izvan polica", uključujući Hitachi SH-4 CPU i NEC PowerVR2 GPU. Objavljen u Japanu na prigušeni prijem, Dreamcast je uživao u uspješnom američkom lansiranju potpomognutom velikom marketinškom kampanjom, ali interes za sustav neprestano se smanjivao jer je Sony sagradio hipe za nadolazeću PlayStation 2. Prodaja nije ispunila očekivanja SEGA -e unatoč nekoliko smanjenja cijena, a tvrtka je nastavila imati značajne financijske gubitke. Nakon promjene u vodstvu, Sega je ukinula Dreamcast 31. ožujka 2001., povukla se iz poslovanja s konzolom i restrukturirajući se kao izdavač treće strane. Ukupno je u svijetu prodano 9,13 milijuna Dreamcast jedinica.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Dreamcast è una console per videogiochi domestica rilasciata da Sega il 27 novembre 1998 in Giappone, il 9 settembre 1999 in Nord America e il 14 ottobre 1999 in Europa. È stata la prima della sesta generazione di console per videogiochi, preceduta dalla PlayStation 2 di Sony, dal GameCube di Nintendo e dalla Xbox di Microsoft. Il Dreamcast è stata l'ultima console domestica di Sega, segnando la fine dei diciotto anni di presenza dell'azienda nel mercato delle console.
+
+In contrasto con il costoso hardware del fallimentare Sega Saturn, il Dreamcast fu progettato per ridurre i costi con componenti "off-the-shelf", tra cui una CPU Hitachi SH-4 e una GPU NEC PowerVR2. Uscito in Giappone con un'accoglienza modesta, il Dreamcast ebbe un lancio di successo negli Stati Uniti, sostenuto da un'ampia campagna di marketing, ma l'interesse per il sistema diminuì costantemente mentre Sony creava un'atmosfera di entusiasmo per l'imminente PlayStation 2. Le vendite non raggiunsero i livelli di Sega Saturn. Le vendite non soddisfano le aspettative di Sega, nonostante i numerosi tagli di prezzo, e l'azienda continua a subire notevoli perdite finanziarie. Dopo un cambio di leadership, il 31 marzo 2001 Sega ha dismesso il Dreamcast, ritirandosi dal settore delle console e ristrutturandosi come editore di terze parti. In totale sono state vendute 9,13 milioni di unità Dreamcast in tutto il mondo.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ドリームキャストは、日本では1998年11月27日、北米では1999年9月9日、ヨーロッパでは1999年10月14日にセガから発売された家庭用ゲーム機である。ソニーの「プレイステーション2」、任天堂の「ゲームキューブ」、マイクロソフトの「Xbox」に先立つ、第6世代のビデオゲーム機の第1号機である。ドリームキャストはセガにとって最後の家庭用ゲーム機であり、18年間にわたる同社のゲーム機市場での歴史に幕を下ろした。
+
+不成功に終わったセガ・サターンの高価なハードウェアとは対照的に、ドリームキャストは、日立のSH-4 CPUとNECのPowerVR2 GPUを含む「既製品」のコンポーネントでコストを削減するように設計された。日本で発売されたドリームキャストは地味な評判に終わり、大規模なマーケティングキャンペーンに支えられたアメリカでの発売は成功を収めたが、ソニーが発売予定のプレイステーション2の宣伝に力を入れたため、ドリームキャストへの関心は徐々に低下していった。何度かの値下げにもかかわらず売上はセガの期待に届かず、セガは大幅な赤字を出し続けた。指導者の交代後、セガは2001年3月31日にドリームキャストを生産終了し、ゲーム機事業から撤退、サードパーティ・パブリッシャーとして再建した。ドリームキャストは全世界で913万台が販売された。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>드림캐스트는 세가에서 1998년 11월 27일 일본, 1999년 9월 9일 북미, 1999년 10월 14일 유럽에 출시한 가정용 비디오 게임 콘솔입니다. 소니의 플레이스테이션 2, 닌텐도의 게임큐브, 마이크로소프트의 엑스박스보다 앞선 6세대 비디오 게임 콘솔의 첫 번째 제품입니다. 드림캐스트는 세가의 마지막 가정용 콘솔로, 18년간의 콘솔 시장 진출에 마침표를 찍는 제품입니다.
+
+실패한 세가 새턴의 고가 하드웨어와 달리 드림캐스트는 히타치 SH-4 CPU와 NEC PowerVR2 GPU를 비롯한 '기성품' 부품으로 비용을 절감하도록 설계되었습니다. 일본에서 차분한 반응 속에 출시된 드림캐스트는 대규모 마케팅 캠페인에 힘입어 미국에서도 성공적으로 출시되었지만, 소니가 곧 출시될 PlayStation 2에 대한 과대 광고로 인해 이 시스템에 대한 관심은 점차 감소했습니다. 여러 차례의 가격 인하에도 불구하고 판매량은 세가의 기대에 미치지 못했고, 세가는 계속해서 상당한 재정적 손실을 입었습니다. 경영진이 교체된 후 세가는 2001년 3월 31일에 드림캐스트를 단종하고 콘솔 사업에서 철수하여 타사 퍼블리셔로 재편했습니다. 드림캐스트는 전 세계적으로 총 913만 대가 판매되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Dreamcast is een videogameconsole voor thuisgebruik die op 27 november 1998 door Sega werd uitgebracht in Japan, op 9 september 1999 in Noord-Amerika en op 14 oktober 1999 in Europa. Het was de eerste van de zesde generatie videogameconsoles, voorafgaand aan Sony's PlayStation 2, Nintendo's GameCube en Microsoft's Xbox. De Dreamcast was de laatste thuisconsole van Sega en markeerde het einde van de achttien jaar van het bedrijf op de consolemarkt.
+
+In tegenstelling tot de dure hardware van de onsuccesvolle Sega Saturn, was de Dreamcast ontworpen om de kosten te drukken met "off-the-shelf" componenten, waaronder een Hitachi SH-4 CPU en een NEC PowerVR2 GPU. De Dreamcast werd in Japan uitgebracht met een matige ontvangst en kende een succesvolle lancering in de V.S. ondersteund door een grote marketingcampagne, maar de interesse in het systeem nam gestaag af terwijl Sony een hype opbouwde voor de PlayStation 2 die op stapel stond. De verkoop voldeed niet aan de verwachtingen van Sega ondanks verschillende prijsverlagingen en het bedrijf bleef aanzienlijke financiële verliezen lijden. Na een verandering in de leiding stopte Sega op 31 maart 2001 met de Dreamcast, trok zich terug uit de consolebusiness en herstructureerde zichzelf als uitgever van derden. In totaal werden er wereldwijd 9,13 miljoen Dreamcast-toestellen verkocht.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Dreamcast to domowa konsola do gier wideo wydana przez firmę Sega 27 listopada 1998 roku w Japonii, 9 września 1999 roku w Ameryce Północnej i 14 października 1999 roku w Europie. Była to pierwsza konsola do gier wideo szóstej generacji, poprzedzająca PlayStation 2 Sony, GameCube Nintendo i Xbox Microsoftu. Dreamcast był ostatnią konsolą domową firmy Sega, oznaczającą koniec osiemnastoletniej obecności firmy na rynku konsol.
+
+W przeciwieństwie do drogiego sprzętu nieudanej Sega Saturn, Dreamcast został zaprojektowany w celu obniżenia kosztów dzięki "gotowym" komponentom, w tym procesorowi Hitachi SH-4 i procesorowi graficznemu NEC PowerVR2. Dreamcast został wydany w Japonii i spotkał się z niezbyt przychylnym przyjęciem, po czym z powodzeniem zadebiutował w Stanach Zjednoczonych, wspierany przez szeroko zakrojoną kampanię marketingową, ale zainteresowanie systemem stale spadało, w miarę jak Sony budowało szum wokół nadchodzącej konsoli PlayStation 2. Sprzedaż nie spełniła oczekiwań firmy Sega pomimo kilku obniżek cen, a firma nadal ponosiła znaczne straty finansowe. Po zmianie kierownictwa, Sega zaprzestała produkcji Dreamcast 31 marca 2001 roku, wycofując się z branży konsolowej i restrukturyzując się jako wydawca zewnętrzny. Łącznie na całym świecie sprzedano 9,13 miliona egzemplarzy Dreamcasta.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Dreamcast é um console de videogame doméstico lançado pela Sega em 27 de novembro de 1998 no Japão, em 9 de setembro de 1999 na América do Norte e em 14 de outubro de 1999 na Europa. Ele foi o primeiro da sexta geração de consoles de videogame, precedendo o PlayStation 2 da Sony, o GameCube da Nintendo e o Xbox da Microsoft. O Dreamcast foi o último console doméstico da Sega, marcando o fim dos dezoito anos da empresa no mercado de consoles.
+
+Em contraste com o hardware caro do fracassado Sega Saturn, o Dreamcast foi projetado para reduzir os custos com componentes "prontos para uso", incluindo uma CPU Hitachi SH-4 e uma GPU NEC PowerVR2. Lançado no Japão com uma recepção moderada, o Dreamcast teve um lançamento bem-sucedido nos EUA, apoiado por uma grande campanha de marketing, mas o interesse pelo sistema diminuiu constantemente à medida que a Sony criava um hype para o futuro PlayStation 2. As vendas não atenderam às expectativas da Sega, apesar de vários cortes de preços, e a empresa continuou a sofrer perdas financeiras significativas. Após uma mudança na liderança, a Sega descontinuou o Dreamcast em 31 de março de 2001, retirando-se do negócio de consoles e reestruturando-se como uma editora de terceiros. No total, 9,13 milhões de unidades do Dreamcast foram vendidas em todo o mundo.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Dreamcast é um console de videogame caseiro lançado pela Sega em 27 de novembro de 1998 no Japão, 9 de setembro de 1999 na América do Norte e 14 de outubro de 1999 na Europa. Foi o primeiro da sexta geração de consoles de videogame, precedendo o PlayStation 2 da Sony, o GameCube da Nintendo e o Xbox da Microsoft. O Dreamcast foi o console doméstico final da Sega, marcando o fim dos dezoito anos da empresa no mercado de console.
+
+Em contraste com o hardware caro dos malsucedos Sega Saturno, o Dreamcast foi projetado para reduzir custos com os componentes "prontos para uso", incluindo uma CPU Hitachi SH-4 e uma GPU da NEC Powervr2. Lançado no Japão a uma recepção moderada, o Dreamcast teve um lançamento bem -sucedido nos EUA apoiado por uma grande campanha de marketing, mas o interesse no sistema recusou constantemente quando a Sony construiu hype para o próximo PlayStation 2. As vendas não atenderam às expectativas da Sega, apesar de vários cortes de preços, e a empresa continuou a incorrer em perdas financeiras significativas. Após uma mudança na liderança, a Sega interrompeu o Dreamcast em 31 de março de 2001, retirando-se do negócio de console e se reestruturando como editora de terceiros. No total, 9,13 milhões de unidades Dreamcast foram vendidas em todo o mundo.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Dreamcast este o consolă de jocuri video pentru acasă lansată de Sega pe 27 noiembrie 1998 în Japonia, 9 septembrie 1999 în America de Nord și 14 octombrie 1999 în Europa. A fost prima din a șasea generație de console de jocuri video, precedând PlayStation 2 de la Sony, GameCube de la Nintendo și Xbox de la Microsoft. Dreamcast a fost ultima consolă de acasă Sega, marcând sfârșitul celor optsprezece ani ai companiei pe piața consolelor.
+
+Spre deosebire de hardware-ul costisitor al eșecului Sega Saturn, Dreamcast a fost proiectat pentru a reduce costurile cu componente "de pe raft", inclusiv un CPU Hitachi SH-4 și un GPU NEC PowerVR2. Lansat în Japonia cu o primire modestă, Dreamcast s-a bucurat de o lansare de succes în Statele Unite, susținută de o amplă campanie de marketing, dar interesul pentru sistem a scăzut în mod constant, pe măsură ce Sony făcea publicitate pentru viitorul PlayStation 2. Vânzările nu au îndeplinit așteptările Sega, în ciuda mai multor reduceri de preț, iar compania a continuat să înregistreze pierderi financiare semnificative. După o schimbare de conducere, Sega a renunțat la Dreamcast pe 31 martie 2001, retrăgându-se din afacerea cu console și restructurându-se ca editor terț. În total, 9,13 milioane de unități Dreamcast au fost vândute în întreaga lume.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Dreamcast - домашняя игровая приставка, выпущенная компанией Sega 27 ноября 1998 года в Японии, 9 сентября 1999 года в Северной Америке и 14 октября 1999 года в Европе. Она стала первой в шестом поколении игровых приставок, предшествуя PlayStation 2 от Sony, GameCube от Nintendo и Xbox от Microsoft. Dreamcast стала последней домашней консолью Sega, ознаменовав конец восемнадцатилетнего существования компании на рынке консолей.
+
+В отличие от дорогостоящего оборудования неудачной Sega Saturn, Dreamcast была разработана с целью снижения стоимости за счет использования готовых компонентов, включая процессор Hitachi SH-4 и графический процессор NEC PowerVR2. Dreamcast был выпущен в Японии и получил сдержанный отклик, а в США успешно стартовал благодаря масштабной маркетинговой кампании, но интерес к системе неуклонно снижался по мере того, как Sony создавала шумиху вокруг грядущей PlayStation 2. Продажи не оправдали ожиданий Sega, несмотря на несколько снижений цен, и компания продолжала нести значительные финансовые потери. Сменив руководство, 31 марта 2001 года Sega прекратила выпуск Dreamcast, отказавшись от консольного бизнеса и перестроившись на издательство для сторонних разработчиков. Всего в мире было продано 9,13 миллиона Dreamcast.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Дреамцаст је кућни видео игру коју је објавио Сега 27. новембра 1998. у Јапану, 9. септембра 1999. у Северној Америци и 14. октобра 1999. године у Европи.То је била прва у шестој генерацији конзола видео игара, која је претходила Сонии-ову ПлаиСтатион 2, Нинтендо'с Гамецубе и Мицрософтов Ксбок.Дреамцаст је био избалансирану коначну кућну конзолу, обележавајући крај компаније Осамнаест година конзоле.
+
+За разлику од скупог хардвера неуспешног Сега Сатурна, Дреамцаст је дизајниран да смањи трошкове са компонентама "ван полица", укључујући ХИТАЦХИ СХ-4 ЦПУ и НЕЦ ПоверВР2 ГПУ.Објављен у Јапану до подмиченог пријема, Дреамцаст је уживао у успешном америчком покретању, али интересовање за систем непрестано опадао као Сони је изградио хипери за предстојећу ПлаиСтатион 2. Продаја није испунила очекивања Сеги-а, а компанија је и даље испунила никакву какву.Након промене вођства, Сега је прекинула Дреамцаст 31. марта 2001., повлачећи се из конзоле и реструктурирајући се као издавач треће стране.Укупно је продато 9.13 милиона јединица Дреамцаст јединица широм света.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Dreamcast är en hemkonsol för videospel som släpptes av Sega den 27 november 1998 i Japan, den 9 september 1999 i Nordamerika och den 14 oktober 1999 i Europa. Den var den första i den sjätte generationen av videospelskonsoler och föregicks av Sonys PlayStation 2, Nintendos GameCube och Microsofts Xbox. Dreamcast var Segas sista hemkonsol och markerade slutet på företagets arton år på konsolmarknaden.
+
+I motsats till den dyra hårdvaran i den misslyckade Sega Saturn var Dreamcast utformad för att minska kostnaderna med "standard"-komponenter, inklusive en Hitachi SH-4 CPU och en NEC PowerVR2 GPU. Dreamcast släpptes i Japan med ett svalt mottagande och fick en framgångsrik lansering i USA med stöd av en stor marknadsföringskampanj, men intresset för systemet minskade stadigt i takt med att Sony byggde upp en hype kring den kommande PlayStation 2. Försäljningen nådde inte upp till Segas förväntningar trots flera prissänkningar och företaget fortsatte att göra betydande ekonomiska förluster. Efter ett ledarskapsbyte upphörde Sega med Dreamcast den 31 mars 2001, drog sig tillbaka från konsolbranschen och omstrukturerade sig till en tredjepartsutgivare. Totalt såldes 9,13 miljoner Dreamcast-enheter över hela världen.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Dreamcast 是世嘉公司于 1998 年 11 月 27 日在日本、1999 年 9 月 9 日在北美、1999 年 10 月 14 日在欧洲发布的家用视频游戏机。它是第六代视频游戏机中的第一款，在索尼的 PlayStation 2、任天堂的 GameCube 和微软的 Xbox 之前。Dreamcast 是世嘉公司的最后一款家用游戏机，标志着世嘉公司在游戏机市场 18 年的辉煌历史就此结束。
+
+与不成功的世嘉土星（Sega Saturn）昂贵的硬件相比，Dreamcast 的设计采用了 "现成 "组件，包括日立 SH-4 CPU 和 NEC PowerVR2 GPU，以降低成本。梦幻卡斯特在日本发布时反响平平，在大规模营销活动的支持下，它在美国成功上市，但随着索尼为即将推出的 PlayStation 2 炒作，人们对该系统的兴趣逐渐下降。尽管世嘉多次降价促销，但销售额仍未达到预期，公司继续蒙受巨大的财务损失。在更换领导层后，世嘉于 2001 年 3 月 31 日停产了 Dreamcast，退出了游戏机业务，改组为第三方出版商。Dreamcast 在全球总共售出 913 万台。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Dreamcast 是 Sega 於 1998 年 11 月 27 日在日本、1999 年 9 月 9 日在北美、1999 年 10 月 14 日在歐洲發行的家用視訊遊戲主機。它是第六代視訊遊戲主機中的第一款，比 Sony 的 PlayStation 2、Nintendo 的 GameCube 和 Microsoft 的 Xbox 還要早。Dreamcast 是 Sega 最後的家用遊戲機，標誌著該公司在遊戲機市場 18 年的結束。
+
+相較於不成功的世嘉土星（Sega Saturn）昂貴的硬體設計，Dreamcast 的設計採用「現成」元件，包括 Hitachi SH-4 CPU 和 NEC PowerVR2 GPU，以降低成本。Dreamcast 在日本推出後反應平平，在美國推出時則在大規模行銷活動的支持下獲得成功，但隨著 Sony 為即將推出的 PlayStation 2 大炒熱氣氛，市場對於 Dreamcast 的興趣逐漸下降。儘管多次降價，銷售量仍未達世嘉的預期，公司持續出現重大財務虧損。在領導層更迭之後，世嘉於 2001 年 3 月 31 日停產 Dreamcast，退出遊戲機事業，改組為第三方出版商。全球總共售出 913 萬台 Dreamcast。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

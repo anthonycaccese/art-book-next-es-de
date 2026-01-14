@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Triforce Arcade</systemName>
+        <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>2002</systemReleaseYear>
+        <systemReleaseDate>2002</systemReleaseDate>
+        <systemReleaseDateFormated>2002</systemReleaseDateFormated>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>9c6faa</systemColor>
+        <systemColorPalette1>7B79AA</systemColorPalette1>
+        <systemColorPalette2>524C82</systemColorPalette2>
+        <systemColorPalette3>CBC9E0</systemColorPalette3>
+        <systemColorPalette4>1E1C11</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>اللوحة الثلاثية (ト ライフォース) هي لوحة أركيد تم تطويرها في مشروع مشترك بين سيجا ونينتندو ونامكو. وهي مبنية على وحدة تحكم ألعاب الفيديو Nintendo GameCube لتقليل تكاليف التطوير، وسمحت بمنافذ ألعاب الأركيد لألعاب وحدة التحكم المنزلية، والعكس صحيح. وقد سُميت على اسم الكائن السحري الذي غالبًا ما يكون مرغوبًا في سلسلة The Legend of Zelda الشهيرة من Nintendo.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Triforce (トライフォース) és un tauler d'arcades desenvolupat en una empresa conjunta entre Sega, Nintendo i Namco. Es basa en la consola de videojocs de Nintendo GameCube per reduir els costos de desenvolupament i es va permetre els ports arcade dels jocs de consola domèstica i viceversa. Té el nom de l'objecte màgic i sovint buscat a la popular sèrie The Legend of Zelda de Nintendo.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Triforce (トライフォース) ist ein Arcade-Board, das in einem Joint Venture zwischen Sega, Nintendo und Namco entwickelt wurde. Es basiert auf der Nintendo GameCube-Videospielkonsole, um die Entwicklungskosten zu senken, und ermöglichte Arcade-Portierungen von Heimkonsolenspielen und umgekehrt. Benannt ist es nach dem magischen, oft gesuchten Gegenstand in Nintendos beliebter The Legend of Zelda-Reihe.</systemDescription>
+            <systemHardwareType>Spielhalle</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Triforce (トライフォース) es una placa arcade desarrollada en una empresa conjunta entre Sega, Nintendo y Namco. Se basa en la videoconsola Nintendo GameCube para reducir los costes de desarrollo, y permitió ports arcade de juegos de consolas domésticas, y viceversa. Debe su nombre al objeto mágico y a menudo codiciado de la popular serie de Nintendo The Legend of Zelda.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Triforce (トライフォース) est une console d'arcade développée dans le cadre d'une coentreprise entre Sega, Nintendo et Namco. Elle est basée sur la console de jeu vidéo Nintendo GameCube afin de réduire les coûts de développement, et a permis de réaliser des portages arcade de jeux pour consoles de salon, et vice versa. Elle porte le nom de l'objet magique, souvent recherché, de la célèbre série The Legend of Zelda de Nintendo.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) è una scheda arcade sviluppata in una joint venture tra Sega, Nintendo e Namco. È basata sulla console per videogiochi Nintendo GameCube per ridurre i costi di sviluppo e ha permesso di portare in sala giochi i giochi per console domestiche e viceversa. Prende il nome dall'oggetto magico, spesso ricercato, della famosa serie The Legend of Zelda di Nintendo.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>トライフォース（トライフォース）は、セガ、任天堂、ナムコの共同事業で開発されたアーケード基板。開発費を抑えるためにニンテンドーゲームキューブをベースにしており、家庭用ゲーム機のアーケード移植や、その逆も可能にしている。任天堂の人気シリーズ「ゼルダの伝説」に登場する、魔法のような、しばしば探し求められるオブジェクトにちなんで名付けられた。</systemDescription>
+            <systemHardwareType>アーケード</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>트라이포스(トライフォース)는 세가, 닌텐도, 남코의 합작 투자로 개발된 아케이드 보드입니다. 개발 비용을 줄이기 위해 닌텐도 게임큐브 비디오 게임 콘솔을 기반으로 하며, 가정용 콘솔 게임의 아케이드 포트를 허용하고 그 반대의 경우도 마찬가지입니다. 닌텐도의 인기 게임인 젤다의 전설 시리즈에 등장하는 마법의 물체에서 이름을 따왔습니다.</systemDescription>
+            <systemHardwareType>아케이드</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Triforce (トライフォース) is een arcadebord ontwikkeld in een joint venture tussen Sega, Nintendo en Namco. Het is gebaseerd op de Nintendo GameCube video game console om de ontwikkelingskosten te verlagen, en maakte arcade ports van home console games mogelijk, en vice versa. Het is vernoemd naar het magische, vaak gezochte object in Nintendo's populaire The Legend of Zelda-serie.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Triforce (トライフォース) to zręcznościówka opracowana w ramach wspólnego przedsięwzięcia firm Sega, Nintendo i Namco. Została ona oparta na konsoli do gier wideo Nintendo GameCube w celu obniżenia kosztów rozwoju i umożliwiła tworzenie zręcznościowych portów gier na konsole domowe i odwrotnie. Nazwa pochodzi od magicznego, często poszukiwanego przedmiotu z popularnej serii The Legend of Zelda firmy Nintendo.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>A Triforce (トライフォース) é uma placa de fliperama desenvolvida em uma joint venture entre a Sega, a Nintendo e a Namco. Ela é baseada no console de videogame Nintendo GameCube para reduzir os custos de desenvolvimento e permitiu a transferência de jogos de console doméstico para arcade e vice-versa. Seu nome é uma homenagem ao objeto mágico, muitas vezes procurado, da popular série The Legend of Zelda da Nintendo.</systemDescription>
+            <systemHardwareType>Fliperama</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Triforce (トライフォース) este o placă arcade dezvoltată într-un joint venture între Sega, Nintendo și Namco. Se bazează pe consola de jocuri video Nintendo GameCube pentru a reduce costurile de dezvoltare și a permis porturi arcade ale jocurilor de pe consolele de acasă și viceversa. Este numită după obiectul magic, adesea căutat, din populara serie The Legend of Zelda a Nintendo.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) - аркадная настольная игра, разработанная совместным предприятием Sega, Nintendo и Namco. Она основана на игровой приставке Nintendo GameCube, что позволило сократить расходы на разработку и сделать аркадные порты игр для домашней консоли и наоборот. Она названа в честь волшебного, часто востребованного предмета из популярной серии игр The Legend of Zelda от Nintendo.</systemDescription>
+            <systemHardwareType>Аркада</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>The Triforce (トライフォース) är ett arkadkort som utvecklats i ett joint venture mellan Sega, Nintendo och Namco. Den är baserad på videospelskonsolen Nintendo GameCube för att minska utvecklingskostnaderna, och möjliggjorde arkadportar av hemkonsolspel och vice versa. Det är uppkallat efter det magiska, ofta eftertraktade föremålet i Nintendos populära The Legend of Zelda-serie.</systemDescription>
+            <systemHardwareType>Arkad</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Triforce（トライフォース）是世嘉（Sega）、任天堂（Nintendo）和南梦宫（Namco）合资开发的一款街机游戏机。它以任天堂 GameCube 视频游戏机为基础，以降低开发成本，并允许家用游戏机游戏的街机移植，反之亦然。它以任天堂广受欢迎的《塞尔达传说》系列中经常被追捧的神奇物品命名。</systemDescription>
+            <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Triforce（トライフォース）是由 Sega、Nintendo 和 Namco 合資開發的街機板。它以 Nintendo GameCube 視訊遊戲機為基礎，以降低開發成本，並允許家用遊戲機的街機版移植，反之亦然。它以任天堂廣受歡迎的《塞爾達傳奇》系列中常見的神奇物品命名。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
+        </variables>
+    </language>
+</theme>

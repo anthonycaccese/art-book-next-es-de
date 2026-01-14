@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>Game Master</systemName>
+        <systemDescription>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema. It was also sold a few under alternate names in France, including the Videojet Game Master as well as for a few released by Hartung as the Hartung Super Game and the Hartung Game Tronic. The Game Master has a 64x64 monochrome LCD screen.
+
+The design was much like the Game Gear with a D-Pad and two action buttons, although another variation, the Game Plus, features a more Game Boy-like design which is backed by a company called Caterpillar and was sold by Delplay in France. The cartridges resemble those used by the Watara Supervision, with the card edge of the cartridge jutted out past the plastic of the cartridge. The Game Master utilizes a 40-pin cartridge port like the Supervision but is not compatible with Supervision games.</systemDescription>
+        <systemManufacturer>Hartung</systemManufacturer>
+        <systemReleaseYear>1990</systemReleaseYear>
+        <systemReleaseDate>1990</systemReleaseDate>
+        <systemReleaseDateFormated>1990</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>83A9B0</systemColor>
+        <systemColorPalette1>F6DD08</systemColorPalette1>
+        <systemColorPalette2>800000</systemColorPalette2>
+        <systemColorPalette3>FF0000</systemColorPalette3>
+        <systemColorPalette4>303030</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Game Master هو جهاز ألعاب محمول باليد تم تصنيعه من قبل شركة هارتونغ، وصُمم لمنافسة جهاز Nintendo Game Boy. في ألمانيا، تم تسويقها في ألمانيا من قبل هارتونغ نفسها، بينما تم إصدارها في المملكة المتحدة باسم Systema 2000 من قبل شركة Systema العريقة في مجال صناعة ألعاب LCD الرخيصة. كما تم بيع عدد قليل منها تحت أسماء بديلة في فرنسا، بما في ذلك Videojet Game Master بالإضافة إلى عدد قليل تم إصداره من قبل هارتونغ باسم Hartung Super Game وHartung Game Tronic. يحتوي Game Master على شاشة LCD أحادية اللون 64x64.
+
+كان التصميم يشبه إلى حد كبير جهاز Game Gear مع لوحة D-Pad وزرين للحركة، على الرغم من أن هناك إصدار آخر وهو Game Plus، يتميز بتصميم يشبه Game Boy أكثر وهو مدعوم من شركة تدعى Caterpillar وتم بيعه من قبل شركة Delplay في فرنسا. تشبه الخراطيش تلك المستخدمة من قبل واتارا الإشراف، مع بروز حافة بطاقة الخرطوشة إلى ما بعد بلاستيك الخرطوشة. وتستخدم Game Master منفذ خرطوشة ذات 40 سنًا مثل Supervision ولكنها غير متوافقة مع ألعاب Supervision.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Učitelj igre je ručna igra koja proizvodi Hartung i dizajnirana da se takmiči sa Nintendo Game Boy. U Njemačkoj ga je na Martungu napisala Hartung, dok je u Velikoj Britaniji pušteno kao SystemA 2000 po već dobro uspostavljenom proizvođaču jeftinih LCD igara Systema. Također je prodat nekolicina pod alternativnim imenima u Francuskoj, uključujući i u albumu Videojet igru kao i za nekolicina koji je Hartung i Hartung Super igra i Hartung Game Tronic. Master igra ima 64x64 jednobojni LCD ekran.
+
+Dizajn je bio mnogo poput gumba za igru i dva akcijska dugmeta, iako je još jedna varijacija, igra plus, sadrži još distribuciju dječaka koji podržava CATERPILLAR i prodala je DelPlay u Francuskoj. Kartupe nalikuju onima koji koristi nadzor Watara, a rub kartice uloška nije izbacio pored plastike kertridža. Master igre koristi 40-polni uložak poput nadzora, ali nije kompatibilan sa nadzornim igrama.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Game Master és una consola de joc de mà fabricada per Hartung i dissenyada per competir amb el Nintendo Game Boy. A Alemanya, va ser comercialitzat per Hartung mateix, mentre que al Regne Unit va ser llançat com a Systema 2000 pel ja ben establert fabricant de jocs LCD Cheap Games Systema. També es va vendre uns quants amb noms alternatius a França, inclòs el videojoc Game Master, així com per a uns quants llançats per Hartung com el Hartung Super Game i el Hartung Game Tronic. El Game Master té una pantalla LCD monocrom de 64x64.
+
+El disseny s’assemblava molt a l’engranatge de joc amb un D-Pad i dos botons d’acció, tot i que una altra variació, el Game Plus, presenta un disseny més semblant a un noi que té el suport d’una empresa anomenada Caterpillar i va ser venuda per Delplay a França. Els cartutxos s’assemblen als utilitzats per la supervisió de Watara, amb la vora de la targeta del cartutx que es va llançar per sobre del plàstic del cartutx. El Game Master utilitza un port de cartutx de 40 pins com la supervisió, però no és compatible amb els jocs de supervisió.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Game Master ist eine von Hartung hergestellte Handheld-Spielkonsole, die als Konkurrenz zum Nintendo Game Boy gedacht war. In Deutschland wurde er von Hartung selbst vermarktet, während er im Vereinigten Königreich unter dem Namen Systema 2000 von dem bereits etablierten Hersteller von billigen LCD-Spielen Systema herausgebracht wurde. Auch in Frankreich wurde er unter verschiedenen Namen verkauft, darunter der Videojet Game Master sowie für einige wenige von Hartung als Hartung Super Game und Hartung Game Tronic. Der Game Master hat einen 64x64 monochromen LCD-Bildschirm.
+
+Das Design ähnelte dem des Game Gear mit einem D-Pad und zwei Aktionstasten, obwohl eine andere Variante, der Game Plus, ein eher Game Boy-ähnliches Design aufweist, das von einer Firma namens Caterpillar unterstützt und von Delplay in Frankreich verkauft wurde. Die Kassetten ähneln denen des Watara Supervision, wobei der Kartenrand der Kassette über das Plastik der Kassette hinausragt. Der Game Master verwendet einen 40-poligen Kassettenanschluss wie der Supervision, ist aber nicht mit Supervision-Spielen kompatibel.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Game Master es una consola portátil fabricada por Hartung y diseñada para competir con la Nintendo Game Boy. En Alemania, fue comercializada por la propia Hartung, mientras que en el Reino Unido fue lanzada como Systema 2000 por el ya consolidado fabricante de juegos LCD baratos Systema. En Francia también se vendió con otros nombres, como Videojet Game Master y Hartung Super Game y Hartung Game Tronic. El Game Master tiene una pantalla LCD monocroma de 64x64.
+
+El diseño era muy parecido al de la Game Gear, con un D-Pad y dos botones de acción, aunque otra variante, la Game Plus, presenta un diseño más parecido al de la Game Boy, respaldada por una empresa llamada Caterpillar y comercializada por Delplay en Francia. Los cartuchos se parecen a los utilizados por la Watara Supervision, con el borde de la tarjeta sobresaliendo del plástico del cartucho. La Game Master utiliza un puerto para cartuchos de 40 patillas, como la Supervision, pero no es compatible con los juegos de esta última.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Game Master est une console de jeu portable fabriquée par Hartung et conçue pour concurrencer le Nintendo Game Boy. En Allemagne, elle a été commercialisée par Hartung elle-même, tandis qu'au Royaume-Uni, elle a été commercialisée sous le nom de Systema 2000 par le fabricant déjà bien établi de jeux LCD bon marché Systema. Il a également été vendu sous d'autres noms en France, notamment sous le nom de Videojet Game Master, ainsi que sous les noms de Hartung Super Game et Hartung Game Tronic. Le Game Master possède un écran LCD monochrome 64x64.
+
+Son design ressemble beaucoup à celui de la Game Gear avec un D-Pad et deux boutons d'action, bien qu'une autre variante, la Game Plus, présente un design plus proche de celui de la Game Boy, soutenue par une société appelée Caterpillar et vendue par Delplay en France. Les cartouches ressemblent à celles utilisées par la Watara Supervision, avec le bord de la carte de la cartouche dépassant du plastique de la cartouche. Le Game Master utilise un port cartouche à 40 broches comme le Supervision mais n'est pas compatible avec les jeux Supervision.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Majstor igre je ručna konzola za igru koju je proizveo Hartung, a dizajnirana je da se natječe s Nintendo Game Boyom. U Njemačkoj ga je plasirao sam Hartung, dok ga je u Velikoj Britaniji objavio kao Systema 2000 već dobro uspostavljeni proizvođač jeftine LCD igre Systema. Prodano je i nekoliko pod alternativnim imenima u Francuskoj, uključujući i Master Game Master, kao i za nekoliko koji je Hartung objavio kao Hartung Super Game i The Hartung Game Tronic. Majstor igre ima jednobojni LCD zaslon 64x64.
+
+Dizajn je bio sličan Gear Gear-u s D-Pad i dva akcijska gumba, iako još jedna varijacija, Game Plus, sadrži više dizajna nalik na Game Boy koji je podržala tvrtka koja se zove Caterpillar, a Delplay je prodao u Francuskoj. Spremnici nalikuju onima koje je koristio nadzor Watara, a rub kartice uloška izvukao je pokraj plastike uloška. Majstor igre koristi 40-pinski priključak za uloške poput nadzora, ali nije kompatibilan s nadzornim igrama.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Game Master è una console portatile prodotta da Hartung e progettata per competere con il Nintendo Game Boy. In Germania è stata commercializzata dalla stessa Hartung, mentre nel Regno Unito è stata distribuita con il nome di Systema 2000 dal già affermato produttore di giochi LCD economici Systema. Anche in Francia è stato commercializzato con nomi alternativi, tra cui Videojet Game Master, e per alcuni prodotti da Hartung come Hartung Super Game e Hartung Game Tronic. Il Game Master ha uno schermo LCD monocromatico 64x64.
+
+Il design è molto simile a quello del Game Gear, con un D-Pad e due pulsanti d'azione, anche se un'altra variante, il Game Plus, presenta un design più simile a quello del Game Boy, sostenuto da una società chiamata Caterpillar e venduto da Delplay in Francia. Le cartucce assomigliano a quelle utilizzate dalla Watara Supervision, con il bordo della scheda che sporge dalla plastica della cartuccia. Il Game Master utilizza una porta per cartucce a 40 pin come il Supervision, ma non è compatibile con i giochi del Supervision.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ゲームマスターは、任天堂ゲームボーイに対抗するために設計された、ハルトゥング社製の携帯ゲーム機である。ドイツではHartung社によって販売され、イギリスではすでに定評のある安価な液晶ゲーム機メーカーSystema社からSystema 2000として発売された。また、フランスでは「Videojet Game Master」、Hartung社からは「Hartung Super Game」、「Hartung Game Tronic」などの別称で販売された。ゲームマスターは64x64のモノクロ液晶画面を持つ。
+
+デザインはDパッドと2つのアクションボタンを備えたゲームギアによく似ているが、別のバリエーションであるゲームプラスはよりゲームボーイに近いデザインを特徴としており、キャタピラーという会社がバックアップし、フランスのデルプレイ社が販売していた。カートリッジはワタラスーパーバイザーが使用していたものに似ており、カートリッジのカードの端がカートリッジのプラスチックより飛び出している。ゲームマスターはスーパービジョンと同じ40ピンのカートリッジポートを使用しているが、スーパービジョンのゲームとは互換性がない。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>게임 마스터는 하퉁에서 제조한 휴대용 게임 콘솔로, 닌텐도 게임 보이와 경쟁하기 위해 설계되었습니다. 독일에서는 하퉁이 직접 판매했고, 영국에서는 이미 잘 알려진 저가형 LCD 게임기 제조업체인 Systema에서 Systema 2000으로 출시했습니다. 또한 프랑스에서는 비디오젯 게임 마스터, 하트퉁이 출시한 하트퉁 슈퍼 게임, 하트퉁 게임 트로닉 등 다른 이름으로도 판매되었습니다. 게임 마스터에는 64x64 흑백 LCD 화면이 있습니다.
+
+D-패드와 두 개의 액션 버튼이 있는 게임 기어와 비슷한 디자인이었지만, 또 다른 변형 제품인 게임 플러스는 캐터필러라는 회사가 후원하고 프랑스의 델플레이에서 판매한 게임 보이 같은 디자인이 특징입니다. 카트리지는 와타라 수퍼비전에서 사용하는 것과 비슷하며, 카트리지의 카드 가장자리가 플라스틱을 지나 튀어나와 있습니다. 게임 마스터는 슈퍼비전과 같은 40핀 카트리지 포트를 사용하지만 슈퍼비전 게임과 호환되지 않습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Game Master is een draagbare spelconsole geproduceerd door Hartung, en ontworpen om te concurreren met de Nintendo Game Boy. In Duitsland werd het op de markt gebracht door Hartung zelf, terwijl het in het Verenigd Koninkrijk werd uitgebracht als de Systema 2000 door de reeds gevestigde maker van goedkope LCD-spellen Systema. Er werden er ook een paar verkocht onder andere namen in Frankrijk, waaronder de Videojet Game Master en een paar door Hartung als de Hartung Super Game en de Hartung Game Tronic. De Game Master heeft een 64x64 monochroom LCD-scherm.
+
+Het ontwerp leek veel op dat van de Game Gear met een D-Pad en twee actieknoppen, hoewel een andere variant, de Game Plus, een meer Game Boy-achtig ontwerp heeft dat wordt ondersteund door een bedrijf genaamd Caterpillar en werd verkocht door Delplay in Frankrijk. De cartridges lijken op die van de Watara Supervision, waarbij de kaartrand van de cartridge voorbij het plastic van de cartridge steekt. De Game Master gebruikt een 40-pins cartridgepoort zoals de Supervision, maar is niet compatibel met Supervision-spellen.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Game Master to przenośna konsola do gier wyprodukowana przez firmę Hartung i zaprojektowana w celu konkurowania z Nintendo Game Boy. W Niemczech była sprzedawana przez samą firmę Hartung, podczas gdy w Wielkiej Brytanii została wydana jako Systema 2000 przez już dobrze znanego producenta tanich gier LCD Systema. Był również sprzedawany pod innymi nazwami we Francji, w tym Videojet Game Master, a także dla kilku wydanych przez Hartung jako Hartung Super Game i Hartung Game Tronic. Game Master posiada monochromatyczny ekran LCD 64x64.
+
+Konstrukcja była bardzo podobna do Game Gear z D-Padem i dwoma przyciskami akcji, chociaż inna odmiana, Game Plus, ma konstrukcję bardziej podobną do Game Boya, za którą stoi firma Caterpillar i była sprzedawana przez Delplay we Francji. Kartridże przypominają te używane przez Watara Supervision, z krawędzią karty wystającą poza plastikową część kartridża. Game Master wykorzystuje 40-pinowy port kartridża, podobnie jak Supervision, ale nie jest kompatybilny z grami Supervision.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Game Master é um console de jogos portátil fabricado pela Hartung e projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pela própria Hartung, enquanto no Reino Unido foi lançado como Systema 2000 pelo já bem estabelecido fabricante de jogos baratos de LCD Systema. Também foi vendido com nomes alternativos na França, incluindo o Videojet Game Master e alguns lançados pela Hartung como Hartung Super Game e Hartung Game Tronic. O Game Master tem uma tela LCD monocromática de 64x64.
+
+O design era muito parecido com o do Game Gear, com um D-Pad e dois botões de ação, embora outra variação, o Game Plus, tenha um design mais parecido com o do Game Boy, apoiado por uma empresa chamada Caterpillar e vendido pela Delplay na França. Os cartuchos se assemelham aos usados pela Watara Supervision, com a borda do cartão do cartucho projetada para fora do plástico do cartucho. O Game Master utiliza uma porta de cartucho de 40 pinos como o Supervision, mas não é compatível com os jogos do Supervision.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Game Master é um console de jogos portátil fabricado por Hartung e projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pelo próprio Hartung, enquanto no Reino Unido foi lançado como o Systema 2000 pelo já bem estabelecido fabricante de jogos LCD baratos Systema. Também foi vendido alguns sob nomes alternativos na França, incluindo o VideoJet Game Master, bem como para alguns lançados por Hartung como o Hartung Super Game e o jogo Hartung Tronic. O Game Master possui uma tela LCD monocromática de 64x64.
+
+O design era muito parecido com o equipamento de jogo com um D-pad e dois botões de ação, embora outra variação, o jogo Plus, apresenta um design mais parecido com um garoto que é apoiado por uma empresa chamado Caterpillar e foi vendido pela Delplay na França. Os cartuchos se assemelham aos usados pela supervisão de Watara, com a borda da carta do cartucho se projetava além do plástico do cartucho. O Game Master utiliza uma porta de cartucho de 40 pinos como a supervisão, mas não é compatível com jogos de supervisão.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Game Master este o consolă de jocuri portabilă fabricată de Hartung și concepută pentru a concura cu Nintendo Game Boy. În Germania, a fost comercializată chiar de Hartung, în timp ce în Marea Britanie a fost lansată ca Systema 2000 de către producătorul deja bine stabilit de jocuri LCD ieftine Systema. De asemenea, a fost vândut câteva sub nume alternative în Franța, inclusiv Videojet Game Master, precum și pentru câteva lansate de Hartung ca Hartung Super Game și Hartung Game Tronic. Game Master are un ecran LCD monocrom 64x64.
+
+Designul era foarte asemănător cu Game Gear, cu un D-Pad și două butoane de acțiune, deși o altă variantă, Game Plus, are un design mai asemănător cu Game Boy, care este susținut de o companie numită Caterpillar și a fost vândut de Delplay în Franța. Cartușele seamănă cu cele utilizate de Watara Supervision, cu marginea cardului cartușului ieșind în afară de plasticul cartușului. Game Master utilizează un port de cartuș cu 40 de pini ca și Supervision, dar nu este compatibil cu jocurile Supervision.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Game Master - это портативная игровая приставка, произведенная компанией Hartung и призванная конкурировать с Nintendo Game Boy. В Германии ее продавала сама компания Hartung, а в Великобритании она была выпущена под названием Systema 2000 уже хорошо известным производителем дешевых ЖК-игр Systema. Во Франции она также продавалась под другими названиями, в том числе Videojet Game Master, а также несколько раз выпускалась компанией Hartung под названиями Hartung Super Game и Hartung Game Tronic. Game Master имеет монохромный ЖК-экран 64x64.
+
+Дизайн был очень похож на Game Gear с D-Pad и двумя кнопками действий, хотя другая разновидность, Game Plus, имеет более похожий на Game Boy дизайн, который был создан компанией Caterpillar и продавался Delplay во Франции. Картриджи похожи на те, что использовались в Watara Supervision, с краем карты, выступающим за пластик картриджа. В Game Master используется 40-контактный порт для картриджей, как и в Supervision, но он не совместим с играми Supervision.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Мастер игре је ручна конзола игре коју је Хартунг произвео Хартунг и дизајниран је да се такмичи са Нинтендо игара дечака.У Немачкој га је називао сам Хартунг, док је у Великој Британији објављен као Систем 2000 од стране већ добро успостављеног произвођача јефтиних ЛЦД игара Систем.Такође је продато неколико под алтернативним именима у Француској, укључујући Мастер ВидеоЈет игри, као и неколико издали Хартунг као Хартунг Супер игра и Хартунг Гаме Трониц.Мастер игре има 64к64 монохроме ЛЦД екран.
+
+Дизајн је био сличан игри опреми са Д-Пад и два акциона дугмета, иако је још једна варијација, игра плус дизајн попут дизајна који подржава више игре која је подржала компанија звана Цатерпиллар и продала је Делплаи у Француској.Картуге подсећају на оне који користе надзор Ватара, са ивицом карте Цартридге је прошао поред пластике кертриџа.Мастер игре користи 40-пински порт кертриџа попут надзора, али није компатибилан са надзором игарама.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Game Master är en handhållen spelkonsol tillverkad av Hartung och utformad för att konkurrera med Nintendo Game Boy. I Tyskland marknadsfördes den av Hartung själva, medan den i Storbritannien släpptes som Systema 2000 av den redan väletablerade tillverkaren av billiga LCD-spel Systema. Den såldes också under några andra namn i Frankrike, bland annat Videojet Game Master, samt under några andra namn av Hartung, bland annat Hartung Super Game och Hartung Game Tronic. Game Master har en 64x64 monokrom LCD-skärm.
+
+Designen var mycket lik Game Gear med en D-Pad och två actionknappar, även om en annan variant, Game Plus, har en mer Game Boy-liknande design som stöds av ett företag som heter Caterpillar och såldes av Delplay i Frankrike. Kassetterna liknar de som användes av Watara Supervision, med kortkanten på kassetten utskjutande utanför kassettens plast. Game Master använder en 40-polig kassettport som Supervision men är inte kompatibel med Supervision-spel.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Game Master 是哈同公司生产的一款掌上游戏机，旨在与任天堂的 Game Boy 竞争。在德国，它由哈同公司自行销售，而在英国，它则作为 Systema 2000 由早已声名远播的廉价液晶游戏机制造商 Systema 推出。在法国，也有一些游戏机以其他名称销售，包括 Videojet Game Master 以及 Hartung 推出的 Hartung Super Game 和 Hartung Game Tronic。Game Master 有一个 64x64 的单色液晶屏。
+
+它的设计很像 Game Gear，有一个 D-Pad 和两个操作按钮，但另一种变体 Game Plus 的设计更像 Game Boy，由一家名为 Caterpillar 的公司支持，并由法国的 Delplay 公司销售。这种盒式磁带与 Watara Supervision 使用的盒式磁带相似，磁带卡的边缘突出于盒式磁带的塑料边缘。Game Master 与 Supervision 一样使用 40 针卡匣接口，但与 Supervision 游戏不兼容。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game Master 是由 Hartung 所製造的掌上型遊戲機，設計目的是與 Nintendo Game Boy 競爭。在德國，它是由 Hartung 自行銷售，而在英國，它則是由已經廣受好評的廉價 LCD 遊戲機製造商 Systema 以 Systema 2000 的名義發行。在法國，它也以其他名稱銷售，包括 Videojet Game Master，以及由 Hartung 發行的幾款 Hartung Super Game 和 Hartung Game Tronic。Game Master 有一個 64x64 的單色 LCD 螢幕。
+
+它的設計很像 Game Gear，有一個 D-Pad 和兩個動作按鈕，不過另一個變種，Game Plus，則採用了更像 Game Boy 的設計，它是由一家叫做 Caterpillar 的公司所支持，並由 Delplay 在法國銷售。卡匣與 Watara Supervision 使用的卡匣相似，卡匣的卡片邊緣突出於卡匣的塑膠外。Game Master 與 Supervision 一樣使用 40-pin 卡匣連接埠，但不相容於 Supervision 遊戲。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

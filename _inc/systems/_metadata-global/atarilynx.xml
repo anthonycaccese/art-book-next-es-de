@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Atari Lynx</systemName>
+        <systemDescription>The Atari Lynx, usually just referred to as Lynx, is a fourth generation (1987-2004) handheld video game console developed in partnership with Epyx, Inc. and distributed by the Atari Corporation. It was released in September 1989 in North America at a retail price of $149.95. The handheld was also released in Europe (1990) and Japan (1990). The Lynx was the world's first handheld electronic game with a color LCD screen. The console was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+        <systemManufacturer>Atari</systemManufacturer>
+        <systemReleaseYear>1989</systemReleaseYear>
+        <systemReleaseDate>1989-09-01</systemReleaseDate>
+        <systemReleaseDateFormated>September 1, 1989</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>ea9830</systemColor>
+        <systemColorPalette1>FD6420</systemColorPalette1>
+        <systemColorPalette2>404040</systemColorPalette2>
+        <systemColorPalette3>F38900</systemColorPalette3>
+        <systemColorPalette4>262626</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز أتاري لينكس، الذي يشار إليه عادةً باسم لينكس فقط، هو جهاز ألعاب فيديو محمول باليد من الجيل الرابع (1987-2004) تم تطويره بالشراكة مع شركة إبيكس ووزعته شركة أتاري. تم إصداره في سبتمبر 1989 في أمريكا الشمالية بسعر تجزئة 149.95 دولار أمريكي. كما تم إصدار الجهاز المحمول في أوروبا (1990) واليابان (1990). كانت Lynx أول لعبة إلكترونية محمولة باليد في العالم مزودة بشاشة LCD ملونة. تم إيقاف وحدة التحكم في أوائل عام 1996، ربما في وقت بيع الشركة في 8 أبريل 1996.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Atari Lynx, obično se naziva Lynx, četvrta generacija (1987-2004) ručna konzola za video igre razvijena u partnerstvu sa EPYX, Inc. i distribuirala Atari Corporation. Pušten je u septembru 1989. u Severnoj Americi u maloprodajnoj ceni od 149,95 dolara. Ručni ručni je takođe objavljen u Evropi (1990.) i Japanu (1990). Lynx je bila prva prva elektronska igra na svijetu s LCD ekranom u boji. Konzola je prekinuta početkom 1996. godine, eventualno u trenutku prodaje kompanije 8. aprila 1996. godine.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>L’Atari Lynx, generalment anomenat Lynx, és una consola de videojocs de quarta generació (1987-2004) desenvolupada en col·laboració amb Epyx, Inc. i distribuïda per la Corporació Atari. Va ser llançat el setembre de 1989 a Amèrica del Nord a un preu al detall de 149,95 dòlars. El portàtil també es va publicar a Europa (1990) i Japó (1990). El Lynx va ser el joc electrònic de primera mà del món amb una pantalla LCD en color. La consola es va suspendre a principis de 1996, possiblement en el moment de la venda de la companyia el 8 d'abril de 1996.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Atari Lynx, meist nur als Lynx bezeichnet, ist eine Handheld-Videospielkonsole der vierten Generation (1987-2004), die in Zusammenarbeit mit Epyx, Inc. entwickelt und von der Atari Corporation vertrieben wurde. Er wurde im September 1989 in Nordamerika zu einem Einzelhandelspreis von 149,95 $ veröffentlicht. Der Handheld wurde auch in Europa (1990) und Japan (1990) veröffentlicht. Der Lynx war das erste elektronische Handheld-Spiel der Welt mit einem LCD-Farbbildschirm. Die Konsole wurde Anfang 1996 eingestellt, möglicherweise zum Zeitpunkt des Verkaufs des Unternehmens am 8. April 1996.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Atari Lynx, normalmente conocida como Lynx, es una videoconsola portátil de cuarta generación (1987-2004) desarrollada en colaboración con Epyx, Inc. y distribuida por Atari Corporation. Salió a la venta en septiembre de 1989 en Norteamérica a un precio de 149,95 dólares. También salió a la venta en Europa (1990) y Japón (1990). La Lynx fue el primer juego electrónico portátil del mundo con pantalla LCD en color. La consola se dejó de fabricar a principios de 1996, posiblemente en el momento de la venta de la empresa el 8 de abril de 1996.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Atari Lynx, généralement appelée Lynx, est une console de jeux vidéo portable de quatrième génération (1987-2004) développée en partenariat avec Epyx, Inc. et distribuée par l'Atari Corporation. Elle est sortie en septembre 1989 en Amérique du Nord au prix de 149,95 dollars. La console a également été commercialisée en Europe (1990) et au Japon (1990). Le Lynx a été le premier jeu électronique portable au monde doté d'un écran LCD couleur. La console a été abandonnée au début de 1996, peut-être au moment de la vente de la société le 8 avril 1996.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Atari Lynx, koji se obično naziva Lynx, četvrta je generacija (1987-2004) ručna konzola za video igre razvijena u partnerstvu s Epyx, Inc., a distribuirala je korporacija Atari. Objavljen je u rujnu 1989. u Sjevernoj Americi po maloprodajnoj cijeni od 149,95 USD. Ručni je također objavljen u Europi (1990) i Japanu (1990). Lynx je bila prva ručna elektronička igra na svijetu s LCD zaslonom u boji. Konzola je prekinuta početkom 1996., možda u vrijeme prodaje tvrtke 8. travnja 1996.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Atari Lynx, solitamente indicato come Lynx, è una console portatile per videogiochi di quarta generazione (1987-2004) sviluppata in collaborazione con Epyx, Inc. e distribuita da Atari Corporation. È stata rilasciata nel settembre 1989 in Nord America a un prezzo al dettaglio di 149,95 dollari. La console portatile è stata rilasciata anche in Europa (1990) e in Giappone (1990). Il Lynx è stato il primo gioco elettronico portatile al mondo con schermo LCD a colori. La console è stata dismessa all'inizio del 1996, forse al momento della vendita dell'azienda l'8 aprile 1996.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アタリ・リンクス（Atari Lynx）は通常リンクスと呼ばれ、第4世代（1987年～2004年）の携帯ゲーム機で、エピックス社（Epyx, Inc）と共同で開発され、アタリ社（Atari Corporation）によって販売されました。1989年9月に北米で発売され、小売価格は149.95ドルでした。このハンドヘルド機はヨーロッパ（1990年）と日本（1990年）でも発売された。Lynxは世界で初めてカラー液晶画面を搭載した携帯型電子ゲーム機だった。このゲーム機は1996年初めに製造中止となり、おそらく1996年4月8日の会社売却時に製造中止となったものと思われる。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>일반적으로 링스라고 불리는 아타리 링스는 엑시스와 제휴하여 개발한 4세대(1987-2004) 휴대용 비디오 게임 콘솔로, 아타리 코퍼레이션에서 유통했습니다. 1989년 9월 북미에서 149.95달러의 소매가로 출시되었습니다. 이 핸드헬드는 유럽(1990년)과 일본(1990년)에서도 출시되었습니다. Lynx는 컬러 LCD 화면을 갖춘 세계 최초의 휴대용 전자 게임기였습니다. 이 콘솔은 1996년 초에 단종되었는데, 아마도 1996년 4월 8일에 판매된 것으로 추정됩니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Atari Lynx, meestal Lynx genoemd, is een handheld videospelconsole van de vierde generatie (1987-2004), ontwikkeld in samenwerking met Epyx, Inc. en gedistribueerd door Atari Corporation. De Lynx werd in september 1989 uitgebracht in Noord-Amerika voor een verkoopprijs van 149,95 dollar. De handheld werd ook uitgebracht in Europa (1990) en Japan (1990). De Lynx was 's werelds eerste draagbare elektronische spelcomputer met een LCD-kleurenscherm. De console werd begin 1996 uit productie genomen, mogelijk bij de verkoop van het bedrijf op 8 april 1996.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Atari Lynx, zwykle określany po prostu jako Lynx, to przenośna konsola do gier wideo czwartej generacji (1987-2004) opracowana we współpracy z Epyx, Inc. i dystrybuowana przez Atari Corporation. Został wydany we wrześniu 1989 roku w Ameryce Północnej w cenie detalicznej 149,95 USD. Konsola została również wydana w Europie (1990) i Japonii (1990). Lynx był pierwszą na świecie przenośną grą elektroniczną z kolorowym ekranem LCD. Konsola została wycofana z produkcji na początku 1996 roku, prawdopodobnie w momencie sprzedaży firmy 8 kwietnia 1996 roku.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Atari Lynx, geralmente chamado apenas de Lynx, é um console de videogame portátil de quarta geração (1987-2004) desenvolvido em parceria com a Epyx, Inc. e distribuído pela Atari Corporation. Foi lançado em setembro de 1989 na América do Norte a um preço de varejo de US$ 149,95. O console portátil também foi lançado na Europa (1990) e no Japão (1990). O Lynx foi o primeiro jogo eletrônico portátil do mundo com uma tela LCD colorida. O console foi descontinuado no início de 1996, possivelmente no momento da venda da empresa em 8 de abril de 1996.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Atari Lynx, geralmente chamado Lynx, é um console de videogame de quarta geração (1987-2004), desenvolvido em parceria com a Epyx, Inc. e distribuído pela Atari Corporation. Foi lançado em setembro de 1989 na América do Norte a um preço de varejo de US $ 149,95. O computador de mão também foi lançado na Europa (1990) e no Japão (1990). O Lynx foi o primeiro jogo eletrônico de mão do mundo com uma tela LCD colorida. O console foi descontinuado no início de 1996, possivelmente na época da venda da empresa em 8 de abril de 1996.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Atari Lynx, denumit de obicei doar Lynx, este o consolă de jocuri video portabilă din a patra generație (1987-2004) dezvoltată în parteneriat cu Epyx, Inc. și distribuită de Atari Corporation. A fost lansată în septembrie 1989 în America de Nord la un preț de vânzare cu amănuntul de 149,95 $. Handheld-ul a fost lansat și în Europa (1990) și Japonia (1990). Lynx a fost primul joc electronic portabil din lume cu un ecran LCD color. Consola a fost întreruptă la începutul anului 1996, posibil la momentul vânzării companiei pe 8 aprilie 1996.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Atari Lynx, обычно называемая просто Lynx, - портативная игровая консоль четвертого поколения (1987-2004), разработанная в сотрудничестве с Epyx, Inc. и распространяемая корпорацией Atari. Она была выпущена в сентябре 1989 года в Северной Америке по розничной цене $149,95. Она также была выпущена в Европе (1990) и Японии (1990). Lynx стала первой в мире портативной электронной игрой с цветным ЖК-экраном. Консоль была снята с производства в начале 1996 года, возможно, во время продажи компании 8 апреля 1996 года.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Атари Линк, који се обично назива Линк, је четврта генерација (1987-2004) ручни видео игру Конзола развијена у партнерству са ЕПИКС, Инц. И дистрибуира Атари Цорпоратион.Објављен је у септембру 1989. године у Северној Америци на малопродајној цени од 149,95 долара.Ручно је објављен и у Европи (1990) и Јапан (1990).Линк је била прва ручна електронска игра на свету са ЛЦД екраном у боји.Конзола је прекинута почетком 1996. године, вероватно у време продаје компаније 8. априла 1996.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Atari Lynx, vanligtvis bara kallad Lynx, är en fjärde generationens (1987-2004) handhållen videospelskonsol som utvecklades i samarbete med Epyx, Inc. och distribuerades av Atari Corporation. Den släpptes i september 1989 i Nordamerika till ett detaljhandelspris av 149,95 dollar. Den handhållna konsolen släpptes även i Europa (1990) och Japan (1990). Lynx var världens första handhållna elektroniska spel med en LCD-skärm i färg. Konsolen lades ned i början av 1996, möjligen i samband med att företaget såldes den 8 april 1996.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>雅达利 Lynx（通常简称 Lynx）是与 Epyx 公司合作开发的第四代（1987-2004 年）掌上视频游戏机，由雅达利公司发行。它于 1989 年 9 月在北美发布，零售价为 149.95 美元。该掌上游戏机还在欧洲（1990 年）和日本（1990 年）发行。Lynx 是世界上第一款配备彩色液晶屏幕的掌上电子游戏机。该游戏机于 1996 年初停产，可能是在 1996 年 4 月 8 日公司出售时停产的。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari Lynx（通常簡稱 Lynx）是與 Epyx, Inc. 合作開發的第四代（1987-2004）掌上型視訊遊戲機，由 Atari Corporation 代理。它於 1989 年 9 月在北美發行，零售價為 149.95 美元。該掌上型遊戲機也在歐洲（1990 年）和日本（1990 年）發行。Lynx 是世界上第一台配備彩色 LCD 螢幕的掌上型電子遊戲機。該掌上型遊戲機於 1996 年初停產，可能是在 1996 年 4 月 8 日公司出售時停產。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

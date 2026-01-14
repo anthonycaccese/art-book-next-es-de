@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Future Pinball</systemName>
+        <systemDescription>Future Pinball ("FP") is a freeware 3D pinball editing and gaming application for Microsoft Windows. It is similar to Visual Pinball ("VP") and other modern pinball simulation applications. Just as with VP's partnership with Visual PinMAME, FP uses partner applications to emulate original pinball ROM code. In FP's case, the end results of ROM code are simulated by Better Arcade Mode ("BAM") and tools such as "Pinball Browser" and dot-matrix display software plugins. Core FP development was discontinued in 2010, but resumed in 2013 via BAM. BAM features many new developments, such as enhanced physics, optics, and virtual reality support.</systemDescription>
+        <systemManufacturer>C. Leathley</systemManufacturer>
+        <systemReleaseYear>2005</systemReleaseYear>
+        <systemReleaseDate>2005-10-22</systemReleaseDate>
+        <systemReleaseDateFormated>October 22, 2005</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>7dc7ea</systemColor>
+        <systemColorPalette1>F6DD08</systemColorPalette1>
+        <systemColorPalette2>800000</systemColorPalette2>
+        <systemColorPalette3>FF0000</systemColorPalette3>
+        <systemColorPalette4>303030</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>لعبة الكرة والدبابيس المستقبلية ("FP") هو تطبيق مجاني ثلاثي الأبعاد لتحرير وألعاب الكرة والدبابيس لمايكروسوفت ويندوز. وهو يشبه Visual Pinball ("VP") وتطبيقات محاكاة الكرة والدبابيس الحديثة الأخرى. تماماً كما هو الحال مع شراكة VP مع Visual PinMAME، يستخدم FP تطبيقات شريكة لمحاكاة رمز ROM الأصلي للكرة والدبابيس. في حالة FP، تتم محاكاة النتائج النهائية لرمز ROM بواسطة وضع أركيد أفضل ("BAM") وأدوات مثل "متصفح الكرة والدبابيس" ومكونات برامج العرض النقطية. تم إيقاف تطوير FP الأساسي في عام 2010، ولكن استؤنف في عام 2013 عبر BAM. يتميز BAM بالعديد من التطورات الجديدة، مثل الفيزياء المحسنة والبصريات ودعم الواقع الافتراضي.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Budući Pinball ("FP") je besplatna aplikacija za uređivanje i igranje za igru za Microsoft Windows. Slično je vizuelnim pinskim ("VP") i drugim modernim aplikacijama za simulaciju Pinball-a. Baš kao i sa partnerstvom VP sa vizualnim pinmom, FP koristi partnerske aplikacije za oponašanje originalnog Pinball ROM-a. U FP-ovim slučajevima, krajnji rezultati ROM-a simulirani su boljim arkadnim režimom ("BAM") i alati poput "Pinball pretraživača" i dodataka za softver. Core FP razvoj prekinut je 2010. godine, ali nastavljen u 2013. godini putem KM. KM sadrži mnoga nova dešavanja, poput poboljšane fizike, optike i podrške virtualnom stvarnošću.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Future Pinball ("FP") és una aplicació d'edició i joc de Pinball 3D gratuït per a Microsoft Windows.És similar al pinball visual ("VP") i altres aplicacions modernes de simulació de pinball. De la mateixa manera que amb la col·laboració de VP amb PinMame Visual, FP utilitza aplicacions de socis per emular el codi ROM de Pinball Original. En el cas de FP, els resultats finals del codi ROM es simulen mitjançant un millor mode arcade ("BAM") i eines com "Pinball Browser" i plugins de programari de visualització de dot-matriu. El desenvolupament principal de la FP es va suspendre el 2010, però es va reprendre el 2013 a través de BAM. BAM ofereix molts nous desenvolupaments, com ara la física millorada, l’òptica i el suport de la realitat virtual.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Future Pinball ("FP") ist eine Freeware-Anwendung zur Bearbeitung und zum Spielen von 3D-Flippern für Microsoft Windows. Es ist ähnlich wie Visual Pinball ("VP") und andere moderne Flipper-Simulationsanwendungen. Genau wie bei der Partnerschaft von VP mit Visual PinMAME verwendet FP Partneranwendungen, um den ursprünglichen Flipper-ROM-Code zu emulieren. Im Fall von FP werden die Endresultate des ROM-Codes durch Better Arcade Mode ("BAM") und Tools wie "Pinball Browser" und Dot-Matrix-Display-Software-Plugins simuliert. Die FP-Kernentwicklung wurde 2010 eingestellt, aber 2013 über BAM wieder aufgenommen. BAM bietet viele neue Entwicklungen, wie z. B. eine verbesserte Physik, Optik und Virtual-Reality-Unterstützung.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Future Pinball ("FP") es una aplicación gratuita de edición y juego de pinball en 3D para Microsoft Windows. Es similar a Visual Pinball ("VP") y otras aplicaciones modernas de simulación de pinball. Al igual que VP con Visual PinMAME, FP utiliza aplicaciones asociadas para emular el código ROM original del pinball. En el caso de FP, los resultados finales del código ROM son simulados por Better Arcade Mode ("BAM") y herramientas como "Pinball Browser" y plugins de software de visualización de matriz de puntos. El desarrollo de Core FP se interrumpió en 2010, pero se reanudó en 2013 a través de BAM. BAM presenta muchas novedades, como mejoras en la física, la óptica y la compatibilidad con la realidad virtual.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Future Pinball ("FP") est une application gratuite d'édition et de jeu de flipper en 3D pour Microsoft Windows. Il est similaire à Visual Pinball ("VP") et à d'autres applications modernes de simulation de flipper. Tout comme le partenariat de VP avec Visual PinMAME, FP utilise des applications partenaires pour émuler le code ROM original du flipper. Dans le cas de FP, les résultats finaux du code ROM sont simulés par Better Arcade Mode ("BAM") et des outils tels que "Pinball Browser" et des plugins logiciels d'affichage matriciel. Le développement du Core FP a été interrompu en 2010, mais a repris en 2013 via le BAM. Le BAM comporte de nombreux nouveaux développements, tels que l'amélioration de la physique, de l'optique et de la prise en charge de la réalité virtuelle.</systemDescription>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Budući Pinball ("FP") je besplatna aplikacija za uređivanje i igranje finball -a za Microsoft Windows. Slično je vizualnoj fliper ("VP") i drugim modernim simulacijskim aplikacijama fliper. Baš kao i kod VP -ovog partnerstva s Visual PinMame, FP koristi partnerske aplikacije za oponašanje originalnog finball ROM koda. U slučaju FP-a, krajnji rezultati ROM koda simuliraju se boljim arkadnim načinom ("BAM") i alatima poput "preglednika fliper" i dot-matrix softverskih dodataka. Temeljni razvoj FP -a prekinut je 2010. godine, ali nastavio je 2013. godine putem BAM -a. BAM sadrži mnoga nova kretanja, poput poboljšane fizike, optike i podrške virtualne stvarnosti.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Future Pinball ("FP") è un'applicazione freeware di editing e gioco di flipper 3D per Microsoft Windows. È simile a Visual Pinball ("VP") e ad altre moderne applicazioni di simulazione di flipper. Come nel caso della collaborazione di VP con Visual PinMAME, FP utilizza applicazioni partner per emulare il codice ROM originale dei flipper. Nel caso di FP, i risultati finali del codice ROM sono simulati da Better Arcade Mode ("BAM") e da strumenti come "Pinball Browser" e i plugin software per la visualizzazione a matrice di punti. Lo sviluppo del Core FP è stato interrotto nel 2010, ma è ripreso nel 2013 attraverso il BAM. La BAM presenta molti nuovi sviluppi, come il miglioramento della fisica, dell'ottica e il supporto alla realtà virtuale.</systemDescription>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Future Pinball ("FP") は、Microsoft Windows用のフリーウェアの3Dピンボール編集・ゲームアプリケーションです。Visual Pinball (VP) や他の最新のピンボールシミュレーションアプリケーションに似ています。VPがVisual PinMAMEと提携しているように、FPもパートナーアプリケーションを使ってオリジナルのピンボールROMコードをエミュレートします。FPの場合、ROMコードの最終結果はBetter Arcade Mode（「BAM」）や「Pinball Browser」、ドットマトリックスディスプレイソフトウェアのプラグインなどのツールによってシミュレートされる。コアFPの開発は2010年に中止されたが、2013年にBAMによって再開された。BAMは、強化された物理学、光学、バーチャルリアリティのサポートなど、多くの新しい開発を特徴としている。</systemDescription>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Future Pinball("FP")은 Microsoft Windows용 프리웨어 3D 핀볼 편집 및 게임 애플리케이션입니다. 비주얼 핀볼("VP") 및 기타 최신 핀볼 시뮬레이션 애플리케이션과 유사합니다. VP와 Visual PinMAME의 파트너십과 마찬가지로 FP는 파트너 애플리케이션을 사용하여 원본 핀볼 ROM 코드를 에뮬레이션합니다. FP의 경우, ROM 코드의 최종 결과물은 Better Arcade Mode("BAM")와 "핀볼 브라우저" 및 도트 매트릭스 디스플레이 소프트웨어 플러그인 같은 툴을 통해 시뮬레이션됩니다. 핵심 FP 개발은 2010년에 중단되었으나 2013년에 BAM을 통해 재개되었습니다. BAM에는 향상된 물리, 광학, 가상 현실 지원 등 많은 새로운 개발 기능이 포함되어 있습니다.</systemDescription>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Future Pinball ("FP") is een freeware 3D flipperkastbewerkings- en speltoepassing voor Microsoft Windows. Het is vergelijkbaar met Visual Pinball ("VP") en andere moderne flipperkastsimulatietoepassingen. Net zoals bij VP's samenwerking met Visual PinMAME, gebruikt FP partner applicaties om originele flipper ROM code te emuleren. In FP's geval worden de eindresultaten van ROM code gesimuleerd door Better Arcade Mode ("BAM") en tools zoals "Pinball Browser" en dot-matrix display software plugins. De ontwikkeling van Core FP werd in 2010 stopgezet, maar in 2013 hervat via BAM. BAM bevat veel nieuwe ontwikkelingen, zoals verbeterde fysica, optica en ondersteuning voor virtual reality.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Future Pinball ("FP") to darmowa aplikacja do edycji i gry w pinball 3D dla systemu Microsoft Windows. Jest ona podobna do Visual Pinball ("VP") i innych nowoczesnych aplikacji do symulacji pinballa. Podobnie jak w przypadku partnerstwa VP z Visual PinMAME, FP wykorzystuje aplikacje partnerskie do emulacji oryginalnego kodu ROM pinballa. W przypadku FP, końcowe wyniki kodu ROM są symulowane przez Better Arcade Mode ("BAM") i narzędzia takie jak "Pinball Browser" i wtyczki oprogramowania do wyświetlania matryc punktowych. Rozwój Core FP został przerwany w 2010 roku, ale wznowiony w 2013 roku za pośrednictwem BAM. BAM zawiera wiele nowych rozwiązań, takich jak ulepszona fizyka, optyka i obsługa rzeczywistości wirtualnej.</systemDescription>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Future Pinball ("FP") é um aplicativo freeware de edição e jogo de pinball 3D para o Microsoft Windows. Ele é semelhante ao Visual Pinball ("VP") e a outros aplicativos modernos de simulação de pinball. Assim como a parceria do VP com o Visual PinMAME, o FP usa aplicativos de parceiros para emular o código ROM original do pinball. No caso da FP, os resultados finais do código ROM são simulados pelo Better Arcade Mode ("BAM") e por ferramentas como o "Pinball Browser" e plug-ins de software de exibição de matriz de pontos. O desenvolvimento do FP principal foi interrompido em 2010, mas foi retomado em 2013 por meio do BAM. O BAM apresenta muitos novos desenvolvimentos, como física aprimorada, ótica e suporte à realidade virtual.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Future Pinball ("FP") é um aplicativo de edição e jogo de pinball do Freeware 3D para o Microsoft Windows.É semelhante ao Visual Pinball ("VP") e a outras aplicações modernas de simulação de pinball. Assim como na parceria da VP com o Visual PinMame, o FP usa aplicativos parceiros para imitar o código de ROM do pinball original. No caso da FP, os resultados finais do código da ROM são simulados pelo melhor modo de arcade ("bam") e ferramentas como "navegador de pinball" e plugins de software de exibição de matriz de matrizes. O desenvolvimento do FP do núcleo foi descontinuado em 2010, mas foi retomado em 2013 via BAM. O BAM apresenta muitos novos desenvolvimentos, como física aprimorada, óptica e suporte de realidade virtual.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Future Pinball ("FP") este o aplicație freeware de editare și joc de pinball 3D pentru Microsoft Windows. Este similar cu Visual Pinball ("VP") și cu alte aplicații moderne de simulare a pinball-urilor. La fel ca în cazul parteneriatului dintre VP și Visual PinMAME, FP utilizează aplicații partenere pentru a emula codul ROM original de pinball. În cazul FP, rezultatele finale ale codului ROM sunt simulate de Better Arcade Mode ("BAM") și de instrumente precum "Pinball Browser" și plugin-uri software pentru afișaj cu matrice de puncte. Dezvoltarea Core FP a fost întreruptă în 2010, dar reluată în 2013 prin intermediul BAM. BAM prezintă multe dezvoltări noi, cum ar fi fizică îmbunătățită, optică și suport pentru realitate virtuală.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Future Pinball ("FP") - это бесплатное приложение для редактирования и игры в 3D пинбол для Microsoft Windows. Оно похоже на Visual Pinball ("VP") и другие современные приложения для моделирования пинбола. Как и в случае с VP и Visual PinMAME, FP использует партнерские приложения для эмуляции оригинального ROM-кода пинбола. В случае FP конечные результаты ROM-кода моделируются с помощью Better Arcade Mode ("BAM") и таких инструментов, как "Pinball Browser" и плагины для матричных дисплеев. Разработка основной части FP была прекращена в 2010 году, но возобновилась в 2013 году с помощью BAM. В BAM реализовано множество новых разработок, таких как улучшенная физика, оптика и поддержка виртуальной реальности.</systemDescription>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Будући Пинбалл ("ФП") је бесплатни 3Д Пинбалл уређивање и апликација за игре за Мицрософт Виндовс.Слично је визуелној Пинбалл ("ВП") и осталим модерним апликацијама за симулацију конобаца.Баш као и код ВП-овог партнерства са визуелним пинмаме, ФП користи партнерске апликације за опонашање оригиналног Пинбалл РОМ кода.У случају ФП-а, крајњи резултати РОМ кода симулирани су бољим режимркама ("БАМ") и алатима као што су "ПИНБАЛЛ БРОВЦЕР" и ДОТ-МАТРИКС ДИСПХОФ софтверски додаци.Основни развој ФП-а обустављен је у 2010. години, али је настављен у 2013. години путем КМ-а.КМ има много нових дешавања, као што су побољшана физика, оптика и подршка за виртуалну стварност.</systemDescription>
+            <systemHardwareType>Мотор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Future Pinball ("FP") är en freeware-applikation för redigering och spelande av 3D-flipperspel för Microsoft Windows. Det liknar Visual Pinball ("VP") och andra moderna applikationer för flippersimulering. Precis som i VP:s partnerskap med Visual PinMAME använder FP partnerapplikationer för att emulera original ROM-kod för flipperspel. I FP:s fall simuleras ROM-kodens slutresultat genom Better Arcade Mode ("BAM") och verktyg som "Pinball Browser" och plugins för matrisdisplayer. Utvecklingen av Core FP avbröts 2010, men återupptogs 2013 via BAM. BAM innehåller många nya utvecklingar, till exempel förbättrad fysik, optik och stöd för virtuell verklighet.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Future Pinball（"FP"）是一款适用于 Microsoft Windows 的免费 3D 弹球编辑和游戏应用程序。它类似于 Visual Pinball（"VP"）和其他现代弹球模拟应用程序。正如 VP 与 Visual PinMAME 的合作一样，FP 使用合作伙伴的应用程序来模拟原始弹球 ROM 代码。在 FP 中，ROM 代码的最终结果由 Better Arcade Mode（"BAM"）和 "Pinball Browser "等工具以及点阵显示软件插件进行模拟。核心 FP 开发于 2010 年停止，但在 2013 年通过 BAM 恢复。BAM 具有许多新开发功能，例如增强的物理、光学和虚拟现实支持。</systemDescription>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Future Pinball ("FP") 是一款適用於 Microsoft Windows 的免費 3D 彈珠編輯與遊戲應用程式。它與 Visual Pinball ("VP") 和其他現代彈珠模擬應用程式類似。就像 VP 與 Visual PinMAME 的合作關係一樣，FP 使用合作夥伴的應用程式來模擬原始的彈珠 ROM 程式碼。在 FP 的案例中，ROM 程式碼的最終結果是透過 Better Arcade Mode ("BAM") 以及「Pinball Browser」和點矩陣顯示軟體外掛程式等工具來模擬的。核心 FP 開發於 2010 年中止，但於 2013 年透過 BAM 恢復。BAM 具有許多新的開發功能，例如增強的物理、光學和虛擬實境支援。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
+        </variables>
+    </language>
+</theme>

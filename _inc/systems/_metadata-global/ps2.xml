@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>PlayStation 2</systemName>
+        <systemDescription>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and Australia on November 24, 2000. It is the successor to the original PlayStation, as well as the second installment in the PlayStation console line-up. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox.
+
+Announced in 1999, the PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as its games. The PS2 is the best-selling video game console of all time, having sold over 155 million units worldwide. Over 3,800 game titles have been released for the PS2, with over 1.5 billion copies sold. Sony later manufactured several smaller, lighter revisions of the console known as Slimline models in 2004.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>2000</systemReleaseYear>
+        <systemReleaseDate>2000-03-04</systemReleaseDate>
+        <systemReleaseDateFormated>March 4, 2000</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>243-340</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2a68c3</systemColor>
+        <systemColorPalette1>33438A</systemColorPalette1>
+        <systemColorPalette2>0098DF</systemColorPalette2>
+        <systemCartSize>1-1</systemCartSize>
+        <systemColorPalette3>40A9A8</systemColorPalette3>
+        <systemColorPalette4>849DCA</systemColorPalette4>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>بلايستيشن 2 (PS2) هو جهاز ألعاب فيديو منزلي تم تطويره وتسويقه من قبل شركة سوني كمبيوتر إنترتينمنت. تم إصداره لأول مرة في اليابان في 4 مارس 2000، وفي أمريكا الشمالية في 26 أكتوبر 2000، وفي أوروبا في 24 نوفمبر 2000، وفي أستراليا في 24 نوفمبر 2000. وهو خليفة جهاز PlayStation الأصلي، بالإضافة إلى أنه الإصدار الثاني في مجموعة أجهزة PlayStation. وهي وحدة تحكم من الجيل السادس، تنافست مع جهاز Sega's Dreamcast وGameCube من Nintendo وXbox الأصلي من Microsoft.
+
+تم الإعلان عن PS2 في عام 1999، وقدمت PS2 التوافق مع الإصدارات السابقة لوحدة التحكم DualShock التي سبقتها، بالإضافة إلى ألعابها. PS2 هو جهاز ألعاب الفيديو الأكثر مبيعاً على الإطلاق، حيث تم بيع أكثر من 155 مليون وحدة حول العالم. وقد تم إصدار أكثر من 3800 لعبة لجهاز PS2 مع بيع أكثر من 1.5 مليار نسخة. قامت سوني لاحقاً بتصنيع عدة مراجعات أصغر حجماً وأخف وزناً لوحدة التحكم المعروفة باسم موديلات Slimline في عام 2004.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) je konzola za kućnu video igru razvijena i na tržište Sony Computer Entertainment. Prvo je pušten u Japanu, 4. marta 2000., u Severnoj Americi, u Evropi, u Evropi 24. novembra 2000., a Australija 24. novembra 2000. godine. To je naslednik prvobitne playStation. Konzola šeste generacije, natjecala se sa SEGA-ovom Dreamcast-om, Nintendovom Gamecubeom i Microsoftovom originalnom Xboxu.
+
+Najavljeno 1999. godine, PS2 je ponudio unazad kompatibilnost za dualshock kontroler svog prethodnika, kao i njegove igre. PS2 je najprodavanija konzola za video igre svih vremena, prodaje se preko 155 miliona jedinica širom svijeta. Preko 3,800 naslova igra objavljeno je za PS2, sa više od 1,5 milijardi primjeraka. Sony je kasnije proizveo nekoliko manjih, lakših revizija konzole poznatih kao vitki modeli 2004. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La PlayStation 2 (PS2) és una consola de videojocs a casa desenvolupada i comercialitzada per Sony Computer Entertainment. Va ser llançat per primera vegada al Japó el 4 de març del 2000, a Amèrica del Nord el 26 d'octubre de 2000, a Europa el 24 de novembre de 2000 i Austràlia el 24 de novembre del 2000. És el successor de la PlayStation original, així com a laSegona entrega a la línia de la consola de PlayStation. Una consola de sisena generació, va competir amb Dreamcast de Sega, Nintendo's Gamecube i la Xbox original de Microsoft.
+
+Anunciat el 1999, la PS2 va oferir compatibilitat endarrerida per al controlador DualShock del seu predecessor, així com els seus jocs. La PS2 és la consola de videojocs més venuda de tots els temps, després d’haver venut més de 155 milions d’unitats a tot el món. S'han publicat més de 3.800 títols de jocs per a la PS2, amb més de 1.500 milions de còpies venudes. Posteriorment, Sony va fabricar diverses revisions més petites i més lleugeres de la consola coneguda com a models Slimline el 2004.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die PlayStation 2 (PS2) ist eine Videospielkonsole für den Heimgebrauch, die von Sony Computer Entertainment entwickelt und vermarktet wird. Sie wurde erstmals in Japan am 4. März 2000, in Nordamerika am 26. Oktober 2000, in Europa am 24. November 2000 und in Australien am 24. November 2000 veröffentlicht. Sie ist der Nachfolger der ursprünglichen PlayStation und der zweite Teil der PlayStation-Konsolenreihe. Als Konsole der sechsten Generation konkurrierte sie mit der Dreamcast von Sega, dem GameCube von Nintendo und der ursprünglichen Xbox von Microsoft.
+
+Die 1999 auf den Markt gebrachte PS2 bot Abwärtskompatibilität für den DualShock-Controller des Vorgängers sowie für dessen Spiele. Die PS2 ist die meistverkaufte Videospielkonsole aller Zeiten, von der weltweit über 155 Millionen Stück verkauft wurden. Für die PS2 wurden über 3.800 Spieletitel veröffentlicht und über 1,5 Milliarden Exemplare verkauft. Später stellte Sony mehrere kleinere, leichtere Versionen der Konsole her, die als Slimline-Modelle im Jahr 2004 bekannt wurden.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La PlayStation 2 (PS2) es una videoconsola doméstica desarrollada y comercializada por Sony Computer Entertainment. Salió a la venta en Japón el 4 de marzo de 2000, en Norteamérica el 26 de octubre de 2000, en Europa el 24 de noviembre de 2000 y en Australia el 24 de noviembre de 2000. Es la sucesora de la PlayStation original y la segunda entrega de la gama de consolas PlayStation. Esta consola de sexta generación compitió con la Dreamcast de Sega, la GameCube de Nintendo y la Xbox original de Microsoft.
+
+Anunciada en 1999, la PS2 ofrecía retrocompatibilidad con el mando DualShock de su predecesora, así como con sus juegos. La PS2 es la videoconsola más vendida de todos los tiempos, con más de 155 millones de unidades vendidas en todo el mundo. Se han publicado más de 3.800 títulos para la PS2, con más de 1.500 millones de copias vendidas. Más tarde, en 2004, Sony fabricó varias revisiones más pequeñas y ligeras de la consola, conocidas como modelos Slimline.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La PlayStation 2 (PS2) est une console de jeux vidéo de salon développée et commercialisée par Sony Computer Entertainment. Elle est sortie pour la première fois au Japon le 4 mars 2000, en Amérique du Nord le 26 octobre 2000, en Europe le 24 novembre 2000 et en Australie le 24 novembre 2000. Il s'agit du successeur de la PlayStation originale, ainsi que du deuxième opus de la gamme de consoles PlayStation. Console de sixième génération, elle était en concurrence avec la Dreamcast de Sega, la GameCube de Nintendo et la Xbox originale de Microsoft.
+
+Annoncée en 1999, la PS2 offrait une compatibilité ascendante pour la manette DualShock de son prédécesseur, ainsi que pour ses jeux. La PS2 est la console de jeux vidéo la plus vendue de tous les temps, avec plus de 155 millions d'unités vendues dans le monde. Plus de 3 800 titres de jeux ont été publiés pour la PS2, et plus de 1,5 milliard d'exemplaires ont été vendus. En 2004, Sony a fabriqué plusieurs versions plus petites et plus légères de la console, connues sous le nom de modèles Slimline.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) je konzola za kućne video igre koju je razvila i plasirala na tržište Sony Computer Entertainment. Prvi put je objavljen u Japanu 4. ožujka 2000., u Sjevernoj Americi, 26. listopada 2000., u Europi, 24. studenog 2000., a Australija 24. studenog 2000. to je nasljednik originalnog PlayStation-a, kao i drugi obrok u sastavu konzole Playstation. Konzola šeste generacije, natjecala se sa Sega Dreamcast-om, Nintendovim Gamecubeom i Microsoftovim originalnim Xboxom.
+
+Najavljeno 1999. godine, PS2 je ponudio kompatibilnost s unatrag za prethodnički kontroler svog prethodnika, kao i svoje igre. PS2 je najprodavanija konzola za video igre svih vremena, prodavši preko 155 milijuna jedinica širom svijeta. Za PS2 je objavljeno preko 3.800 naslova igara, s više od 1,5 milijardi primjeraka. Sony je kasnije proizveo nekoliko manjih, lakših revizija konzole poznate kao Slimline modeli 2004. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>La PlayStation 2 (PS2) è una console per videogiochi domestica sviluppata e commercializzata da Sony Computer Entertainment. È stata rilasciata per la prima volta in Giappone il 4 marzo 2000, in Nord America il 26 ottobre 2000, in Europa il 24 novembre 2000 e in Australia il 24 novembre 2000. È il successore della PlayStation originale e il secondo capitolo della linea di console PlayStation. È una console di sesta generazione, in concorrenza con il Dreamcast di Sega, il GameCube di Nintendo e la Xbox originale di Microsoft.
+
+Annunciata nel 1999, la PS2 offriva la retrocompatibilità per il controller DualShock del suo predecessore e per i suoi giochi. La PS2 è la console per videogiochi più venduta di tutti i tempi, avendo venduto oltre 155 milioni di unità in tutto il mondo. Per la PS2 sono stati pubblicati oltre 3.800 titoli di gioco, con oltre 1,5 miliardi di copie vendute. Nel 2004 Sony ha prodotto diverse versioni più piccole e leggere della console, note come modelli Slimline.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>プレイステーション2（PS2）は、ソニー・コンピュータエンタテインメントが開発・販売する家庭用ゲーム機である。日本では2000年3月4日に、北米では2000年10月26日に、ヨーロッパでは2000年11月24日に、オーストラリアでは2000年11月24日に発売された。初代プレイステーションの後継機であり、プレイステーション本体のラインナップの第2弾でもある。第6世代のゲーム機で、セガのドリームキャスト、任天堂のゲームキューブ、マイクロソフトの初代Xboxと競合した。
+
+1999年に発表されたPS2は、前モデルのデュアルショックコントローラーやゲームソフトの後方互換性を提供した。PS2は、全世界で1億5500万台以上を売り上げた、史上最も売れたゲーム機である。PS2向けに発売されたゲームタイトルは3,800を超え、15億本以上が販売された。ソニーはその後、2004年にスリムライン・モデルとして知られる、より小型で軽量な改良型ゲーム機を製造した。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>플레이스테이션 2(PS2)는 소니 컴퓨터 엔터테인먼트에서 개발 및 판매하는 가정용 비디오 게임 콘솔입니다. 2000년 3월 4일 일본, 2000년 10월 26일 북미, 2000년 11월 24일 유럽, 2000년 11월 24일 호주에서 처음 출시되었습니다. 오리지널 플레이스테이션의 후속작이자 플레이스테이션 콘솔 라인업의 두 번째 작품입니다. 6세대 콘솔인 이 제품은 세가의 드림캐스트, 닌텐도의 게임큐브, 마이크로소프트의 오리지널 Xbox와 경쟁했습니다.
+
+1999년에 출시된 PS2는 게임뿐만 아니라 전작의 듀얼쇼크 컨트롤러와도 하위 호환성을 제공했습니다. PS2는 전 세계적으로 1억 5,500만 대 이상 판매된 역사상 가장 많이 팔린 비디오 게임 콘솔입니다. PS2용 게임 타이틀은 3,800개 이상 출시되었으며, 15억 장 이상 판매되었습니다. 이후 소니는 2004년에 슬림라인 모델이라 불리는 더 작고 가벼운 버전의 콘솔을 여러 차례 생산했습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De PlayStation 2 (PS2) is een videogameconsole voor thuisgebruik die is ontwikkeld en op de markt gebracht door Sony Computer Entertainment. Het werd voor het eerst uitgebracht in Japan op 4 maart 2000, in Noord-Amerika op 26 oktober 2000, in Europa op 24 november 2000 en in Australië op 24 november 2000. Het is de opvolger van de originele PlayStation en het tweede deel van de PlayStation-console. Als console van de zesde generatie concurreerde het met Sega's Dreamcast, Nintendo's GameCube en Microsoft's originele Xbox.
+
+De PS2 werd in 1999 aangekondigd en bood achterwaartse compatibiliteit voor de DualShock-controller en de games van zijn voorganger. De PS2 is de best verkochte videogameconsole aller tijden, met meer dan 155 miljoen verkochte exemplaren wereldwijd. Er zijn meer dan 3.800 gametitels uitgebracht voor de PS2, met meer dan 1,5 miljard verkochte exemplaren. Sony produceerde later verschillende kleinere, lichtere versies van de console die bekend staan als Slimline-modellen in 2004.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) to domowa konsola do gier wideo opracowana i sprzedawana przez Sony Computer Entertainment. Po raz pierwszy została wydana w Japonii 4 marca 2000 roku, w Ameryce Północnej 26 października 2000 roku, w Europie 24 listopada 2000 roku i w Australii 24 listopada 2000 roku. Jest to następca oryginalnego PlayStation, a także druga odsłona w gamie konsol PlayStation. Jako konsola szóstej generacji, konkurowała z Dreamcast firmy Sega, GameCube firmy Nintendo i oryginalną konsolą Xbox firmy Microsoft.
+
+Zapowiedziana w 1999 roku, PS2 oferowała wsteczną kompatybilność z kontrolerem DualShock swojego poprzednika, a także z jego grami. PS2 jest najlepiej sprzedającą się konsolą do gier wideo wszech czasów, sprzedaną w ponad 155 milionach egzemplarzy na całym świecie. Na PS2 wydano ponad 3800 tytułów gier i sprzedano ponad 1,5 miliarda kopii. Sony wyprodukowało później kilka mniejszych, lżejszych wersji konsoli znanych jako modele Slimline w 2004 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O PlayStation 2 (PS2) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment. Foi lançado pela primeira vez no Japão em 4 de março de 2000, na América do Norte em 26 de outubro de 2000, na Europa em 24 de novembro de 2000 e na Austrália em 24 de novembro de 2000. É o sucessor do PlayStation original, bem como a segunda parcela da linha de consoles PlayStation. Um console de sexta geração, ele competiu com o Dreamcast da Sega, o GameCube da Nintendo e o Xbox original da Microsoft.
+
+Anunciado em 1999, o PS2 oferecia compatibilidade com versões anteriores do controle DualShock de seu antecessor, bem como de seus jogos. O PS2 é o console de videogame mais vendido de todos os tempos, tendo vendido mais de 155 milhões de unidades em todo o mundo. Mais de 3.800 títulos de jogos foram lançados para o PS2, com mais de 1,5 bilhão de cópias vendidas. Posteriormente, a Sony fabricou várias revisões menores e mais leves do console, conhecidas como modelos Slimline, em 2004.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O PlayStation 2 (PS2) é um console de videogame caseiro desenvolvido e comercializado pela Sony Computer Entertainment. Foi lançado pela primeira vez no Japão em 4 de março de 2000, na América do Norte em 26 de outubro de 2000, na Europa em 24 de novembro de 2000, e na Austrália em 24 de novembro de 2000. É o sucessor do PlayStation original, bem como a segunda parte da formação do PlayStation Console. Um console de sexta geração, competiu com o Dreamcast da Sega, o GameCube da Nintendo e o Xbox original da Microsoft.
+
+Anunciado em 1999, o PS2 ofereceu compatibilidade com versões anteriores para o controlador duplo-shock do seu antecessor, bem como seus jogos. O PS2 é o console de videogame mais vendido de todos os tempos, tendo vendido mais de 155 milhões de unidades em todo o mundo. Mais de 3.800 títulos de jogos foram lançados para o PS2, com mais de 1,5 bilhão de cópias vendidas. Mais tarde, a Sony fabricou várias revisões menores e mais leves do console conhecido como modelos Slimline em 2004.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) este o consolă de jocuri video pentru acasă dezvoltată și comercializată de Sony Computer Entertainment. A fost lansată pentru prima dată în Japonia pe 4 martie 2000, în America de Nord pe 26 octombrie 2000, în Europa pe 24 noiembrie 2000 și în Australia pe 24 noiembrie 2000. Este succesorul PlayStation-ului original, precum și a doua tranșă a gamei de console PlayStation. O consolă de a șasea generație, a concurat cu Dreamcast de la Sega, GameCube de la Nintendo, și Xbox original de la Microsoft.
+
+Anunțată în 1999, PS2 oferea compatibilitate retroactivă pentru controlerul DualShock al predecesorului său, precum și pentru jocurile sale. PS2 este cea mai bine vândută consolă de jocuri video din toate timpurile, cu peste 155 de milioane de unități vândute în întreaga lume. Peste 3 800 de titluri de jocuri au fost lansate pentru PS2, cu peste 1,5 miliarde de copii vândute. Sony a fabricat ulterior, în 2004, mai multe revizuiri mai mici și mai ușoare ale consolei, cunoscute sub numele de modele Slimline.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) - это домашняя игровая консоль, разработанная и продаваемая компанией Sony Computer Entertainment. Впервые она была выпущена в Японии 4 марта 2000 года, в Северной Америке - 26 октября 2000 года, в Европе - 24 ноября 2000 года, а в Австралии - 24 ноября 2000 года. Это преемник оригинальной PlayStation, а также вторая часть линейки консолей PlayStation. Консоль шестого поколения, она конкурировала с Dreamcast от Sega, GameCube от Nintendo и оригинальной Xbox от Microsoft.
+
+Анонсированная в 1999 году, PS2 обеспечивала обратную совместимость с контроллером DualShock своей предшественницы, а также с ее играми. PS2 - самая продаваемая игровая консоль всех времен и народов, проданная по всему миру в количестве более 155 миллионов экземпляров. Для PS2 было выпущено более 3800 игр, продано более 1,5 миллиарда копий. Позднее, в 2004 году, Sony выпустила несколько более компактных и легких версий консоли, известных как Slimline-модели.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>ПлаиСтатион 2 (ПС2) је кућни видео игру развијен и продаје Сони Цомпутер Ентертаинмент.Прво је објављен 4. јануара 2000. године, у Северној Америци, 26. октобра 2000. године, у Европи 24. новембра 2000. и Аустралијом, 24. новембра 2000. године. То је наследник оригиналног ПлаиСтатион-а, као и друга рата у представништву ПлаиСтатион-а.Конзола шесте генерације, она се такмичила са Сеги'с Дреамцаст, Нинтендо'с Гамецубе и Мицрософтовим оригиналним Ксбок-ом.
+
+Најављено 1999. године, ПС2 је понудио назадљивост за свој пресек дуалхоцк контролера, као и своје игре.ПС2 је најпродаванији видео игру конзола свих времена, који се продаје преко 155 милиона јединица широм света.Преко 3.800 наслова игара је објављено за ПС2, са продатих преко 1,5 милијарди примерака.Сони је касније произвела неколико мањих, лакших ревизија конзоле позната као Слимине модели 2004. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) är en hemkonsol för videospel som utvecklats och marknadsförs av Sony Computer Entertainment. Den släpptes första gången i Japan den 4 mars 2000, i Nordamerika den 26 oktober 2000, i Europa den 24 november 2000 och i Australien den 24 november 2000. Det är efterföljaren till den ursprungliga PlayStation, samt den andra delen i PlayStation-konsolserien. Den var en sjätte generationens konsol och konkurrerade med Segas Dreamcast, Nintendos GameCube och Microsofts ursprungliga Xbox.
+
+PS2 lanserades 1999 och erbjöd bakåtkompatibilitet för föregångarens DualShock-kontroller och dess spel. PS2 är den mest sålda konsolen för videospel genom tiderna och har sålts i över 155 miljoner exemplar världen över. Över 3.800 speltitlar har släppts till PS2 och den har sålts i över 1,5 miljarder exemplar. Sony tillverkade senare flera mindre och lättare versioner av konsolen, så kallade Slimline-modeller, under 2004.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>PlayStation 2（PS2）是索尼电脑娱乐公司开发和销售的家用视频游戏机。它于 2000 年 3 月 4 日首次在日本发售，2000 年 10 月 26 日在北美发售，2000 年 11 月 24 日在欧洲发售，2000 年 11 月 24 日在澳大利亚发售。它是原 PlayStation 的后继机，也是 PlayStation 游戏机系列的第二款产品。作为第六代游戏机，它与世嘉的 Dreamcast、任天堂的 GameCube 和微软最初的 Xbox 竞争。
+
+PS2 于 1999 年发布，提供了对前代产品 DualShock 控制器及其游戏的向后兼容性。PS2 是有史以来最畅销的视频游戏机，全球销量超过 1.55 亿台。PS2 已推出 3,800 多款游戏，销量超过 15 亿份。索尼公司后来在 2004 年生产了几款体积更小、重量更轻的改版游戏机，被称为 "超薄机型"。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation 2 (PS2) 是 Sony Computer Entertainment 所開發及行銷的家用視訊遊戲主機。它於 2000 年 3 月 4 日首次在日本發售，2000 年 10 月 26 日在北美發售，2000 年 11 月 24 日在歐洲發售，2000 年 11 月 24 日在澳洲發售。它是原始 PlayStation 的後繼機種，也是 PlayStation 主機陣容的第二部份。作為第六代遊戲機，它與 Sega 的 Dreamcast、Nintendo 的 GameCube 以及 Microsoft 的原版 Xbox 競爭。
+
+PS2 於 1999 年發表，提供前代的 DualShock 控制器及其遊戲的向下相容性。PS2 是有史以來最暢銷的視訊遊戲主機，全球銷售量超過 1.55 億台。PS2 已推出超過 3,800 款遊戲，銷售量超過 15 億份。Sony 後來在 2004 年製造了幾款更小、更輕的遊戲機改版，稱為 Slimline 機型。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

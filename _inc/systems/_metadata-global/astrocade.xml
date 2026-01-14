@@ -1,0 +1,203 @@
+<theme>
+    <variables>
+        <systemName>Bally Astrocade</systemName>
+        <systemDescription>The Bally Astrocade (also known as Bally Arcade or initially as Bally ABA-1000) is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally.
+It was originally announced as the "Bally Home Library Computer" in October 1977 and initially made available for mail order in December 1977. But due to production delays, the units were first released to stores in April 1978 and its branding changed to "Bally Professional Arcade".
+
+It was marketed only for a limited time before Bally decided to exit the market. The rights were later picked up by a third-party company, who re-released it and sold it until around 1984. The Astrocade is particularly notable for its very powerful graphics capabilities for the time of release and for the difficulty in accessing those capabilities.</systemDescription>
+        <systemManufacturer>Bally</systemManufacturer>
+        <systemReleaseYear>1977</systemReleaseYear>
+        <systemReleaseDate>1977-12-01</systemReleaseDate>
+        <systemReleaseDateFormated>December 1, 1977</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>dc9230</systemColor>
+        <systemColorPalette1>F2B101</systemColorPalette1>
+        <systemColorPalette2>FA0105</systemColorPalette2>
+        <systemColorPalette3>F8F6EA</systemColorPalette3>
+        <systemColorPalette4>C47401</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Bally Astrocade (المعروف أيضًا باسم Bally Arcade أو في البداية باسم Bally ABA-1000) هو جهاز ألعاب فيديو منزلي من الجيل الثاني ونظام كمبيوتر بسيط صممه فريق في Midway، في ذلك الوقت قسم ألعاب الفيديو في Bally.
+وقد تم الإعلان عنه في الأصل باسم "كمبيوتر مكتبة بالي المنزلية" في أكتوبر 1977 وتم توفيره في البداية للطلب عبر البريد في ديسمبر 1977. ولكن بسبب التأخير في الإنتاج، تم طرح الوحدات لأول مرة في المتاجر في أبريل 1978 وتغيرت علامته التجارية إلى "Bally Professional Arcade".
+
+تم تسويقها لفترة محدودة فقط قبل أن تقرر Bally الخروج من السوق. تم الحصول على حقوقها لاحقًا من قبل شركة خارجية، والتي أعادت إصدارها وبيعها حتى عام 1984 تقريبًا. تتميز Astrocade بشكل خاص بقدراتها الرسومية القوية جداً بالنسبة لوقت إصدارها وصعوبة الوصول إلى تلك القدرات.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Bally astrokada (poznata kao bally arkada ili u početku kao bally aba-1000) je konzola za video igru za video igre druge generacije i jednostavan računalni sistem koji je dizajnirao tim u sredini, u to vrijeme odjeljenje za videoigame Bally.
+Prvobitno je najavljen kao "Bally Home Bibliotery Computer", a u početku je dostupan za narudžbu poštu u decembru 1977., ali zbog kašnjenja u proizvodnji, jedinice su prvo puštene u april 1978. godine i njeno brendiranje promenjeno u "bally profesionalno arcade".
+
+Tržište je samo ograničeno vrijeme prije nego što se Bally odlučila izaći iz na tržište. Prava je kasnije pokupila kompanija treće strane, koja ga je ponovo pustila i prodala ga do oko 1984. godine. Astrokada je posebno zapažena za svoje vrlo moćne grafičke mogućnosti za vrijeme puštanja i poteškoće u pristupu tih mogućnosti.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Bally Astrocade (també coneguda com Bally Arcade o inicialment com a Bally ABA-1000) és una consola de videojocs de segona generació i un sistema informàtic senzill dissenyat per un equip a Midway, en aquell moment la divisió de videojocs de Bally.
+Es va anunciar originalment com a "Computer Bally Home Library" a l'octubre de 1977 i inicialment es va posar a disposició per a la comanda de correu el desembre de 1977. Però, a causa dels retards de producció, les unitats van ser llançades per primera vegada a les botigues l'abril de 1978 i la seva marca va canviar a "Bally ProfessionalArcade ".
+
+Es va comercialitzar només per un temps limitat abans que Bally decidís sortir del mercat. Posteriorment, els drets van ser recollits per una empresa de tercers, que la va tornar a publicar i la va vendre fins al voltant del 1984. L'astrocade és particularment destacable per les seves molt potents capacitats gràfiques per al moment de l'alliberament i per la dificultat per accedir a aquestes capacitats.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Bally Astrocade (auch bekannt als Bally Arcade oder ursprünglich als Bally ABA-1000) ist eine Videospielkonsole der zweiten Generation für den Heimgebrauch und ein einfaches Computersystem, das von einem Team bei Midway, der damaligen Videospielabteilung von Bally, entwickelt wurde.
+Ursprünglich wurde es im Oktober 1977 als "Bally Home Library Computer" angekündigt und war ab Dezember 1977 im Versandhandel erhältlich. Aufgrund von Produktionsverzögerungen wurden die Geräte jedoch erst im April 1978 in die Läden gebracht und der Markenname in "Bally Professional Arcade" geändert.
+
+Das Gerät wurde nur für eine begrenzte Zeit vermarktet, bevor Bally beschloss, sich aus dem Markt zurückzuziehen. Die Rechte wurden später von einer Drittfirma übernommen, die das Gerät wieder auf den Markt brachte und bis etwa 1984 verkaufte. Das Astrocade zeichnet sich besonders durch seine für die damalige Zeit sehr leistungsfähigen Grafikfunktionen und die Schwierigkeit aus, auf diese Funktionen zuzugreifen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Bally Astrocade (también conocida como Bally Arcade o inicialmente como Bally ABA-1000) es una videoconsola doméstica de segunda generación y un sencillo sistema informático diseñado por un equipo de Midway, en aquel momento la división de videojuegos de Bally.
+Se anunció originalmente como "Bally Home Library Computer" en octubre de 1977 y se puso inicialmente a la venta por correo en diciembre de 1977. Pero debido a retrasos en la producción, las unidades se pusieron a la venta por primera vez en las tiendas en abril de 1978 y su marca cambió a "Bally Professional Arcade".
+
+Sólo se comercializó durante un tiempo limitado antes de que Bally decidiera abandonar el mercado. Posteriormente, los derechos fueron adquiridos por una tercera empresa, que volvió a comercializarla y venderla hasta 1984 aproximadamente. El Astrocade destaca especialmente por sus capacidades gráficas muy potentes para la época de su lanzamiento y por la dificultad para acceder a esas capacidades.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Astrocade de Bally (également connu sous le nom de Bally Arcade ou initialement sous le nom de Bally ABA-1000) est une console de jeux vidéo domestique de deuxième génération et un système informatique simple conçu par une équipe de Midway, à l'époque la division jeux vidéo de Bally.
+Elle a été initialement annoncée sous le nom de "Bally Home Library Computer" en octobre 1977 et mise en vente par correspondance en décembre 1977. Mais en raison de retards de production, les unités ont d'abord été mises en vente dans les magasins en avril 1978 et leur marque a été modifiée en "Bally Professional Arcade".
+
+Il n'a été commercialisé que pendant une période limitée avant que Bally ne décide de se retirer du marché. Les droits ont ensuite été repris par une société tierce, qui l'a réédité et vendu jusqu'en 1984 environ. L'Astrocade est particulièrement remarquable pour ses capacités graphiques très puissantes pour l'époque de sa sortie et pour la difficulté d'accès à ces capacités.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Bally Astrocade (poznat i kao Bally Arcade ili u početku kao Bally ABA-1000) je kućna konzola za video igre druge generacije i jednostavan računalni sustav koji je u to vrijeme dizajnirao tim, a u to vrijeme divizija Ballyja videoigre.
+Prvobitno je najavljen kao "računalo Bally Home Library" u listopadu 1977., a u početku je bio na raspolaganju za narudžbu pošte u prosincu 1977., ali zbog kašnjenja u produkciji, jedinice su prvi put objavljene u trgovinama u travnju 1978., a njegovo brendiranje promijenjeno u "Bally Professional Arcade".
+
+Plasiran je samo ograničeno vrijeme prije nego što je Bally odlučio izaći na tržište. Prava je kasnije pokupila tvrtka treće strane, koja ga je ponovno objavila i prodala sve do oko 1984. godine. Astrocade je posebno zapažena po svojim vrlo moćnim grafičkim mogućnostima za vrijeme puštanja na slobodu i za poteškoće u pristupu tim mogućnostima.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Bally Astrocade (noto anche come Bally Arcade o inizialmente come Bally ABA-1000) è una console per videogiochi domestici di seconda generazione e un semplice sistema informatico progettato da un team di Midway, all'epoca la divisione videogiochi di Bally.
+Fu annunciata originariamente come "Bally Home Library Computer" nell'ottobre 1977 e resa disponibile per la vendita per corrispondenza nel dicembre 1977. Ma a causa di ritardi nella produzione, le unità furono distribuite per la prima volta nei negozi nell'aprile del 1978 e il marchio fu cambiato in "Bally Professional Arcade".
+
+Fu commercializzato solo per un periodo limitato prima che Bally decidesse di uscire dal mercato. I diritti vennero poi acquisiti da un'azienda terza, che lo ripubblicò e lo vendette fino al 1984 circa. L'Astrocade è particolarmente degno di nota per le sue capacità grafiche molto potenti per l'epoca di uscita e per la difficoltà di accesso a tali capacità.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Bally Astrocade（バリー・アストロケード、または当初はBally ABA-1000とも呼ばれた）は、当時Ballyのビデオゲーム部門であったMidwayのチームによって設計された第2世代の家庭用ビデオゲーム機および簡易コンピュータシステムである。
+当初は1977年10月に「Bally Home Library Computer」として発表され、1977年12月に通信販売が開始された。しかし、生産が遅れたため、1978年4月に初めて店頭発売され、ブランド名も「Bally Professional Arcade」に変更された。
+
+Ballyが市場からの撤退を決定するまでの限られた期間のみ販売された。その後、サードパーティ企業が権利を取得し、1984年頃まで再販・販売された。アストロケードは、発売当時としては非常に強力なグラフィック機能と、その機能にアクセスすることの難しさで特に注目されている。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Bally 아스트로케이드(Bally 아케이드 또는 초기에는 Bally ABA-1000이라고도 함)는 2세대 가정용 비디오 게임 콘솔이자 간단한 컴퓨터 시스템으로, 당시 Bally의 비디오 게임 사업부였던 Midway의 팀이 설계했습니다.
+1977년 10월에 "Bally 홈 라이브러리 컴퓨터"라는 이름으로 처음 발표되었고, 1977년 12월에 우편 주문이 가능해졌습니다. 그러나 생산 지연으로 인해 1978년 4월에야 매장에 처음 출시되었고 브랜드는 "Bally Professional Arcade"로 변경되었습니다.
+
+이 제품은 한정된 기간 동안만 판매되다가 Bally가 시장에서 철수하기로 결정했습니다. 이후 타사에서 판권을 인수하여 1984년경까지 재출시하여 판매했습니다. 아스트로케이드는 출시 당시 매우 강력한 그래픽 기능과 이러한 기능에 접근하기 어려웠다는 점에서 특히 유명합니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Bally Astrocade (ook bekend als Bally Arcade of aanvankelijk als Bally ABA-1000) is een tweede generatie home video game console en eenvoudig computersysteem ontworpen door een team bij Midway, destijds de videogame divisie van Bally.
+Het werd oorspronkelijk aangekondigd als de "Bally Home Library Computer" in oktober 1977 en in eerste instantie beschikbaar gesteld voor postorderverkoop in december 1977. Maar door vertragingen in de productie werden de apparaten pas in april 1978 in de winkels uitgebracht en werd de naam veranderd in "Bally Professional Arcade".
+
+Het spel werd slechts korte tijd op de markt gebracht voordat Bally besloot de markt te verlaten. De rechten werden later overgenomen door een ander bedrijf, dat de Astrocade opnieuw uitbracht en verkocht tot ongeveer 1984. De Astrocade is vooral opmerkelijk vanwege de zeer krachtige grafische mogelijkheden voor de tijd waarin het werd uitgebracht en vanwege de moeilijkheid om toegang te krijgen tot deze mogelijkheden.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Bally Astrocade (znany również jako Bally Arcade lub początkowo jako Bally ABA-1000) to domowa konsola do gier wideo drugiej generacji i prosty system komputerowy zaprojektowany przez zespół Midway, ówczesnego działu gier wideo firmy Bally.
+Pierwotnie została zapowiedziana jako "Bally Home Library Computer" w październiku 1977 roku i początkowo udostępniona do sprzedaży wysyłkowej w grudniu 1977 roku. Jednak ze względu na opóźnienia w produkcji, urządzenia zostały po raz pierwszy wypuszczone do sklepów w kwietniu 1978 roku, a jego marka została zmieniona na "Bally Professional Arcade".
+
+Był on sprzedawany tylko przez ograniczony czas, zanim firma Bally zdecydowała się opuścić rynek. Prawa zostały później przejęte przez firmę zewnętrzną, która ponownie wydała urządzenie i sprzedawała je do około 1984 roku. Astrocade jest szczególnie godny uwagi ze względu na bardzo potężne możliwości graficzne jak na czas premiery i trudności w dostępie do tych możliwości.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Bally Astrocade (também conhecido como Bally Arcade ou inicialmente como Bally ABA-1000) é um console de videogame doméstico de segunda geração e um sistema de computador simples projetado por uma equipe da Midway, na época a divisão de videogames da Bally.
+Ele foi originalmente anunciado como "Bally Home Library Computer" em outubro de 1977 e inicialmente disponibilizado para encomenda pelo correio em dezembro de 1977. Mas, devido a atrasos na produção, as unidades foram lançadas nas lojas em abril de 1978 e sua marca foi alterada para "Bally Professional Arcade".
+
+Ele foi comercializado apenas por um período limitado antes de a Bally decidir sair do mercado. Os direitos foram posteriormente adquiridos por uma empresa terceirizada, que o relançou e o vendeu até por volta de 1984. O Astrocade é particularmente notável por seus recursos gráficos muito poderosos para a época do lançamento e pela dificuldade de acesso a esses recursos.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Bally Astrocade (também conhecido como Bally Arcade ou inicialmente como Bally ABA-1000) é um console de videogame caseiro de segunda geração e um sistema de computador simples projetado por uma equipe no Midway, naquela época a divisão de videogames de Bally.
+Foi anunciado originalmente como o "Bally Home Library Computer" em outubro de 1977 e inicialmente disponibilizado para ordem por correio em dezembro de 1977. Mas, devido a atrasos na produção, as unidades foram lançadas pela primeira vez nas lojas em abril de 1978 e sua marca mudou para "Bally Professional Arcade".
+
+Foi comercializado apenas por um tempo limitado antes de Bally decidir sair do mercado. Os direitos foram posteriormente apanhados por uma empresa de terceiros, que o relançaram e venderam até por volta de 1984. O astrocade é particularmente notável por seus recursos gráficos muito poderosos para o tempo de lançamento e para a dificuldade em acessar essas capacidades.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Bally Astrocade (cunoscut și ca Bally Arcade sau inițial ca Bally ABA-1000) este o consolă de jocuri video pentru acasă de a doua generație și un sistem simplu de calculator proiectat de o echipă de la Midway, la acea vreme divizia de jocuri video a Bally.
+Acesta a fost inițial anunțat ca "Bally Home Library Computer" în octombrie 1977 și inițial a fost disponibil pentru comandă prin poștă în decembrie 1977. Dar din cauza întârzierilor de producție, unitățile au fost lansate pentru prima dată în magazine în aprilie 1978, iar marca sa a fost schimbată în "Bally Professional Arcade".
+
+Acesta a fost comercializat doar pentru o perioadă limitată de timp înainte ca Bally să decidă să iasă de pe piață. Drepturile au fost preluate ulterior de o companie terță, care a relansat-o și a vândut-o până în jurul anului 1984. Astrocade este deosebit de notabilă pentru capacitățile sale grafice foarte puternice pentru momentul lansării și pentru dificultatea accesului la aceste capacități.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Bally Astrocade (также известная как Bally Arcade или первоначально как Bally ABA-1000) - это домашняя игровая консоль второго поколения и простая компьютерная система, разработанная командой Midway, в то время видеоигрового подразделения Bally.
+Первоначально она была анонсирована как "Bally Home Library Computer" в октябре 1977 года и поступила в продажу по почте в декабре 1977 года. Но из-за задержек в производстве, устройства впервые поступили в магазины в апреле 1978 года, а их название было изменено на "Bally Professional Arcade".
+
+Они продавались лишь ограниченное время, после чего Bally решила уйти с рынка. Позднее права на нее перешли к сторонней компании, которая переиздала ее и продавала примерно до 1984 года. Astrocade особенно примечательна своими очень мощными графическими возможностями для того времени, когда она была выпущена, и сложностью доступа к этим возможностям.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Балли АстроЦаде (такође познат као Балли Аркада или у почетку као Балли АБА-1000) је друга генерација кућног видео игара и једноставан рачунарски систем дизајниран од стране тима на мидвеи, у то време, у то време, у то време дивизија видео-а-а.
+Првобитно је најављено као "Балли Хоме Либрари Цомпутер" у октобру 1977. и у почетку је на располагању за наруџбу поште у децембру 1977. године. Али јединице су први пут пуштене у продавнице у априлу 1978. године, а њено брендирање је промењено у "Баллинг Профессионал Арцаде".
+
+Планирано је само ограничено време пре него што је Балли одлучио да изађе на тржиште.Права су касније покупила компанија треће стране, која га је поново пустила и продала до око 1984. године. Астрокаде је посебно значајан за своје веома моћне графичке могућности за време пуштања и за потешкоће у приступу тим могућностима.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Bally Astrocade (även känd som Bally Arcade eller ursprungligen som Bally ABA-1000) är en andra generationens hemkonsol för videospel och ett enkelt datorsystem som designades av ett team på Midway, vid den tiden Ballys division för videospel.
+            Den presenterades ursprungligen som "Bally Home Library Computer" i oktober 1977 och blev tillgänglig för postorderförsäljning i december 1977. Men på grund av produktionsförseningar släpptes enheterna först till butikerna i april 1978 och dess varumärke ändrades till "Bally Professional Arcade".
+
+            Den marknadsfördes endast under en begränsad tid innan Bally beslutade sig för att lämna marknaden. Rättigheterna plockades senare upp av ett tredjepartsföretag, som släppte den på nytt och sålde den fram till omkring 1984. Astrocade är särskilt anmärkningsvärd för sina mycket kraftfulla grafikfunktioner för den tid då den släpptes och för svårigheten att få tillgång till dessa funktioner.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Bally Astrocade（又称 Bally Arcade 或最初的 Bally ABA-1000）是第二代家用视频游戏机和简单的计算机系统，由 Midway（当时的 Bally 电子游戏部门）的一个团队设计。
+它最初于 1977 年 10 月以 "Bally 家庭图书馆计算机 "的名称发布，并于 1977 年 12 月开始邮购。但由于生产延误，该产品于 1978 年 4 月首次在商店发售，其品牌也改为 "Bally Professional Arcade"。
+
+在 Bally 决定退出市场之前，该产品仅在市场上销售了一段时间。后来，一家第三方公司买下了它的版权，并重新发布和销售，直到 1984 年左右。Astrocade 的特别之处在于，它在发布之初拥有非常强大的图形处理能力，而且很难获得这些能力。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Bally Astrocade（也稱為 Bally Arcade 或最初的 Bally ABA-1000）是第二代家用視訊遊戲機和簡易電腦系統，由 Midway（當時 Bally 的視訊遊戲部門）的團隊設計。
+它最初於 1977 年 10 月以 「Bally 家庭圖書館電腦 」的名稱發表，並於 1977 年 12 月開始接受郵購。但由於生產延誤，該產品於 1978 年 4 月才首次在商店發售，其品牌也改為「Bally Professional Arcade」。
+
+在 Bally 決定退出市場之前，它只在市場上銷售了一段有限的時間。後來由第三方公司取得其權利，並重新發行與銷售至 1984 年左右。Astrocade 特別值得注意的地方在於它在發行時有非常強大的圖形功能，而且要取得這些功能也非常困難。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

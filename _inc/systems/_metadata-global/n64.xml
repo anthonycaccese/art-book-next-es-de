@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Nintendo 64</systemName>
+        <systemDescription>Named for its 64-bit central processing unit, it was released in June 1996 in Japan, September 1996 in North America, March 1997 in Europe and Australia, September 1997 in France and December 1997 in Brazil. As part of the fifth generation of gaming, the N64 competed primarily with the PlayStation and the Sega Saturn. The Nintendo 64 was launched with three games: Super Mario 64 and Pilotwings 64, released worldwide; and Saikyo Habu Shogi, released only in Japan. While the N64 was succeeded by Nintendo's MiniDVD-based GameCube in November 2001, N64 consoles remained available until the system was retired in late 2003.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1996</systemReleaseYear>
+        <systemReleaseDate>1996-06-23</systemReleaseDate>
+        <systemReleaseDateFormated>June 23, 1996</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>4-3</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>0da25e</systemColor>
+        <systemColorPalette1>143F9E</systemColorPalette1>
+        <systemColorPalette2>00935C</systemColorPalette2>
+        <systemColorPalette3>CA2E39</systemColorPalette3>
+        <systemColorPalette4>E1C245</systemColorPalette4>
+        <systemCartSize>112-67</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سُمي هذا الجهاز بوحدة المعالجة المركزية 64 بت، وتم إصداره في يونيو 1996 في اليابان، وفي سبتمبر 1996 في أمريكا الشمالية، وفي مارس 1997 في أوروبا وأستراليا، وفي سبتمبر 1997 في فرنسا، وفي ديسمبر 1997 في البرازيل. وكجزء من الجيل الخامس من الألعاب، تنافس N64 في المقام الأول مع PlayStation وSega Saturn. تم إطلاق Nintendo 64 بثلاث ألعاب: لعبة Super Mario 64 و Pilotwings 64، التي تم إصدارها في جميع أنحاء العالم؛ ولعبة Saikyo Habu Shogi، التي تم إصدارها في اليابان فقط. بينما خلف N64 جهاز GameCube القائم على أقراص الفيديو الرقمية المصغرة من نينتندو في نوفمبر 2001، ظلت وحدات تحكم N64 متاحة حتى توقف النظام عن العمل في أواخر عام 2003.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Imed za svoju 64-bitnu centralnu procesnu jedinicu, puštena je u junu 1996. u Japanu, septembar 1996. u Severnoj Americi, marta 1997. u Evropi i Australiji, septembar 1997. u Francuskoj i decembru 1997. godine u Brazilu. Kao dio pete generacije igranja, N64 se natjecala prvenstveno playStation i Sega Saturn. Nintendo 64 pokrenut je s tri igre: Super Mario 64 i pilotwings 64, pušteni širom svijeta;i Saikyo Habu Shogi, pušten samo u Japanu. Dok je N64 naslijedio Nintendoova miniDVD Gamecube u novembru 2001. godine, N64 konzole ostaju dostupne dok sistem nije povučen krajem 2003. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Nomenat per la seva unitat de processament central de 64 bits, es va publicar el juny de 1996 al Japó, setembre de 1996 a Amèrica del Nord, març de 1997 a Europa i Austràlia, setembre de 1997 a França i desembre de 1997 al Brasil. Com a part de la cinquena generació de jocs, el N64 va competir principalment amb la PlayStation i la Sega Saturn. El Nintendo 64 es va llançar amb tres partits: Super Mario 64 i Pilotwings 64, llançat a tot el món;i Saikyo Habu Shogi, alliberat només al Japó. Mentre que el N64 va ser succeït per GameCube basat en MinIDVD de Nintendo el novembre de 2001, les consoles N64 van romandre disponibles fins que el sistema es va retirar a finals del 2003.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Benannt nach seiner 64-Bit-Zentraleinheit, wurde es im Juni 1996 in Japan, im September 1996 in Nordamerika, im März 1997 in Europa und Australien, im September 1997 in Frankreich und im Dezember 1997 in Brasilien veröffentlicht. Als Teil der fünften Generation von Spielen konkurrierte das N64 hauptsächlich mit der PlayStation und dem Sega Saturn. Das Nintendo 64 wurde mit drei Spielen auf den Markt gebracht: Super Mario 64 und Pilotwings 64, die weltweit veröffentlicht wurden, sowie Saikyo Habu Shogi, das nur in Japan veröffentlicht wurde. Während das N64 im November 2001 von Nintendos MiniDVD-basiertem GameCube abgelöst wurde, blieben die N64-Konsolen bis zur Einstellung des Systems Ende 2003 erhältlich.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Llamada así por su unidad central de procesamiento de 64 bits, salió a la venta en junio de 1996 en Japón, septiembre de 1996 en Norteamérica, marzo de 1997 en Europa y Australia, septiembre de 1997 en Francia y diciembre de 1997 en Brasil. Como parte de la quinta generación de videojuegos, la N64 competía principalmente con la PlayStation y la Sega Saturn. La Nintendo 64 se lanzó con tres juegos: Super Mario 64 y Pilotwings 64, lanzados en todo el mundo; y Saikyo Habu Shogi, lanzado sólo en Japón. Aunque la N64 fue sucedida por la GameCube de Nintendo, basada en MiniDVD, en noviembre de 2001, las consolas N64 siguieron estando disponibles hasta que la consola fue retirada a finales de 2003.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Nommé d'après son unité centrale de 64 bits, il est sorti en juin 1996 au Japon, en septembre 1996 en Amérique du Nord, en mars 1997 en Europe et en Australie, en septembre 1997 en France et en décembre 1997 au Brésil. Faisant partie de la cinquième génération de jeux, la N64 était principalement en concurrence avec la PlayStation et la Sega Saturn. La Nintendo 64 a été lancée avec trois jeux : Super Mario 64 et Pilotwings 64, sortis dans le monde entier, et Saikyo Habu Shogi, sorti uniquement au Japon. Bien que la N64 ait été remplacée par la GameCube de Nintendo, basée sur le MiniDVD, en novembre 2001, les consoles N64 sont restées disponibles jusqu'à ce que la console soit retirée du marché à la fin de l'année 2003.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Nazvana po 64-bitnoj središnjoj obradi, objavljena je u lipnju 1996. u Japanu, rujnu 1996. u Sjevernoj Americi, ožujku 1997. u Europi i Australiji, rujnu 1997. u Francuskoj i prosincu 1997. u Brazilu. Kao dio pete generacije igara, N64 se prije svega natjecao s PlayStation i Sega Saturn. Nintendo 64 pokrenut je s tri utakmice: Super Mario 64 i Pilotwings 64, objavljeni širom svijeta;i Saikyo Habu Shogi, objavljeni samo u Japanu. Dok je N64 naslijedio Nintendov GameCube sa sjedištem u MiniDVD-u u studenom 2001., N64 konzole ostale su dostupne sve dok sustav nije u mirovini krajem 2003. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Chiamato così per la sua unità di elaborazione centrale a 64 bit, è stato rilasciato nel giugno 1996 in Giappone, nel settembre 1996 in Nord America, nel marzo 1997 in Europa e Australia, nel settembre 1997 in Francia e nel dicembre 1997 in Brasile. Come parte della quinta generazione di videogiochi, l'N64 competeva principalmente con la PlayStation e il Sega Saturn. Il Nintendo 64 fu lanciato con tre giochi: Super Mario 64 e Pilotwings 64, pubblicati in tutto il mondo, e Saikyo Habu Shogi, pubblicato solo in Giappone. Mentre l'N64 è stato sostituito dal GameCube basato su MiniDVD di Nintendo nel novembre 2001, le console N64 sono rimaste disponibili fino al ritiro della console alla fine del 2003.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>64ビットの中央演算処理装置を搭載していることから名づけられ、日本では1996年6月、北米では1996年9月、ヨーロッパとオーストラリアでは1997年3月、フランスでは1997年9月、ブラジルでは1997年12月に発売された。ゲームの第5世代の一部として、N64は主にプレイステーションとセガサターンと競合した。ニンテンドー64は3つのゲームとともに発売された：全世界で発売された『スーパーマリオ64』と『パイロットウイングス64』、そして日本でのみ発売された『最強土下座将棋』である。N64は2001年11月に任天堂のMiniDVDベースのゲームキューブに引き継がれたが、N64コンソールは2003年末にシステムが引退するまで販売され続けた。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>64비트 중앙처리장치의 이름을 딴 이 제품은 1996년 6월 일본, 1996년 9월 북미, 1997년 3월 유럽과 호주, 1997년 9월 프랑스, 1997년 12월 브라질에서 출시되었습니다. 5세대 게임기의 일부인 N64는 주로 플레이스테이션과 세가 새턴과 경쟁했습니다. 닌텐도 64는 세 가지 게임과 함께 출시되었습니다: 전 세계에 출시된 슈퍼 마리오 64와 파일럿 윙스 64, 그리고 일본에서만 출시된 사이쿄 하부 쇼기. N64는 2001년 11월에 닌텐도의 미니DVD 기반 게임큐브가 그 뒤를 이었지만, 2003년 말 시스템이 단종될 때까지 N64 콘솔은 계속 사용 가능했습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Vernoemd naar de 64-bit centrale verwerkingseenheid, werd het uitgebracht in juni 1996 in Japan, september 1996 in Noord-Amerika, maart 1997 in Europa en Australië, september 1997 in Frankrijk en december 1997 in Brazilië. Als onderdeel van de vijfde generatie games concurreerde de N64 voornamelijk met de PlayStation en de Sega Saturn. De Nintendo 64 werd gelanceerd met drie spellen: Super Mario 64 en Pilotwings 64, wereldwijd uitgebracht, en Saikyo Habu Shogi, alleen in Japan uitgebracht. Hoewel de N64 in november 2001 werd opgevolgd door Nintendo's op MiniDVD gebaseerde GameCube, bleven de N64-consoles verkrijgbaar totdat het systeem eind 2003 uit productie werd genomen.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Nazwany ze względu na 64-bitowy procesor centralny, został wydany w czerwcu 1996 roku w Japonii, we wrześniu 1996 roku w Ameryce Północnej, w marcu 1997 roku w Europie i Australii, we wrześniu 1997 roku we Francji i w grudniu 1997 roku w Brazylii. Jako część piątej generacji gier, N64 konkurowało głównie z PlayStation i Sega Saturn. Nintendo 64 zostało wprowadzone na rynek z trzema grami: Super Mario 64 i Pilotwings 64, wydanymi na całym świecie; oraz Saikyo Habu Shogi, wydaną tylko w Japonii. Podczas gdy N64 zostało zastąpione przez GameCube oparte na MiniDVD Nintendo w listopadzie 2001 roku, konsole N64 pozostały dostępne aż do wycofania systemu pod koniec 2003 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Batizado com o nome de sua unidade central de processamento de 64 bits, foi lançado em junho de 1996 no Japão, setembro de 1996 na América do Norte, março de 1997 na Europa e na Austrália, setembro de 1997 na França e dezembro de 1997 no Brasil. Como parte da quinta geração de jogos, o N64 competiu principalmente com o PlayStation e o Sega Saturn. O Nintendo 64 foi lançado com três jogos: Super Mario 64 e Pilotwings 64, lançados mundialmente; e Saikyo Habu Shogi, lançado somente no Japão. Embora o N64 tenha sido sucedido pelo GameCube da Nintendo, baseado em MiniDVD, em novembro de 2001, os consoles N64 continuaram disponíveis até que o sistema foi aposentado no final de 2003.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Nomeado por sua unidade de processamento central de 64 bits, foi lançada em junho de 1996 no Japão, setembro de 1996 na América do Norte, março de 1997 na Europa e na Austrália, setembro de 1997 na França e dezembro de 1997 no Brasil. Como parte da quinta geração de jogos, o N64 competiu principalmente com o PlayStation e o Sega Saturno. O Nintendo 64 foi lançado com três jogos: Super Mario 64 e Pilotwings 64, lançados em todo o mundo;e Saikyo Habu Shogi, lançado apenas no Japão. Enquanto o N64 foi sucedido pelo GameCube, com sede em MinIDVD da Nintendo, em novembro de 2001, os consoles N64 permaneceram disponíveis até que o sistema fosse aposentado no final de 2003.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Numit după unitatea sa centrală de procesare pe 64 de biți, a fost lansat în iunie 1996 în Japonia, septembrie 1996 în America de Nord, martie 1997 în Europa și Australia, septembrie 1997 în Franța și decembrie 1997 în Brazilia. Ca parte a celei de-a cincea generații de jocuri, N64 a concurat în principal cu PlayStation și Sega Saturn. Nintendo 64 a fost lansat cu trei jocuri: Super Mario 64 și Pilotwings 64, lansate la nivel mondial; și Saikyo Habu Shogi, lansat doar în Japonia. În timp ce N64 a fost urmat de GameCube, bazat pe MiniDVD, în noiembrie 2001, consolele N64 au rămas disponibile până când consola a fost retrasă la sfârșitul anului 2003.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Названная так за свой 64-битный центральный процессор, она была выпущена в июне 1996 года в Японии, в сентябре 1996 года в Северной Америке, в марте 1997 года в Европе и Австралии, в сентябре 1997 года во Франции и в декабре 1997 года в Бразилии. Являясь частью пятого поколения игр, N64 конкурировала в первую очередь с PlayStation и Sega Saturn. На рынок Nintendo 64 вышла с тремя играми: Super Mario 64 и Pilotwings 64, выпущенные по всему миру, и Saikyo Habu Shogi, выпущенная только в Японии. Хотя в ноябре 2001 года N64 сменила GameCube на базе MiniDVD от Nintendo, консоли N64 оставались в продаже вплоть до снятия системы с производства в конце 2003 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Именован по својој 64-битној централној процесној јединици, објављен је у јуну 1996. у Јапану, септембра 1996. у Северној Америци, март 1997. у Европи и Аустралији, септембра 1997. у Француској и децембру 1997. у Бразилу.Као део пете генерације игара, Н64 је пре свега такмичио са ПлаиСтатион и Сега Сатурн.Нинтендо 64 лансиран је са три утакмице: Супер Марио 64 и пилотвингс 64, објављен широм света;и Саикио Хабу Схоги, објављен само у Јапану.Иако је Н64 наследио Нинтендо-ов МИНИДВД ГАМЕЦУБЕУБЕ у новембру 2001. године, Н64 конзоле остале су доступне док се систем не пензионира крајем 2003. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Den har fått sitt namn efter sin 64-bitars centralprocessor och släpptes i juni 1996 i Japan, september 1996 i Nordamerika, mars 1997 i Europa och Australien, september 1997 i Frankrike och december 1997 i Brasilien. Som en del av den femte generationens spel konkurrerade N64 främst med PlayStation och Sega Saturn. Nintendo 64 lanserades med tre spel: Super Mario 64 och Pilotwings 64, som släpptes över hela världen, och Saikyo Habu Shogi, som bara släpptes i Japan. N64 efterträddes av Nintendos MiniDVD-baserade GameCube i november 2001, men N64-konsoler fanns kvar tills systemet pensionerades i slutet av 2003.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>N64 因其 64 位中央处理器而得名，于 1996 年 6 月在日本发布，1996 年 9 月在北美发布，1997 年 3 月在欧洲和澳大利亚发布，1997 年 9 月在法国发布，1997 年 12 月在巴西发布。作为第五代游戏的一部分，N64 主要与 PlayStation 和世嘉土星竞争。任天堂 64 推出了三款游戏：超级马里奥 64》和《飞行员之翼 64》在全球发行；《Saikyo Habu Shogi》仅在日本发行。2001 年 11 月，任天堂基于 MiniDVD 的 GameCube 取代了 N64，但 N64 游戏机仍在销售，直到 2003 年底该系统退役。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>N64 以其 64 位元中央處理器命名，於 1996 年 6 月在日本、1996 年 9 月在北美、1997 年 3 月在歐洲和澳洲、1997 年 9 月在法國以及 1997 年 12 月在巴西發行。作為第五代遊戲的一部分，N64 主要與 PlayStation 和 Sega Saturn 競爭。Nintendo 64 推出了三款遊戲：Super Mario 64 和 Pilotwings 64，全球發行；以及 Saikyo Habu Shogi，僅在日本發行。雖然 N64 在 2001 年 11 月被任天堂以 MiniDVD 為基礎的 GameCube 所取代，但 N64 主機仍持續供貨，直到 2003 年底系統退役為止。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

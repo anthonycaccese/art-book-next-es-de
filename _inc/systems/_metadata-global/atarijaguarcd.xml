@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Atari Jaguar CD</systemName>
+        <systemDescription>The Atari Jaguar CD is a fifth generation (1993–2005) CD-ROM peripheral for the Atari Jaguar video game console developed and distributed by Atari Corporation. It was released in September 1995 in North America at a retail price of $149.95. The peripheral was also released in Europe (1995). The Jaguar CD unit featured a double-speed (2×) drive and its own cartridge slot to allow cartridge games to be played without removing the CD drive. The peripheral was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+        <systemManufacturer>Atari</systemManufacturer>
+        <systemReleaseYear>1995</systemReleaseYear>
+        <systemReleaseDate>1995-11-21</systemReleaseDate>
+        <systemReleaseDateFormated>September 21, 1995</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>da493b</systemColor>
+        <systemColorPalette1>FF0000</systemColorPalette1>
+        <systemColorPalette2>3F3E3E</systemColorPalette2>
+        <systemColorPalette3>FDC007</systemColorPalette3>
+        <systemColorPalette4>232326</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>قرص أتاري جاغوار المدمج هو قرص مضغوط طرفي من الجيل الخامس (1993-2005) لوحدة تحكم ألعاب الفيديو أتاري جاغوار الذي طورته ووزعته شركة أتاري. تم إصداره في سبتمبر 1995 في أمريكا الشمالية بسعر تجزئة 149.95 دولارًا أمريكيًا. كما تم إصدار الجهاز الطرفي في أوروبا (1995). وتميزت وحدة الأقراص المضغوطة Jaguar بمحرك أقراص مزدوج السرعة (2×) وفتحة خرطوشة خاصة بها للسماح بتشغيل ألعاب الخراطيش دون إزالة محرك الأقراص المضغوطة. تم إيقاف الجهاز الطرفي في أوائل عام 1996، ربما في وقت بيع الشركة في 8 أبريل 1996.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Atari Jaguar CD je peta generacija (1993-2005) CD-ROM periferna za Atari Jaguar Video Game Console razvijena i distribuirana od strane Atari Corporation. Pušten je u septembru 1995. u Severnoj Americi u maloprodajnoj ceni od 149,95 dolara. Periferna je takođe objavljena u Evropi (1995). Jaguar CD jedinicom sadržavao je dvostruku brzinu (2 ×) pogon i vlastiti utor za uložak kako bi se omogućilo reprodukciju kertridža koje se mogu reproducirati bez uklanjanja CD pogona. Periferna je prekinuta početkom 1996., eventualno u vrijeme prodaje kompanije 8. aprila 1996. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El CD Atari Jaguar és una cinquena generació (1993–2005) perifèric CD-ROM per a la consola de videojocs Atari Jaguar desenvolupada i distribuïda per Atari Corporation. Va ser llançat el setembre de 1995 a Amèrica del Nord a un preu al detall de 149,95 dòlars. El perifèric també es va publicar a Europa (1995). La unitat de CD Jaguar presentava una unitat de doble velocitat (2 ×) i la seva pròpia ranura de cartutx per permetre que els jocs de cartutx es juguessin sense eliminar la unitat de CD. El perifèric es va suspendre a principis de 1996, possiblement en el moment de la venda de la companyia el 8 d'abril de 1996.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Atari Jaguar CD ist ein CD-ROM-Peripheriegerät der fünften Generation (1993-2005) für die Videospielkonsole Atari Jaguar, das von der Atari Corporation entwickelt und vertrieben wird. Es wurde im September 1995 in Nordamerika zu einem Verkaufspreis von 149,95 $ veröffentlicht. Das Peripheriegerät wurde auch in Europa (1995) veröffentlicht. Die Jaguar-CD-Einheit verfügte über ein Laufwerk mit doppelter Geschwindigkeit (2×) und einen eigenen Kassettenschacht, so dass Kassettenspiele gespielt werden konnten, ohne das CD-Laufwerk zu entfernen. Das Peripheriegerät wurde Anfang 1996 eingestellt, möglicherweise zum Zeitpunkt des Verkaufs des Unternehmens am 8. April 1996.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Atari Jaguar CD es un periférico CD-ROM de quinta generación (1993-2005) para la videoconsola Atari Jaguar desarrollado y distribuido por Atari Corporation. Salió a la venta en septiembre de 1995 en Norteamérica a un precio de 149,95 dólares. El periférico también salió a la venta en Europa (1995). La unidad de CD Jaguar contaba con una unidad de doble velocidad (2×) y su propia ranura para cartuchos que permitía jugar a juegos de cartucho sin necesidad de extraer la unidad de CD. El periférico se dejó de fabricar a principios de 1996, posiblemente en el momento de la venta de la empresa el 8 de abril de 1996.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Atari Jaguar CD est un périphérique CD-ROM de cinquième génération (1993-2005) pour la console de jeux vidéo Atari Jaguar, développé et distribué par Atari Corporation. Il est sorti en septembre 1995 en Amérique du Nord au prix de 149,95 dollars. Le périphérique a également été commercialisé en Europe (1995). L'unité CD de la Jaguar était dotée d'un lecteur à double vitesse (2×) et de son propre emplacement pour cartouche afin de permettre de jouer à des jeux en cartouche sans retirer le lecteur CD. Le périphérique a été abandonné au début de 1996, peut-être au moment de la vente de la société le 8 avril 1996.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>CD Atari Jaguar je peta generacija (1993–2005) CD-ROM periferna za konzolu videoigara Atari Jaguar koju je razvila i distribuirala Atari Corporation. Objavljen je u rujnu 1995. u Sjevernoj Americi po maloprodajnoj cijeni od 149,95 USD. Periferni su također objavljeni u Europi (1995). CD jedinica Jaguar sadržavala je dvostruku brzinu (2 ×) pogon i vlastiti utor za uloške kako bi se omogućilo reprodukciju igara za uloške bez uklanjanja CD pogona. Periferni su ukinuti početkom 1996. godine, možda u vrijeme prodaje tvrtke 8. travnja 1996.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Atari Jaguar CD è una periferica CD-ROM di quinta generazione (1993-2005) per la console per videogiochi Atari Jaguar, sviluppata e distribuita da Atari Corporation. È stata rilasciata nel settembre 1995 in Nord America a un prezzo al dettaglio di 149,95 dollari. La periferica è stata rilasciata anche in Europa (1995). L'unità CD Jaguar era dotata di un'unità a doppia velocità (2×) e di un proprio slot per cartucce che consentiva di giocare con le cartucce senza rimuovere l'unità CD. La periferica è stata dismessa all'inizio del 1996, probabilmente al momento della vendita dell'azienda l'8 aprile 1996.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Atari Jaguar CDは、Atari Corporationが開発・販売する第5世代（1993年～2005年）のAtari Jaguarビデオゲーム機用CD-ROM周辺機器です。1995年9月に北米で発売され、小売価格は149.95ドルでした。ヨーロッパでも発売されました（1995年）。ジャガーCDユニットは倍速（2×）ドライブと専用のカートリッジスロットを備え、CDドライブを取り外すことなくカートリッジゲームをプレイすることができた。この周辺機器は1996年初めに製造中止となり、おそらく1996年4月8日の会社売却時に製造中止となったものと思われる。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>아타리 재규어 CD는 아타리 코퍼레이션에서 개발 및 배포한 아타리 재규어 비디오 게임 콘솔용 5세대(1993-2005) CD-ROM 주변기기입니다. 1995년 9월 북미에서 소매가 $149.95에 출시되었습니다. 이 주변기기는 유럽(1995년)에서도 출시되었습니다. 재규어 CD 유닛은 더블 스피드(2×) 드라이브와 자체 카트리지 슬롯을 갖추고 있어 CD 드라이브를 분리하지 않고도 카트리지 게임을 플레이할 수 있었습니다. 이 주변기기는 1996년 초에 단종되었는데, 아마도 1996년 4월 8일에 회사가 매각될 무렵에 단종된 것으로 보입니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Atari Jaguar CD is een vijfde generatie (1993-2005) CD-ROM randapparaat voor de Atari Jaguar video game console ontwikkeld en gedistribueerd door Atari Corporation. Het werd in september 1995 uitgebracht in Noord-Amerika voor een verkoopprijs van 149,95 dollar. Het randapparaat werd ook uitgebracht in Europa (1995). De Jaguar CD-unit had een station met dubbele snelheid (2×) en een eigen cartridge-sleuf om cartridge-games te kunnen spelen zonder het CD-station te verwijderen. De randapparatuur werd begin 1996 stopgezet, mogelijk ten tijde van de verkoop van de onderneming op 8 april 1996.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Atari Jaguar CD to urządzenie peryferyjne CD-ROM piątej generacji (1993-2005) dla konsoli do gier wideo Atari Jaguar, opracowane i dystrybuowane przez Atari Corporation. Został wydany we wrześniu 1995 roku w Ameryce Północnej w cenie detalicznej 149,95 USD. Urządzenie peryferyjne zostało również wydane w Europie (1995). Urządzenie Jaguar CD było wyposażone w napęd o podwójnej prędkości (2×) i własne gniazdo na kartridże, umożliwiające granie w gry na kartridżach bez konieczności wyjmowania napędu CD. Urządzenie peryferyjne zostało wycofane z produkcji na początku 1996 roku, prawdopodobnie w momencie sprzedaży firmy 8 kwietnia 1996 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Atari Jaguar CD é um periférico de CD-ROM de quinta geração (1993-2005) para o console de videogame Atari Jaguar, desenvolvido e distribuído pela Atari Corporation. Foi lançado em setembro de 1995 na América do Norte a um preço de varejo de US$ 149,95. O periférico também foi lançado na Europa (1995). A unidade de CD do Jaguar contava com uma unidade de velocidade dupla (2×) e seu próprio slot de cartucho para permitir a reprodução de jogos em cartucho sem remover a unidade de CD. O periférico foi descontinuado no início de 1996, possivelmente no momento da venda da empresa em 8 de abril de 1996.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O CD Atari Jaguar é um periférico de CD-ROM de quinta geração (1993–2005) para o console de videogame Atari Jaguar desenvolvido e distribuído pela Atari Corporation. Foi lançado em setembro de 1995 na América do Norte a um preço de varejo de US $ 149,95. O periférico também foi lançado na Europa (1995). A unidade de CD da Jaguar apresentava uma unidade de dupla velocidade (2 ×) e seu próprio slot de cartucho para permitir que os jogos de cartucho fossem jogados sem remover a unidade de CD. O periférico foi descontinuado no início de 1996, possivelmente na época da venda da empresa em 8 de abril de 1996.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Atari Jaguar CD este un periferic CD-ROM din a cincea generație (1993-2005) pentru consola de jocuri video Atari Jaguar dezvoltat și distribuit de Atari Corporation. A fost lansat în septembrie 1995 în America de Nord la un preț de vânzare cu amănuntul de $149.95. Perifericul a fost lansat și în Europa (1995). Unitatea CD Jaguar avea o unitate cu viteză dublă (2×) și propriul slot pentru cartușe pentru a permite redarea jocurilor cu cartușe fără a scoate unitatea CD. Perifericul a fost abandonat la începutul anului 1996, posibil în momentul vânzării companiei la 8 aprilie 1996.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Atari Jaguar CD - периферийное устройство CD-ROM пятого поколения (1993-2005) для игровой консоли Atari Jaguar, разработанное и распространяемое корпорацией Atari. Она была выпущена в сентябре 1995 года в Северной Америке по розничной цене $149,95. Периферийное устройство также было выпущено в Европе (1995). Устройство Jaguar CD оснащено двухскоростным (2×) приводом и собственным слотом для картриджей, что позволяет играть в игры на картриджах без извлечения CD-привода. Периферийное устройство было снято с производства в начале 1996 года, возможно, во время продажи компании 8 апреля 1996 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Атари Јагуар ЦД је пета генерација (1993-2005) ЦД-РОМ Периферна за Атари Јагуар видео игру коју је развио и дистрибуирала Атари Цорпоратион.Објављен је у септембру 1995. године у Северној Америци на малопродајној цени од 149,95 долара.Периферна је такође објављена у Европи (1995).ЈАГУАР ЦД јединица је представила двоструку (2 ×) погон и сопствени утор за кертриџ како би се дозволили играње кертриџа без уклањања ЦД уређаја.Периферна је прекинута почетком 1996. године, вероватно у време продаје компаније 8. априла 1996.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Atari Jaguar CD är en femte generationens (1993-2005) CD-ROM-kringutrustning för videospelskonsolen Atari Jaguar, utvecklad och distribuerad av Atari Corporation. Den släpptes i september 1995 i Nordamerika till ett detaljhandelspris av 149,95 dollar. Kringutrustningen släpptes även i Europa (1995). Jaguars CD-enhet hade en dubbelhastighets (2×) enhet och en egen kassettplats så att kassettspel kunde spelas utan att CD-enheten behövde tas bort. Kringutrustningen upphörde att säljas i början av 1996, möjligen i samband med företagets försäljning den 8 april 1996.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Atari Jaguar CD 是 Atari Corporation 为 Atari Jaguar 视频游戏机开发和销售的第五代（1993-2005 年）CD-ROM 外围设备。它于 1995 年 9 月在北美发布，零售价为 149.95 美元。该外设还在欧洲发行（1995 年）。捷豹 CD 设备配备了双速（2×）驱动器和独立的盒式游戏卡槽，可以在不拆卸 CD 驱动器的情况下玩盒式游戏。该外设于 1996 年初停产，可能是在 1996 年 4 月 8 日公司出售时停产的。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Atari Jaguar CD 是 Atari Corporation 為 Atari Jaguar 視訊遊戲主機開發和銷售的第五代 (1993-2005) CD-ROM 週邊設備。它於 1995 年 9 月在北美發行，零售價為 149.95 美元。該週邊也在歐洲發行（1995 年）。Jaguar CD 裝置具有雙倍速度 (2×) 驅動器和自己的卡匣插槽，可以在不移除 CD 驅動器的情況下玩卡匣遊戲。該週邊於 1996 年初停產，可能是在 1996 年 4 月 8 日公司出售時停產。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

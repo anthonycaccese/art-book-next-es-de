@@ -1,0 +1,223 @@
+<theme>
+    <variables>
+        <systemName>SuFami Turbo</systemName>
+        <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
+
+This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
+
+The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.</systemDescription>
+        <systemManufacturer>Bandai</systemManufacturer>
+        <systemReleaseYear>1996</systemReleaseYear>
+        <systemReleaseDate>1996-06-28</systemReleaseDate>
+        <systemReleaseDateFormated>June 28, 1996</systemReleaseDateFormated>
+        <systemHardwareType>Peripheral</systemHardwareType>
+        <systemCoverSize>3-5</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>3f55a0</systemColor>
+        <systemColorPalette1>FF0000</systemColorPalette1>
+        <systemColorPalette2>EDDFDE</systemColorPalette2>
+        <systemColorPalette3>A0C0CF</systemColorPalette3>
+        <systemColorPalette4>1E2881</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سوفامي توربو (ス ー ス ー ファミ ター ボ)، وغالبًا ما تتم مقارنته بمُحسِّن سطح علاء الدين، وهو ملحق أصدرته شركة بانداي لنظام سوبر فاميكوم من نينتندو وتم إصداره في عام 1996.
+
+صُمم هذا الجهاز ليوضع فوق جهاز Super Famicom، ويتميز بفتحتي خرطوشة. الفرضية هي أنه يمكن إنتاج الألعاب بتكلفة ووقت تطوير أقل بكثير، دون الحاجة إلى الاعتماد على نينتندو لإنتاج الخراطيش. وعلى عكس مُحسِّن سطح علاء الدين، تمت الموافقة على هذا الجهاز رسميًا من قبل نينتندو بموجب شرط أن تتولى بانداي تصنيع جميع الأجهزة بنفسها.
+
+تم تصميم فتحتي الخرطوشة لمشاركة البيانات بين الألعاب. الخرطوشة الموضوعة في الفتحة 1 هي اللعبة التي سيتم تشغيلها، بينما توفر الخرطوشة الموجودة في الفتحة 2 بيانات إضافية لاستخدامها في اللعبة الرئيسية. ومن بين الألعاب الثلاثة عشر التي تم إصدارها، يمكن ربط تسع منها ببعضها البعض، ضمن كل سلسلة ألعاب.</systemDescription>
+            <systemHardwareType>محيطي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
+
+This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
+
+The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.</systemDescription>
+            <systemHardwareType>Peripheral</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Sufami Turbo (スーファミターボ), sovint en comparació amb el Aladdin Deck Enhancer, és un accessori llançat per Bandai per al sistema Super Famicom de Nintendo i va ser llançat el 1996.
+
+Aquest dispositiu està dissenyat per seure a la part superior del Super Famicom i inclou dues ranures de cartutxos. La premissa és que els jocs es podrien produir a un temps de cost i desenvolupament molt inferior, sense haver de confiar en Nintendo per a la producció de cartutxos. A diferència del Aladdin Deck Enhancer, aquest dispositiu va ser aprovat oficialment per Nintendo sota la disposició que Bandai gestiona tota la fabricació de maquinari.
+
+Les dues ranures de cartutx estan dissenyades per compartir dades entre els jocs. El cartutx situat a la ranura 1 és el joc que es jugarà, mentre que el cartutx de la ranura 2 subministra dades addicionals per utilitzar -les en el joc principal. Dels tretze partits llançats, nou d’ells poden enllaçar -se dins de cada sèrie de jocs.</systemDescription>
+            <systemHardwareType>Peripheral</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der SuFami Turbo (スーファミターボ), der oft mit dem Aladdin Deck Enhancer verglichen wird, ist ein Zubehörteil, das von Bandai für das Super Famicom-System von Nintendo herausgegeben und 1996 veröffentlicht wurde.
+
+Das Gerät wird auf das Super Famicom aufgesetzt und verfügt über zwei Kassettenfächer. Der Grundgedanke war, dass Spiele zu wesentlich geringeren Kosten und in kürzerer Entwicklungszeit produziert werden konnten, da man nicht auf Nintendo für die Produktion von Kassetten angewiesen war. Anders als der Aladdin Deck Enhancer wurde dieses Gerät offiziell von Nintendo unter der Bedingung genehmigt, dass Bandai die gesamte Hardware-Produktion selbst übernimmt.
+
+Die beiden Kassettenschächte sind für den Datenaustausch zwischen den Spielen vorgesehen. Die Kassette in Steckplatz 1 ist das Spiel, das gespielt wird, während die Kassette in Steckplatz 2 zusätzliche Daten zur Verwendung im Hauptspiel liefert. Von den dreizehn veröffentlichten Spielen können neun innerhalb einer Spieleserie miteinander verbunden werden.</systemDescription>
+            <systemHardwareType>Peripherie</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El SuFami Turbo (スーファミターボ), a menudo comparado con el Aladdin Deck Enhancer, es un accesorio lanzado por Bandai para la consola Super Famicom de Nintendo y fue lanzado en 1996.
+
+Este dispositivo está diseñado para colocarse encima de la Super Famicom, y cuenta con dos ranuras para cartuchos. La premisa es que los juegos podrían producirse con un coste y un tiempo de desarrollo mucho menores, al no tener que depender de Nintendo para la producción de cartuchos. A diferencia del Aladdin Deck Enhancer, este dispositivo fue aprobado oficialmente por Nintendo con la condición de que Bandai se encargara de la fabricación del hardware.
+
+Las dos ranuras para cartuchos están diseñadas para compartir datos entre los juegos. El cartucho colocado en la ranura 1 es el juego al que se jugará, mientras que el cartucho de la ranura 2 suministra datos adicionales para su uso en el juego principal. De los trece juegos lanzados, nueve de ellos pueden enlazarse, dentro de cada serie de juegos.</systemDescription>
+            <systemHardwareType>Periférico</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le SuFami Turbo (スーファミターボ), souvent comparé à l'Aladdin Deck Enhancer, est un accessoire édité par Bandai pour la console Super Famicom de Nintendo et sorti en 1996.
+
+Cet appareil est conçu pour être placé sur le dessus de la Super Famicom et dispose de deux fentes pour cartouches. Le principe est que les jeux peuvent être produits à un coût et un temps de développement bien moindres, sans avoir à dépendre de Nintendo pour la production de cartouches. Contrairement à l'Aladdin Deck Enhancer, cet appareil a été officiellement approuvé par Nintendo à condition que Bandai se charge lui-même de la fabrication du matériel.
+
+Les deux emplacements de cartouche sont conçus pour partager les données entre les jeux. La cartouche placée dans l'emplacement 1 est le jeu qui sera joué, tandis que la cartouche placée dans l'emplacement 2 fournit des données supplémentaires à utiliser dans le jeu principal. Sur les treize jeux commercialisés, neuf peuvent être reliés entre eux, au sein de chaque série de jeux.</systemDescription>
+            <systemHardwareType>Périphérique</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
+
+This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
+
+The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.</systemDescription>
+            <systemHardwareType>Peripheral</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il SuFami Turbo (スーファミターボ), spesso paragonato all'Aladdin Deck Enhancer, è un accessorio pubblicato da Bandai per la console Super Famicom di Nintendo e uscito nel 1996.
+
+Questo dispositivo è stato progettato per essere posizionato sopra il Super Famicom e dispone di due slot per cartucce. La premessa è che i giochi potevano essere prodotti a costi e tempi di sviluppo molto più bassi, non dovendo dipendere da Nintendo per la produzione delle cartucce. A differenza dell'Aladdin Deck Enhancer, questo dispositivo è stato ufficialmente approvato da Nintendo a condizione che Bandai si occupasse direttamente della produzione dell'hardware.
+
+I due slot per le cartucce sono progettati per condividere i dati tra i giochi. La cartuccia inserita nello slot 1 è il gioco che verrà giocato, mentre la cartuccia nello slot 2 fornisce dati aggiuntivi da utilizzare nel gioco principale. Dei tredici giochi rilasciati, nove possono essere collegati tra loro, all'interno di ciascuna serie di giochi.</systemDescription>
+            <systemHardwareType>Periferica</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>バンダイから1996年に発売されたスーパーファミコン用アクセサリー。
+
+この装置はスーパーファミコンの上に置くように設計されており、2つのカートリッジスロットを備えている。その前提は、任天堂にカートリッジ生産を依存することなく、より低いコストと開発期間でゲームを制作できることである。アラジン・デッキ・エンハンサーとは異なり、この装置は任天堂から正式に認可されたもので、ハードウェアの製造はすべてバンダイが行うという条件付きであった。
+
+つのカートリッジスロットは、ゲーム間でデータを共有するように設計されている。スロット1にセットされたカートリッジがプレイするゲームで、スロット2にセットされたカートリッジはメインゲームで使用する追加データを供給する。発売された13本のゲームのうち、9本は各シリーズ内で連動が可能。</systemDescription>
+            <systemHardwareType>ペリフェラル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>알라딘 덱 인핸서와 자주 비교되는 스파미 터보(スーファミターボ)는 반다이에서 닌텐도의 슈퍼 패미컴 시스템용으로 출시한 액세서리로, 1996년에 출시되었습니다.
+
+이 장치는 슈퍼 패미컴 위에 장착할 수 있도록 설계되었으며, 두 개의 카트리지 슬롯이 있습니다. 카트리지 생산을 위해 닌텐도에 의존할 필요 없이 훨씬 적은 비용과 개발 시간으로 게임을 제작할 수 있다는 전제가 깔려 있습니다. 알라딘 덱 인핸서와 달리 이 장치는 반다이가 모든 하드웨어 제조를 직접 처리한다는 조건 하에 닌텐도의 공식 승인을 받았습니다.
+
+두 개의 카트리지 슬롯은 게임 간에 데이터를 공유하도록 설계되었습니다. 슬롯 1에 장착된 카트리지는 플레이할 게임이고 슬롯 2의 카트리지는 메인 게임에서 사용할 추가 데이터를 공급합니다. 출시된 13개의 게임 중 9개의 게임은 각 게임 시리즈 내에서 연결할 수 있습니다.</systemDescription>
+            <systemHardwareType>주변기기</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De SuFami Turbo (ーファミターボ), vaak vergeleken met de Aladdin Deck Enhancer, is een accessoire uitgebracht door Bandai voor Nintendo's Super Famicom systeem en werd uitgebracht in 1996.
+
+Dit apparaat is ontworpen om bovenop de Super Famicom te zitten en heeft twee cartridge-sleuven. Het uitgangspunt is dat spellen tegen veel lagere kosten en ontwikkelingstijd kunnen worden geproduceerd, omdat Nintendo niet afhankelijk is van de productie van de cartridges. In tegenstelling tot de Aladdin Deck Enhancer, werd dit apparaat officieel goedgekeurd door Nintendo onder de voorwaarde dat Bandai alle hardware zelf zou produceren.
+
+De twee cartridge-sleuven zijn ontworpen om data te delen tussen de spellen. De cartridge in slot 1 is het spel dat wordt gespeeld, terwijl de cartridge in slot 2 extra gegevens levert voor gebruik in het hoofdspel. Van de dertien spellen die zijn uitgebracht, kunnen er negen aan elkaar worden gekoppeld, binnen elke spelserie.</systemDescription>
+            <systemHardwareType>Perifeer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>SuFami Turbo (スーファミターボ), często porównywany do Aladdin Deck Enhancer, jest akcesorium wydanym przez Bandai dla systemu Super Famicom firmy Nintendo i został wydany w 1996 roku.
+
+Urządzenie to zostało zaprojektowane tak, aby można je było umieścić na Super Famicom i posiada dwa sloty na kartridże. Założeniem było, że gry mogą być produkowane przy znacznie niższych kosztach i czasie rozwoju, bez konieczności polegania na Nintendo w zakresie produkcji kartridży. W przeciwieństwie do Aladdin Deck Enhancer, urządzenie to zostało oficjalnie zatwierdzone przez Nintendo pod warunkiem, że Bandai samodzielnie zajmie się produkcją sprzętu.
+
+Dwa sloty na kartridże zostały zaprojektowane do współdzielenia danych między grami. Kartridż umieszczony w slocie 1 to gra, która będzie odtwarzana, podczas gdy kartridż w slocie 2 dostarcza dodatkowych danych do wykorzystania w głównej grze. Spośród trzynastu wydanych gier, dziewięć z nich można ze sobą łączyć w ramach każdej serii.</systemDescription>
+            <systemHardwareType>Peryferyjne</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O SuFami Turbo (スーファミターボ), frequentemente comparado ao Aladdin Deck Enhancer, é um acessório lançado pela Bandai para o sistema Super Famicom da Nintendo e foi lançado em 1996.
+
+Esse dispositivo foi projetado para ser colocado em cima do Super Famicom e possui dois slots para cartuchos. A premissa é que os jogos poderiam ser produzidos a um custo e tempo de desenvolvimento muito menores, sem a necessidade de depender da Nintendo para a produção de cartuchos. Ao contrário do Aladdin Deck Enhancer, esse dispositivo foi oficialmente aprovado pela Nintendo com a condição de que a Bandai se encarregasse de toda a fabricação do hardware.
+
+Os dois slots de cartucho foram projetados para compartilhar dados entre os jogos. O cartucho colocado no slot 1 é o jogo que será jogado, enquanto o cartucho no slot 2 fornece dados adicionais para uso no jogo principal. Dos treze jogos lançados, nove deles podem se conectar, dentro de cada série de jogos.</systemDescription>
+            <systemHardwareType>Periférico</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
+
+This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
+
+The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.</systemDescription>
+            <systemHardwareType>Peripheral</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>SuFami Turbo (スーファミターボ), adesea comparat cu Aladdin Deck Enhancer, este un accesoriu lansat de Bandai pentru sistemul Nintendo Super Famicom și a fost lansat în 1996.
+
+Acest dispozitiv este proiectat să stea pe partea de sus a Super Famicom și are două sloturi pentru cartușe. Premisa este că jocurile ar putea fi produse la un cost și timp de dezvoltare mult mai mici, nefiind nevoie să se bazeze pe Nintendo pentru producția de cartușe. Spre deosebire de Aladdin Deck Enhancer, acest dispozitiv a fost aprobat oficial de Nintendo cu condiția ca Bandai să se ocupe singură de fabricarea hardware-ului.
+
+Cele două sloturi pentru cartușe sunt concepute pentru a partaja date între jocuri. Cartușul plasat în slotul 1 este jocul care va fi jucat, în timp ce cartușul din slotul 2 furnizează date suplimentare pentru a fi utilizate în jocul principal. Dintre cele treisprezece jocuri lansate, nouă dintre ele se pot conecta între ele, în cadrul fiecărei serii de jocuri.</systemDescription>
+            <systemHardwareType>Periferic</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>SuFami Turbo (スーファミターボ), которую часто сравнивают с Aladdin Deck Enhancer, - это аксессуар, выпущенный компанией Bandai для системы Super Famicom от Nintendo и вышедший в 1996 году.
+
+Устройство предназначено для установки на Super Famicom и имеет два слота для картриджей. Предпосылкой послужило то, что игры можно было создавать с меньшими затратами времени и средств, не прибегая к помощи Nintendo в производстве картриджей. В отличие от Aladdin Deck Enhancer, это устройство было официально одобрено Nintendo при условии, что Bandai сама займется производством всего оборудования.
+
+Два слота для картриджей предназначены для обмена данными между играми. Картридж, установленный в слот 1, является игрой, в которую предстоит играть, а картридж в слоте 2 предоставляет дополнительные данные для использования в основной игре. Из тринадцати выпущенных игр девять могут соединяться между собой в рамках каждой игровой серии.</systemDescription>
+            <systemHardwareType>Периферийное устройство</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.
+
+This device is designed to sit on top of the Super Famicom, and features two cartridge slots. The premise is that games could be produced at a much lower cost and development time, not having to rely on Nintendo for cartridge production. Unlike the Aladdin Deck Enhancer, this device was officially approved by Nintendo under the provision that Bandai handle all the hardware manufacturing itself.
+
+The two cartridge slots are designed to share data between the games. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game. Of the thirteen games released, nine of them can link up, within each game series.</systemDescription>
+            <systemHardwareType>Peripheral</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>SuFami Turbo (スーファミターボ), ofta jämförd med Aladdin Deck Enhancer, är ett tillbehör som Bandai släppte till Nintendos Super Famicom-system och som släpptes 1996.
+
+Den här enheten är utformad för att sitta ovanpå Super Famicom och har två kassettplatser. Utgångspunkten var att spel skulle kunna produceras till en mycket lägre kostnad och utvecklingstid, eftersom man inte behövde förlita sig på Nintendo för produktion av kassetter. Till skillnad från Aladdin Deck Enhancer godkändes denna enhet officiellt av Nintendo under förutsättning att Bandai själva skötte all tillverkning av hårdvaran.
+
+De två kortplatserna är utformade för att dela data mellan spelen. Kassetten som placeras i fack 1 är det spel som ska spelas, medan kassetten i fack 2 levererar ytterligare data som ska användas i huvudspelet. Av de tretton spel som släppts kan nio av dem länkas samman inom varje spelserie.</systemDescription>
+            <systemHardwareType>Tillbehör</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>SuFami Turbo（スーファミターボ）经常被拿来与阿拉丁 Deck Enhancer（甲板增强器）相比较，是 Bandai 于 1996 年为任天堂的 Super Famicom 系统推出的一款配件。
+
+该设备设计用于放置在超级 Famicom 的顶部，有两个卡匣插槽。其前提是，无需依赖任天堂生产卡带，可以以更低的成本和开发时间生产游戏。与 "阿拉丁甲板增强器 "不同的是，该设备获得了任天堂的正式批准，规定由万代公司自行负责所有硬件的生产。
+
+两个卡匣插槽的设计是为了在游戏之间共享数据。放置在插槽 1 中的盒式磁带是要玩的游戏，而插槽 2 中的盒式磁带则提供附加数据供主游戏使用。在已发布的 13 款游戏中，有 9 款可以在每个游戏系列中进行连接。</systemDescription>
+            <systemHardwareType>外围设备</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>SuFami Turbo (スーファミターボ)，常與 Aladdin Deck Enhancer 相提並論，是 Bandai 為 Nintendo 的 Super Famicom 系統推出的配件，於 1996 年發售。
+
+此裝置被設計置於 Super Famicom 的上方，並配備兩個卡匣插槽。前提是可以用更低的成本和開發時間製作遊戲，而不必依賴任天堂製作卡帶。與 Aladdin Deck Enhancer 不同的是，此裝置是在 Bandai 自行處理所有硬體製造的條款下，由 Nintendo 正式核准的。
+
+兩個卡匣插槽的設計是用來分享遊戲之間的資料。放在插槽 1 的卡匣是要玩的遊戲，而插槽 2 的卡匣則提供額外的資料供主要遊戲使用。在已推出的 13 款遊戲中，有 9 款可以在每個遊戲系列中連線。</systemDescription>
+            <systemHardwareType>周邊設備</systemHardwareType>
+        </variables>
+    </language>
+</theme>

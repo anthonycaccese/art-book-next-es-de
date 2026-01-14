@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>Uzebox</systemName>
+        <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
+
+   The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
+        <systemManufacturer>Belogic</systemManufacturer>
+        <systemReleaseYear>2008</systemReleaseYear>
+        <systemReleaseDate>2008-08-24</systemReleaseDate>
+        <systemReleaseDateFormated>August 24, 2008</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>CE3D3D</systemColor>
+        <systemColorPalette1>C43F32</systemColorPalette1>
+        <systemColorPalette2>EDC63D</systemColorPalette2>
+        <systemColorPalette3>C9C2BF</systemColorPalette3>
+        <systemColorPalette4>07336A</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Uzebox عبارة عن وحدة تحكم بالألعاب مفتوحة المصدر ذات 8 بت ذات تصميم قديم ومفتوح المصدر. وهو مبني على متحكم دقيق للأغراض العامة AVR 8 بت من صنع Atmel. وتتمثل خصوصية النظام في أنه يستخدم نواة مدفوعة بالمقاطعة ولا يحتوي على مخزن مؤقت للإطار. يتم تنفيذ وظائف مثل توليد إشارات الفيديو، وتجسيد البلاط ومزج الموسيقى في الوقت الحقيقي من خلال مهمة في الخلفية بحيث يمكن تطوير لعبتك بسهولة في C.
+
+   كان الهدف من التصميم هو أن يكون بسيطًا قدر الإمكان مع الحصول على صوت ورسومات جيدة بما يكفي لتنفيذ ألعاب مثيرة للاهتمام. تم التركيز على جعلها سهلة وممتعة في التجميع والبرمجة لأي هاوٍ. يحتوي التصميم النهائي على شريحتين فقط: ATmega644 ومحول AD725 RGB إلى NTSC.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
+
+   The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La UZebox és una consola de joc de codi obert de 8 bits retro-minimalista. Es basa en un microcontrolador de propòsits generals AVR de 8 bits elaborat per Atmel. La particularitat del sistema és que utilitza un nucli impulsat per interrompre i no té tampó de fotograma. Funcions com la generació de senyal de vídeo, la representació de rajoles i la barreja de música es fan en temps real mitjançant una tasca de fons perquè el vostre joc es pugui desenvolupar fàcilment a C.
+
+L’objectiu de disseny era ser el més senzill possible, però tenir un so i un so prou bons per implementar jocs interessants. Es va posar èmfasi en fer que sigui fàcil i divertit muntar i programar per a qualsevol aficionat. El disseny final només conté dos xips: un ATMEGA644 i un convertidor AD725 RGB-TO-NTSC.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Uzebox ist eine retro-minimalistische 8-Bit-Open-Source-Spielekonsole. Sie basiert auf einem AVR 8-Bit Allzweck-Mikrocontroller von Atmel. Die Besonderheit des Systems besteht darin, dass es einen interruptgesteuerten Kernel verwendet und keinen Framebuffer hat. Funktionen wie die Erzeugung von Videosignalen, das Rendering von Kacheln und das Abmischen von Musik werden in Echtzeit von einem Hintergrund-Task ausgeführt, so dass Ihr Spiel leicht in C entwickelt werden kann.
+
+   Das Designziel war, so einfach wie möglich zu sein, aber dennoch genug Sound und Grafik zu haben, um interessante Spiele zu entwickeln. Der Schwerpunkt lag darauf, dass der Zusammenbau und die Programmierung für jeden Bastler einfach und unterhaltsam sind. Das endgültige Design enthält nur zwei Chips: einen ATmega644 und einen AD725 RGB-zu-NTSC-Konverter.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Uzebox es una videoconsola retro-minimalista de 8 bits y código abierto. Está basada en un microcontrolador de propósito general AVR de 8 bits fabricado por Atmel. La particularidad del sistema es que utiliza un kernel controlado por interrupciones y no tiene frame buffer. Funciones como la generación de señales de vídeo, el renderizado de tiles y la mezcla de música se realiza en tiempo real mediante una tarea en segundo plano, por lo que tu juego puede desarrollarse fácilmente en C.
+
+   El objetivo del diseño era ser lo más simple posible, pero con sonido y gráficos lo suficientemente buenos como para implementar juegos interesantes. Se puso énfasis en hacerlo fácil y divertido de montar y programar para cualquier aficionado. El diseño final contiene sólo dos chips: un ATmega644 y un convertidor RGB a NTSC AD725.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Uzebox est une console de jeu open source 8 bits rétro-minimaliste. Elle est basée sur un microcontrôleur AVR 8 bits à usage général fabriqué par Atmel. La particularité du système est qu'il utilise un noyau piloté par les interruptions et qu'il n'a pas de frame buffer. Les fonctions telles que la génération de signaux vidéo, le rendu des tuiles et le mixage de la musique sont effectuées en temps réel par une tâche d'arrière-plan, de sorte que votre jeu peut facilement être développé en C.
+
+   L'objectif de la conception était d'être aussi simple que possible tout en ayant un son et des graphismes suffisamment bons pour mettre en œuvre des jeux intéressants. L'accent a été mis sur la facilité et l'amusement de l'assemblage et de la programmation pour tout amateur. Le design final ne contient que deux puces : un ATmega644 et un convertisseur AD725 RGB-to-NTSC.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
+
+   The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Uzebox è una console di gioco open source retro-minimalista a 8 bit. È basata su un microcontrollore generale a 8 bit AVR di Atmel. La particolarità del sistema è che utilizza un kernel guidato da interrupt e non ha frame buffer. Funzioni come la generazione del segnale video, il rendering dei tile e il mixaggio della musica vengono eseguite in tempo reale da un task in background, in modo che il gioco possa essere facilmente sviluppato in C.
+
+   L'obiettivo del progetto era quello di essere il più semplice possibile, ma con un suono e una grafica sufficientemente buoni per implementare giochi interessanti. L'enfasi è stata posta sul fatto di renderlo facile e divertente da assemblare e programmare per qualsiasi hobbista. Il progetto finale contiene solo due chip: un ATmega644 e un convertitore RGB-NTSC AD725.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Uzeboxはレトロミニマリストの8ビットオープンソースゲーム機です。Atmel製のAVR 8ビット汎用マイクロコントローラをベースにしています。このシステムの特徴は、割り込み駆動のカーネルを使用し、フレームバッファを持たないことです。ビデオ信号の生成、タイルのレンダリング、音楽のミキシングなどの機能は、バックグラウンドタスクによってリアルタイムで行われるため、ゲームをC言語で簡単に開発することができます。
+
+   設計目標は、できるだけシンプルでありながら、面白いゲームを実装するのに十分なサウンドとグラフィックを持つことでした。どんな趣味の人でも組み立てやすく、楽しくプログラミングできることを重視しました。最終的な設計には、ATmega644とAD725 RGB-NTSCコンバーターの2つのチップしか含まれていません。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Uzebox는 레트로 미니멀리즘 8비트 오픈 소스 게임 콘솔입니다. Atmel에서 만든 AVR 8비트 범용 마이크로컨트롤러를 기반으로 합니다. 이 시스템의 특징은 인터럽트 구동 커널을 사용하고 프레임 버퍼가 없다는 것입니다. 비디오 신호 생성, 타일 렌더링 및 음악 믹싱과 같은 기능은 백그라운드 작업에서 실시간으로 수행되므로 C로 게임을 쉽게 개발할 수 있습니다.
+
+   디자인 목표는 가능한 한 단순하면서도 재미있는 게임을 구현할 수 있는 충분한 사운드와 그래픽을 갖추는 것이었습니다. 취미로 게임을 즐기는 사람이라면 누구나 쉽고 재미있게 조립하고 프로그래밍할 수 있도록 하는 데 중점을 두었습니다. 최종 설계에는 ATmega644와 AD725 RGB-NTSC 컨버터라는 두 개의 칩만 포함되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Uzebox is een retro-minimalistische 8-bit open-source spelconsole. Hij is gebaseerd op een AVR 8-bit general purpose microcontroller van Atmel. Het bijzondere van het systeem is dat het een interruptgestuurde kernel gebruikt en geen framebuffer heeft. Functies zoals het genereren van videosignalen, het renderen van tiles en het mixen van muziek worden in realtime uitgevoerd door een achtergrondtaak, zodat je spel eenvoudig in C kan worden ontwikkeld.
+
+   Het ontwerpdoel was om zo eenvoudig mogelijk te zijn en toch goed genoeg geluid en graphics te hebben om interessante spellen te implementeren. De nadruk werd gelegd op het eenvoudig en leuk maken om te assembleren en programmeren voor hobbyisten. Het uiteindelijke ontwerp bevat slechts twee chips: een ATmega644 en een AD725 RGB-naar-NTSC converter.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Uzebox to retro-minimalistyczna 8-bitowa konsola do gier typu open source. Opiera się na 8-bitowym mikrokontrolerze ogólnego przeznaczenia AVR firmy Atmel. Szczególną cechą systemu jest to, że wykorzystuje on jądro sterowane przerwaniami i nie posiada bufora ramki. Funkcje takie jak generowanie sygnału wideo, renderowanie kafelków i miksowanie muzyki są wykonywane w czasie rzeczywistym przez zadanie w tle, dzięki czemu grę można łatwo opracować w języku C.
+
+   Celem projektowym była jak największa prostota, przy jednoczesnym zapewnieniu wystarczająco dobrego dźwięku i grafiki do implementacji interesujących gier. Nacisk położono na to, aby był łatwy i przyjemny w montażu i programowaniu dla każdego hobbysty. Ostateczny projekt zawiera tylko dwa układy: ATmega644 i konwerter AD725 RGB-to-NTSC.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Uzebox é um console de jogos de código aberto retro-minimalista de 8 bits. Ele é baseado em um microcontrolador de uso geral AVR de 8 bits fabricado pela Atmel. A particularidade do sistema é que ele usa um kernel acionado por interrupção e não tem buffer de quadros. Funções como geração de sinal de vídeo, renderização de blocos e mixagem de música são feitas em tempo real por uma tarefa em segundo plano, de modo que seu jogo pode ser facilmente desenvolvido em C.
+
+   O objetivo do projeto era ser o mais simples possível, mas ter som e gráficos bons o suficiente para implementar jogos interessantes. A ênfase foi colocada em torná-lo fácil e divertido de montar e programar para qualquer amador. O projeto final contém apenas dois chips: um ATmega644 e um conversor AD725 RGB para NTSC.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
+
+   The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Uzebox este o consolă de jocuri open source retro-minimalistă pe 8 biți. Se bazează pe un microcontroler AVR pe 8 biți de uz general produs de Atmel. Particularitatea sistemului este că utilizează un nucleu condus de întreruperi și nu are frame buffer. Funcții precum generarea semnalului video, redarea plăcilor și mixarea muzicii sunt realizate în timp real de o sarcină de fundal, astfel încât jocul dvs. poate fi dezvoltat cu ușurință în C.
+
+   Obiectivul de proiectare a fost să fie cât mai simplu posibil, dar să aibă sunet și grafică suficient de bune pentru a implementa jocuri interesante. Accentul a fost pus pe a fi ușor și distractiv de asamblat și programat pentru orice pasionat. Proiectul final conține doar două cipuri: un ATmega644 și un convertor RGB la NTSC AD725.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Uzebox - это ретро-минималистская 8-битная игровая консоль с открытым исходным кодом. Она основана на 8-битном микроконтроллере общего назначения AVR производства Atmel. Особенностью системы является то, что она использует ядро, управляемое прерываниями, и не имеет кадрового буфера. Такие функции, как генерация видеосигнала, рендеринг тайлов и микширование музыки, выполняются в реальном времени фоновой задачей, поэтому вашу игру можно легко разработать на C.
+
+   Цель разработки заключалась в том, чтобы быть как можно более простой, но при этом иметь достаточно хороший звук и графику для реализации интересных игр. Акцент был сделан на том, чтобы сделать его простым и веселым в сборке и программировании для любого любителя. Конечный дизайн содержит всего две микросхемы: ATmega644 и AD725 RGB-to-NTSC конвертер.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
+
+   The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Uzebox är en retro-minimalistisk 8-bitars spelkonsol med öppen källkod. Den är baserad på en AVR 8-bitars mikrokontroller för allmänt ändamål tillverkad av Atmel. Det speciella med systemet är att det använder en interruptdriven kärna och inte har någon rambuffert. Funktioner som generering av videosignaler, rendering av brickor och musikmixning görs i realtid av en bakgrundsuppgift så att ditt spel enkelt kan utvecklas i C.
+
+   Designmålet var att vara så enkel som möjligt men ändå ha tillräckligt bra ljud och grafik för att kunna implementera intressanta spel. Tonvikten lades på att göra den enkel och rolig att montera och programmera för alla hobbyanvändare. Den slutliga designen innehåller endast två chip: en ATmega644 och en AD725 RGB-till-NTSC-omvandlare.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Uzebox 是一款复古简约的 8 位开源游戏机。它基于 Atmel 公司生产的 AVR 8 位通用微控制器。该系统的特点是使用中断驱动内核，没有帧缓冲器。视频信号生成、磁贴渲染和音乐混音等功能由后台任务实时完成，因此您可以轻松地用 C 语言开发游戏。
+
+   设计目标是尽可能简单，但要有足够好的音效和图形，以实现有趣的游戏。重点是让任何业余爱好者都能轻松愉快地组装和编程。最终设计只包含两个芯片：一个 ATmega644 和一个 AD725 RGB 转 NTSC 转换器。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Uzebox 是一款復古簡約的 8 位元開放原始碼遊戲控制台。它以 Atmel 製造的 AVR 8 位元通用微控制器為基礎。該系統的特點是使用中斷驅動內核，沒有幀緩衝器。視訊訊號產生、磁磚渲染和音樂混音等功能都是由背景任務即時完成，因此您的遊戲可以很容易地以 C 語言開發。
+
+   設計目標是盡可能簡單，但又有足夠好的音效和圖形，以執行有趣的遊戲。我們強調要讓任何業餘玩家都能輕鬆且有趣地組裝與編程。最終的設計只包含兩個晶片：一個 ATmega644 和一個 AD725 RGB-to-NTSC 轉換器。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

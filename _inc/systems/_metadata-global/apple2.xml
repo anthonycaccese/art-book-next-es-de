@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Apple II</systemName>
+        <systemDescription>In 1976, computer pioneers Steve Wozniak and Steve Jobs began selling their Apple I computer in kit form to computer stores. A month later, Wozniak was working on a design for an improved version, the Apple II. They demonstrated a prototype in December, and then introduced it to the public in April 1977. The Apple II started the boom in personal computer sales in the late 1970s, and pushed Apple into the lead among personal computer makers.</systemDescription>
+        <systemManufacturer>Apple</systemManufacturer>
+        <systemReleaseYear>1977</systemReleaseYear>
+        <systemReleaseDate>1977-06-01</systemReleaseDate>
+        <systemReleaseDateFormated>June 1, 1977</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>1a9ee4</systemColor>
+        <systemColorPalette1>009DDC</systemColorPalette1>
+        <systemColorPalette2>E03A3E</systemColorPalette2>
+        <systemColorPalette3>FDB827</systemColorPalette3>
+        <systemColorPalette4>61BB46</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>في عام 1976، بدأ رائدا الكمبيوتر ستيف وزنياك وستيف جوبز في عام 1976 في بيع حاسوب Apple I في شكل عدة لمتاجر الكمبيوتر. وبعد ذلك بشهر، كان وزنياك يعمل على تصميم نسخة محسّنة من الحاسوب Apple II. وقد عرضا نموذجًا أوليًا في ديسمبر، ثم قدماه للجمهور في أبريل 1977. بدأ Apple II طفرة في مبيعات الحواسيب الشخصية في أواخر السبعينيات، ودفع Apple إلى الصدارة بين صانعي الحواسيب الشخصية.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>1976. kompjuterski pioniri Steve Wozniak i Steve su počeli prodavati svoj Apple i računar u kompletu u prodavnice računara. Mjesec dana kasnije, Wozniak je radio na dizajnu za poboljšanu verziju, Apple II. Oni su demonstrirali prototip u decembru, a potom su ga predstavili u javnost u aprilu 1977. godine. Apple II započeo je procvat u ličnom računaru u kasnim 1970-ima, te je gurnuo jabuku u vodstvo između ličnih računara.</systemDescription>
+            <systemHardwareType>Računar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El 1976, els pioners informàtics Steve Wozniak i Steve Jobs van començar a vendre el seu ordinador Apple I en forma de kit a botigues informàtiques. Un mes després, Wozniak treballava en un disseny per a una versió millorada, l'Apple II. Van demostrar un prototip al desembre i després el van presentar al públic a l’abril de 1977. L’Apple II va iniciar el boom en les vendes d’ordinadors personals a finals dels anys 70 i van empènyer Apple al lideratge entre els fabricants d’ordinadors personals.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>1976 begannen die Computerpioniere Steve Wozniak und Steve Jobs damit, ihren Apple I Computer als Bausatz in Computerläden zu verkaufen. Einen Monat später arbeitete Wozniak an einem Entwurf für eine verbesserte Version, den Apple II. Im Dezember führten sie einen Prototyp vor und stellten ihn im April 1977 der Öffentlichkeit vor. Der Apple II löste Ende der 1970er Jahre einen Boom beim Verkauf von Personalcomputern aus und brachte Apple an die Spitze der Computerhersteller.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>En 1976, los pioneros de la informática Steve Wozniak y Steve Jobs empezaron a vender su ordenador Apple I en forma de kit a las tiendas de informática. Un mes después, Wozniak ya estaba trabajando en el diseño de una versión mejorada, el Apple II. En diciembre hicieron una demostración del prototipo y lo presentaron al público en abril de 1977. El Apple II inició el auge de las ventas de ordenadores personales a finales de la década de 1970 y colocó a Apple a la cabeza de los fabricantes de ordenadores personales.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>En 1976, les pionniers de l'informatique Steve Wozniak et Steve Jobs ont commencé à vendre leur ordinateur Apple I en kit dans les magasins d'informatique. Un mois plus tard, Wozniak travaille à la conception d'une version améliorée, l'Apple II. Ils font la démonstration d'un prototype en décembre, puis le présentent au public en avril 1977. L'Apple II a déclenché le boom des ventes d'ordinateurs personnels à la fin des années 1970 et a propulsé Apple en tête des fabricants d'ordinateurs personnels.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>1976. godine, računalni pioniri Steve Wozniak i Steve Jobs počeli su prodavati svoje računalo Apple I u kompletnom obliku u računalnim trgovinama. Mjesec dana kasnije, Wozniak je radio na dizajnu za poboljšanu verziju, Apple II. Pokazali su prototip u prosincu, a zatim su ga predstavili u javnost u travnju 1977. godine. Apple II započeo je procvat u prodaji osobnih računala krajem 1970 -ih, a Applea je gurnuo u vodstvo među proizvođačima osobnih računala.</systemDescription>
+            <systemHardwareType>Računalo</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Nel 1976, i pionieri del computer Steve Wozniak e Steve Jobs iniziarono a vendere il loro computer Apple I in kit nei negozi di informatica. Un mese dopo, Wozniak lavorava al progetto di una versione migliorata, l'Apple II. A dicembre dimostrarono un prototipo e lo presentarono al pubblico nell'aprile del 1977. L'Apple II diede il via al boom delle vendite di personal computer alla fine degli anni Settanta e spinse Apple in testa alla classifica dei produttori di personal computer.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>1976年、コンピューターのパイオニアであるスティーブ・ウォズニアックとスティーブ・ジョブズは、アップルIをキットにしてコンピューターショップに売り始めた。その1ヵ月後、ウォズニアックは改良版アップルIIの設計に取り組んでいた。彼らは12月にプロトタイプのデモンストレーションを行い、1977年4月に一般に発表した。アップルIIは1970年代後半のパソコン販売ブームの火付け役となり、アップルをパソコンメーカーのトップに押し上げた。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>1976년, 컴퓨터의 선구자 스티브 워즈니악과 스티브 잡스는 컴퓨터 매장에 키트 형태로 Apple I 컴퓨터를 판매하기 시작했습니다. 한 달 후, 워즈니악은 개선된 버전인 Apple II의 디자인을 작업하고 있었습니다. 그들은 12월에 프로토타입을 시연하고 1977년 4월에 대중에게 공개했습니다. Apple II는 1970년대 후반 개인용 컴퓨터 판매의 붐을 일으키며 Apple을 개인용 컴퓨터 제조업체 중 선두로 밀어 올렸습니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>In 1976 begonnen computerpioniers Steve Wozniak en Steve Jobs hun Apple I computer in kitvorm te verkopen aan computerwinkels. Een maand later werkte Wozniak aan een ontwerp voor een verbeterde versie, de Apple II. Ze demonstreerden een prototype in december en introduceerden het aan het publiek in april 1977. De Apple II startte de hausse in de verkoop van personal computers aan het eind van de jaren 1970 en zorgde ervoor dat Apple de leiding nam onder de fabrikanten van personal computers.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>W 1976 roku pionierzy komputerowi Steve Wozniak i Steve Jobs zaczęli sprzedawać swój komputer Apple I w formie zestawu do sklepów komputerowych. Miesiąc później Wozniak pracował nad projektem ulepszonej wersji, Apple II. Zademonstrowali prototyp w grudniu, a następnie zaprezentowali go publicznie w kwietniu 1977 roku. Apple II zapoczątkował boom na sprzedaż komputerów osobistych pod koniec lat 70. i wysunął Apple na pozycję lidera wśród producentów komputerów osobistych.</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Em 1976, os pioneiros da computação Steve Wozniak e Steve Jobs começaram a vender seu computador Apple I em forma de kit para lojas de informática. Um mês depois, Wozniak estava trabalhando em um projeto para uma versão aprimorada, o Apple II. Eles demonstraram um protótipo em dezembro e o apresentaram ao público em abril de 1977. O Apple II deu início ao boom de vendas de computadores pessoais no final da década de 1970 e colocou a Apple na liderança entre os fabricantes de computadores pessoais.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Em 1976, os pioneiros em computadores Steve Wozniak e Steve Jobs começaram a vender seu computador Apple I em forma de kit para lojas de computadores. Um mês depois, Wozniak estava trabalhando em um design para uma versão aprimorada, o Apple II. Eles demonstraram um protótipo em dezembro e depois o apresentaram ao público em abril de 1977. A Apple II iniciou o boom nas vendas de computadores pessoais no final da década de 1970 e empurrou a Apple para a liderança entre os fabricantes pessoais de computadores.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>În 1976, pionierii calculatoarelor Steve Wozniak și Steve Jobs au început să vândă computerul lor Apple I sub formă de kit în magazinele de calculatoare. O lună mai târziu, Wozniak lucra la un proiect pentru o versiune îmbunătățită, Apple II. Ei au demonstrat un prototip în decembrie, iar apoi l-au prezentat publicului în aprilie 1977. Apple II a declanșat boom-ul vânzărilor de calculatoare personale la sfârșitul anilor 1970 și a propulsat Apple în fruntea producătorilor de calculatoare personale.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>В 1976 году компьютерные пионеры Стив Возняк и Стив Джобс начали продавать свой компьютер Apple I в виде набора в компьютерных магазинах. Месяц спустя Возняк уже работал над дизайном улучшенной версии Apple II. В декабре они продемонстрировали прототип, а в апреле 1977 года представили его публике. Apple II положил начало буму продаж персональных компьютеров в конце 1970-х годов и вывел Apple в лидеры среди производителей персональных компьютеров.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>1976. Рачунарски пионири Стеве Возниак и Стеве Јобс почели су да продају своје Аппле и рачунар у комплету у комплету за рачунаре.Месец дана касније Возниак је радио на дизајну за побољшану верзију, Аппле ИИ.Они су у децембру демонстрирали прототип, а затим га увели у јавност у априлу 1977. године. Аппле ИИ је започео процват у продаји личних рачунара крајем 1970-их и гурнуо јабуку у водство у доводе личних рачунара.</systemDescription>
+            <systemHardwareType>Рачунар</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>1976 började datorpionjärerna Steve Wozniak och Steve Jobs sälja sin Apple I-dator i byggsatsform till datorbutiker. En månad senare arbetade Wozniak med att ta fram en design för en förbättrad version, Apple II. De demonstrerade en prototyp i december och presenterade den sedan för allmänheten i april 1977. Apple II startade boomen i försäljningen av persondatorer i slutet av 1970-talet och gav Apple en ledande position bland tillverkarna av persondatorer.</systemDescription>
+            <systemHardwareType>Dator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>1976 年，电脑先驱史蒂夫-沃兹尼亚克和史蒂夫-乔布斯开始向电脑商店出售他们的套装版 Apple I 电脑。一个月后，沃兹尼亚克开始设计改进版 Apple II。他们在 12 月展示了原型机，并于 1977 年 4 月向公众推出。Apple II 在 20 世纪 70 年代末掀起了个人电脑销售的热潮，并将苹果公司推向了个人电脑制造商的前列。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>1976 年，電腦先驅 Steve Wozniak 和 Steve Jobs 開始以套件形式向電腦商店銷售他們的 Apple I 電腦。一個月後，Wozniak 開始設計改良版的 Apple II。他們在 12 月展示了原型機，然後在 1977 年 4 月向大眾推出。Apple II 在 1970 年代末掀起了個人電腦銷售的熱潮，並將 Apple 推向個人電腦製造商的領導地位。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
+        </variables>
+    </language>
+</theme>

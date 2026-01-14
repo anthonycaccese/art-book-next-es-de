@@ -1,0 +1,134 @@
+<theme>
+    <variables>
+        <systemName>All Games</systemName>
+        <systemDescription>View and play every game across your entire library.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Collection</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>عرض كل لعبة وتشغيلها عبر مكتبتك بالكامل.</systemDescription>
+            <systemHardwareType>المجموعة</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Pogledajte i igrajte svaku igru širom cijele vaše biblioteke.</systemDescription>
+            <systemHardwareType>Zbirka</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Veure i jugar a tots els jocs a tota la biblioteca.</systemDescription>
+            <systemHardwareType>Collection</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Sie können jedes Spiel in Ihrer gesamten Bibliothek anzeigen und spielen.</systemDescription>
+            <systemHardwareType>Sammlung</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Visualiza y juega a todos los juegos de tu biblioteca.</systemDescription>
+            <systemHardwareType>Colección</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Visualisez et jouez à tous les jeux de votre bibliothèque.</systemDescription>
+            <systemHardwareType>Collection</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Pogledajte i igrajte svaku igru u cijeloj knjižnici.</systemDescription>
+            <systemHardwareType>Kolekcija</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Visualizzate e giocate a tutti i giochi della vostra libreria.</systemDescription>
+            <systemHardwareType>Collezione</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ライブラリ全体のすべてのゲームを表示し、再生します。</systemDescription>
+            <systemHardwareType>コレクション</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>전체 라이브러리에서 모든 게임을 보고 플레이하세요.</systemDescription>
+            <systemHardwareType>컬렉션</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Bekijk en speel elke game in je hele bibliotheek.</systemDescription>
+            <systemHardwareType>Collectie</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Przeglądaj i graj w każdą grę w całej swojej bibliotece.</systemDescription>
+            <systemHardwareType>Kolekcja</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Visualize e jogue todos os jogos de toda a sua biblioteca.</systemDescription>
+            <systemHardwareType>Coleção</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Veja e jogue todos os jogos em toda a sua biblioteca.</systemDescription>
+            <systemHardwareType>Coleção</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Vizualizați și jucați fiecare joc din întreaga dvs. bibliotecă.</systemDescription>
+            <systemHardwareType>Colecție</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Просматривайте и играйте в каждую игру из всей вашей библиотеки.</systemDescription>
+            <systemHardwareType>Коллекция</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Погледајте и играјте сваку утакмицу у целој целиј библиотеци.</systemDescription>
+            <systemHardwareType>Збирка</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Visa och spela varje spel i hela ditt bibliotek.</systemDescription>
+            <systemHardwareType>Samling</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>查看并玩遍整个游戏库中的每款游戏。</systemDescription>
+            <systemHardwareType>全部</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>檢視和玩整個圖書館中的每個遊戲。</systemDescription>
+            <systemHardwareType>系列</systemHardwareType>
+        </variables>
+    </language>
+</theme>

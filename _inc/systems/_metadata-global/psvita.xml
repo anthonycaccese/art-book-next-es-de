@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>PlayStation Vita</systemName>
+        <systemDescription>The PlayStation Vita (PS Vita, or Vita) is a handheld video game console developed and marketed by Sony Interactive Entertainment. It was first released in Japan on December 17, 2011, and in North America, Europe, and other international territories beginning on February 22, 2012. The console is the successor to the PlayStation Portable, and a part of the PlayStation brand of gaming devices; as part of the eighth generation of video game consoles, it primarily competed with the Nintendo 3DS.</systemDescription>
+        <systemManufacturer>Sony</systemManufacturer>
+        <systemReleaseYear>2011</systemReleaseYear>
+        <systemReleaseDate>2011-12-17</systemReleaseDate>
+        <systemReleaseDateFormated>December 17, 2011</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>0561c3</systemColor>
+        <systemColorPalette1>03477C</systemColorPalette1>
+        <systemColorPalette2>6CAAD8</systemColorPalette2>
+        <systemColorPalette3>D0DFF2</systemColorPalette3>
+        <systemColorPalette4>2C2C2C</systemColorPalette4>
+        <systemCartSize>5-7</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز PlayStation Vita (PS Vita أو Vita) هو جهاز ألعاب فيديو محمول باليد تم تطويره وتسويقه من قبل شركة Sony Interactive Entertainment. تم إصداره لأول مرة في اليابان في 17 ديسمبر 2011، وفي أمريكا الشمالية وأوروبا ومناطق دولية أخرى ابتداءً من 22 فبراير 2012. وحدة التحكم هي خليفة بلاي ستيشن بورتابل، وجزء من العلامة التجارية بلاي ستيشن لأجهزة الألعاب؛ وكجزء من الجيل الثامن من أجهزة ألعاب الفيديو، تنافس بشكل أساسي مع جهاز نينتندو 3DS.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Playstation Vita (PS Vita ili Vita) je ručna konzola za video igre razvijena i na tržište Sony interaktivna zabava. Prvo je pušten u Japanu 17. decembra 2011, i u Severnoj Americi, Evropi i drugim međunarodnim teritorijama počevši od 22. februara 2012. godine. Konzola je naslednik PlayStation Prijenosa i deo playStation marke za igranje uređaja za igranje;Kao dio osme generacije konzola za video igre, prvenstveno se natjecalo sa Nintendo 3DS-om.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La PlayStation Vita (PS Vita o Vita) és una consola de videojocs de mà desenvolupada i comercialitzada per Sony Interactive Entertainment. Va ser llançat per primera vegada al Japó el 17 de desembre de 2011 i a Amèrica del Nord, Europa i altres territoris internacionals a partir del 22 de febrer de 2012. La consola és la successora del PlayStation Portable i una part de la marca PlayStation of Gaming Devices Devices;Com a part de la vuitena generació de consoles de videojocs, va competir principalment amb la Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die PlayStation Vita (PS Vita, oder Vita) ist eine Handheld-Videospielkonsole, die von Sony Interactive Entertainment entwickelt und vermarktet wird. Sie wurde erstmals in Japan am 17. Dezember 2011 und in Nordamerika, Europa und anderen internationalen Gebieten ab dem 22. Februar 2012 veröffentlicht. Die Konsole ist der Nachfolger der PlayStation Portable und ein Teil der PlayStation-Marke von Gaming-Geräten; als Teil der achten Generation von Videospielkonsolen, konkurrierte es in erster Linie mit dem Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La PlayStation Vita (PS Vita o Vita) es una videoconsola portátil desarrollada y comercializada por Sony Interactive Entertainment. Salió a la venta por primera vez en Japón el 17 de diciembre de 2011, y en Norteamérica, Europa y otros territorios internacionales a partir del 22 de febrero de 2012. La consola es la sucesora de la PlayStation Portable, y forma parte de la marca PlayStation de dispositivos de juego; como parte de la octava generación de consolas de videojuegos, compitió principalmente con la Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La PlayStation Vita (PS Vita ou Vita) est une console de jeux vidéo portable développée et commercialisée par Sony Interactive Entertainment. Elle a été commercialisée pour la première fois au Japon le 17 décembre 2011, puis en Amérique du Nord, en Europe et dans d'autres territoires internationaux à partir du 22 février 2012. La console est le successeur de la PlayStation Portable, et fait partie de la marque PlayStation d'appareils de jeu ; en tant qu'élément de la huitième génération de consoles de jeux vidéo, elle est principalement en concurrence avec la Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>PlayStation Vita (PS Vita, ili Vita) je ručna konzola za video igre koju je razvila i plasirala na tržište Sony Interactive Entertainment. Prvi put je objavljen u Japanu 17. prosinca 2011., te u Sjevernoj Americi, Europi i drugim međunarodnim teritorijima koji su počeli 22. veljače 2012. Konzola je nasljednik PlayStation prijenosnog i dio marke PlayStation brand uređaja za igre;Kao dio osme generacije konzola za video igre, prvenstveno se natjecao s Nintendo 3DS -om.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>La PlayStation Vita (PS Vita o Vita) è una console portatile per videogiochi sviluppata e commercializzata da Sony Interactive Entertainment. È stata rilasciata per la prima volta in Giappone il 17 dicembre 2011 e in Nord America, Europa e altri territori internazionali a partire dal 22 febbraio 2012. La console è il successore della PlayStation Portable e fa parte del marchio di dispositivi di gioco PlayStation; fa parte dell'ottava generazione di console per videogiochi e compete principalmente con il Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>プレイステーション ヴィータ（PS Vita、Vita）は、ソニー・インタラクティブエンタテインメントが開発・販売する携帯型ゲーム機である。2011年12月17日に日本で初めて発売され、2012年2月22日から北米、欧州、その他の国際地域で発売された。このゲーム機はプレイステーション・ポータブルの後継機であり、プレイステーションブランドのゲーム機の一部である。ビデオゲーム機の第8世代の一部として、主にニンテンドー3DSと競合していた。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>플레이스테이션 비타(PS Vita, 또는 비타)는 소니 인터랙티브 엔터테인먼트에서 개발 및 판매하는 휴대용 비디오 게임 콘솔입니다. 2011년 12월 17일 일본에서 처음 출시되었으며, 2012년 2월 22일부터 북미, 유럽 및 기타 해외 지역에서 출시되었습니다. 이 콘솔은 플레이스테이션 포터블의 후속작이자 플레이스테이션 게임기 브랜드의 일부로, 8세대 비디오 게임 콘솔의 일부로서 주로 닌텐도 3DS와 경쟁했습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De PlayStation Vita (PS Vita, of Vita) is een draagbare videogameconsole die is ontwikkeld en op de markt gebracht door Sony Interactive Entertainment. De Vita werd voor het eerst uitgebracht in Japan op 17 december 2011 en in Noord-Amerika, Europa en andere internationale gebieden vanaf 22 februari 2012. De console is de opvolger van de PlayStation Portable en maakt deel uit van het PlayStation-merk van spelcomputers. Als onderdeel van de achtste generatie videogameconsoles concurreerde het voornamelijk met de Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>PlayStation Vita (PS Vita lub Vita) to przenośna konsola do gier wideo opracowana i sprzedawana przez Sony Interactive Entertainment. Po raz pierwszy została wydana w Japonii 17 grudnia 2011 roku, a w Ameryce Północnej, Europie i innych terytoriach międzynarodowych od 22 lutego 2012 roku. Konsola jest następcą PlayStation Portable i częścią marki urządzeń do gier PlayStation; jako część ósmej generacji konsol do gier wideo, konkurowała przede wszystkim z Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O PlayStation Vita (PS Vita, ou Vita) é um console de videogame portátil desenvolvido e comercializado pela Sony Interactive Entertainment. Foi lançado pela primeira vez no Japão em 17 de dezembro de 2011, e na América do Norte, Europa e outros territórios internacionais a partir de 22 de fevereiro de 2012. O console é o sucessor do PlayStation Portable e faz parte da marca PlayStation de dispositivos de jogos; como parte da oitava geração de consoles de videogame, ele competiu principalmente com o Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O PlayStation Vita (PS Vita, ou Vita) é um console de videogames de mão desenvolvido e comercializado pela Sony Interactive Entertainment. Foi lançado pela primeira vez no Japão em 17 de dezembro de 2011 e na América do Norte, Europa e outros territórios internacionais a partir de 22 de fevereiro de 2012. O console é o sucessor do PlayStation Portable e parte da marca PlayStation de dispositivos de jogo;Como parte da oitava geração de consoles de videogame, ele competiu principalmente com o Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>PlayStation Vita (PS Vita, sau Vita) este o consolă portabilă de jocuri video dezvoltată și comercializată de Sony Interactive Entertainment. A fost lansată pentru prima dată în Japonia pe 17 decembrie 2011, iar în America de Nord, Europa și alte teritorii internaționale începând cu 22 februarie 2012. Consola este succesoarea PlayStation Portable și face parte din marca PlayStation de dispozitive de jocuri; ca parte a celei de-a opta generații de console de jocuri video, a concurat în principal cu Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>PlayStation Vita (PS Vita, или Vita) - портативная игровая консоль, разработанная и продаваемая компанией Sony Interactive Entertainment. Впервые она была выпущена в Японии 17 декабря 2011 года, а в Северной Америке, Европе и на других международных территориях - 22 февраля 2012 года. Консоль является преемницей PlayStation Portable и входит в линейку игровых устройств PlayStation; как часть восьмого поколения игровых консолей, она в первую очередь конкурирует с Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>ПлаиСтатион ВИТА (ПС ВИТА или ВИТА) је ручна конзола за видео игру коју је развио и продавао Сони Интерацтиве Ентертаинмент.Прво је објављено у Јапану, 17. децембра 2011. године, а у Северној Америци, Европи и другим међународним територијама који почињу 22. фебруара 2012. године. Конзола је наследник ПлаиСтатион преносни и део марке ПлаиСтатион-а;Као део осма генерације конзола видео игара, пре свега се такмичила са Нинтендо 3ДС.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>PlayStation Vita (PS Vita, eller Vita) är en handhållen videospelskonsol som utvecklats och marknadsförs av Sony Interactive Entertainment. Den släpptes för första gången i Japan den 17 december 2011 och i Nordamerika, Europa och andra internationella territorier från och med den 22 februari 2012. Konsolen är efterföljaren till PlayStation Portable och en del av PlayStation-varumärket för spelkonsoler; som en del av den åttonde generationen av videospelskonsoler konkurrerade den främst med Nintendo 3DS.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>PlayStation Vita（PS Vita 或 Vita）是索尼互动娱乐公司开发和销售的一款掌上视频游戏机。它于 2011 年 12 月 17 日首次在日本发售，并于 2012 年 2 月 22 日开始在北美、欧洲和其他国际地区发售。该游戏机是 PlayStation Portable 的后继机，也是 PlayStation 品牌游戏设备的一部分；作为第八代视频游戏机的一部分，它主要与任天堂 3DS 竞争。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PlayStation Vita (PS Vita, 或 Vita) 是 Sony Interactive Entertainment 所開發及行銷的掌上型視訊遊戲控制台。它於 2011 年 12 月 17 日首次在日本發售，並於 2012 年 2 月 22 日開始在北美、歐洲及其他國際地區發售。該控制台是 PlayStation Portable 的後繼機種，也是 PlayStation 遊戲裝置品牌的一部分；作為第八代視訊遊戲機的一部分，它主要與任天堂 3DS 競爭。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

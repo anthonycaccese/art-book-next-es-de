@@ -8,6 +8,14 @@ https://github.com/anthonycaccese/art-book-next-es-de
 
    <!--
    ///
+   System Metadata
+   ///
+   -->
+   <include>./_inc/systems/_metadata-global/_default.xml</include>
+   <include>./_inc/systems/_metadata-global/${system.theme}.xml</include>
+
+   <!--
+   ///
    Variables
    ///
    -->
@@ -55,7 +63,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <backgroundCornerRadius>0.01</backgroundCornerRadius>
       </clock>
       <systemstatus name="system-status">
-         <origin>1 0</origin>
+         <origin>1 0.5</origin>
          <textRelativeScale>0.7</textRelativeScale>
          <fontPath>${fontLight}</fontPath>
          <customIcon icon="icon_bluetooth">./_inc/images/icon-bluetooth.svg</customIcon>
@@ -133,19 +141,6 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <path>${logoSource}/${system.theme}.svg</path>
          <zIndex>5</zIndex>
       </image>
-      <badges name="badges">
-         <lines>1</lines>
-         <itemsPerLine>5</itemsPerLine>
-         <itemMargin>0 0</itemMargin>
-         <slots>folder,favorite,completed,collection,altemulator</slots>
-         <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
-         <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
-         <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
-         <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
-         <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
-         <controllerSize>0.8</controllerSize>
-         <folderLinkSize>0.8</folderLinkSize>
-      </badges>
       <text name="custom-collection-name">
          <fontPath>${fontLogo}</fontPath>
       </text>
@@ -153,7 +148,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
 
    <!--
    ///
-   Gamelist View - Basic & List Variants
+   Gamelist View - List Variants
    ///
    -->
    <variant name="
@@ -176,6 +171,19 @@ https://github.com/anthonycaccese/art-book-next-es-de
          <image name="background">
             <color>${gamelistListBackgroundColor}</color>
          </image>
+         <badges name="badges">
+            <lines>1</lines>
+            <itemsPerLine>5</itemsPerLine>
+            <itemMargin>0 0</itemMargin>
+            <slots>folder,favorite,completed,collection,altemulator</slots>
+            <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+            <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+            <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+            <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+            <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
+            <controllerSize>0.8</controllerSize>
+            <folderLinkSize>0.8</folderLinkSize>
+         </badges>
          <badges name="badges">
             <origin>0 0.5</origin>
             <horizontalAlignment>left</horizontalAlignment>
@@ -207,12 +215,6 @@ https://github.com/anthonycaccese/art-book-next-es-de
          </textlist>
       </view>
    </variant>
-
-   <!--
-   ///
-   Gamelist View - Basic Variant
-   ///
-   -->
    <variant name="
       gamelist-list-basic,
       gamelist-list-basic-nh
@@ -226,12 +228,6 @@ https://github.com/anthonycaccese/art-book-next-es-de
          </textlist>
       </view>
    </variant>
-
-   <!--
-   ///
-   Gamelist View - List Variants
-   ///
-   -->
    <variant name="
       gamelist-list-metadata-miximage,
       gamelist-list-metadata-miximage-nh,
@@ -537,6 +533,125 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <origin>0.5 0.5</origin>
             <imageType>marquee</imageType>
          </image>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - Grid Variants
+   ///
+   -->
+   <variant name="
+      gamelist-grid-cover,
+      gamelist-grid-cover-nh
+      ">
+      <include>./_inc/systems/_coversize/${systemCoverSize}.xml</include>
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <imageType>cover,screenshot</imageType>
+         </grid>
+      </view>
+   </variant>
+   <variant name="
+      gamelist-grid-cover-steamgriddb,
+      gamelist-grid-cover-steamgriddb-nh
+      ">
+      <include>./_inc/systems/_coversize/2-3.xml</include>
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <imageType>cover</imageType>
+         </grid>
+      </view>
+   </variant>
+   <variant name="
+      gamelist-grid-screenshot,
+      gamelist-grid-screenshot-nh
+      ">
+      <include>./_inc/systems/_coversize/1-1.xml</include>
+      <view name="gamelist">
+         <grid name="gamelist-grid">
+            <imageType>screenshot</imageType>
+            <imageFit>cover</imageFit>
+         </grid>
+      </view>
+   </variant>
+   <variant name="
+      gamelist-grid-cover,
+      gamelist-grid-cover-nh,
+      gamelist-grid-cover-steamgriddb,
+      gamelist-grid-cover-steamgriddb-nh,
+      gamelist-grid-screenshot,
+      gamelist-grid-screenshot-nh
+      ">
+      <view name="gamelist">
+         <image name="background">
+            <color>000000</color>
+         </image>
+         <image name="logo">
+            <origin>0 0.5</origin>
+            <color>${gamelistListLogoColor}</color>
+         </image>
+         <text name="game-name">
+            <origin>0.5 0.5</origin>
+            <metadata>name</metadata>
+            <fontPath>${fontRegular}</fontPath>
+            <systemNameSuffix>false</systemNameSuffix>
+            <lineSpacing>1</lineSpacing>
+            <fontSize>0.0333333</fontSize><!-- 16 -->
+            <color>${gamelistListMetadataColor}</color>
+            <horizontalAlignment>center</horizontalAlignment>
+         </text>
+         <image name="menu-bar">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 0.116666666666667</size>
+            <path>${spacerImage}</path>
+            <tile>true</tile>
+            <color>${gamelistListTextlistBackgroundColor}</color>
+            <zIndex>1</zIndex>
+         </image>
+         <image name="menu-bar-border">
+            <origin>0 0</origin>
+            <pos>0 0.116666666666667</pos>
+            <size>1 0.004166666666667</size>
+            <path>${spacerImage}</path>
+            <tile>true</tile>
+            <color>000000</color>
+            <zIndex>2</zIndex>
+         </image>
+         <grid name="gamelist-grid">
+            <origin>0 0</origin>
+            <pos>0 0.116666666666667</pos>
+            <size>1 0.883333333333333</size>
+            <itemScale>1.2</itemScale>
+            <scaleInwards>true</scaleInwards>
+            <itemSpacing>0.002344665885111 0.004166666666667</itemSpacing><!-- 2 2 -->
+            <unfocusedItemOpacity>0.3</unfocusedItemOpacity>
+            <unfocusedItemDimming>1</unfocusedItemDimming>
+            <unfocusedItemSaturation>1</unfocusedItemSaturation>
+            <fractionalRows>true</fractionalRows>
+            <textColor>ffffff</textColor>
+            <textBackgroundColor>222222</textBackgroundColor>
+            <backgroundColor>000000</backgroundColor>
+            <fontPath>${fontRegular}</fontPath>
+            <fontSize>0.03</fontSize>
+            <textRelativeScale>0.99</textRelativeScale>
+            <imageRelativeScale>1</imageRelativeScale>
+            <imageCornerRadius>0.004</imageCornerRadius>
+            <backgroundCornerRadius>0.004</backgroundCornerRadius>
+            <textBackgroundCornerRadius>0.004</textBackgroundCornerRadius>
+            <zIndex>2</zIndex>
+         </grid>
+         <!--<video name="game-video">
+            <origin>0.5 0</origin>
+            <pos>0.5 0.1208333</pos>
+            <maxSize>1 0.883333333333333</maxSize>
+            <interpolation>nearest</interpolation>
+            <imageType>none</imageType>
+            <fadeInType>transparent</fadeInType>
+            <iterationCount>1</iterationCount>
+            <delay>3</delay>
+         </video>-->
       </view>
    </variant>
 

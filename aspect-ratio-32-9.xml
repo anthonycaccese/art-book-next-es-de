@@ -13,15 +13,17 @@ based on 1706x480
       <clock name="clock">
          <pos>0.02211538 0.04791667</pos><!-- 23 23 -->
          <fontSize>${clockFontSize}</fontSize>
-         <backgroundHorizontalPadding>0.00673077 0.00673077</backgroundHorizontalPadding><!-- 7 -->
+         <backgroundHorizontalPadding>0.0041032 0.0041032</backgroundHorizontalPadding><!-- 7 -->
          <backgroundVerticalPadding>0.01666667 0.01666667</backgroundVerticalPadding><!-- 8 -->
+         <backgroundCornerRadius>0.0025</backgroundCornerRadius>
       </clock>
       <systemstatus name="system-status">
-         <pos>0.98076923 0.04166667</pos><!-- 1020 20 -->
+         <pos>0.98076923 0.0625</pos><!-- 1020 30 -->
          <height>${systemStatusHeight}</height>
-         <backgroundHorizontalPadding>0.00673077 0.00673077</backgroundHorizontalPadding><!-- 7 -->
+         <backgroundHorizontalPadding>0.0041032 0.0041032</backgroundHorizontalPadding><!-- 7 -->
          <backgroundVerticalPadding>0.01041667 0.01041667</backgroundVerticalPadding><!-- 5 -->
          <entries>all</entries>
+         <backgroundCornerRadius>0.0025</backgroundCornerRadius>
       </systemstatus>
    </view>
    <variant name="
@@ -36,10 +38,11 @@ based on 1706x480
       <view name="system,gamelist">
          <helpsystem name="help-system-view,help-gamelist-view">
             <fontSize>${helpsystemFontSize}</fontSize>
-            <backgroundHorizontalPadding>0.00961538 0.00961538</backgroundHorizontalPadding><!-- 10 -->
+            <backgroundHorizontalPadding>0.0058617 0.0058617</backgroundHorizontalPadding><!-- 10 -->
             <backgroundVerticalPadding>0.01458333 0.01458333</backgroundVerticalPadding><!-- 7 -->
-            <entrySpacing>0.01153846</entrySpacing><!-- 12 -->
-            <iconTextSpacing>0.00480769</iconTextSpacing><!-- 5 -->
+            <entrySpacing>0.007034</entrySpacing><!-- 12 -->
+            <iconTextSpacing>0.0029308</iconTextSpacing><!-- 5 -->
+            <backgroundCornerRadius>0.0025</backgroundCornerRadius>
          </helpsystem>
       </view>
       <view name="system">
@@ -80,12 +83,51 @@ based on 1706x480
       gamelist-list-metadata-screenshot-marquee-nh,
       gamelist-list-metadata-screenshot-cover-nh,
       gamelist-list-cover-nh,
-      gamelist-list-screenshot-marquee-nh
+      gamelist-list-screenshot-marquee-nh,
+      gamelist-grid-cover-nh,
+      gamelist-grid-cover-steamgriddb-nh,
+      gamelist-grid-screenshot-nh
       ">
       <view name="system,gamelist">
          <helpsystem name="help-system-view,help-gamelist-view">
             <origin>0 0</origin>
             <pos>1 1</pos>
+         </helpsystem>
+      </view>
+   </variant>
+   <variant name="
+      gamelist-grid-cover,
+      gamelist-grid-cover-steamgriddb,
+      gamelist-grid-screenshot
+      ">
+      <view name="system,gamelist">
+         <helpsystem name="help-system-view,help-gamelist-view">
+            <fontSize>${helpsystemFontSize}</fontSize>
+            <backgroundHorizontalPadding>0.0058617 0.0058617</backgroundHorizontalPadding><!-- 10 -->
+            <backgroundVerticalPadding>0.01458333 0.01458333</backgroundVerticalPadding><!-- 7 -->
+            <entrySpacing>0.007034</entrySpacing><!-- 12 -->
+            <iconTextSpacing>0.0029308</iconTextSpacing><!-- 5 -->
+            <backgroundCornerRadius>0.0025</backgroundCornerRadius>
+         </helpsystem>
+      </view>
+      <view name="system">
+         <helpsystem name="help-system-view">
+            <origin>0.5 1</origin>
+            <pos>0.5 0.9375</pos><!-- 50% 450 -->
+            <entries>${helpSystemViewEntries}</entries>
+         </helpsystem>
+         <helpsystem name="help-gamelist-view">
+            <scope>none</scope>
+         </helpsystem>
+      </view>
+      <view name="gamelist">
+         <helpsystem name="help-system-view">
+            <scope>none</scope>
+         </helpsystem>
+         <helpsystem name="help-gamelist-view">
+            <origin>0.5 1</origin>
+            <pos>0.5 0.9375</pos><!-- 50% 450 -->
+            <entries>${helpSystemViewEntries}</entries>
          </helpsystem>
       </view>
    </variant>
@@ -103,7 +145,7 @@ based on 1706x480
          <clockFontSize>0.02916667</clockFontSize><!-- 14 -->
          <systemStatusHeight>0.04166667</systemStatusHeight><!-- 20 -->
          <helpsystemFontSize>0.04583333</helpsystemFontSize><!-- 22 -->
-         <helpSystemViewEntries>start,a,x,left/right</helpSystemViewEntries>
+         <helpSystemViewEntries>start,back,a,x,left/right</helpSystemViewEntries>
          <helpGamelistViewEntries>back,start,a</helpGamelistViewEntries>
       </variables>
    </fontSize>
@@ -112,7 +154,7 @@ based on 1706x480
          <clockFontSize>0.03333333</clockFontSize><!-- 16 -->
          <systemStatusHeight>0.04583333</systemStatusHeight><!-- 22 -->
          <helpsystemFontSize>0.05</helpsystemFontSize><!-- 24 -->
-         <helpSystemViewEntries>start,a,x,left/right</helpSystemViewEntries>
+         <helpSystemViewEntries>start,back,a,x,left/right</helpSystemViewEntries>
          <helpGamelistViewEntries>back,a</helpGamelistViewEntries>
       </variables>
    </fontSize>
@@ -121,7 +163,7 @@ based on 1706x480
          <clockFontSize>0.05</clockFontSize><!-- 24 -->
          <systemStatusHeight>0.0625</systemStatusHeight><!-- 30 -->
          <helpsystemFontSize>0.06666667</helpsystemFontSize><!-- 32 -->
-         <helpSystemViewEntries>start,a,left/right</helpSystemViewEntries>
+         <helpSystemViewEntries>start,back,a,left/right</helpSystemViewEntries>
          <helpGamelistViewEntries>back,a</helpGamelistViewEntries>
       </variables>
    </fontSize>
@@ -599,6 +641,31 @@ based on 1706x480
             <pos>0.65384615 0.5</pos><!-- 680 50% -->
             <cropSize>0.69230769 1</cropSize><!-- 720 100% -->
          </video>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View - Grid Variants
+   ///
+   -->
+   <variant name="
+      gamelist-grid-cover,
+      gamelist-grid-cover-nh,
+      gamelist-grid-cover-steamgriddb,
+      gamelist-grid-cover-steamgriddb-nh,
+      gamelist-grid-screenshot,
+      gamelist-grid-screenshot-nh
+      ">
+      <view name="gamelist">
+         <image name="logo">
+            <maxSize>0.0762016 0.05</maxSize><!-- 130 24 -->
+            <pos>0.010551 0.0625</pos><!-- 18 30 -->
+         </image>
+         <text name="game-name">
+            <pos>0.5 0.062</pos><!-- 50% 30 -->
+            <size>0.6 0</size>
+         </text>
       </view>
    </variant>
 

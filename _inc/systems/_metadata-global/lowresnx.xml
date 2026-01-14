@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>LowRes NX</systemName>
+        <systemDescription>LowRes NX was inspired by real 8-bit and 16-bit systems and simulates chips for graphics, sound and I/O, which actually work like classic hardware. It supports hardware sprites as well as hardware parallax scrolling, and even offers vertical blank and raster interrupts to create authentic retro effects.  Imagine LowRes NX as a handheld game console with a d-pad, two action buttons and a little rubber keyboard below a slidable touchscreen.</systemDescription>
+        <systemManufacturer>Timo Kloss</systemManufacturer>
+        <systemReleaseYear>2017</systemReleaseYear>
+        <systemReleaseDate>2017</systemReleaseDate>
+        <systemReleaseDateFormated>2017</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>00AAAA</systemColor>
+        <systemColorPalette1>FF8300</systemColorPalette1>
+        <systemColorPalette2>56A0A2</systemColorPalette2>
+        <systemColorPalette3>F8EA32</systemColorPalette3>
+        <systemColorPalette4>FF5700</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>استوحيت تقنية LowRes NX من أنظمة 8 بت و16 بت الحقيقية وتحاكي رقاقات للرسومات والصوت والإدخال/الإخراج، والتي تعمل بالفعل مثل الأجهزة الكلاسيكية. وهو يدعم الرسوم المتحركة للأجهزة بالإضافة إلى تمرير المنظر للأجهزة، كما أنه يوفر مقاطعات رأسية فارغة ونقطية لإنشاء تأثيرات رجعية حقيقية.  تخيل LowRes NX كوحدة تحكم ألعاب محمولة باليد مع لوحة تحكم d-pad وزرين للحركة ولوحة مفاتيح مطاطية صغيرة أسفل شاشة لمس قابلة للانزلاق.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Lowres NX bio je inspirisan realnim 8-bitnim i 16-bitnim sistemima i simulira čipove grafike, zvuka i I / O, što zapravo radi kao klasični hardver. Podržava hardverske sprite, kao i pomicanje paralaksa za hardver, pa čak i nude vertikalno prazno i rastera prekida za stvaranje autentičnih retrovih efekata. Zamislite Lowres NX kao ručna igrička konzola s D-PAD-om, dva akcijska tipke i malu gumenu tastaturu ispod zaslona za pomicanje.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Lowres NX es va inspirar en sistemes reals de 8 bits i 16 bits i simula xips per a gràfics, so i E/S, que realment funcionen com el maquinari clàssic.És compatible amb els sprites de maquinari, així com el desplaçament de paralaxis de maquinari i, fins i tot, ofereix interrupcions verticals en blanc i ràster per crear efectes retro autèntics. Imagineu-vos Lowres NX com una consola de joc de mà amb un Pad D, dos botons d’acció i un petit teclat de goma per sota d’una pantalla tàctil lliscant.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>LowRes NX wurde von echten 8-Bit- und 16-Bit-Systemen inspiriert und simuliert Chips für Grafik, Sound und I/O, die tatsächlich wie klassische Hardware funktionieren. Es unterstützt Hardware-Sprites sowie Hardware-Parallax-Scrolling und bietet sogar vertikale Leer- und Rasterunterbrechungen, um authentische Retro-Effekte zu erzeugen.  Stellen Sie sich LowRes NX als eine Handheld-Spielkonsole mit einem D-Pad, zwei Aktionstasten und einer kleinen Gummitastatur unter einem verschiebbaren Touchscreen vor.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>LowRes NX se inspira en los sistemas reales de 8 y 16 bits y simula chips para gráficos, sonido y E/S, que funcionan realmente como el hardware clásico. Admite sprites por hardware, así como desplazamiento de paralaje por hardware, e incluso ofrece interrupciones verticales en blanco y de trama para crear auténticos efectos retro.  Imagina LowRes NX como una videoconsola portátil con un d-pad, dos botones de acción y un pequeño teclado de goma debajo de una pantalla táctil deslizable.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>LowRes NX s'inspire des systèmes 8 et 16 bits réels et simule des puces pour les graphiques, le son et les E/S, qui fonctionnent réellement comme du matériel classique. Il prend en charge les sprites matériels ainsi que le défilement parallaxe matériel, et offre même des interruptions de trame et de blanc vertical pour créer des effets rétro authentiques.  Imaginez LowRes NX comme une console de jeu portable avec un d-pad, deux boutons d'action et un petit clavier en caoutchouc sous un écran tactile coulissant.</systemDescription>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Lowres NX bio je inspiriran stvarnim 8-bitnim i 16-bitnim sustavima i simulira čipove za grafiku, zvuk i I/O, koji zapravo djeluju poput klasičnog hardvera. Podržava hardverske sprite, kao i pomicanje hardverskog paralaksa, pa čak i nudi vertikalne prazne i rasterski prekidi kako bi stvorili autentične retro efekte. Zamislite Lowres NX kao ručnu konzolu za igru s d-pad, dva gumba za akciju i malo gumene tipkovnice ispod klizavog zaslona osjetljivog na dodir.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>LowRes NX si ispira ai sistemi reali a 8 e 16 bit e simula i chip per la grafica, il suono e l'I/O, che funzionano effettivamente come l'hardware classico. Supporta gli sprite hardware e lo scorrimento parallasse hardware, e offre anche interruzioni verticali e raster per creare autentici effetti retrò.  Immaginate LowRes NX come una console di gioco portatile con un d-pad, due pulsanti di azione e una piccola tastiera di gomma sotto un touchscreen scorrevole.</systemDescription>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>LowRes NXは、本物の8ビットおよび16ビットシステムにインスパイアされ、グラフィック、サウンド、I/O用のチップをシミュレートしており、実際にクラシックなハードウェアのように動作します。ハードウェア・スプライトやハードウェア視差スクロールをサポートし、本物のレトロエフェクトを作成するための垂直ブランクやラスター割り込みも提供します。  LowRes NXは、スライド可能なタッチスクリーンの下に、Dパッド、2つのアクションボタン、小さなラバーキーボードを備えた携帯ゲーム機と想像してください。</systemDescription>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>저해상도 NX는 실제 8비트 및 16비트 시스템에서 영감을 받아 그래픽, 사운드 및 I/O용 칩을 시뮬레이션하여 실제로 클래식 하드웨어처럼 작동합니다. 하드웨어 스프라이트와 하드웨어 패럴랙스 스크롤을 지원하며 수직 블랭크 및 래스터 인터럽트까지 제공하여 진정한 레트로 효과를 연출할 수 있습니다.  저해상도 NX를 슬라이딩 가능한 터치스크린 아래에 D-패드, 액션 버튼 2개, 작은 고무 키보드가 있는 휴대용 게임 콘솔이라고 상상해 보세요.</systemDescription>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>LowRes NX is geïnspireerd op echte 8-bit en 16-bit systemen en simuleert chips voor graphics, geluid en I/O, die echt werken als klassieke hardware. Het ondersteunt zowel hardware sprites als hardware parallax scrolling, en biedt zelfs verticale blank en raster interrupts om authentieke retro-effecten te creëren.  Stel je LowRes NX voor als een handheld spelconsole met een d-pad, twee actieknoppen en een klein rubberen toetsenbord onder een verschuifbaar touchscreen.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>LowRes NX został zainspirowany prawdziwymi 8-bitowymi i 16-bitowymi systemami i symuluje układy graficzne, dźwiękowe i wejścia/wyjścia, które faktycznie działają jak klasyczny sprzęt. Obsługuje sprzętowe sprite'y, a także sprzętowe przewijanie paralaksy, a nawet oferuje pionowe puste miejsca i przerwania rastrowe, aby stworzyć autentyczne efekty retro.  Wyobraź sobie LowRes NX jako przenośną konsolę do gier z d-padem, dwoma przyciskami akcji i małą gumową klawiaturą pod wysuwanym ekranem dotykowym.</systemDescription>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O LowRes NX foi inspirado em sistemas reais de 8 e 16 bits e simula chips para gráficos, som e E/S, que realmente funcionam como o hardware clássico. Ele suporta sprites de hardware, bem como rolagem de paralaxe de hardware, e ainda oferece interrupções verticais em branco e de rasterização para criar efeitos retrô autênticos.  Imagine o LowRes NX como um console de jogos portátil com um d-pad, dois botões de ação e um pequeno teclado de borracha abaixo de uma tela sensível ao toque deslizante.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Lowres NX foi inspirado em sistemas reais de 8 e 16 bits e simula chips para gráficos, som e E/S, que realmente funcionam como hardware clássico. Ele suporta sprites de hardware e rolagem de paralaxe de hardware e até oferece interrupções verticais em branco e raster para criar efeitos retrô autênticos. Imagine Lowres NX como um console de jogo portátil com um D-PAD, dois botões de ação e um pequeno teclado de borracha abaixo de uma tela sensível ao toque deslizável.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>LowRes NX a fost inspirat de sistemele reale pe 8 și 16 biți și simulează cipuri pentru grafică, sunet și I/O, care funcționează efectiv ca hardware-ul clasic. Acesta acceptă sprite hardware, precum și defilare parallax hardware și oferă chiar blank vertical și întreruperi raster pentru a crea efecte retro autentice.  Imaginați-vă LowRes NX ca o consolă de jocuri portabilă cu un d-pad, două butoane de acțiune și o tastatură mică din cauciuc sub un ecran tactil glisant.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>LowRes NX был вдохновлен реальными 8- и 16-битными системами и имитирует чипы для графики, звука и ввода-вывода, которые действительно работают как классическое оборудование. Она поддерживает аппаратные спрайты, а также аппаратный параллакс-скроллинг и даже предлагает вертикальные пробелы и растровые прерывания для создания аутентичных ретро-эффектов.  Представьте себе LowRes NX как портативную игровую консоль с d-pad, двумя кнопками управления и маленькой резиновой клавиатурой под выдвижным сенсорным экраном.</systemDescription>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Ловрес НКС је инспирисан Реал 8-битним и 16-битним системима и симулира чипс за графику, звук и И / О, који заправо раде као класични хардвер.Подржава хардверске сприте, као и помицање хардвера, па чак и понуде вертикалне празне и растере за стварање аутентичних ретро ефеката.Замислите Ловрес НКС као ручна игарска конзола са Д-Пад, два тастера за дјеловање и малу гумену тастатуру испод сламоглавог екрана осетљивости.</systemDescription>
+            <systemHardwareType>Мотор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>LowRes NX har inspirerats av riktiga 8- och 16-bitars system och simulerar chip för grafik, ljud och I/O, som faktiskt fungerar som klassisk hårdvara. Den stöder sprites i hårdvara samt parallaxscrolling i hårdvara och erbjuder till och med vertikala blank- och rasteravbrott för att skapa autentiska retroeffekter.  Föreställ dig LowRes NX som en handhållen spelkonsol med en d-pad, två actionknappar och ett litet gummitangentbord under en skjutbar pekskärm.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>LowRes NX 的灵感来源于真实的 8 位和 16 位系统，它模拟了图形、声音和输入/输出芯片，这些芯片的工作原理与经典硬件无异。它支持硬件精灵和硬件视差滚动，甚至提供垂直空白和光栅中断，以创建真实的复古效果。  把 LowRes NX 想象成一个掌上游戏机，在可滑动的触摸屏下面有一个手柄、两个操作按钮和一个小橡胶键盘。</systemDescription>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>LowRes NX 的靈感來自於真實的 8 位元和 16 位元系統，它模擬了圖形、音效和 I/O 的晶片，實際運作起來就像經典硬體一樣。它支援硬體精靈以及硬體視差捲動，甚至提供垂直空白和光柵中斷，以創造真實的復古效果。  將 LowRes NX 想像成手持式遊戲控制台，在可滑動的觸控螢幕下方有一個 D-pad、兩個動作按鈕和一個小橡膠鍵盤。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
+        </variables>
+    </language>
+</theme>

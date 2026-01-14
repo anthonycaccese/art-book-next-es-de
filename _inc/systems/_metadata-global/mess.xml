@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>MESS</systemName>
+        <systemDescription>Multi Emulator Super System (MESS) is an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program (which has since been discontinued), but is now integrated into MAME (which is actively developed). MESS emulates portable and console gaming systems, computer platforms, and calculators. The project strives for accuracy and portability and therefore is not always the fastest emulator for any one particular system. Its accuracy makes it also useful for homebrew game development.</systemDescription>
+        <systemManufacturer>MESS Team</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemReleaseDate>1998</systemReleaseDate>
+        <systemReleaseDateFormated>1998</systemReleaseDateFormated>
+        <systemHardwareType>Emulator</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5B60B7</systemColor>
+        <systemColorPalette1>FFA102</systemColorPalette1>
+        <systemColorPalette2>A05F00</systemColorPalette2>
+        <systemColorPalette3>FFEFD5</systemColorPalette3>
+        <systemColorPalette4>FFD183</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>النظام الخارق متعدد المحاكي المتعدد (MESS) هو محاكي لمختلف وحدات التحكم وأنظمة الكمبيوتر، يعتمد على نواة MAME. اعتاد أن يكون برنامجاً مستقلاً (تم إيقافه منذ ذلك الحين)، لكنه الآن مدمج في MAME (الذي يتم تطويره بنشاط). يحاكي MESS أنظمة الألعاب المحمولة ووحدات التحكم، ومنصات الكمبيوتر، والآلات الحاسبة. يسعى المشروع إلى الدقة وقابلية النقل، وبالتالي فهو ليس دائمًا أسرع محاكي لأي نظام معين. دقته تجعله مفيدًا أيضًا لتطوير الألعاب المنزلية.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Multi emulator Super sistem (nered) je emulator za razne konzole i računarske sisteme, zasnovan na srži Mame. Nekada je bio samostalan program (koji je od tada prekinut), ali je sada integriran u mame (koja se aktivno razvija). Nered emulira prenosive i konzolne igračke sisteme, računarske platforme i kalkulatore. Projekt teži za tačnost i prenosivost i stoga nije uvijek najbrži emulator za bilo koji određeni sistem. Njegova tačnost čini korisnim i za razvojni razvoj igara.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Multi Emulator Super System (Mess) és un emulador per a diverses consoles i sistemes informàtics, basat en el nucli MAME. Solia ser un programa autònom (que des de llavors s'ha deixat de ser), però ara s'integra a MAME (que es desenvolupa activament). El desastre emula sistemes de jocs portàtils i de consoles, plataformes informàtiques i calculadores. El projecte s’esforça a la precisió i la portabilitat i, per tant, no sempre és l’emulador més ràpid per a un sistema en concret. La seva precisió la fa útil també per al desenvolupament de jocs homebrew.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) ist ein Emulator für verschiedene Konsolen und Computersysteme, der auf dem MAME-Kern basiert. Früher war es ein eigenständiges Programm (das inzwischen eingestellt wurde), aber jetzt ist es in MAME integriert (das aktiv weiterentwickelt wird). MESS emuliert tragbare und Konsolenspiele, Computerplattformen und Taschenrechner. Das Projekt strebt nach Genauigkeit und Portabilität und ist daher nicht immer der schnellste Emulator für ein bestimmtes System. Aufgrund seiner Genauigkeit ist er auch für die Entwicklung von Eigenentwicklungen von Spielen geeignet.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) es un emulador para varias consolas y sistemas informáticos, basado en el núcleo de MAME. Antes era un programa independiente (que ya no existe), pero ahora está integrado en MAME (que se desarrolla activamente). MESS emula sistemas de juego portátiles y de consola, plataformas informáticas y calculadoras. El proyecto busca la precisión y la portabilidad, por lo que no siempre es el emulador más rápido para un sistema concreto. Su precisión lo hace también útil para el desarrollo de juegos caseros.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) est un émulateur pour diverses consoles et systèmes informatiques, basé sur le noyau MAME. Il s'agissait auparavant d'un programme autonome (qui a depuis été abandonné), mais il est désormais intégré à MAME (qui est activement développé). MESS émule des systèmes de jeux portables et de consoles, des plates-formes informatiques et des calculatrices. Le projet s'efforce d'être précis et portable et n'est donc pas toujours l'émulateur le plus rapide pour un système particulier. Sa précision le rend également utile pour le développement de jeux homebrew.</systemDescription>
+            <systemHardwareType>Emulateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Multi Emulator Super System (Mess) je emulator za razne konzole i računalne sustave, na temelju jezgre Mame. Nekada je bio samostalan program (koji je od tada ukinut), ali je sada integriran u MAME (koja je aktivno razvijena). Nered oponaša prijenosne i konzole igara, računalne platforme i kalkulatore. Projekt teže točnosti i prenosivosti i stoga nije uvijek najbrži emulator za bilo koji određeni sustav. Njegova točnost također je korisna za razvoj igre Homebrew.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) è un emulatore per varie console e sistemi informatici, basato sul nucleo del MAME. Un tempo era un programma autonomo (che nel frattempo è stato dismesso), ma ora è integrato in MAME (che viene sviluppato attivamente). MESS emula sistemi di gioco portatili e console, piattaforme informatiche e calcolatori. Il progetto cerca di ottenere precisione e portabilità e quindi non è sempre l'emulatore più veloce per un particolare sistema. La sua precisione lo rende utile anche per lo sviluppo di giochi homebrew.</systemDescription>
+            <systemHardwareType>Emulatore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>マルチエミュレータスーパーシステム(MESS)はMAMEコアをベースにした、様々なゲーム機やコンピュータシステム用のエミュレータです。以前はスタンドアロンのプログラムでしたが(現在は開発中止)、現在はMAMEに統合されています(活発に開発されています)。MESSは携帯ゲーム機やコンソールゲーム機、コンピュータプラットフォーム、電卓をエミュレートします。このプロジェクトは正確さと移植性を追求しているため、特定のシステムに対して常に最速のエミュレータというわけではありません。その精度の高さから、自作ゲーム開発にも有用です。</systemDescription>
+            <systemHardwareType>エミュレータ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>멀티 에뮬레이터 슈퍼 시스템(MESS)은 MAME 코어를 기반으로 하는 다양한 콘솔 및 컴퓨터 시스템용 에뮬레이터입니다. 예전에는 독립형 프로그램이었으나(현재는 단종됨) 현재는 활발히 개발 중인 MAME에 통합되어 있습니다. MESS는 휴대용 및 콘솔 게임 시스템, 컴퓨터 플랫폼, 계산기를 에뮬레이션합니다. 이 프로젝트는 정확성과 휴대성을 위해 노력하고 있으므로 특정 시스템에 대해 항상 가장 빠른 에뮬레이터는 아닙니다. 하지만 정확도가 높기 때문에 자체 게임 개발에도 유용합니다.</systemDescription>
+            <systemHardwareType>에뮬레이터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) is een emulator voor verschillende consoles en computersystemen, gebaseerd op de kern van MAME. Het was vroeger een op zichzelf staand programma (dat sindsdien niet meer bestaat), maar is nu geïntegreerd in MAME (dat actief wordt ontwikkeld). MESS emuleert draagbare en consolegamesystemen, computerplatforms en rekenmachines. Het project streeft naar nauwkeurigheid en draagbaarheid en is daarom niet altijd de snelste emulator voor een bepaald systeem. De nauwkeurigheid maakt het ook nuttig voor de ontwikkeling van zelfgemaakte spellen.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) to emulator dla różnych konsol i systemów komputerowych, oparty na rdzeniu MAME. Kiedyś był to samodzielny program (który od tego czasu został wycofany), ale obecnie jest zintegrowany z MAME (który jest aktywnie rozwijany). MESS emuluje przenośne i konsolowe systemy gier, platformy komputerowe i kalkulatory. Projekt dąży do dokładności i przenośności, dlatego też nie zawsze jest najszybszym emulatorem dla konkretnego systemu. Jego dokładność sprawia, że jest również przydatny do tworzenia gier homebrew.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Multi Emulator Super System (MESS) é um emulador para vários consoles e sistemas de computador, baseado no núcleo do MAME. Ele costumava ser um programa autônomo (que foi descontinuado), mas agora está integrado ao MAME (que está sendo desenvolvido ativamente). O MESS emula sistemas de jogos portáteis e de console, plataformas de computador e calculadoras. O projeto busca a precisão e a portabilidade e, portanto, nem sempre é o emulador mais rápido para um sistema específico. Sua precisão também o torna útil para o desenvolvimento de jogos caseiros.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Multi Emulator Super System (Mess) é um emulador para vários consoles e sistemas de computador, com base no núcleo MAME. Costumava ser um programa independente (que já foi descontinuado), mas agora é integrado ao MAME (que é desenvolvido ativamente). A bagunça emula sistemas de jogos portáteis e de console, plataformas de computador e calculadoras. O projeto busca precisão e portabilidade e, portanto, nem sempre é o emulador mais rápido para qualquer sistema específico. Sua precisão o torna também útil para o desenvolvimento de jogos homebrew.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) este un emulator pentru diferite console și sisteme informatice, bazat pe nucleul MAME. Acesta a fost un program independent (care a fost întrerupt de atunci), dar este acum integrat în MAME (care este dezvoltat în mod activ). MESS emulează sisteme de jocuri portabile și console, platforme de calculator și calculatoare. Proiectul urmărește acuratețea și portabilitatea și, prin urmare, nu este întotdeauna cel mai rapid emulator pentru un anumit sistem. Precizia sa îl face util și pentru dezvoltarea de jocuri homebrew.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) - это эмулятор для различных консолей и компьютерных систем, основанный на ядре MAME. Раньше он был отдельной программой (с тех пор прекратил свое существование), а теперь интегрирован в MAME (активно развивается). MESS эмулирует портативные и консольные игровые системы, компьютерные платформы и калькуляторы. Проект стремится к точности и портативности, поэтому не всегда является самым быстрым эмулятором для какой-либо конкретной системы. Благодаря своей точности он также полезен для разработки домашних игр.</systemDescription>
+            <systemHardwareType>Эмулятор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Мулти Емулатор Супер Систем (неред) је емулатор за различите конзоле и рачунарске системе, на основу маме језгре.Некада је био самостални програм (који је од тада прекинут), али је сада интегрисан у мам (која се активно развија).Неред измиче преносне и конзолне системе за игре, рачунарске платформе и калкулаторе.Пројект тежи тачност и преносивост и зато није увек најбржи емулатор за било који одређени систем.Његова тачност чини и корисном за развој домаће игре.</systemDescription>
+            <systemHardwareType>Емулатор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) är en emulator för olika konsoler och datorsystem, baserad på MAME-kärnan. Det var tidigare ett fristående program (som sedan dess har upphört), men är nu integrerat i MAME (som utvecklas aktivt). MESS emulerar bärbara och konsolbaserade spelsystem, datorplattformar och miniräknare. Projektet strävar efter noggrannhet och portabilitet och är därför inte alltid den snabbaste emulatorn för ett visst system. Dess noggrannhet gör den också användbar för utveckling av hemmagjorda spel.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>多模拟器超级系统（MESS）是一款基于 MAME 核心的模拟器，适用于各种游戏机和计算机系统。它曾是一个独立程序（现已停用），但现在已集成到 MAME 中（MAME 正在积极开发中）。MESS 可模拟便携式和控制台游戏系统、计算机平台和计算器。该项目力求精确性和可移植性，因此并不总是任何特定系统的最快模拟器。它的准确性使其也适用于自制游戏的开发。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Multi Emulator Super System (MESS) 是以 MAME 核心為基礎，用於各種遊戲機和電腦系統的模擬器。它曾是一個獨立程式（後來已停產），但現在已整合到 MAME 中（正積極開發中）。MESS 模擬可攜式和控制台遊戲系統、電腦平台和計算機。該專案致力於精確性與可攜性，因此對於任何特定系統而言，它不一定是最快的模擬器。它的精確性使其對自制遊戲開發也很有用。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+</theme>

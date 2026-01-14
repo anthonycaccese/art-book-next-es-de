@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>VIC-20</systemName>
+        <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
+
+The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
+        <systemManufacturer>Commodore</systemManufacturer>
+        <systemReleaseYear>1980</systemReleaseYear>
+        <systemReleaseDate>1980-06</systemReleaseDate>
+        <systemReleaseDateFormated>June 1980</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>286d98</systemColor>
+        <systemColorPalette1>896841</systemColorPalette1>
+        <systemColorPalette2>D3D3C9</systemColorPalette2>
+        <systemColorPalette3>FFCD1C</systemColorPalette3>
+        <systemColorPalette4>DC2770</systemColorPalette4>
+        <systemCartSize>99-168</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن كومودور VIC-20 (المعروف باسم VC-20 في ألمانيا وVIC-1001 في اليابان) هو كمبيوتر منزلي من 8 بت تم بيعه من قبل كومودور بيزنس ماكينات. وقد تم الإعلان عن VIC-20 في عام 1980، أي بعد ثلاث سنوات تقريباً من أول كمبيوتر شخصي من كومودور وهو PET. كان VIC-20 أول كمبيوتر من أي نوع يبيع مليون وحدة. وقد وُصف بأنه "أحد أوائل الحواسيب غير النظريّة وغير المتخصّصة في التصميم... لم يعد الكمبيوتر الذي طورته كومودور كمبيوتر المستقبل.
+
+كان يُطلق على VIC-20 في ألمانيا اسم VC-20 لأن نطق VIC بلكنة ألمانية يشبه لفظة "فيك" أو "ويتشن" الألمانية. وقد تم تسويق مصطلح VC كما لو كان اختصارًا لكلمة VolksComputer ("كمبيوتر الشعب" على غرار فولكس فاجن وفولكس كمبيوتر الشعب).</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
+
+The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Commodore VIC-20 (conegut com el VC-20 a Alemanya i el VIC-1001 al Japó) és un ordinador domèstic de 8 bits que va ser venut per Commodore Business Machines. El VIC-20 es va anunciar el 1980, aproximadament tres anys després del primer ordinador personal de Commodore, la mascota. El VIC-20 va ser el primer ordinador de qualsevol descripció que venia un milió d’unitats. Es va descriure com "un dels primers ordinadors anti-spectorial i no usotèrics per disseny ... ja no relegat a aficionats/entusiastes o a aquells amb diners, el Computer Commodore va ser l'ordinador del futur.
+
+El VIC-20 es va anomenar VC-20 a Alemanya perquè la pronunciació de Vic amb un accent alemany sona com els explosius alemanys "fick" o "wichsen". El terme VC es va comercialitzar com si es tractés d'una abreviació de Volkscomputer ("People's Computer", similar a Volkswagen i Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Commodore VIC-20 (in Deutschland als VC-20 und in Japan als VIC-1001 bekannt) ist ein 8-Bit-Heimcomputer, der von Commodore Business Machines verkauft wurde. Der VIC-20 wurde 1980 angekündigt, etwa drei Jahre nach dem ersten Personal Computer von Commodore, dem PET. Der VIC-20 war der erste Computer, von dem eine Million Stück verkauft wurden. Er wurde als "einer der ersten antispektakulären, nicht-esoterischen Computer beschrieben... der von Commodore entwickelte Computer war der Computer der Zukunft und nicht mehr nur etwas für Hobbyisten/Enthusiasten oder Leute mit Geld.
+
+Der VIC-20 wurde in Deutschland VC-20 genannt, weil die Aussprache von VIC mit deutschem Akzent wie die deutschen Schimpfwörter "fick" oder "wichsen" klingt. Der Begriff VC wurde so vermarktet, als sei er eine Abkürzung für VolksComputer (ähnlich wie Volkswagen und Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Commodore VIC-20 (conocido como VC-20 en Alemania y VIC-1001 en Japón) es un ordenador doméstico de 8 bits comercializado por Commodore Business Machines. El VIC-20 fue anunciado en 1980, aproximadamente tres años después del primer ordenador personal de Commodore, el PET. El VIC-20 fue el primer ordenador de cualquier tipo en vender un millón de unidades. Fue descrito como "uno de los primeros ordenadores antiespectadores, no esotéricos por diseño... ya no relegado a los aficionados/entusiastas o a los que tienen dinero, el ordenador desarrollado por Commodore era el ordenador del futuro".
+
+El VIC-20 se llamó VC-20 en Alemania porque la pronunciación de VIC con acento alemán suena como los improperios alemanes "fick" o "wichsen". El término VC se comercializó como si fuera una abreviatura de VolksComputer ("ordenador del pueblo", similar a Volkswagen y Volksempfänger).</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Commodore VIC-20 (connu sous le nom de VC-20 en Allemagne et de VIC-1001 au Japon) est un ordinateur domestique 8 bits vendu par Commodore Business Machines. Le VIC-20 a été annoncé en 1980, environ trois ans après le premier ordinateur personnel de Commodore, le PET. Le VIC-20 a été le premier ordinateur, toutes catégories confondues, à se vendre à un million d'exemplaires. Il a été décrit comme "l'un des premiers ordinateurs anti-spectateurs, non ésotériques de par sa conception... n'étant plus réservé aux amateurs/enthousiastes ou à ceux qui ont de l'argent, l'ordinateur développé par Commodore était l'ordinateur de l'avenir".
+
+Le VIC-20 était appelé VC-20 en Allemagne parce que la prononciation de VIC avec un accent allemand ressemble aux jurons allemands "fick" ou "wichsen". Le terme VC a été commercialisé comme s'il s'agissait d'une abréviation de VolksComputer ("ordinateur du peuple", similaire à Volkswagen et Volksempfänger).</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
+
+The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Commodore VIC-20 (noto come VC-20 in Germania e VIC-1001 in Giappone) è un home computer a 8 bit venduto da Commodore Business Machines. Il VIC-20 fu annunciato nel 1980, circa tre anni dopo il primo personal computer di Commodore, il PET. Il VIC-20 è stato il primo computer di qualsiasi tipo a vendere un milione di unità. È stato descritto come "uno dei primi computer anti-speculatori, non esoterici per concezione... non più relegato agli hobbisti/entusiasti o a chi ha soldi, il computer sviluppato da Commodore era il computer del futuro".
+
+Il VIC-20 era chiamato VC-20 in Germania perché la pronuncia di VIC con accento tedesco assomiglia alle imprecazioni tedesche "fick" o "wichsen". Il termine VC fu commercializzato come se fosse un'abbreviazione di VolksComputer ("computer del popolo", simile a Volkswagen e Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>コモドールVIC-20（ドイツではVC-20、日本ではVIC-1001として知られる）は、コモドール・ビジネス・マシーンズが販売していた8ビットの家庭用コンピュータである。VIC-20は、コモドール初のパーソナルコンピュータであるPETからおよそ3年後の1980年に発表された。VIC-20は、あらゆるコンピュータの中で初めて100万台を売り上げた。コモドール社が開発したVIC-20は、「最初の反スペクタクル的な、デザイン的にエソテリックでないコンピュータのひとつであり、もはや趣味やマニア、お金のある人に追いやられるものではなく、コモドール社が開発したコンピュータは未来のコンピュータである」と評された。
+
+VIC-20はドイツではVC-20と呼ばれていた。VICのドイツ語訛りの発音が、ドイツ語の "fick "や "wichsen "に似ていたからだ。VCという言葉は、VolksComputer（「人々のコンピュータ」、フォルクスワーゲンやフォルクスゼンプフェンガーに似ている）の略語であるかのように販売された。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Commodore VIC-20(독일에서는 VC-20, 일본에서는 VIC-1001로 알려짐)은 Commodore Business Machines에서 판매한 8비트 가정용 컴퓨터입니다. VIC-20은 Commodore의 첫 번째 개인용 컴퓨터인 PET가 출시된 지 약 3년 후인 1980년에 발표되었습니다. VIC-20은 100만 대가 판매된 최초의 컴퓨터였습니다. 이 컴퓨터는 "최초의 반관람적이고 난해하지 않은 컴퓨터 중 하나로, 더 이상 취미/애호가나 돈 있는 사람들만의 전유물이 아닌 미래의 컴퓨터였다"고 묘사되었습니다.
+
+VIC-20은 독일에서 VC-20이라고 불렀는데, 독일 억양이 있는 VIC의 발음이 독일 비속어인 '픽' 또는 '빌센'과 비슷하게 들리기 때문입니다. VC라는 용어는 폭스바겐이나 폭스엠펭거와 비슷한 '인민 컴퓨터'인 VolksComputer의 줄임말인 것처럼 마케팅되었습니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Commodore VIC-20 (bekend als de VC-20 in Duitsland en de VIC-1001 in Japan) is een 8-bit thuiscomputer die werd verkocht door Commodore Business Machines. De VIC-20 werd aangekondigd in 1980, ongeveer drie jaar na Commodore's eerste personal computer, de PET. De VIC-20 was de eerste computer die een miljoen keer verkocht werd. Het werd beschreven als "een van de eerste anti-spectatorische, niet-esoterische computers door het ontwerp...niet langer gedegradeerd tot hobbyisten/enthousiastelingen of mensen met geld, de computer die Commodore ontwikkelde was de computer van de toekomst.
+
+De VIC-20 werd in Duitsland VC-20 genoemd omdat de uitspraak van VIC met een Duits accent klinkt als de Duitse scheldwoorden "fick" of "wichsen". De term VC werd op de markt gebracht alsof het een afkorting was van VolksComputer ("computer van het volk", vergelijkbaar met Volkswagen en Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Commodore VIC-20 (znany jako VC-20 w Niemczech i VIC-1001 w Japonii) to 8-bitowy komputer domowy sprzedawany przez Commodore Business Machines. VIC-20 został ogłoszony w 1980 roku, mniej więcej trzy lata po pierwszym komputerze osobistym Commodore, PET. VIC-20 był pierwszym komputerem dowolnego typu, który sprzedał się w liczbie miliona sztuk. Został opisany jako "jeden z pierwszych anty-eksperckich, nie-ezoterycznych komputerów z założenia... nie był już relegowany do hobbystów/entuzjastów lub tych z pieniędzmi, komputer opracowany przez Commodore był komputerem przyszłości".
+
+VIC-20 był nazywany VC-20 w Niemczech, ponieważ wymowa VIC z niemieckim akcentem brzmi jak niemieckie wykrzykniki "fick" lub "wichsen". Termin VC był sprzedawany jako skrót od VolksComputer ("komputer dla ludu", podobnie jak Volkswagen i Volksempfänger).</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Commodore VIC-20 (conhecido como VC-20 na Alemanha e VIC-1001 no Japão) é um computador doméstico de 8 bits vendido pela Commodore Business Machines. O VIC-20 foi anunciado em 1980, cerca de três anos após o primeiro computador pessoal da Commodore, o PET. O VIC-20 foi o primeiro computador de qualquer descrição a vender um milhão de unidades. Ele foi descrito como "um dos primeiros computadores anti-especulativos e não-esotéricos por design... não mais relegado a amadores/entusiastas ou àqueles com dinheiro, o computador desenvolvido pela Commodore era o computador do futuro.
+
+O VIC-20 foi chamado de VC-20 na Alemanha porque a pronúncia de VIC com sotaque alemão soa como os palavrões alemães "fick" ou "wichsen". O termo VC foi comercializado como se fosse uma abreviação de VolksComputer ("computador do povo", semelhante a Volkswagen e Volksempfänger).</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
+
+The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Commodore VIC-20 (cunoscut sub numele de VC-20 în Germania și VIC-1001 în Japonia) este un computer personal pe 8 biți care a fost vândut de Commodore Business Machines. VIC-20 a fost anunțat în 1980, la aproximativ trei ani după primul computer personal Commodore, PET. VIC-20 a fost primul computer de orice tip care a vândut un milion de unități. Acesta a fost descris ca fiind "unul dintre primele computere anti-spectaculare, non-esoterice prin design... nu mai era relegat la pasionați/entuziaști sau la cei cu bani, computerul dezvoltat de Commodore era computerul viitorului.
+
+VIC-20 a fost numit VC-20 în Germania, deoarece pronunția VIC cu accent german sună ca imprecațiile germane "fick" sau "wichsen". Termenul VC a fost comercializat ca și cum ar fi fost o abreviere de la VolksComputer ("calculatorul poporului", similar cu Volkswagen și Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Commodore VIC-20 (известный как VC-20 в Германии и VIC-1001 в Японии) - это 8-битный домашний компьютер, который продавался компанией Commodore Business Machines. VIC-20 был анонсирован в 1980 году, примерно через три года после выхода первого персонального компьютера компании Commodore, PET. VIC-20 стал первым компьютером любого типа, проданным тиражом в один миллион единиц. Его описывали как "один из первых антиспекулятивных, неэзотерических по дизайну компьютеров... Больше не предназначенный для любителей/энтузиастов или тех, у кого есть деньги, компьютер, разработанный Commodore, был компьютером будущего".
+
+В Германии VIC-20 называли VC-20, потому что произношение VIC с немецким акцентом звучит как немецкие ругательства "fick" или "wichsen". Термин VC рекламировался как сокращение от VolksComputer ("народный компьютер", по аналогии с Volkswagen и Volksempfänger).</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
+
+The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Commodore VIC-20 (känd som VC-20 i Tyskland och VIC-1001 i Japan) är en 8-bitars hemdator som såldes av Commodore Business Machines. VIC-20 lanserades 1980, ungefär tre år efter Commodores första persondator PET. VIC-20 var den första datorn av något slag som såldes i en miljon exemplar. Den beskrevs som "en av de första anti-spektatoriska, icke-esoteriska datorerna med design...inte längre förpassad till hobbyister/entusiaster eller de med pengar, datorn som Commodore utvecklade var framtidens dator.
+
+VIC-20 kallades VC-20 i Tyskland eftersom uttalet av VIC med tysk accent låter som de tyska svordomarna "fick" eller "wichsen". Termen VC marknadsfördes som om den var en förkortning av VolksComputer ("folkets dator", i likhet med Volkswagen och Volksempfänger).</systemDescription>
+            <systemHardwareType>Dator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Commodore VIC-20（在德国称为 VC-20，在日本称为 VIC-1001）是 Commodore Business Machines 销售的一款 8 位家用电脑。VIC-20 发布于 1980 年，比 Commodore 的第一台个人电脑 PET 晚了大约三年。VIC-20 是第一款销量达到 100 万台的计算机。它被誉为 "首批反传统、非神秘设计的计算机之一......不再是业余爱好者或有钱人的专利，Commodore 开发的计算机是未来的计算机。
+
+VIC-20 在德国被称为 VC-20，因为德国口音的 VIC 发音听起来像德国的脏话 "fick "或 "wichsen"。VC 这个词在市场上被认为是 VolksComputer（"人民的计算机"，类似于 Volkswagen 和 Volksempfänger）的缩写。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Commodore VIC-20（德國稱為 VC-20，日本稱為 VIC-1001）是 Commodore Business Machines 銷售的 8 位元家用電腦。VIC-20 於 1980 年發表，與 Commodore 的第一台個人電腦 PET 相隔約三年。VIC-20 是第一台銷量突破 100 萬台的電腦。它被形容為「首批反觀觀、非神秘設計的電腦之一......不再只是業餘愛好者/發燒友或有錢人的專利，Commodore 開發的電腦是未來的電腦。
+
+VIC-20 在德國被稱為 VC-20，因為德語口音的 VIC 發音聽起來像德語的髒話「fick」或「wichsen」。VC 一詞在行銷上彷彿是 VolksComputer (「人民的電腦」，類似於 Volkswagen 和 Volksempfänger)的縮寫。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
+        </variables>
+    </language>
+</theme>

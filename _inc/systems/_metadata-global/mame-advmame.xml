@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>AdvanceMAME</systemName>
+        <systemDescription>AdvanceMAME, is a port of the MAME 0.106 and MESS 0.106 emulators for Arcade Monitors and TVs but also for LCDs and PC monitors.</systemDescription>
+        <systemManufacturer>MAME</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemReleaseDate>1998-05</systemReleaseDate>
+        <systemReleaseDateFormated>May 1998</systemReleaseDateFormated>
+        <systemHardwareType>Emulator</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5a64bb</systemColor>
+        <systemColorPalette1>00ADEF</systemColorPalette1>
+        <systemColorPalette2>84849C</systemColorPalette2>
+        <systemColorPalette3>231F20</systemColorPalette3>
+        <systemColorPalette4>FFFFFF</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>AdvanceMAME، هو منفذ لمحاكيات MAME 0.106 و MESS 0.106 لمحاكيات شاشات الأركيد وأجهزة التلفاز وكذلك لشاشات LCD وشاشات الكمبيوتر الشخصي.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>AdvanceMame, luka je mame 0.106 i nered 0,106 emulatora za arkadne monitore i televizore, ali i za LCDS i PC monitore.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>AdvanceMame, és un port de la MAME 0.106 i embolica 0.106 emuladors per a monitors i televisors d’arcades, però també per a monitors LCDs i PC.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>AdvanceMAME, ist eine Portierung der MAME 0.106 und MESS 0.106 Emulatoren für Arcade Monitore und TVs aber auch für LCDs und PC Monitore.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>AdvanceMAME, es un port de los emuladores MAME 0.106 y MESS 0.106 para Monitores Arcade y TVs pero también para LCDs y monitores de PC.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>AdvanceMAME est un portage des émulateurs MAME 0.106 et MESS 0.106 pour les moniteurs d'arcade et les téléviseurs, mais aussi pour les écrans LCD et les moniteurs PC.</systemDescription>
+            <systemHardwareType>Emulateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>AdvanceMame, luka je MAME 0,106 i nered 0,106 emulatora za arkadne monitore i TV -ove, ali i za LCD -ove i PC monitore.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>AdvanceMAME è un porting degli emulatori MAME 0.106 e MESS 0.106 per monitor e TV Arcade ma anche per LCD e monitor PC.</systemDescription>
+            <systemHardwareType>Emulatore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>AdvanceMAMEは、MAME 0.106とMESS 0.106のエミュレーターをアーケードモニターとテレビ、LCDとPCモニター用に移植したものです。</systemDescription>
+            <systemHardwareType>エミュレータ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>AdvanceMAME는 아케이드 모니터 및 TV용 MAME 0.106 및 MESS 0.106 에뮬레이터뿐만 아니라 LCD 및 PC 모니터용 에뮬레이터의 포트입니다.</systemDescription>
+            <systemHardwareType>에뮬레이터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>AdvanceMAME, is een port van de MAME 0.106 en MESS 0.106 emulators voor Arcade Monitoren en TV's maar ook voor LCD's en PC monitoren.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>AdvanceMAME, to port emulatorów MAME 0.106 i MESS 0.106 dla monitorów Arcade i telewizorów, ale także dla LCD i monitorów PC.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O AdvanceMAME é uma porta dos emuladores MAME 0.106 e MESS 0.106 para monitores e TVs de fliperama, mas também para LCDs e monitores de PC.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Advancemame, é um porto do MAME 0,106 e emuladores de 0,106 de MEG.106 para monitores e TVs de arcade, mas também para monitores de LCDs e PC.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>AdvanceMAME, este un port al emulatoarelor MAME 0.106 și MESS 0.106 pentru monitoare Arcade și televizoare, dar și pentru LCD-uri și monitoare PC.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>AdvanceMAME - это порт эмуляторов MAME 0.106 и MESS 0.106 для аркадных мониторов и телевизоров, а также для LCD и PC мониторов.</systemDescription>
+            <systemHardwareType>Эмулятор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>АДАНЦЕМАМЕМЕ, је лука маме 0,106 и неред 0.106 емулатора за аркадне мониторе и телевизора, али и за ЛЦДС и ПЦ мониторе.</systemDescription>
+            <systemHardwareType>Емулатор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>AdvanceMAME, är en portning av emulatorerna MAME 0.106 och MESS 0.106 för arkadmonitorer och TV-apparater men även för LCD- och PC-monitorer.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>AdvanceMAME是MAME 0.106和MESS 0.106模拟器的移植版，适用于街机显示器和电视，也适用于液晶显示器和电脑显示器。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>AdvanceMAME 是 MAME 0.106 和 MESS 0.106 模擬器的移植版，適用於 Arcade 監視器和電視，但也適用於 LCD 和 PC 監視器。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+</theme>

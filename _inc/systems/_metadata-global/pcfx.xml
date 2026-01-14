@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>PC-FX</systemName>
+        <systemDescription>The PC-FX is a 32-bit home video game console developed by both NEC and Hudson Soft and released in Japan in 1994. Powered by an NEC V810 CPU and using CD-ROMs, the PC-FX was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s. It is NEC's final foray into the home console market.
+
+The console is shaped like a tower PC and was meant to be similarly upgradeable. However the PC-FX lacked a 3D polygon-based graphics chip which rendered the system underpowered in comparison to its competitors. It was also expensive and lacked developer support, and as a result it was unable to compete effectively with its fifth generation peers. The PC-FX was NEC's last home video game console, and was discontinued in February 1998. It was considered a commercial failure.</systemDescription>
+        <systemManufacturer>NEC</systemManufacturer>
+        <systemReleaseYear>1994</systemReleaseYear>
+        <systemReleaseDate>1994-12-23</systemReleaseDate>
+        <systemReleaseDateFormated>December 23, 1994</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>9480de</systemColor>
+        <systemColorPalette1>FEC101</systemColorPalette1>
+        <systemColorPalette2>01015B</systemColorPalette2>
+        <systemColorPalette3>5C3073</systemColorPalette3>
+        <systemColorPalette4>F00020</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز PC-FX هو جهاز ألعاب فيديو منزلي 32 بت تم تطويره من قبل كل من NEC وHudson Soft وتم إصداره في اليابان عام 1994. يعمل بوحدة المعالجة المركزية NEC V810 ويستخدم الأقراص المدمجة، وكان الهدف من PC-FX أن يكون خليفة للكمبيوتر الشخصي PC Engine ونظيره الدولي TurboGrafx-16، وهما جهازان ناجحان لألعاب الفيديو من أواخر الثمانينيات. وهي آخر غزوة ل NEC في سوق وحدات التحكم المنزلية.
+
+تم تصميم وحدة التحكم على شكل كمبيوتر شخصي برجي وكان من المفترض أن تكون قابلة للترقية بالمثل. إلا أن جهاز PC-FX كان يفتقر إلى شريحة رسومات ثلاثية الأبعاد قائمة على المضلعات مما جعل النظام أقل قوة مقارنةً بمنافسيه. كما أنه كان باهظ الثمن ويفتقر إلى دعم المطورين، ونتيجة لذلك لم يكن قادراً على المنافسة بفعالية مع نظرائه من الجيل الخامس. كان PC-FX آخر جهاز ألعاب فيديو منزلي من NEC، وتم إيقافه في فبراير 1998. واعتبرت فاشلة تجارياً.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>PC-FX je 32-bitna kuća za video igre koju je razvio i nec i Hudson Mekana i pušta u Japan 1994. godine. Pokreće se od strane NEC V810 CPU-a i pomoću CD-ROM-a, i njegov međunarodni konzola za suzbijanje TurboGrafx-16, dva uspešna video igara iz kasnih 1980-ih. Konačni zanos NEC-a na tržištu kućne konzole.
+
+Konzola je oblikovana poput kule PC-a i namijenjena je slično nadograditi. Međutim, PC-FX je nedostajao 3D grafički čip zasnovan na poligonu koji je pružio sistem koji je podneo u odnosu na svoje takmičare. Bila je to i skupa i nedostajala je podrška za programere, a kao rezultat toga se ne može učinkovito takmičiti sa peersom pete generacije. PC-FX je bila NEC-ova posljednja konzola za video igre, a prekinuta je u februaru 1998. godine. Smatralo se komercijalnim neuspjehom.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El PC-FX és una consola de videojocs domèstica de 32 bits desenvolupada tant per NEC com per Hudson Soft i llançada al Japó el 1994. PC Engine i el seu homòleg internacional Turbografx-16, dues consoles de videojocs amb èxit de finals dels anys vuitanta.És la darrera incursió del NEC al mercat de la consola domèstica.
+
+La consola té forma de PC de torre i es volia actualitzar de manera similar. No obstant això, el PC-FX no tenia un xip gràfic basat en polígons en 3D que va fer que el sistema subratllava en comparació amb els seus competidors. També va ser costós i mancava de suport als desenvolupadors i, per tant, no va poder competir eficaçment amb els seus companys de cinquena generació. El PC-FX va ser l'última consola de videojocs a casa del NEC i es va suspendre el febrer de 1998. Es va considerar un fracàs comercial.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der PC-FX ist eine 32-Bit-Videospielkonsole für den Heimgebrauch, die sowohl von NEC als auch von Hudson Soft entwickelt und 1994 in Japan veröffentlicht wurde. Angetrieben von einer NEC V810 CPU und unter Verwendung von CD-ROMs war der PC-FX als Nachfolger der PC Engine und seines internationalen Gegenstücks, dem TurboGrafx-16, zwei erfolgreichen Videospielkonsolen aus den späten 1980er Jahren, gedacht. Es ist der letzte Vorstoß von NEC in den Heimkonsolenmarkt.
+
+Die Konsole hat die Form eines Tower-PCs und sollte in ähnlicher Weise aufrüstbar sein. Dem PC-FX fehlte jedoch ein auf 3D-Polygonen basierender Grafikchip, wodurch das System im Vergleich zu seinen Konkurrenten zu schwach war. Außerdem war das System teuer und es fehlte ihm an Entwicklerunterstützung, so dass es nicht in der Lage war, mit seinen Konkurrenten der fünften Generation zu konkurrieren. Der PC-FX war die letzte Heimvideospielkonsole von NEC und wurde im Februar 1998 eingestellt. Sie wurde als kommerzieller Misserfolg betrachtet.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La PC-FX es una videoconsola doméstica de 32 bits desarrollada por NEC y Hudson Soft y lanzada en Japón en 1994. Equipada con una CPU NEC V810 y CD-ROM, la PC-FX se concibió como sucesora de la PC Engine y de su homóloga internacional, la TurboGrafx-16, dos exitosas consolas de videojuegos de finales de la década de 1980. Se trata de la última incursión de NEC en el mercado de las consolas domésticas.
+
+La consola tiene la forma de un PC de torre y se pretendía que fuera igualmente actualizable. Sin embargo, la PC-FX carecía de un chip gráfico basado en polígonos 3D, lo que la convertía en un sistema poco potente en comparación con sus competidoras. Además, era caro y carecía de soporte para desarrolladores, por lo que no pudo competir eficazmente con sus homólogos de quinta generación. La PC-FX fue la última videoconsola doméstica de NEC y dejó de fabricarse en febrero de 1998. Se consideró un fracaso comercial.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le PC-FX est une console de jeu vidéo domestique 32 bits développée par NEC et Hudson Soft et commercialisée au Japon en 1994. Alimentée par un processeur NEC V810 et utilisant des CD-ROM, la PC-FX a été conçue comme le successeur de la PC Engine et de son homologue internationale la TurboGrafx-16, deux consoles de jeux vidéo à succès de la fin des années 1980. Il s'agit de la dernière incursion de NEC sur le marché des consoles de salon.
+
+La console a la forme d'un PC à tour et devait pouvoir être mise à niveau de la même manière. Cependant, le PC-FX ne disposait pas d'une puce graphique 3D à base de polygones, ce qui rendait le système sous-puissant par rapport à ses concurrents. Il était également cher et ne bénéficiait pas du soutien des développeurs, ce qui l'a empêché de rivaliser efficacement avec ses homologues de la cinquième génération. La PC-FX a été la dernière console de jeux vidéo de salon de NEC et a été abandonnée en février 1998. Elle a été considérée comme un échec commercial.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>PC-FX je 32-bitna kućna konzola za video igre koju su razvili i NEC i Hudson Soft, a objavljena u Japanu 1994. godine. Pokrenut CPU-om NEC V810 i korištenje CD-ROM-a, PC-FX je zamišljen kao nasljednik PC motora i njegovog međunarodnog kolege TurboGrafx-16, dvije uspješne konzole videoigara. Posljednji je korak NEC -a na tržište kućnih konzola.
+
+Konzola je oblikovana poput tornja i trebala je biti na sličan način nadogradnju. Međutim, PC-FX je nedostajao 3D poligonski grafički čip koji je sustav učinio nedovoljnim u usporedbi sa svojim konkurentima. Također je bila skupa i nedostajala mu je podrška za programere, a kao rezultat toga nije se mogao učinkovito natjecati sa svojim vršnjacima pete generacije. PC-FX je bio posljednja konzola za video igre NEC-a, a ukinuta je u veljači 1998. godine. Smatrano je komercijalnim neuspjehom.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il PC-FX è una console per videogiochi domestici a 32 bit sviluppata da NEC e Hudson Soft e rilasciata in Giappone nel 1994. Alimentata da una CPU NEC V810 e con l'utilizzo di CD-ROM, il PC-FX doveva essere il successore del PC Engine e della sua controparte internazionale TurboGrafx-16, due console per videogiochi di successo della fine degli anni Ottanta. È l'ultima incursione di NEC nel mercato delle console domestiche.
+
+La console ha la forma di un PC a torre e doveva essere aggiornabile in modo simile. Tuttavia, il PC-FX non disponeva di un chip grafico 3D basato su poligoni, il che rendeva il sistema poco potente rispetto ai suoi concorrenti. Inoltre, era costoso e mancava di supporto agli sviluppatori, e di conseguenza non era in grado di competere efficacemente con i suoi colleghi di quinta generazione. Il PC-FX fu l'ultima console per videogiochi domestica di NEC e venne dismessa nel febbraio 1998. Fu considerata un fallimento commerciale.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>PC-FXは、NECとハドソンソフトの両社によって開発され、1994年に日本で発売された32ビットの家庭用ゲーム機である。NECのV810 CPUを搭載し、CD-ROMを使用したPC-FXは、1980年代後半に成功を収めた2つのビデオゲーム機、PCエンジンとその海外版であるTurboGrafx-16の後継機として開発された。NECの家庭用ゲーム機市場への最後の進出となった。
+
+このゲーム機はタワー型PCのような形をしており、同様にアップグレードが可能であることを意図していた。しかし、PC-FXは3Dポリゴンベースのグラフィックチップを搭載していなかったため、競合他社に比べてパワー不足だった。また、価格も高く、開発者のサポートも不足していたため、第5世代の同世代機と効果的に競争することはできなかった。PC-FXはNECの最後の家庭用ゲーム機となり、1998年2月に販売終了となった。商業的には失敗だったと考えられている。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>PC-FX는 NEC와 허드슨 소프트가 개발한 32비트 가정용 비디오 게임 콘솔로, 1994년 일본에서 출시되었습니다. NEC V810 CPU로 구동되고 CD-ROM을 사용하는 PC-FX는 1980년대 후반에 출시된 비디오 게임 콘솔인 PC 엔진과 그 해외 버전인 TurboGrafx-16의 후속작으로 설계되었습니다. 이 제품은 NEC의 마지막 가정용 콘솔 시장 진출작입니다.
+
+이 콘솔은 타워형 PC처럼 생겼으며 비슷한 방식으로 업그레이드가 가능했습니다. 하지만 PC-FX에는 3D 폴리곤 기반 그래픽 칩이 없어 경쟁사에 비해 시스템 성능이 떨어졌습니다. 또한 가격이 비싸고 개발자 지원이 부족했기 때문에 5세대 경쟁 제품들과 효과적으로 경쟁할 수 없었습니다. PC-FX는 NEC의 마지막 가정용 비디오 게임 콘솔이었으며 1998년 2월에 단종되었습니다. 상업적 실패작으로 간주되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De PC-FX is een 32-bit home video game console ontwikkeld door zowel NEC als Hudson Soft en uitgebracht in Japan in 1994. Aangedreven door een NEC V810 CPU en gebruikmakend van CD-ROM's, was de PC-FX bedoeld als opvolger van de PC Engine en zijn internationale tegenhanger de TurboGrafx-16, twee succesvolle videogameconsoles uit de late jaren 1980. Het is NEC's laatste stap op de markt voor thuisconsoles.
+
+De console heeft de vorm van een tower PC en was bedoeld om op dezelfde manier te kunnen worden opgewaardeerd. De PC-FX had echter geen 3D polygoon-gebaseerde grafische chip, waardoor het systeem te weinig kracht had in vergelijking met zijn concurrenten. Het was ook duur en had geen ondersteuning van ontwikkelaars, waardoor het niet effectief kon concurreren met zijn vijfde generatie concurrenten. De PC-FX was NEC's laatste videogameconsole voor thuisgebruik en werd in februari 1998 uit productie genomen. Het werd beschouwd als een commerciële mislukking.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>PC-FX to 32-bitowa domowa konsola do gier wideo opracowana przez firmy NEC i Hudson Soft i wydana w Japonii w 1994 roku. Napędzana procesorem NEC V810 i wykorzystująca CD-ROM, PC-FX miała być następcą PC Engine i jej międzynarodowego odpowiednika TurboGrafx-16, dwóch udanych konsol do gier wideo z końca lat 80-tych. Jest to ostatni krok firmy NEC na rynku konsol domowych.
+
+Konsola ma kształt komputera typu tower i miała być podobnie rozbudowywana. Jednak PC-FX nie posiadała układu graficznego 3D opartego na wielokątach, co sprawiło, że system był słabszy w porównaniu do swoich konkurentów. Był również drogi i brakowało mu wsparcia deweloperów, w wyniku czego nie był w stanie skutecznie konkurować ze swoimi rówieśnikami piątej generacji. PC-FX była ostatnią domową konsolą do gier wideo firmy NEC i została wycofana z produkcji w lutym 1998 roku. Uznano ją za komercyjną porażkę.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O PC-FX é um console de videogame doméstico de 32 bits desenvolvido pela NEC e pela Hudson Soft e lançado no Japão em 1994. Alimentado por uma CPU NEC V810 e usando CD-ROMs, o PC-FX foi concebido como o sucessor do PC Engine e de seu equivalente internacional, o TurboGrafx-16, dois consoles de videogame bem-sucedidos do final da década de 1980. É a última incursão da NEC no mercado de consoles domésticos.
+
+O console tem o formato de um PC em torre e foi projetado para ser atualizado de forma semelhante. No entanto, o PC-FX não tinha um chip gráfico 3D baseado em polígonos, o que tornava o sistema pouco potente em comparação com seus concorrentes. Ele também era caro e não tinha suporte para desenvolvedores e, como resultado, não conseguiu competir efetivamente com seus pares de quinta geração. O PC-FX foi o último console de videogame doméstico da NEC e foi descontinuado em fevereiro de 1998. Foi considerado um fracasso comercial.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O PC-FX é um console de videogame caseiro de 32 bits desenvolvido pela NEC e Hudson Soft e lançado no Japão em 1994. Powered por uma CPU NEC V810 e usando CD-ROMs, o PC-FX foi destinado a sucessor do mecanismo de PC e seu contrapartido internacional The TurboGrafx-16, dois videogames bem-sucedidos dos anos 1980s.É a incursão final da NEC no mercado de console doméstico.
+
+O console tem a forma de um PC da torre e deveria ser igualmente atualizado. No entanto, o PC-FX não possuía um chip gráfico baseado em polígono em 3D, que tornava o sistema com pouca potência em comparação com seus concorrentes. Também era caro e não possuía suporte ao desenvolvedor e, como resultado, não conseguiu competir efetivamente com seus pares de quinta geração. O PC-FX foi o último console de videogame da NEC e foi descontinuado em fevereiro de 1998. Foi considerado um fracasso comercial.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>PC-FX este o consolă de jocuri video pe 32 de biți dezvoltată de NEC și Hudson Soft și lansată în Japonia în 1994. Motorizată de un CPU NEC V810 și utilizând CD-ROM-uri, PC-FX a fost concepută ca succesor al PC Engine și al omologului său internațional TurboGrafx-16, două console de jocuri video de succes de la sfârșitul anilor 1980. Este ultima incursiune a NEC pe piața consolelor de acasă.
+
+Consola are forma unui PC turn și a fost concepută pentru a putea fi actualizată în mod similar. Cu toate acestea, PC-FX nu dispunea de un cip grafic bazat pe poligoane 3D, ceea ce a făcut ca sistemul să nu fie suficient de puternic în comparație cu concurenții săi. Era, de asemenea, scump și nu beneficia de suport din partea dezvoltatorilor și, prin urmare, nu a putut concura eficient cu colegii săi din a cincea generație. PC-FX a fost ultima consolă de jocuri video de acasă NEC și a fost abandonată în februarie 1998. A fost considerată un eșec comercial.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>PC-FX - это 32-битная домашняя игровая консоль, разработанная компаниями NEC и Hudson Soft и выпущенная в Японии в 1994 году. Работающая на процессоре NEC V810 и использующая CD-ROM, PC-FX была задумана как преемница PC Engine и ее международного аналога TurboGrafx-16, двух успешных игровых консолей конца 1980-х годов. Это последняя попытка NEC выйти на рынок домашних консолей.
+
+Консоль по форме напоминает башенный ПК и должна была иметь такую же возможность модернизации. Однако в PC-FX отсутствовал графический чип, основанный на 3D-полигонах, что делало систему недостаточно мощной по сравнению с конкурентами. Кроме того, она была дорогой и не имела поддержки разработчиков, в результате чего не могла эффективно конкурировать с аналогами пятого поколения. PC-FX стала последней домашней видеоигровой консолью NEC и была снята с производства в феврале 1998 года. Она была признана коммерческим провалом.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>ПЦ-ФКС је 32-битни хоме видео игру коју је развио и НЕЦ и Худсон Софт и објављен у Јапану 1994. године. Покреће МИЦ В810 ЦПУ и користећи ЦД-РОМ-ове, ПЦ-ФКС је био замишљен као наследник ПЦ мотора и њеног међународног контрапартма ТУРБОГРАФКС-16, два успешна видео игра.То је за крајњ занат за Нец на тржишту кућне конзоле.
+
+Конзола је обликована као кула и требало је да буде на сличан начин надоградње.Међутим, ПЦ-ФКС је недостајало 3Д графички чип на бази полигона који је систем поднео подложен у поређењу са својим такмичарима.Такође је било скупо и недостајало је подршку програмера и као резултат тога није могла да се ефикасно такмичи са својим пећницом пете генерације.ПЦ-ФКС је био Нец-ов последњу кућну конзолу за видео игру и обустављен је у фебруару 1998. године. Сматра се комерцијалним неуспехом.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>PC-FX är en 32-bitars hemkonsol för videospel som utvecklades av både NEC och Hudson Soft och släpptes i Japan 1994. PC-FX, som drivs av en NEC V810 CPU och använder CD-ROM, var tänkt som en efterföljare till PC Engine och dess internationella motsvarighet TurboGrafx-16, två framgångsrika videospelskonsoler från slutet av 1980-talet. Det är NEC:s sista försök att ta sig in på hemkonsolmarknaden.
+
+Konsolen är formad som en PC-torndator och var tänkt att vara uppgraderingsbar på samma sätt. PC-FX saknade dock ett 3D-polygonbaserat grafikchip vilket gjorde att systemet var underdimensionerat i jämförelse med konkurrenterna. Den var också dyr och saknade stöd för utvecklare, vilket gjorde att den inte kunde konkurrera effektivt med sina motsvarigheter i femte generationen. PC-FX var NEC:s sista hemkonsol för videospel och togs ur produktion i februari 1998. Den ansågs vara ett kommersiellt misslyckande.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>PC-FX 是由 NEC 和 Hudson Soft 共同开发的 32 位家用视频游戏机，于 1994 年在日本发布。PC-FX 由 NEC V810 CPU 驱动，使用 CD-ROM，是 20 世纪 80 年代后期两款成功的视频游戏机 PC Engine 及其国际同类产品 TurboGrafx-16 的后继机。它是 NEC 进军家用游戏机市场的最后一次尝试。
+
+该控制台外形酷似塔式 PC，并具有类似的可升级性。然而，PC-FX 缺乏基于 3D 多边形的图形芯片，这使得该系统与其竞争对手相比显得性能不足。此外，PC-FX 价格昂贵，缺乏开发人员的支持，因此无法与第五代同类产品展开有效竞争。PC-FX 是 NEC 的最后一款家用视频游戏机，于 1998 年 2 月停产。它被认为是一款失败的商业产品。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>PC-FX 是由 NEC 和 Hudson Soft 共同開發的 32 位元家用視訊遊戲主機，於 1994 年在日本發售。PC-FX 採用 NEC V810 CPU 並使用 CD-ROM，其目的在於繼承 PC Engine 及其國際對手 TurboGrafx-16，這兩款在 1980 年代末期相當成功的視訊遊戲主機。它是 NEC 進軍家用控制台市場的最後一役。
+
+這款控制台的外型酷似塔式 PC，並具有類似的升級功能。然而 PC-FX 缺乏 3D 多邊形圖形晶片，使得系統的效能低於競爭對手。它的價格也很昂貴，而且缺乏開發人員的支援，因此無法與第五代的同級產品有效競爭。PC-FX 是 NEC 最後一款家用視訊遊戲機，於 1998 年 2 月停產。它被認為是商業上的失敗。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

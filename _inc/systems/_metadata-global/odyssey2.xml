@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Odyssey²</systemName>
+        <systemDescription>The Magnavox Odyssey 2 is a second generation (1976–1992) home video game console developed and distributed by Magnavox. It was released in February 1979 in North America at a retail price of $179. The console was also released in Europe (1979), and later South America (1983), and Japan (1982). The Odyssey 2 included a full alphanumeric membrane keyboard, which was to be used for educational games, selecting options, or programming. The console was discontinued on March 20, 1984.</systemDescription>
+        <systemManufacturer>Magnavox</systemManufacturer>
+        <systemReleaseYear>1978</systemReleaseYear>
+        <systemReleaseDate>1978-12-01</systemReleaseDate>
+        <systemReleaseDateFormated>December 1, 1978</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>fa860a</systemColor>
+        <systemColorPalette1>8C1914</systemColorPalette1>
+        <systemColorPalette2>89918F</systemColorPalette2>
+        <systemColorPalette3>DC3114</systemColorPalette3>
+        <systemColorPalette4>F8D239</systemColorPalette4>
+        <systemCartSize>105-170</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Magnavox Odyssey 2 هو جهاز ألعاب فيديو منزلي من الجيل الثاني (1976-1992) تم تطويره وتوزيعه من قبل Magnavox. تم إصدارها في فبراير 1979 في أمريكا الشمالية بسعر تجزئة 179 دولارًا أمريكيًا. تم إصدار وحدة التحكم أيضًا في أوروبا (1979)، ولاحقًا في أمريكا الجنوبية (1983) واليابان (1982). تضمنت Odyssey 2 لوحة مفاتيح غشائية أبجدية رقمية كاملة، والتي كان من المقرر استخدامها للألعاب التعليمية أو تحديد الخيارات أو البرمجة. تم إيقاف وحدة التحكم في 20 مارس 1984.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 je druga generacija (1976-1992) kućna konzola za video igre razvijena i distribuirana od strane magnavox. Puštena je u februaru 1979. u Severnoj Americi u maloprodajnoj ceni od 179 dolara. Konzola je takođe objavljena u Evropi (1979), a kasnije Južna Amerika (1983.) i Japan (1982). Odyssey 2 je uključivao potpunu alfanumeričku tastaturu membrane, koja se trebala koristiti za obrazovne igre, odabir opcija ili programiranje. Konzola je prekinuta 20. marta 1984. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Magnavox Odyssey 2 és una consola de videojocs de segona generació (1976–1992) desenvolupada i distribuïda per Magnavox. Va ser llançat el febrer de 1979 a Amèrica del Nord a un preu al detall de 179 dòlars. La consola també es va publicar a Europa (1979), i després a Amèrica del Sud (1983) i Japó (1982). L’Odyssey 2 va incloure un teclat de membrana alfanumèric complet, que s’havia d’utilitzar per a jocs educatius, selecció d’opcions o programació. La consola es va suspendre el 20 de març de 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Magnavox Odyssey 2 ist eine Videospielkonsole der zweiten Generation (1976-1992), die von Magnavox entwickelt und vertrieben wurde. Sie wurde im Februar 1979 in Nordamerika zu einem Einzelhandelspreis von 179 $ veröffentlicht. Die Konsole wurde auch in Europa (1979), später in Südamerika (1983) und Japan (1982) veröffentlicht. Die Odyssey 2 verfügte über eine vollständige alphanumerische Membrantastatur, die für Lernspiele, die Auswahl von Optionen oder die Programmierung verwendet werden sollte. Die Konsole wurde am 20. März 1984 aus dem Programm genommen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Magnavox Odyssey 2 es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Magnavox. Salió a la venta en febrero de 1979 en Norteamérica a un precio de venta al público de 179 dólares. La consola también salió a la venta en Europa (1979), y más tarde en Sudamérica (1983) y Japón (1982). La Odyssey 2 incluía un teclado de membrana alfanumérico completo, que debía utilizarse para juegos educativos, seleccionar opciones o programar. La consola dejó de fabricarse el 20 de marzo de 1984.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Magnavox Odyssey 2 est une console de jeux vidéo de salon de deuxième génération (1976-1992) développée et distribuée par Magnavox. Elle est sortie en février 1979 en Amérique du Nord au prix de 179 dollars. La console a également été commercialisée en Europe (1979), puis en Amérique du Sud (1983) et au Japon (1982). L'Odyssey 2 comprenait un clavier alphanumérique à membrane, qui devait être utilisé pour les jeux éducatifs, la sélection d'options ou la programmation. La console a été arrêtée le 20 mars 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 je druga generacija (1976–1992) Konzola za kućne video igre koju je razvio i distribuirao Magnavox. Objavljen je u veljači 1979. u Sjevernoj Americi po maloprodajnoj cijeni od 179 dolara. Konzola je objavljena i u Europi (1979), a kasnije i Južna Amerika (1983) i Japan (1982). Odiseja 2 uključivala je potpunu tipkovnicu alfanumeričke membrane, koja se trebala koristiti za obrazovne igre, odabir opcija ili programiranje. Konzola je prekinuta 20. ožujka 1984.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Magnavox Odyssey 2 è una console per videogiochi domestici di seconda generazione (1976-1992) sviluppata e distribuita da Magnavox. È stata rilasciata nel febbraio 1979 in Nord America a un prezzo al dettaglio di 179 dollari. La console è stata distribuita anche in Europa (1979) e successivamente in Sud America (1983) e in Giappone (1982). L'Odyssey 2 includeva una tastiera alfanumerica completa a membrana, da utilizzare per i giochi educativi, la selezione delle opzioni o la programmazione. La console fu dismessa il 20 marzo 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>マグナボックス・オデッセイ2は、マグナボックスが開発・販売した第2世代（1976年〜1992年）の家庭用ゲーム機である。1979年2月に北米で発売され、小売価格は179ドルであった。このゲーム機はヨーロッパ（1979年）でも発売され、後に南米（1983年）、日本（1982年）でも発売された。オデッセイ2にはフル英数字メンブレンキーボードが付属しており、教育用ゲームやオプションの選択、プログラミングなどに使用された。このゲーム機は1984年3月20日に生産終了となった。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>마그네박스 오디세이 2는 마그네박스에서 개발 및 유통한 2세대(1976~1992년) 가정용 비디오 게임기입니다. 1979년 2월 북미에서 179달러의 소매가로 출시되었습니다. 이 콘솔은 유럽(1979년)과 이후 남미(1983년), 일본(1982년)에서도 출시되었습니다. 오디세이 2에는 교육용 게임, 옵션 선택 또는 프로그래밍에 사용되는 풀 영숫자 멤브레인 키보드가 포함되어 있었습니다. 이 콘솔은 1984년 3월 20일에 단종되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Magnavox Odyssey 2 is een tweede generatie (1976-1992) home video game console ontwikkeld en gedistribueerd door Magnavox. Hij werd in februari 1979 uitgebracht in Noord-Amerika voor een verkoopprijs van 179 dollar. De console werd ook uitgebracht in Europa (1979) en later in Zuid-Amerika (1983) en Japan (1982). De Odyssey 2 bevatte een volledig alfanumeriek membraantoetsenbord, dat gebruikt kon worden voor educatieve spelletjes, het selecteren van opties of programmeren. De console werd gestopt op 20 maart 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 to domowa konsola do gier wideo drugiej generacji (1976-1992) opracowana i dystrybuowana przez firmę Magnavox. Została wydana w lutym 1979 roku w Ameryce Północnej w cenie detalicznej 179 USD. Konsola została również wydana w Europie (1979), a później w Ameryce Południowej (1983) i Japonii (1982). Odyssey 2 zawierała pełną alfanumeryczną klawiaturę membranową, która miała być używana do gier edukacyjnych, wybierania opcji lub programowania. Konsola została wycofana z produkcji 20 marca 1984 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Magnavox Odyssey 2 é um console de videogame doméstico de segunda geração (1976-1992) desenvolvido e distribuído pela Magnavox. Foi lançado em fevereiro de 1979 na América do Norte a um preço de varejo de US$ 179. O console também foi lançado na Europa (1979) e, posteriormente, na América do Sul (1983) e no Japão (1982). O Odyssey 2 incluía um teclado de membrana alfanumérico completo, que deveria ser usado para jogos educativos, seleção de opções ou programação. O console foi descontinuado em 20 de março de 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Magnavox Odyssey 2 é um console de videogame caseiro de segunda geração (1976-1992) desenvolvido e distribuído por Magnavox. Foi lançado em fevereiro de 1979 na América do Norte a um preço de varejo de US $ 179. O console também foi lançado na Europa (1979) e, mais tarde, na América do Sul (1983) e no Japão (1982). O Odyssey 2 incluiu um teclado completo da membrana alfanumérica, que deveria ser usada para jogos educacionais, selecionando opções ou programação. O console foi descontinuado em 20 de março de 1984.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 este o a doua generație (1976-1992) de console de jocuri video pentru acasă dezvoltată și distribuită de Magnavox. A fost lansată în februarie 1979 în America de Nord la un preț de vânzare cu amănuntul de 179 $. Consola a fost lansată și în Europa (1979), iar mai târziu în America de Sud (1983) și Japonia (1982). Odyssey 2 a inclus o tastatură cu membrană alfanumerică completă, care urma să fie utilizată pentru jocuri educaționale, selectarea opțiunilor sau programare. Consola a fost întreruptă pe 20 martie 1984.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 - домашняя игровая консоль второго поколения (1976-1992), разработанная и распространяемая компанией Magnavox. Она была выпущена в феврале 1979 года в Северной Америке по розничной цене $179. Консоль также была выпущена в Европе (1979), а затем в Южной Америке (1983) и Японии (1982). В комплект поставки Odyssey 2 входила полная алфавитно-цифровая мембранная клавиатура, которая должна была использоваться для обучающих игр, выбора опций или программирования. Консоль была снята с производства 20 марта 1984 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Магнавок Одиссеи 2 је друга генерација (1976-1992) кућна видео игарска конзола коју је развио и дистрибуирао Магнавок.Објављен је у фебруару 1979. године у Северној Америци на малопродајној цени од 179 долара.Конзола је такође објављена у Европи (1979), а касније и Јужна Америка (1983) и Јапан (1982).Одисеја 2 је укључивала потпуну тастатуру алфанумеричке мембране, која је требало да се користи за образовне игре, избор опција или програмирања.Конзола је обустављена 20. марта 1984. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 är en andra generationens (1976-1992) videospelskonsol för hemmabruk som utvecklades och distribuerades av Magnavox. Den släpptes i februari 1979 i Nordamerika till ett detaljhandelspris av 179 dollar. Konsolen släpptes även i Europa (1979) och senare i Sydamerika (1983) och Japan (1982). Odyssey 2 hade ett fullständigt alfanumeriskt membrantangentbord, som skulle användas för utbildningsspel, val av alternativ eller programmering. Konsolen slutade säljas den 20 mars 1984.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 是由 Magnavox 开发和销售的第二代（1976-1992 年）家用视频游戏机。它于 1979 年 2 月在北美发布，零售价为 179 美元。该游戏机还在欧洲（1979 年）、南美（1983 年）和日本（1982 年）发行。奥德赛 2 包括一个全字母数字薄膜键盘，可用于教学游戏、选择选项或编程。该控制台于 1984 年 3 月 20 日停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Magnavox Odyssey 2 是由 Magnavox 開發和代理的第二代（1976-1992）家用視訊遊戲機。它於 1979 年 2 月在北美發行，零售價為 179 美元。這款遊戲機也在歐洲（1979 年）、南美（1983 年）和日本（1982 年）發行。Odyssey 2 包含一個完整的字母數字薄膜鍵盤，可用於教育遊戲、選擇選項或程式設計。該控制台於 1984 年 3 月 20 日停產。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

@@ -1,0 +1,223 @@
+<theme>
+    <variables>
+        <systemName>FinalBurn Neo</systemName>
+        <systemDescription>FinalBurn Neo is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games. It is developed by the FinalBurn team and originated from FinalBurn by Dave and old MAME versions.
+
+FinalBurn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers.
+
+The reason for the separation of the older branch, FB Alpha, and new spin-off branch, FB Neo, was due to an apparent disagreement between one Barry Harris and the rest of the main FBA team members over a licensing issue.</systemDescription>
+        <systemManufacturer>FBA Team</systemManufacturer>
+        <systemReleaseYear>2002</systemReleaseYear>
+        <systemReleaseDate>2002</systemReleaseDate>
+        <systemReleaseDateFormated>2002</systemReleaseDateFormated>
+        <systemHardwareType>Emulator</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5a64bb</systemColor>
+        <systemColorPalette1>C0392B</systemColorPalette1>
+        <systemColorPalette2>CF8A61</systemColorPalette2>
+        <systemColorPalette3>231F20</systemColorPalette3>
+        <systemColorPalette4>FFFFFF</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>FinalBurn Neo هو محاكي آركيد متعدد الأكثر شهرة لمحاكاة ألعاب Neo-Geo و Capcom و Konami و Cave. تم تطويره من قِبل فريق FinalBurn ونشأ من FinalBurn بواسطة Dave وإصدارات MAME القديمة.
+
+FinalBurn Neo هو شوكة نشطة لمحاكي FinalBurn Alpha، أنشأه العديد من مطوري FBA السابقين.
+
+ويرجع سبب الفصل بين الفرع القديم، FB Alpha، والفرع المنبثق الجديد، FB Neo، إلى خلاف واضح بين باري هاريس وبقية أعضاء فريق FBA الرئيسي حول مشكلة الترخيص.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Finalburn Neo je višestruki arkadni emulator najpopularniji za oponašanje neo-geo, Capcom, Konamija i pećinskih igara. Razvija ga Finalburn tim i nastao iz finala Davea i Stare Mame verzije.
+
+FINALBURN NEO je aktivna vilica finalburn alfa emulatora, koju su stvorili mnogi bivši programeri FBA-e.
+
+Razlog razdvajanja starije podružnice, FB Alpha, i novih otporna grana, FB Neo, nastao je zbog očiglednog neslaganja između jednog Barryja Harrisa i ostatka glavnih članova FBA tima zbog problema sa licenciranjem.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Finalburn Neo és un emulador d'arcades múltiples més popular per emular Jocs Neo-Geo, Capcom, Konami i Cave. Està desenvolupat per l'equip Finalburn i es va originar a Finalburn per Dave i Old Mame versions.
+
+Finalburn Neo és una forquilla activa de l'emulador Finalburn Alpha, creat per molts dels antics desenvolupadors de la FBA.
+
+El motiu de la separació de la branca més antiga, FB Alpha i New Spin-of Spin-Off, FB NEO, es va deure a un aparent desacord entre un Barry Harris i la resta de membres principals de l'equip de l'FBA per un problema de llicència.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>FinalBurn Neo ist ein Multiple-Arcade-Emulator, der sich vor allem für die Emulation von Neo-Geo, Capcom, Konami und Cave-Spielen eignet. Er wird vom FinalBurn-Team entwickelt und entstand aus FinalBurn by Dave und alten MAME-Versionen.
+
+FinalBurn Neo ist ein aktiver Fork des FinalBurn Alpha-Emulators, der von vielen der ehemaligen FBA-Entwickler erstellt wurde.
+
+Der Grund für die Trennung des älteren Zweigs, FB Alpha, und des neuen Ablegers, FB Neo, war eine offensichtliche Meinungsverschiedenheit zwischen einem gewissen Barry Harris und dem Rest der Hauptmitglieder des FBA-Teams wegen einer Lizenzfrage.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>FinalBurn Neo es un Emulador Arcade Múltiple más popular para emular juegos de Neo-Geo, Capcom, Konami y Cave. Está desarrollado por el equipo de FinalBurn y se originó a partir de FinalBurn de Dave y antiguas versiones de MAME.
+
+FinalBurn Neo es un fork activo del emulador FinalBurn Alpha, creado por muchos de los antiguos desarrolladores de FBA.
+
+La razón de la separación de la antigua rama, FB Alpha, y la nueva rama derivada, FB Neo, se debió a un aparente desacuerdo entre un tal Barry Harris y el resto de los principales miembros del equipo FBA sobre un asunto de licencias.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>FinalBurn Neo est un émulateur d'arcade multiple très populaire pour émuler les jeux Neo-Geo, Capcom, Konami et Cave. Il est développé par l'équipe de FinalBurn et provient de FinalBurn by Dave et des anciennes versions de MAME.
+
+FinalBurn Neo est un fork actif de l'émulateur FinalBurn Alpha, créé par de nombreux anciens développeurs de FBA.
+
+La raison de la séparation de l'ancienne branche, FB Alpha, et de la nouvelle branche dérivée, FB Neo, est due à un désaccord apparent entre Barry Harris et le reste des membres de l'équipe FBA sur une question de licence.</systemDescription>
+            <systemHardwareType>Emulateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Finalburn Neo je višestruki arkadni emulator najpopularniji za oponašanje Neo-Geo, Capcom, Konami i Cave Games. Razvio ga je Finalburn tim, a potječe iz Finalburna od strane Dave i Old Mame verzije.
+
+Finalburn Neo je aktivna vilica Finalburn Alpha Emulatora, koju su stvorili mnogi bivši FBA programeri.
+
+Razlog odvajanja starije grane, FB Alpha i nove podružnice Spin-Off, FB Neo, bio je zbog očiglednog neslaganja između jednog Barryja Harrisa i ostalih glavnih članova FBA tima zbog izdavanja licenciranja.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>FinalBurn Neo è un emulatore arcade multiplo molto popolare per l'emulazione di giochi Neo-Geo, Capcom, Konami e Cave. È sviluppato dal team di FinalBurn ed è nato da FinalBurn by Dave e dalle vecchie versioni del MAME.
+
+FinalBurn Neo è un fork attivo dell'emulatore FinalBurn Alpha, creato da molti degli ex sviluppatori di FBA.
+
+La ragione della separazione tra il ramo più vecchio, FB Alpha, e il nuovo ramo spin-off, FB Neo, è dovuta a un apparente disaccordo tra Barry Harris e il resto dei membri principali del team FBA per una questione di licenze.</systemDescription>
+            <systemHardwareType>Emulatore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>FinalBurn Neoは、ネオジオ、カプコン、コナミ、ケイブのゲームをエミュレートするために最も人気のあるマルチアーケードエミュレータです。FinalBurnチームによって開発され、FinalBurn by Daveと古いMAMEバージョンから生まれました。
+
+FinalBurn NeoはFinalBurn Alphaエミュレータのアクティブフォークで、かつてのFBA開発者の多くによって作成されました。
+
+古いブランチであるFB Alphaと新しいスピンオフブランチであるFB Neoが分離された理由は、ライセンス問題をめぐるBarry Harrisの一人とFBAチームの残りのメンバーとの明らかな意見の相違によるものでした。</systemDescription>
+            <systemHardwareType>エミュレータ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>파이널번 네오는 네오지오, 캡콤, 코나미, 케이브 게임을 에뮬레이션하는 데 가장 많이 사용되는 멀티 아케이드 에뮬레이터입니다. FinalBurn 팀이 개발했으며 FinalBurn by Dave와 이전 MAME 버전에서 시작되었습니다.
+
+FinalBurn Neo는 많은 이전 FBA 개발자들이 만든 FinalBurn Alpha 에뮬레이터의 활성 포크입니다.
+
+이전 브랜치인 FB Alpha와 새로운 스핀오프 브랜치인 FB Neo가 분리된 이유는 라이선스 문제에 대한 배리 해리스와 나머지 주요 FBA 팀원들 간의 의견 불일치 때문이었습니다.</systemDescription>
+            <systemHardwareType>에뮬레이터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>FinalBurn Neo is een Multiple Arcade Emulator die het meest populair is voor het emuleren van Neo-Geo, Capcom, Konami en Cave spellen. Het is ontwikkeld door het FinalBurn team en is ontstaan uit FinalBurn van Dave en oude MAME versies.
+
+FinalBurn Neo is een actieve fork van de FinalBurn Alpha emulator, gemaakt door veel van de voormalige FBA ontwikkelaars.
+
+De reden voor de scheiding van de oudere tak, FB Alpha, en de nieuwe spin-off tak, FB Neo, was te wijten aan een schijnbare onenigheid tussen ene Barry Harris en de rest van de belangrijkste FBA teamleden over een licentiekwestie.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>FinalBurn Neo to emulator wielu gier zręcznościowych, najbardziej popularny do emulacji gier Neo-Geo, Capcom, Konami i Cave. Został opracowany przez zespół FinalBurn i wywodzi się z FinalBurn by Dave i starych wersji MAME.
+
+FinalBurn Neo jest aktywnym forkiem emulatora FinalBurn Alpha, stworzonym przez wielu byłych programistów FBA.
+
+Powodem rozdzielenia starszej gałęzi, FB Alpha, i nowej gałęzi spin-off, FB Neo, była pozorna różnica zdań między Barrym Harrisem a resztą głównych członków zespołu FBA w kwestii licencji.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O FinalBurn Neo é um emulador de arcade múltiplo mais popular para emular jogos Neo-Geo, Capcom, Konami e Cave. Ele foi desenvolvido pela equipe do FinalBurn e originou-se do FinalBurn by Dave e de versões antigas do MAME.
+
+O FinalBurn Neo é um fork ativo do emulador FinalBurn Alpha, criado por muitos dos antigos desenvolvedores do FBA.
+
+O motivo da separação do ramo mais antigo, FB Alpha, e do novo ramo derivado, FB Neo, foi devido a um aparente desacordo entre Barry Harris e o restante dos membros da equipe principal do FBA sobre uma questão de licenciamento.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Finalburn Neo é um emulador de arcade múltiplo mais popular por emular os jogos de Neo-Geo, Capcom, Konami e Cave.É desenvolvido pela equipe Finalburn e originário de Finalburn pelas versões de Dave e Old MAME.
+
+Finalburn Neo é um garfo ativo do emulador Alpha Finalburn, criado por muitos dos ex -desenvolvedores da FBA.
+
+A razão para a separação do ramo mais antigo, o FB Alpha e o novo ramo de spin-off, o FB Neo, foi devido a um aparente desacordo entre um Barry Harris e o restante dos principais membros da equipe do FBA em uma questão de licenciamento.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>FinalBurn Neo este un emulator Arcade Multiplu cel mai popular pentru emularea jocurilor Neo-Geo, Capcom, Konami și Cave. Acesta este dezvoltat de echipa FinalBurn și provine de la FinalBurn by Dave și versiunile vechi MAME.
+
+FinalBurn Neo este un fork activ al emulatorului FinalBurn Alpha, creat de mulți dintre foștii dezvoltatori FBA.
+
+Motivul separării dintre ramura mai veche, FB Alpha, și noua ramură spin-off, FB Neo, s-a datorat unui dezacord aparent între un anume Barry Harris și restul membrilor echipei principale FBA cu privire la o problemă de licențiere.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>FinalBurn Neo - множественный эмулятор аркад, наиболее популярный для эмуляции игр Neo-Geo, Capcom, Konami и Cave. Он разработан командой FinalBurn и произошел от FinalBurn by Dave и старых версий MAME.
+
+FinalBurn Neo - это активный форк эмулятора FinalBurn Alpha, созданный многими бывшими разработчиками FBA.
+
+Причиной разделения старой ветки, FB Alpha, и новой ветки, FB Neo, стали явные разногласия между Барри Харрисом и остальными членами основной команды FBA по вопросу лицензирования.</systemDescription>
+            <systemHardwareType>Эмулятор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>ФиналБурн Нео је вишеструки аркадни емулатор најпопуларнији за опонашање Нео-Гео, Цапцом, Конами и пећинских игара.Развију га тим финалбурн и потиче од финалбурн од стране Давеа и старих мами верзија.
+
+ФиналБурн Нео је активан виљушкар Финалбурн Алпха Емулатор, који је створио многи бивши програмери ФБА.
+
+Разлог раздвајања старије гране, ФБ алфа и нова грана окретања, ФБ Нео, био је послечије неслагање између једног Барри Харриса и остатак главних чланова ФБА тима у вези са издавањем лиценцирања.</systemDescription>
+            <systemHardwareType>Емулатор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>FinalBurn Neo är en Multiple Arcade Emulator som är mest populär för emulering av Neo-Geo-, Capcom-, Konami- och Cave-spel. Den är utvecklad av FinalBurn-teamet och härstammar från FinalBurn by Dave och gamla MAME-versioner.
+
+FinalBurn Neo är en aktiv gaffel av FinalBurn Alpha-emulatorn, skapad av många av de tidigare FBA-utvecklarna.
+
+Anledningen till separationen av den äldre grenen, FB Alpha, och den nya avknoppningsgrenen, FB Neo, berodde på en uppenbar oenighet mellan en Barry Harris och resten av huvudmedlemmarna i FBA-teamet om en licensfråga.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>FinalBurn Neo 是一款多街机模拟器，最常用于模拟 Neo-Geo、Capcom、Konami 和 Cave 游戏。它由 FinalBurn 团队开发，源于戴夫的 FinalBurn 和旧版 MAME。
+
+FinalBurn Neo 是 FinalBurn Alpha 模拟器的主动分叉，由许多前 FBA 开发人员创建。
+
+之所以将老的分支 FB Alpha 和新的衍生分支 FB Neo 分离开来，是因为 Barry Harris 与 FBA 团队的其他主要成员在授权问题上存在明显分歧。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>FinalBurn Neo 是一款多重街機模擬器，最常用於模擬 Neo-Geo、Capcom、Konami 和 Cave 遊戲。它由 FinalBurn 團隊開發，源自 FinalBurn by Dave 和舊版 MAME。
+
+FinalBurn Neo 是 FinalBurn Alpha 模擬器的主動分叉，由許多前 FBA 開發人員所創造。
+
+舊的分支 FB Alpha 與新的衍生分支 FB Neo 之所以分離，是因為一位 Barry Harris 與其他主要的 FBA 團隊成員在授權問題上有明顯的分歧。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+</theme>

@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Mega Duck</systemName>
+        <systemDescription>The Welback Holdings Mega Duck, usually just referred to as Mega Duck, is a fourth generation (1987-2004) handheld video game console developed and distributed by Welback Holdings, but marketed under different names like Creatronic, Videojet, Cougar USA, and Hartung. It was released in August 1993 in Netherlands at a retail price of fl 129 as the Creatronic Mega Duck. The console was also released in Germany (1993) distributed by Hartung, France (1993) distributed by Videojet, and Brazil (1993) but as the Cougar USA Cougar Boy. The Mega Duck was an obvious clone of the Game Boy in looks, and it sadly lacked any innovative games to set it apart to become a competitor. The console was discontinued quietly sometime in early 1995.</systemDescription>
+        <systemManufacturer>Welback</systemManufacturer>
+        <systemReleaseYear>1993</systemReleaseYear>
+        <systemReleaseDate>1993</systemReleaseDate>
+        <systemReleaseDateFormated>1993</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>4-3</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>099eb0</systemColor>
+        <systemColorPalette1>415E81</systemColorPalette1>
+        <systemColorPalette2>EAEAEA</systemColorPalette2>
+        <systemColorPalette3>51BABB</systemColorPalette3>
+        <systemColorPalette4>819B73</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>البطة الميجا داك من ويلباك هولدينجز، والتي يشار إليها عادةً باسم ميجا داك فقط، هي جهاز ألعاب فيديو محمول باليد من الجيل الرابع (1987-2004) تم تطويره وتوزيعه من قبل شركة ويلباك هولدينجز، ولكن تم تسويقه تحت أسماء مختلفة مثل كرياترونيك وفيديو جيت وكوجر الولايات المتحدة الأمريكية وهارتونج. تم إصدارها في أغسطس 1993 في هولندا بسعر تجزئة 129 فلوري هولندي باسم Creatronic Mega Duck. وصدرت وحدة التحكم أيضًا في ألمانيا (1993) ووزعتها شركة هارتونج، وفي فرنسا (1993) ووزعتها شركة Videojet، وفي البرازيل (1993) ولكن باسم Cougar USA Cougar Boy. كانت Mega Duck نسخة واضحة من Game Boy من حيث الشكل، وللأسف كانت تفتقر إلى أي ألعاب مبتكرة تميزها لتصبح منافسًا. تم إيقاف وحدة التحكم بهدوء في وقت ما في أوائل عام 1995.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Wholdings Mega Patka, obično se naziva kao Mega Duck, četvrta generacija (1987-2004) (1987-2004) ručna konzola za video igre razvijena i distribuira se za udjela u korištenju, ali na tržištem pod različitim imenima poput Creatronic, Videot, Cougar USA i Hartung. Pušten je u avgustu 1993. godine u Holandiji u maloprodajnoj cijeni FL 129 kao kreatronic mega patka. Konzola je objavljena i u Njemačkoj (1993) distribuiranu od strane Hartung, Francuska (1993) distribuirala je Videojet i Brazil (1993), ali kao Cougar USA Cougar Boy. Mega patka je bila očigledna klon igre u izgledu, a tužno nedostajalo je bilo kakvih inovativnih inovativnih inovativnih utakmica da bi ga izdvojeno postale konkurent. Konzola je ukinuta tiho negde početkom 1995. godine.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Welback Holdings Mega Duck, generalment anomenat Mega Duck, és una consola de videojocs de la quarta generació (1987-2004) desenvolupada i distribuïda per Welback Holdings, però comercialitzada amb diferents noms com Creatronic, Videojet, Cougar USA i Hartung. Va ser llançat a l'agost de 1993 als Països Baixos a un preu al detall de FL 129 com a Mega Duck Creaconic. La consola també es va publicar a Alemanya (1993) distribuïda per Hartung, França (1993) distribuïda per Videojet, i Brasil (1993), però com a Cougar USA Cougar Boy. El Mega Duck era un clon evident del Game Boy a Looks i, malauradament, mancava de jocs innovadors per distingir -lo per convertir -se en competidor. La consola es va suspendre tranquil·lament en algun moment a principis de 1995.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Welback Holdings Mega Duck, meist nur als Mega Duck bezeichnet, ist eine Handheld-Videospielkonsole der vierten Generation (1987-2004), die von Welback Holdings entwickelt und vertrieben, aber unter verschiedenen Namen wie Creatronic, Videojet, Cougar USA und Hartung vermarktet wurde. Sie wurde im August 1993 in den Niederlanden unter dem Namen Creatronic Mega Duck zu einem Verkaufspreis von 129 fl veröffentlicht. Die Konsole wurde auch in Deutschland (1993) von Hartung, in Frankreich (1993) von Videojet und in Brasilien (1993) unter dem Namen Cougar USA Cougar Boy vertrieben. Der Mega Duck war ein offensichtlicher Klon des Game Boy, und leider fehlten ihm innovative Spiele, die ihn von der Konkurrenz abheben konnten. Die Konsole wurde irgendwann Anfang 1995 still und leise eingestellt.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Mega Duck de Welback Holdings, normalmente conocida como Mega Duck, es una videoconsola portátil de cuarta generación (1987-2004) desarrollada y distribuida por Welback Holdings, pero comercializada bajo diferentes nombres como Creatronic, Videojet, Cougar USA y Hartung. Salió a la venta en agosto de 1993 en los Países Bajos a un precio de venta al público de 129 fl como Creatronic Mega Duck. La consola también salió a la venta en Alemania (1993) distribuida por Hartung, Francia (1993) distribuida por Videojet, y Brasil (1993) pero como Cougar USA Cougar Boy. La Mega Duck era un clon evidente de la Game Boy en cuanto a aspecto, y lamentablemente carecía de juegos innovadores que la diferenciaran para convertirse en un competidor. La consola se dejó de fabricar discretamente a principios de 1995.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Mega Duck de Welback Holdings, généralement appelée Mega Duck, est une console de jeu vidéo portable de quatrième génération (1987-2004) développée et distribuée par Welback Holdings, mais commercialisée sous différents noms tels que Creatronic, Videojet, Cougar USA et Hartung. Elle est sortie en août 1993 aux Pays-Bas au prix de 129 fl sous le nom de Creatronic Mega Duck. La console a également été commercialisée en Allemagne (1993) par Hartung, en France (1993) par Videojet et au Brésil (1993) sous le nom de Cougar USA Cougar Boy. La Mega Duck était un clone évident de la Game Boy en termes d'apparence, et elle manquait malheureusement de jeux innovants pour se démarquer et devenir un concurrent. La console a été abandonnée discrètement au début de l'année 1995.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Mega Duck Welback Holdings, obično samo nazvan Mega Duck, je četvrta generacija (1987-2004) ručna konzola za video igre koju je razvio i distribuirao Welback Holdings, ali prodaje se pod različitim imenima poput Creatronic, VideoJet, Cougar USA i Hartung. Objavljen je u kolovozu 1993. u Nizozemskoj po maloprodajnoj cijeni FL 129 kao krekatronička mega patka. Konzola je također objavljena u Njemačkoj (1993) koju su distribuirali Hartung, Francuska (1993.) koju su distribuirali VideoJet i Brazil (1993), ali kao dečko Cougar USA Cougar. Mega Duck bio je očigledan klon igrača igrača u izgledu, a nažalost nedostajalo je inovativnih igara da bi ga izdvojio da bi postao konkurent. Konzola je ukinuta tiho negdje početkom 1995. godine.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Welback Holdings Mega Duck, solitamente indicato solo come Mega Duck, è una console per videogiochi portatile di quarta generazione (1987-2004) sviluppata e distribuita da Welback Holdings, ma commercializzata con nomi diversi come Creatronic, Videojet, Cougar USA e Hartung. È stata rilasciata nell'agosto 1993 nei Paesi Bassi a un prezzo al dettaglio di 129 euro come Creatronic Mega Duck. La console fu distribuita anche in Germania (1993) da Hartung, in Francia (1993) da Videojet e in Brasile (1993) con il nome di Cougar USA Cougar Boy. Il Mega Duck era un evidente clone del Game Boy per quanto riguarda l'aspetto, e purtroppo mancava di giochi innovativi che lo distinguessero per diventare un concorrente. La console fu dismessa in sordina all'inizio del 1995.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck（ウェルバック・ホールディングス・メガ・ダック）は、Welback Holdingsが開発・販売した第4世代（1987年～2004年）の携帯ゲーム機であるが、Creatronic、Videojet、Cougar USA、Hartungといった異なる名称で販売された。1993年8月にオランダでCreatronic Mega Duckとして小売価格129フランで発売された。また、ドイツ（1993年）ではHartung、フランス（1993年）ではVideojet、ブラジル（1993年）ではCougar USA Cougar Boyとして発売された。メガダックは、見た目は明らかにゲームボーイのクローンであり、悲しいかな、ライバルとなるような革新的なゲームもなかった。このゲーム機は1995年初頭にひっそりと販売終了となった。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>일반적으로 메가덕이라고 불리는 웰백 홀딩스 메가덕은 웰백 홀딩스에서 개발 및 유통한 4세대(1987-2004) 휴대용 비디오 게임 콘솔로, 크리에트로닉, 비디오젯, 쿠거 USA, 하퉁 등 다양한 이름으로 판매되었습니다. 1993년 8월 네덜란드에서 크리에트로닉 메가덕이라는 이름으로 129유로의 소매가로 출시되었습니다. 이 콘솔은 독일(1993년)에서는 Hartung이, 프랑스(1993년)에서는 Videojet이, 브라질(1993년)에서는 쿠거 USA 쿠거 보이라는 이름으로도 출시되었습니다. 메가 덕은 외관상 게임 보이의 명백한 복제품이었으며, 안타깝게도 경쟁자가 될 만한 혁신적인 게임이 부족했습니다. 이 콘솔은 1995년 초에 조용히 단종되었습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Welback Holdings Mega Duck, meestal Mega Duck genoemd, is een handheld video game console van de vierde generatie (1987-2004), ontwikkeld en gedistribueerd door Welback Holdings, maar op de markt gebracht onder verschillende namen zoals Creatronic, Videojet, Cougar USA en Hartung. Hij werd in augustus 1993 in Nederland uitgebracht voor een verkoopprijs van fl 129 als de Creatronic Mega Duck. De console werd ook uitgebracht in Duitsland (1993) gedistribueerd door Hartung, Frankrijk (1993) gedistribueerd door Videojet, en Brazilië (1993) maar dan als de Cougar USA Cougar Boy. De Mega Duck was qua uiterlijk een duidelijke kloon van de Game Boy en het ontbrak helaas aan vernieuwende spellen om het tot een concurrent te maken. De console werd stilletjes gestopt ergens begin 1995.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck, zwykle określana po prostu jako Mega Duck, to przenośna konsola do gier wideo czwartej generacji (1987-2004) opracowana i dystrybuowana przez Welback Holdings, ale sprzedawana pod różnymi nazwami, takimi jak Creatronic, Videojet, Cougar USA i Hartung. Została wydana w sierpniu 1993 roku w Holandii w cenie detalicznej 129 fl jako Creatronic Mega Duck. Konsola została również wydana w Niemczech (1993) dystrybuowana przez Hartung, Francji (1993) dystrybuowana przez Videojet i Brazylii (1993), ale jako Cougar USA Cougar Boy. Mega Duck był oczywistym klonem Game Boya pod względem wyglądu i niestety brakowało mu jakichkolwiek innowacyjnych gier, które mogłyby go wyróżnić i stać się konkurentem. Konsola została wycofana po cichu na początku 1995 roku.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Welback Holdings Mega Duck, geralmente chamado apenas de Mega Duck, é um console de videogame portátil de quarta geração (1987-2004) desenvolvido e distribuído pela Welback Holdings, mas comercializado sob diferentes nomes, como Creatronic, Videojet, Cougar USA e Hartung. Ele foi lançado em agosto de 1993 na Holanda a um preço de varejo de fl. 129 como Creatronic Mega Duck. O console também foi lançado na Alemanha (1993), distribuído pela Hartung, na França (1993), distribuído pela Videojet, e no Brasil (1993), mas como Cougar USA Cougar Boy. O Mega Duck era um clone óbvio do Game Boy em termos de aparência e, infelizmente, não tinha nenhum jogo inovador que o diferenciasse para se tornar um concorrente. O console foi descontinuado discretamente no início de 1995.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O mega pato Welback Holdings, geralmente chamado de Mega Duck, é um console de videogame de quarta geração (1987-2004) desenvolvido e distribuído pela Welback Holdings, mas comercializado em nomes diferentes como Creatronic, VideoJet, Cougar USA e Hartung. Foi lançado em agosto de 1993 na Holanda a um preço de varejo da FL 129 como o Mega Duck Creatronic. O console também foi lançado na Alemanha (1993) distribuído por Hartung, França (1993) distribuído por Videojet e Brasil (1993), mas como o Cougar USA Cougar Boy. O Mega Duck era um clone óbvio do Game Boy na aparência, e infelizmente não tinha jogos inovadores para diferenciá -lo para se tornar um concorrente. O console foi descontinuado em silêncio em algum momento no início de 1995.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck, denumită de obicei Mega Duck, este o consolă de jocuri video portabilă din a patra generație (1987-2004) dezvoltată și distribuită de Welback Holdings, dar comercializată sub diferite denumiri precum Creatronic, Videojet, Cougar USA și Hartung. A fost lansată în august 1993 în Olanda la un preț de vânzare cu amănuntul de fl 129 ca Creatronic Mega Duck. Consola a fost, de asemenea, lansată în Germania (1993) distribuită de Hartung, Franța (1993) distribuită de Videojet și Brazilia (1993), dar ca Cougar USA Cougar Boy. Mega Duck a fost o clonă evidentă a Game Boy în ceea ce privește aspectul și, din păcate, a fost lipsită de jocuri inovatoare care să o diferențieze pentru a deveni un concurent. Consola a fost întreruptă în liniște cândva la începutul anului 1995.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck, обычно называемая просто Mega Duck, - это портативная игровая консоль четвертого поколения (1987-2004), разработанная и распространяемая компанией Welback Holdings, но продававшаяся под разными названиями, такими как Creatronic, Videojet, Cougar USA и Hartung. Консоль Creatronic Mega Duck была выпущена в августе 1993 года в Нидерландах по розничной цене fl 129. Консоль также была выпущена в Германии (1993) под маркой Hartung, во Франции (1993) под маркой Videojet и в Бразилии (1993) под маркой Cougar USA Cougar Boy. Внешне Mega Duck была явным клоном Game Boy, а инновационных игр, которые могли бы составить ей конкуренцию, к сожалению, не было. Консоль была тихо снята с производства где-то в начале 1995 года.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Заваривач мела мега патка, обично се назива Мега Дуцк, четврта генерација (1987-2004) ручна видео игарска конзола која је развила и дистрибуирала вјеровање у запаљењима, али на тржиште у различитим именима попут Цреатрониц, Видеојет, Цоугар.Објављен је у августу 1993. године у Холандији на малопродајној цени ФЛ 129 као Цреатрониц Мега Дуцк.У Немачкој је објављен и у Немачкој (1993), дистрибуирала Хартунг, Франце (1993), дистрибуирала видеојет и Бразил (1993), али као Цоугар УСА Цоугар Бои.Мега Дуцк била је очигледан клон игре дечака у изгледу, а на жару је недостајало иновативних игара да га поставе да постане такмичар.Конзола је тихо прекинута негде почетком 1995. године.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck, vanligtvis bara kallad Mega Duck, är en fjärde generationens (1987-2004) handhållen videospelskonsol som utvecklades och distribuerades av Welback Holdings, men marknadsfördes under olika namn som Creatronic, Videojet, Cougar USA och Hartung. Den släpptes i augusti 1993 i Nederländerna till ett detaljhandelspris av fl 129 som Creatronic Mega Duck. Konsolen släpptes också i Tyskland (1993) distribuerad av Hartung, Frankrike (1993) distribuerad av Videojet, och Brasilien (1993) men då som Cougar USA Cougar Boy. Mega Duck var en uppenbar klon av Game Boy till utseendet, och den saknade tyvärr innovativa spel som skulle kunna göra den till en konkurrent. Konsolen slutade säljas i tysthet någon gång i början av 1995.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck，通常简称为 Mega Duck，是由 Welback Holdings 开发和发行的第四代（1987-2004 年）掌上视频游戏机，但在市场上以不同的名称销售，如 Creatronic、Videojet、Cougar USA 和 Hartung。它于 1993 年 8 月在荷兰以 Creatronic Mega Duck 的名义发布，零售价为 129 弗林。此外，该控制台还在德国（1993 年）由 Hartung 分销，在法国（1993 年）由 Videojet 分销，以及在巴西（1993 年）以美洲狮美国美洲狮男孩的名义发售。Mega Duck 在外观上明显是 Game Boy 的克隆版，遗憾的是它缺乏任何创新游戏，无法成为竞争对手。该游戏机于 1995 年初悄然停产。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Welback Holdings Mega Duck，通常簡稱為 Mega Duck，是由 Welback Holdings 所開發與代理的第四代（1987-2004）掌上型電玩遊戲機，但以不同的名稱行銷，例如 Creatronic、Videojet、Cougar USA 與 Hartung。它於 1993 年 8 月在荷蘭發行，零售價為 129 法郎，當時稱為 Creatronic Mega Duck。該控制台也在德國（1993 年）由 Hartung 發行，在法國（1993 年）由 Videojet 發行，以及在巴西（1993 年）以 Cougar USA Cougar Boy 的名義發行。Mega Duck 在外型上顯然是 Game Boy 的複製品，但可惜的是，它缺乏任何創新的遊戲，無法脫穎而出，成為競爭對手。這款遊戲機在 1995 年初悄然停產。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

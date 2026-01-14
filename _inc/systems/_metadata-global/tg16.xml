@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>TurboGrafx-16</systemName>
+        <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
+
+The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</systemDescription>
+        <systemManufacturer>NEC</systemManufacturer>
+        <systemReleaseYear>1989</systemReleaseYear>
+        <systemReleaseDate>1989-08-29</systemReleaseDate>
+        <systemReleaseDateFormated>August 29, 1989</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5B6559</systemColor>
+        <systemColorPalette1>F79226</systemColorPalette1>
+        <systemColorPalette2>ECF332</systemColorPalette2>
+        <systemColorPalette3>FD5A17</systemColorPalette3>
+        <systemColorPalette4>D5E14D</systemColorPalette4>
+        <systemCartSize>3-5</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز TurboGrafx-16، المعروف باسم محرك الكمبيوتر الشخصي في اليابان وفرنسا، هو جهاز ألعاب فيديو منزلي من الجيل الرابع 16 بت صممته شركة Hudson Soft وباعته شركة NEC Home Electronics. تم إصداره في اليابان عام 1987 وفي أمريكا الشمالية عام 1989. تم استيراد الطراز الياباني وتوزيعه في فرنسا في عام 1989، وحصلت المملكة المتحدة وإسبانيا على نسخة مبنية على الطراز الأمريكي المعروف ببساطة باسم TurboGrafx. كانت أول وحدة تحكم تم إصدارها في عصر 16 بت، على الرغم من أنها استخدمت وحدة معالجة مركزية معدلة 8 بت. في اليابان، تم إطلاق النظام كمنافس ل Famicom، ولكن تأخر إصداره في الولايات المتحدة يعني أنه انتهى به الأمر إلى منافسة Sega Genesis ثم نظام Super Nintendo Entertainment System.
+
+يحتوي جهاز TurboGrafx-16 على وحدة معالجة مركزية 8 بت، ووحدة تشفير ألوان فيديو 16 بت، ووحدة تحكم في عرض الفيديو 16 بت. ووحدات معالجة الرسومات قادرة على عرض 482 لوناً في وقت واحد، من أصل 512. بأبعاد تبلغ 14 سم × 14 سم × 3.8 سم فقط (5.5 بوصة × 5.5 بوصة × 1.5 بوصة)، يعتبر محرك الكمبيوتر الياباني أصغر وحدة تحكم ألعاب منزلية رئيسية تم صنعها على الإطلاق. وقد تم إصدار الألعاب على خراطيش HuCard ولاحقاً على شكل قرص مدمج بصري مع إضافة TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
+
+The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Turbografx-16, conegut com el motor de PC a Japó i França, és una consola de videojocs de quarta generació de 16 bits dissenyada per Hudson Soft i venuda per NEC Home Electronics. Va ser llançat al Japó el 1987 i a Amèrica del Nord el 1989. El model japonès es va importar i distribuir a França el 1989, i el Regne Unit i Espanya va rebre una versió basada en el model nord -americà conegut com a simplement Turbografx. Va ser la primera consola alliberada a l'era de 16 bits, tot i que va utilitzar una CPU modificada de 8 bits. Al Japó, el sistema es va llançar com a competidor a la Famicom, però el retard de la publicació dels Estats Units va fer que acabés competint amb el Sega Genesis i més tard el Super Nintendo Entertainment System.
+
+El Turbografx-16 té una CPU de 8 bits, un codificador de colors de vídeo de 16 bits i un controlador de pantalla de vídeo de 16 bits. Les GPU són capaces de mostrar 482 colors simultàniament, de 512. Amb dimensions de només 14 cm × 14 cm × 3,8 cm (5,5 en × 5,5 en × 1,5 in). Els jocs es van publicar en cartutxos de Hucard i més tard el format òptic CD-ROM amb el complement Turbografx-CD.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der TurboGrafx-16, in Japan und Frankreich als PC Engine bekannt, ist eine 16-Bit-Heimvideospielkonsole der vierten Generation, die von Hudson Soft entwickelt und von NEC Home Electronics verkauft wurde. Sie wurde 1987 in Japan und 1989 in Nordamerika veröffentlicht. Das japanische Modell wurde 1989 nach Frankreich importiert und dort vertrieben, und das Vereinigte Königreich und Spanien erhielten eine Version, die auf dem amerikanischen Modell basierte und einfach TurboGrafx genannt wurde. Es war die erste Konsole, die in der 16-Bit-Ära veröffentlicht wurde, obwohl sie eine modifizierte 8-Bit-CPU verwendete. In Japan wurde das System als Konkurrent des Famicom auf den Markt gebracht, aber die verzögerte Veröffentlichung in den USA bedeutete, dass es schließlich mit dem Sega Genesis und später dem Super Nintendo Entertainment System konkurrierte.
+
+Der TurboGrafx-16 hat eine 8-Bit-CPU, einen 16-Bit-Videofarbcodierer und einen 16-Bit-Videobildschirm-Controller. Die Grafikprozessoren sind in der Lage, 482 von 512 Farben gleichzeitig darzustellen. Mit Abmessungen von nur 14 cm × 14 cm × 3,8 cm ist die japanische PC-Engine die kleinste große Heimspielkonsole, die je hergestellt wurde. Die Spiele wurden auf HuCard-Kassetten und später im optischen CD-ROM-Format mit dem TurboGrafx-CD-Add-on veröffentlicht.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La TurboGrafx-16, conocida como PC Engine en Japón y Francia, es una videoconsola doméstica de 16 bits de cuarta generación diseñada por Hudson Soft y comercializada por NEC Home Electronics. Salió a la venta en Japón en 1987 y en Norteamérica en 1989. El modelo japonés se importó y distribuyó en Francia en 1989, y el Reino Unido y España recibieron una versión basada en el modelo americano conocida simplemente como TurboGrafx. Fue la primera consola lanzada en la era de los 16 bits, aunque utilizaba una CPU modificada de 8 bits. En Japón, la consola se lanzó como competidora de la Famicom, pero el retraso en su lanzamiento en Estados Unidos hizo que acabara compitiendo con la Sega Genesis y, más tarde, con la Super Nintendo Entertainment System.
+
+El TurboGrafx-16 tiene una CPU de 8 bits, un codificador de color de vídeo de 16 bits y un controlador de pantalla de vídeo de 16 bits. La GPU es capaz de mostrar 482 colores simultáneamente, de un total de 512. Con unas dimensiones de sólo 14 cm × 14 cm × 3,8 cm (5,5 in × 5,5 in × 1,5 in), la PC Engine japonesa es la videoconsola doméstica más pequeña jamás fabricada. Los juegos se lanzaron en cartuchos HuCard y, más tarde, en formato óptico CD-ROM con el complemento TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La TurboGrafx-16, connue sous le nom de PC Engine au Japon et en France, est une console de jeux vidéo 16 bits de quatrième génération conçue par Hudson Soft et vendue par NEC Home Electronics. Elle est sortie au Japon en 1987 et en Amérique du Nord en 1989. Le modèle japonais a été importé et distribué en France en 1989, et le Royaume-Uni et l'Espagne ont reçu une version basée sur le modèle américain, connue sous le nom de TurboGrafx. Il s'agit de la première console de l'ère 16 bits, bien qu'elle utilise un processeur 8 bits modifié. Au Japon, la console a été lancée pour concurrencer la Famicom, mais sa sortie retardée aux États-Unis l'a mise en concurrence avec la Sega Genesis et, plus tard, avec la Super Nintendo Entertainment System.
+
+Le TurboGrafx-16 possède un processeur 8 bits, un encodeur de couleurs vidéo 16 bits et un contrôleur d'affichage vidéo 16 bits. Les GPU sont capables d'afficher 482 couleurs simultanément, sur 512. Avec des dimensions de seulement 14 cm × 14 cm × 3,8 cm (5,5 in × 5,5 in × 1,5 in), la PC Engine japonaise est la plus petite console de jeu de salon jamais fabriquée. Les jeux ont été publiés sur des cartouches HuCard et, plus tard, au format optique CD-ROM avec l'extension TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
+
+The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il TurboGrafx-16, noto come PC Engine in Giappone e Francia, è una console per videogiochi domestici di quarta generazione a 16 bit progettata da Hudson Soft e venduta da NEC Home Electronics. È stata rilasciata in Giappone nel 1987 e in Nord America nel 1989. Il modello giapponese è stato importato e distribuito in Francia nel 1989, mentre il Regno Unito e la Spagna hanno ricevuto una versione basata sul modello americano, nota semplicemente come TurboGrafx. Fu la prima console rilasciata nell'era dei 16 bit, sebbene utilizzasse una CPU modificata a 8 bit. In Giappone, la console fu lanciata come concorrente del Famicom, ma il ritardo nell'uscita negli Stati Uniti fece sì che finisse per competere con il Sega Genesis e successivamente con il Super Nintendo Entertainment System.
+
+Il TurboGrafx-16 è dotato di una CPU a 8 bit, un codificatore video a 16 bit e un controller video a 16 bit. Le GPU sono in grado di visualizzare 482 colori contemporaneamente, su 512. Con dimensioni di soli 14 cm × 14 cm × 3,8 cm (5,5 in × 5,5 in × 1,5 in), il PC Engine giapponese è la più piccola console per videogiochi mai realizzata. I giochi sono stati rilasciati su cartucce HuCard e successivamente sul formato ottico CD-ROM con il componente aggiuntivo TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ターボグラフィックス16（TurboGrafx-16）は、日本とフランスではPCエンジンと呼ばれ、ハドソンソフトが設計し、NECホームエレクトロニクスが販売した16ビットの第4世代家庭用ゲーム機である。日本では1987年、北米では1989年に発売された。フランスでは1989年に日本仕様が輸入販売され、イギリスとスペインではアメリカ仕様のターボグラフィックスが販売された。16ビット時代に発売された最初のゲーム機であったが、8ビットCPUを改造して使用していた。日本では、ファミコンの競合機として発売されたが、米国での発売が遅れたため、セガ・ジェネシス、後のスーパーファミコンと競合することになった。
+
+TurboGrafx-16は、8ビットのCPU、16ビットのビデオカラーエンコーダー、16ビットのビデオディスプレイコントローラーを搭載している。GPUは512色のうち482色を同時に表示できる。寸法はわずか14cm×14cm×3.8cm（5.5インチ×5.5インチ×1.5インチ）で、日本のPCエンジンはこれまでに作られた主要な家庭用ゲーム機の中で最も小さい。ゲームはHuCardカートリッジで発売され、後にTurboGrafx-CDアドオンのCD-ROM光学フォーマットで発売された。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>일본과 프랑스에서 PC 엔진으로 알려진 TurboGrafx-16은 허드슨 소프트가 설계하고 NEC 홈 일렉트로닉스가 판매한 16비트 4세대 가정용 비디오 게임 콘솔입니다. 1987년 일본과 1989년 북미에서 출시되었습니다. 일본 모델은 1989년 프랑스에서 수입되어 유통되었고, 영국과 스페인에서는 미국 모델을 기반으로 한 버전인 터보그래프엑스가 유통되었습니다. 개조된 8비트 CPU를 사용했지만 16비트 시대에 출시된 최초의 콘솔이었습니다. 일본에서는 패미컴의 경쟁 제품으로 출시되었지만 미국 출시가 지연되면서 결국 세가 제네시스, 이후 슈퍼 닌텐도 엔터테인먼트 시스템과 경쟁하게 되었습니다.
+
+TurboGrafx-16에는 8비트 CPU, 16비트 비디오 컬러 인코더, 16비트 비디오 디스플레이 컨트롤러가 있습니다. GPU는 512개 색상 중 482개 색상을 동시에 표시할 수 있습니다. 크기가 14cm × 14cm × 3.8cm(5.5인치 × 5.5인치 × 1.5인치)에 불과한 일본 PC 엔진은 지금까지 출시된 주요 가정용 게임 콘솔 중 가장 작은 크기입니다. 게임은 HuCard 카트리지로 출시되었고, 이후 TurboGrafx-CD 애드온을 통해 CD-ROM 광학 포맷으로 출시되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De TurboGrafx-16, bekend als de PC Engine in Japan en Frankrijk, is een 16-bit vierde generatie spelcomputer voor thuisgebruik, ontworpen door Hudson Soft en verkocht door NEC Home Electronics. Hij werd in 1987 in Japan uitgebracht en in 1989 in Noord-Amerika. Het Japanse model werd geïmporteerd en gedistribueerd in Frankrijk in 1989, en het Verenigd Koninkrijk en Spanje ontvingen een versie gebaseerd op het Amerikaanse model dat bekend staat als TurboGrafx. Het was de eerste console die werd uitgebracht in het 16-bit tijdperk, hoewel het een aangepaste 8-bit CPU gebruikte. In Japan werd het systeem gelanceerd als concurrent voor de Famicom, maar de vertraagde release in de Verenigde Staten betekende dat het uiteindelijk moest concurreren met de Sega Genesis en later het Super Nintendo Entertainment System.
+
+De TurboGrafx-16 heeft een 8-bits CPU, een 16-bits videokleurencoder en een 16-bits videodisplaycontroller. De GPU's kunnen 482 van de 512 kleuren tegelijk weergeven. Met afmetingen van slechts 14 cm × 14 cm × 3,8 cm (5,5 in × 5,5 in × 1,5 in) is de Japanse PC Engine de kleinste grote spelcomputer voor thuisgebruik die ooit is gemaakt. Spellen werden uitgebracht op HuCard-cartridges en later op het optische CD-ROM-formaat met de TurboGrafx-CD add-on.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>TurboGrafx-16, znany jako PC Engine w Japonii i Francji, to 16-bitowa domowa konsola do gier wideo czwartej generacji zaprojektowana przez Hudson Soft i sprzedawana przez NEC Home Electronics. Została wydana w Japonii w 1987 roku i w Ameryce Północnej w 1989 roku. Japoński model był importowany i dystrybuowany we Francji w 1989 roku, a Wielka Brytania i Hiszpania otrzymały wersję opartą na amerykańskim modelu znanym po prostu jako TurboGrafx. Była to pierwsza konsola wydana w erze 16-bitowej, choć korzystała ze zmodyfikowanego 8-bitowego procesora. W Japonii system został wprowadzony na rynek jako konkurent Famicom, ale opóźnienie premiery w Stanach Zjednoczonych oznaczało, że ostatecznie konkurował z Sega Genesis, a później Super Nintendo Entertainment System.
+
+TurboGrafx-16 posiada 8-bitowy procesor, 16-bitowy koder kolorów wideo i 16-bitowy kontroler wyświetlania wideo. Procesory graficzne są w stanie wyświetlać jednocześnie 482 kolory z 512. Przy wymiarach zaledwie 14 cm × 14 cm × 3,8 cm (5,5 cala × 5,5 cala × 1,5 cala), japoński PC Engine jest najmniejszą dużą konsolą do gier domowych, jaką kiedykolwiek wyprodukowano. Gry były wydawane na kartridżach HuCard, a później w formacie optycznym CD-ROM z dodatkiem TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O TurboGrafx-16, conhecido como PC Engine no Japão e na França, é um console de videogame doméstico de quarta geração de 16 bits projetado pela Hudson Soft e vendido pela NEC Home Electronics. Foi lançado no Japão em 1987 e na América do Norte em 1989. O modelo japonês foi importado e distribuído na França em 1989, e o Reino Unido e a Espanha receberam uma versão baseada no modelo americano, conhecida simplesmente como TurboGrafx. Foi o primeiro console lançado na era dos 16 bits, embora usasse uma CPU de 8 bits modificada. No Japão, o sistema foi lançado como concorrente do Famicom, mas o atraso no lançamento nos Estados Unidos fez com que ele acabasse competindo com o Sega Genesis e, posteriormente, com o Super Nintendo Entertainment System.
+
+O TurboGrafx-16 tem uma CPU de 8 bits, um codificador de cores de vídeo de 16 bits e um controlador de exibição de vídeo de 16 bits. As GPUs são capazes de exibir 482 cores simultaneamente, de um total de 512. Com dimensões de apenas 14 cm × 14 cm × 3,8 cm (5,5 pol. × 5,5 pol. × 1,5 pol.), o PC Engine japonês é o menor console de jogos domésticos já fabricado. Os jogos foram lançados em cartuchos HuCard e, posteriormente, no formato óptico de CD-ROM com o complemento TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
+
+The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>TurboGrafx-16, cunoscut sub numele de PC Engine în Japonia și Franța, este o consolă de jocuri video pe 16 biți de a patra generație proiectată de Hudson Soft și vândută de NEC Home Electronics. A fost lansată în Japonia în 1987 și în America de Nord în 1989. Modelul japonez a fost importat și distribuit în Franța în 1989, iar Regatul Unit și Spania au primit o versiune bazată pe modelul american cunoscut sub numele simplu de TurboGrafx. A fost prima consolă lansată în era pe 16 biți, deși folosea un CPU modificat pe 8 biți. În Japonia, sistemul a fost lansat ca un concurent pentru Famicom, dar lansarea întârziată în Statele Unite a însemnat că a ajuns să concureze cu Sega Genesis și mai târziu cu Super Nintendo Entertainment System.
+
+TurboGrafx-16 are un CPU pe 8 biți, un codificator de culori video pe 16 biți și un controler de afișare video pe 16 biți. GPU-urile sunt capabile să afișeze 482 de culori simultan, din 512. Cu dimensiuni de doar 14 cm × 14 cm × 3,8 cm (5,5 in × 5,5 in × 1,5 in), PC Engine-ul japonez este cea mai mică consolă majoră de jocuri pentru acasă realizată vreodată. Jocurile au fost lansate pe cartușe HuCard și mai târziu în format optic CD-ROM cu add-on-ul TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>TurboGrafx-16, известная в Японии и Франции как PC Engine, - 16-битная домашняя игровая приставка четвертого поколения, разработанная компанией Hudson Soft и продаваемая NEC Home Electronics. Она была выпущена в Японии в 1987 году и в Северной Америке в 1989 году. Японская модель была импортирована и распространена во Франции в 1989 году, а Великобритания и Испания получили версию, основанную на американской модели, известную как просто TurboGrafx. Это была первая консоль, выпущенная в 16-битную эру, хотя в ней использовался модифицированный 8-битный процессор. В Японии система была выпущена как конкурент Famicom, но из-за задержки с выпуском в США она стала конкурировать с Sega Genesis, а затем и с Super Nintendo Entertainment System.
+
+TurboGrafx-16 имеет 8-битный процессор, 16-битный кодер цвета видео и 16-битный контроллер видеодисплея. Графический процессор способен одновременно отображать 482 цвета из 512. Имея размеры всего 14 см × 14 см × 3,8 см (5,5 дюйма × 5,5 дюйма × 1,5 дюйма), японская PC Engine является самой маленькой из когда-либо созданных домашних игровых консолей. Игры выпускались на картриджах HuCard, а позже - в оптическом формате CD-ROM с дополнением TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.
+
+The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video display controller. The GPUs are capable of displaying 482 colors simultaneously, out of 512. With dimensions of just 14 cm × 14 cm × 3.8 cm (5.5 in × 5.5 in × 1.5 in), the Japanese PC Engine is the smallest major home game console ever made. Games were released on HuCard cartridges and later the CD-ROM optical format with the TurboGrafx-CD add-on.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>TurboGrafx-16, känd som PC Engine i Japan och Frankrike, är en 16-bitars fjärde generationens hemkonsol för videospel designad av Hudson Soft och såld av NEC Home Electronics. Den släpptes i Japan 1987 och i Nordamerika 1989. Den japanska modellen importerades och distribuerades i Frankrike 1989, och Storbritannien och Spanien fick en version baserad på den amerikanska modellen som helt enkelt kallades TurboGrafx. Det var den första konsolen som släpptes under 16-bitars-eran, även om den använde en modifierad 8-bitars CPU. I Japan lanserades systemet som en konkurrent till Famicom, men den försenade lanseringen i USA innebar att det kom att konkurrera med Sega Genesis och senare Super Nintendo Entertainment System.
+
+TurboGrafx-16 har en 8-bitars CPU, en 16-bitars videofärgkodare och en 16-bitars videodisplaykontroll. GPU:erna kan visa 482 färger samtidigt, av 512 möjliga. Med sina mått på endast 14 cm × 14 cm × 3,8 cm (5,5 in × 5,5 in × 1,5 in) är den japanska PC Engine den minsta större hemspelskonsolen som någonsin tillverkats. Spelen släpptes på HuCard-kassetter och senare i det optiska formatet CD-ROM med tillägget TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>TurboGrafx-16 在日本和法国被称为 PC Engine，是由 Hudson Soft 设计、NEC Home Electronics 销售的 16 位第四代家用视频游戏机。它于 1987 年在日本发布，1989 年在北美发布。日本的型号于 1989 年进口并在法国销售，英国和西班牙则收到了基于美国型号的版本，简称为 TurboGrafx。它是第一款在 16 位时代发布的游戏机，尽管它使用的是经过改进的 8 位 CPU。在日本，该系统是作为 Famicom 的竞争对手推出的，但在美国的延迟发布意味着它最终要与世嘉创世纪和后来的超级任天堂娱乐系统竞争。
+
+TurboGrafx-16 有一个 8 位 CPU、一个 16 位视频彩色编码器和一个 16 位视频显示控制器。图形处理器能够同时显示 512 种颜色中的 482 种。日本 PC Engine 的尺寸仅为 14 厘米 × 14 厘米 × 3.8 厘米（5.5 英寸 × 5.5 英寸 × 1.5 英寸），是有史以来最小的大型家用游戏机。游戏通过 HuCard 盒式磁带发行，后来又通过 TurboGrafx-CD 附加软件以光盘格式发行。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>TurboGrafx-16 在日本和法國被稱為 PC Engine，是由 Hudson Soft 設計、NEC Home Electronics 銷售的 16 位元第四代家用視訊遊戲機。它於 1987 年在日本發行，1989 年在北美發行。日本機型於 1989 年進口並在法國銷售，英國和西班牙則收到以美國機型為基礎的版本，簡稱為 TurboGrafx。這是第一款在 16 位元時代推出的遊戲機，雖然它使用的是改良過的 8 位元 CPU。在日本，該系統是作為 Famicom 的競爭對手推出的，但在美國的延遲發行意味著它最終與 Sega Genesis 以及後來的 Super Nintendo Entertainment System 競爭。
+
+TurboGrafx-16 有一個 8 位元 CPU、一個 16 位元視訊色彩編碼器和一個 16 位元視訊顯示控制器。GPU 可同時顯示 512 種色彩中的 482 種。日本 PC Engine 的尺寸僅為 14 公分 × 14 公分 × 3.8 公分（5.5 英吋 × 5.5 英吋 × 1.5 英吋），是有史以來最小的大型家用遊戲機。遊戲以 HuCard 卡匣發行，後來則以 TurboGrafx-CD 附加元件的光碟光學格式發行。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

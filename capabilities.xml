@@ -232,6 +232,27 @@
       <label>List</label>
       <selectable>true</selectable>
    </variant>
+   
+   <!--
+   ///
+   Grid Variants
+   ///
+   -->
+   <!-- Grid: Default Covers -->
+   <variant name="gamelist-grid-cover">
+      <label>Grid: Boxart</label>
+      <selectable>true</selectable>
+   </variant>
+   <!-- Grid: SteamGridDB Covers -->
+   <variant name="gamelist-grid-cover-steamgriddb">
+      <label>Grid: Boxart (SteamGridDB)</label>
+      <selectable>true</selectable>
+   </variant>
+   <!-- Grid: Screenshots -->
+   <variant name="gamelist-grid-screenshot">
+      <label>Grid: Screenshot</label>
+      <selectable>true</selectable>
+   </variant>
 
    <!--
    ///
@@ -313,6 +334,27 @@
    <!-- NH List: Basic -->
    <variant name="gamelist-list-basic-nh">
       <label>[Help Off] List</label>
+      <selectable>true</selectable>
+   </variant>
+   
+   <!--
+   ///
+   NH Grid Variants
+   ///
+   -->
+   <!-- Grid: Default Covers -->
+   <variant name="gamelist-grid-cover-nh">
+      <label>[Help Off] Grid: Boxart</label>
+      <selectable>true</selectable>
+   </variant>
+   <!-- Grid: SteamGridDB Covers -->
+   <variant name="gamelist-grid-cover-steamgriddb-nh">
+      <label>[Help Off] Grid: Boxart (SteamGridDB)</label>
+      <selectable>true</selectable>
+   </variant>
+   <!-- Grid: Screenshots -->
+   <variant name="gamelist-grid-screenshot-nh">
+      <label>[Help Off] Grid: Screenshot</label>
       <selectable>true</selectable>
    </variant>
 

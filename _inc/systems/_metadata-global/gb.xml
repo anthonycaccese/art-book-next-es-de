@@ -1,0 +1,141 @@
+<theme>
+    <variables>
+        <systemName>Game Boy</systemName>
+        <systemDescription>The Game Boy is an 8-bit handheld video game console developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe in 1990. In Southern Asia, it is known as the "Tata Game Boy" It is the first handheld console in the Game Boy line. It was created by Gunpei Yokoi and Nintendo's Research and Development — the same staff who had designed the Game &amp; Watch series as well as several popular games for the NES. The Game Boy was Nintendo's second handheld system following the Game &amp; Watch series introduced in 1980, and it combined features from both the Nintendo Entertainment System and Game and Watch. It was also the first handheld game to use video game cartridges since Milton Bradley's Microvision handheld console. It was originally bundled with the puzzle game Tetris. Despite many other, technologically superior handheld consoles introduced during its lifetime, the Game Boy was a tremendous success. The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide. Upon its release in the United States, it sold its entire shipment of one million units within weeks.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1989</systemReleaseYear>
+        <systemReleaseDate>1989-04-21</systemReleaseDate>
+        <systemReleaseDateFormated>April 21, 1989</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>3c528d</systemColor>
+        <systemColorPalette1>9B2063</systemColorPalette1>
+        <systemColorPalette2>2D308E</systemColorPalette2>
+        <systemColorPalette3>D9D9D9</systemColorPalette3>
+        <systemColorPalette4>A3A3A3</systemColorPalette4>
+        <systemCartSize>373-436</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جيم بوي هو جهاز ألعاب فيديو محمول باليد 8 بت طورته وصنعته شركة نينتندو. تم إصداره في اليابان في 21 أبريل 1989، وفي أمريكا الشمالية في أغسطس 1989، وفي أوروبا في 1990. في جنوب آسيا، يُعرف باسم "تاتا غيم بوي" وهو أول وحدة تحكم محمولة في خط ألعاب Game Boy. تم إنشاؤه من قبل "غونبي يوكوي" وفريق البحث والتطوير في نينتندو - نفس فريق العمل الذي صمم سلسلة Game &amp; Watch بالإضافة إلى العديد من الألعاب الشهيرة لـ NES. كان Game Boy هو ثاني نظام محمول باليد من Nintendo بعد سلسلة Game &amp; Watch التي تم تقديمها في عام 1980، وقد جمع بين ميزات كل من نظام Nintendo Entertainment System وGame and Watch. كما كانت أيضاً أول لعبة محمولة باليد تستخدم خراطيش ألعاب الفيديو منذ وحدة التحكم المحمولة باليد Microvision من ميلتون برادلي. تم إرفاقها في الأصل مع لعبة الألغاز Tetris. على الرغم من وجود العديد من وحدات التحكم المحمولة الأخرى المتفوقة تقنياً التي تم تقديمها خلال فترة استخدامه، إلا أن Game Boy حقق نجاحاً هائلاً. فقد باع جهاز Game Boy و Game Boy Color مجتمعين 118.69 مليون وحدة حول العالم. وعند إطلاقه في الولايات المتحدة، بيعت كامل شحنته البالغة مليون وحدة في غضون أسابيع.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Dečak igre je 8-bitna ručna konzola za video igre razvijena i proizvedena od strane Nintendo. Pušten je u Japanu 21. aprila 1989. u Severnoj Americi u avgustu 1989. godine, a u Evropi 1990. godine u južnoj Aziji poznat je kao "Tata Game Boy", to je prva ručna konzola u liniji za ručnu konzolu. Stvorio ga je Gunpei Yokoi i Nintendo's istraživanje i razvoj - isto osoblje koje je dizajniralo igru i satovi, kao i nekoliko popularnih igara za NSZ. Dječak igre bio je Nintendov drugi ručni sistem nakon igara i satovi koji je predstavljen 1980. godine, a kombinirao je značajke iz Nintendo Entertainment System i igre i gledaju. To je bila i prva ručna igra za korištenje kaseta za video igre od Milton Bradleyjev mikrovizion ručne konzole. Prvobitno je paketa sa puzzle igra Tetris. Uprkos mnogim drugim, tehnološki superiorni ručni konzola uvedeni tokom svog života, dečak igre bio je ogroman uspjeh. Boy i igra u boji u kombinaciji u boji prodali su 118,69 miliona jedinica širom svijeta. Po puštanju u Sjedinjenim Državama, prodala je cijelu pošiljku milion jedinica u roku od nekoliko tjedana.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>The Game Boy és una consola de videojocs de 8 bits desenvolupada i fabricada per Nintendo. Va ser llançat al Japó el 21 d'abril de 1989 a Amèrica del Nord l'agost de 1989 i a Europa el 1990. Al sud d'Àsia, es coneix com el "Tata Game Boy" És la primera consola de mà de la línia de nois. Va ser creat per Gunpei Yokoi i la investigació i desenvolupament de Nintendo: el mateix personal que havia dissenyat la sèrie Game &amp; Watch, així com diversos jocs populars per a la NES. El Game Boy va ser el segon sistema de mà de Nintendo després de la sèrie Game &amp; Watch introduïda el 1980, i va combinar funcions tant del Nintendo Entertainment System com del Game and Watch. Va ser també el primer joc de mà que va utilitzar cartutxos de videojocs des de la consola de mà de Microvision de Milton Bradley. Es va agrupar originalment amb el joc de trencaclosques Tetris. Malgrat moltes altres, les consoles de mà tecnològicament superiors introduïdes durant la seva vida, The Game Boy va tenir un èxit enorme. El Game Boy i Game Boy Color combinats han venut 118,69 milions d’unitats a tot el món. En el seu alliberament als Estats Units, va vendre tot el seu enviament d’un milió d’unitats en unes setmanes.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Game Boy ist eine 8-Bit-Handheld-Videospielkonsole, die von Nintendo entwickelt und hergestellt wurde. Er wurde in Japan am 21. April 1989, in Nordamerika im August 1989 und in Europa im Jahr 1990 veröffentlicht. In Südasien ist er als "Tata Game Boy" bekannt. Er ist die erste Handheld-Konsole der Game Boy-Reihe. Er wurde von Gunpei Yokoi und Nintendos Forschungs- und Entwicklungsabteilung entwickelt - denselben Mitarbeitern, die auch die Game &amp; Watch-Reihe und mehrere beliebte Spiele für das NES entworfen hatten. Der Game Boy war Nintendos zweites Handheld-System nach der 1980 eingeführten Game &amp; Watch-Serie und kombinierte Funktionen des Nintendo Entertainment Systems und der Game &amp; Watch-Serie. Es war auch das erste Handheld-Spiel, das seit der Microvision-Handheld-Konsole von Milton Bradley Videospielkassetten verwendete. Ursprünglich wurde es zusammen mit dem Puzzlespiel Tetris ausgeliefert. Trotz vieler anderer, technologisch besserer Handheld-Konsolen, die während seiner Lebensdauer auf den Markt kamen, war der Game Boy ein enormer Erfolg. Der Game Boy und der Game Boy Color zusammen haben sich weltweit 118,69 Millionen Mal verkauft. Bei seinem Erscheinen in den Vereinigten Staaten war die gesamte Lieferung von einer Million Stück innerhalb weniger Wochen verkauft.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Game Boy es una videoconsola portátil de 8 bits desarrollada y fabricada por Nintendo. Salió a la venta en Japón el 21 de abril de 1989, en Norteamérica en agosto de 1989 y en Europa en 1990. En el sur de Asia se la conoce como "Tata Game Boy". Es la primera consola portátil de la línea Game Boy. Fue creada por Gunpei Yokoi y el departamento de Investigación y Desarrollo de Nintendo, el mismo personal que había diseñado la serie Game &amp; Watch, así como varios juegos populares para la NES. La Game Boy fue la segunda consola portátil de Nintendo tras la serie Game &amp; Watch presentada en 1980, y combinaba características tanto de la Nintendo Entertainment System como de Game and Watch. También fue la primera consola portátil que utilizaba cartuchos de videojuegos desde la consola Microvision de Milton Bradley. Al principio se vendía con el juego de puzzle Tetris. A pesar de que durante su vida se introdujeron muchas otras consolas portátiles tecnológicamente superiores, la Game Boy fue un tremendo éxito. La Game Boy y la Game Boy Color juntas han vendido 118,69 millones de unidades en todo el mundo. Cuando salió a la venta en Estados Unidos, vendió todo su cargamento de un millón de unidades en cuestión de semanas.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Game Boy est une console de jeux vidéo portable 8 bits développée et fabriquée par Nintendo. Elle est sortie au Japon le 21 avril 1989, en Amérique du Nord en août 1989 et en Europe en 1990. En Asie du Sud, elle est connue sous le nom de "Tata Game Boy". Il s'agit de la première console portable de la gamme Game Boy. Elle a été créée par Gunpei Yokoi et le département Recherche et Développement de Nintendo - les mêmes personnes qui avaient conçu la série Game &amp; Watch ainsi que plusieurs jeux populaires pour la NES. La Game Boy était la deuxième console portable de Nintendo après la série Game &amp; Watch lancée en 1980, et elle combinait les caractéristiques de la Nintendo Entertainment System et de la série Game &amp; Watch. C'est également le premier jeu portable à utiliser des cartouches de jeux vidéo depuis la console portable Microvision de Milton Bradley. À l'origine, elle était livrée avec le jeu de puzzle Tetris. Malgré l'introduction de nombreuses autres consoles portables technologiquement supérieures, le Game Boy a connu un énorme succès. La Game Boy et la Game Boy Color combinées se sont vendues à 118,69 millions d'exemplaires dans le monde. Lors de sa sortie aux États-Unis, la totalité de la livraison d'un million d'unités a été vendue en l'espace de quelques semaines.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Game Boy je 8-bitna ručna konzola za video igre koju je razvio i proizveo Nintendo. Objavljen je u Japanu 21. travnja 1989., u Sjevernoj Americi u kolovozu 1989., a u Europi 1990. u južnoj Aziji poznat je kao "Tata Game Boy", to je prva ručna konzola u liniji Game Boy. Stvorili su ga Gunpei Yokoi i Nintendovo istraživanje i razvoj - isto osoblje koje je dizajniralo seriju Game &amp; Watch, kao i nekoliko popularnih igara za NES. Game Boy bio je Nintendoov drugi ručni sustav nakon serije Game &amp; Watch predstavljene 1980. godine, a kombinirao je značajke i iz Nintendo Entertainment System -a i Game and Watch. Bila je to i prva ručna igra koja je koristila patrone za video igre od ručne konzole Microvision Milton Bradley. Prvobitno je bio u paketu s tetrisom slagalice. Unatoč mnogim drugim, tehnološki superiorne ručne konzole koje su uvedene tijekom svog života, Game Boy je bio ogroman uspjeh. Game Boy i Game Boy Color u boji prodali su 118,69 milijuna jedinica širom svijeta. Nakon puštanja u Sjedinjene Države, u roku od nekoliko tjedana prodao je cijelu pošiljku od milijun jedinica.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Game Boy è una console portatile per videogiochi a 8 bit sviluppata e prodotta da Nintendo. È stato rilasciato in Giappone il 21 aprile 1989, in Nord America nell'agosto 1989 e in Europa nel 1990. Nell'Asia meridionale è conosciuto come "Tata Game Boy". È la prima console portatile della linea Game Boy. È stata creata da Gunpei Yokoi e dal reparto Ricerca e Sviluppo di Nintendo, lo stesso staff che aveva progettato la serie Game &amp; Watch e diversi giochi popolari per il NES. Il Game Boy fu la seconda console portatile di Nintendo dopo la serie Game &amp; Watch, introdotta nel 1980, e combinava caratteristiche sia del Nintendo Entertainment System che del Game and Watch. È stato anche il primo gioco portatile a utilizzare cartucce di videogiochi dopo la console portatile Microvision di Milton Bradley. Inizialmente fu venduto in bundle con il rompicapo Tetris. Nonostante l'introduzione di molte altre console portatili tecnologicamente superiori, il Game Boy ebbe un enorme successo. Il Game Boy e il Game Boy Color insieme hanno venduto 118,69 milioni di unità in tutto il mondo. Al momento dell'uscita negli Stati Uniti, il Game Boy ha venduto l'intero carico di un milione di unità in poche settimane.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ゲームボーイは任天堂が開発・製造した8ビット携帯ゲーム機。日本では1989年4月21日に、北米では1989年8月に、ヨーロッパでは1990年に発売された。南アジアでは「タタ・ゲームボーイ」として知られている。横井軍平と任天堂の研究開発部-ゲーム＆ウォッチシリーズやファミコン用の人気ゲームをデザインしたのと同じスタッフ-によって作られた。ゲームボーイは、1980年に発売されたゲーム＆ウォッチシリーズに続く任天堂の2番目の携帯型システムで、ニンテンドーエンターテインメントシステムとゲーム＆ウォッチの両方の特徴を併せ持っていた。また、ミルトン・ブラッドリーの携帯ゲーム機「マイクロビジョン」以来、ビデオゲームカートリッジを使用した初の携帯ゲーム機でもあった。当初はパズルゲーム『テトリス』が同梱されていた。ゲームボーイの存命中には、技術的に優れた他の携帯ゲーム機が数多く登場したにもかかわらず、ゲームボーイは大成功を収めた。ゲームボーイとゲームボーイ・カラーを合わせた全世界での販売台数は1億1869万台。米国での発売時には、100万台の出荷台数を数週間ですべて売り切った。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>게임 보이는 닌텐도에서 개발 및 제조한 8비트 휴대용 비디오 게임기입니다. 1989년 4월 21일 일본, 1989년 8월 북미, 1990년 유럽에서 출시되었습니다. 남아시아에서는 "타타 게임보이"로 알려져 있으며, 게임보이 라인의 첫 번째 휴대용 콘솔입니다. Game &amp; Watch 시리즈와 NES의 여러 인기 게임을 디자인한 요코이 군페이와 닌텐도의 연구 개발팀이 만들었습니다. 게임 보이는 1980년에 출시된 게임 &amp; 워치 시리즈에 이은 닌텐도의 두 번째 휴대용 시스템으로, 닌텐도 엔터테인먼트 시스템과 게임 및 워치의 기능을 결합한 제품입니다. 또한 밀턴 브래들리의 마이크로비전 핸드헬드 콘솔 이후 비디오 게임 카트리지를 사용한 최초의 핸드헬드 게임기이기도 했습니다. 원래는 퍼즐 게임인 테트리스와 함께 번들로 제공되었습니다. 게임보이 출시 이후 기술적으로 뛰어난 다른 휴대용 콘솔이 많이 출시되었지만, 게임보이는 엄청난 성공을 거두었습니다. 게임 보이와 게임 보이 컬러는 전 세계적으로 1억 1,869만 대가 판매되었습니다. 미국에서는 출시되자마자 몇 주 만에 100만 대의 물량이 모두 판매되었습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Game Boy is een 8-bit draagbare videogameconsole ontwikkeld en geproduceerd door Nintendo. Het spel werd uitgebracht in Japan op 21 april 1989, in Noord-Amerika in augustus 1989 en in Europa in 1990. In Zuid-Azië staat het bekend als de "Tata Game Boy". Het is de eerste draagbare console in de Game Boy-lijn. Hij is gemaakt door Gunpei Yokoi en Nintendo's Research and Development - dezelfde medewerkers die de Game &amp; Watch-serie en verschillende populaire spellen voor de NES hadden ontworpen. De Game Boy was Nintendo's tweede draagbare systeem na de Game &amp; Watch-serie die in 1980 werd geïntroduceerd, en het combineerde functies van zowel het Nintendo Entertainment System als Game &amp; Watch. Het was ook het eerste draagbare spel dat gebruik maakte van videogamecartridges sinds de Microvision-handheldconsole van Milton Bradley. Het werd oorspronkelijk gebundeld met het puzzelspel Tetris. Ondanks de vele andere, technologisch superieure handheld consoles die tijdens zijn levensduur werden geïntroduceerd, was de Game Boy een enorm succes. De Game Boy en Game Boy Color zijn samen wereldwijd 118,69 miljoen keer verkocht. Bij de lancering in de Verenigde Staten was de hele lading van een miljoen stuks binnen enkele weken verkocht.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Game Boy to 8-bitowa przenośna konsola do gier wideo opracowana i wyprodukowana przez Nintendo. Została wydana w Japonii 21 kwietnia 1989 roku, w Ameryce Północnej w sierpniu 1989 roku, a w Europie w 1990 roku. W południowej Azji znana jest jako "Tata Game Boy". Jest to pierwsza przenośna konsola z linii Game Boy. Została stworzona przez Gunpei Yokoi i dział badań i rozwoju Nintendo - ten sam personel, który zaprojektował serię Game &amp; Watch, a także kilka popularnych gier na NES. Game Boy był drugim przenośnym systemem Nintendo po serii Game &amp; Watch wprowadzonej w 1980 roku i łączył w sobie cechy zarówno Nintendo Entertainment System, jak i Game and Watch. Była to również pierwsza gra przenośna wykorzystująca kartridże z grami wideo od czasu przenośnej konsoli Microvision firmy Milton Bradley. Pierwotnie była ona sprzedawana w zestawie z grą logiczną Tetris. Pomimo wielu innych, technologicznie lepszych konsol przenośnych wprowadzonych w czasie jego życia, Game Boy odniósł ogromny sukces. Game Boy i Game Boy Color sprzedały się łącznie w liczbie 118,69 miliona sztuk na całym świecie. Po premierze w Stanach Zjednoczonych, w ciągu kilku tygodni sprzedał się w całości w liczbie miliona sztuk.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Game Boy é um console de videogame portátil de 8 bits desenvolvido e fabricado pela Nintendo. Foi lançado no Japão em 21 de abril de 1989, na América do Norte em agosto de 1989 e na Europa em 1990. No sul da Ásia, é conhecido como "Tata Game Boy". É o primeiro console portátil da linha Game Boy. Foi criado por Gunpei Yokoi e pela equipe de Pesquisa e Desenvolvimento da Nintendo - a mesma equipe que projetou a série Game &amp; Watch, bem como vários jogos populares para o NES. O Game Boy foi o segundo sistema portátil da Nintendo após a série Game &amp; Watch, lançada em 1980, e combinava recursos do Nintendo Entertainment System e do Game and Watch. Foi também o primeiro jogo portátil a usar cartuchos de videogame desde o console portátil Microvision da Milton Bradley. Originalmente, foi empacotado com o jogo de quebra-cabeça Tetris. Apesar de muitos outros consoles portáteis tecnologicamente superiores terem sido lançados durante sua vida útil, o Game Boy foi um tremendo sucesso. O Game Boy e o Game Boy Color combinados venderam 118,69 milhões de unidades em todo o mundo. Quando foi lançado nos Estados Unidos, vendeu toda a remessa de um milhão de unidades em poucas semanas.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Game Boy é um console de videogame de 8 bits, desenvolvido e fabricado pela Nintendo. Foi lançado no Japão em 21 de abril de 1989, na América do Norte, em agosto de 1989, e na Europa em 1990. No sul da Ásia, é conhecido como o "Tata Game Boy", é o primeiro console portátil na linha Game Boy. Foi criado por Gunpei Yokoi e pesquisa e desenvolvimento da Nintendo - a mesma equipe que havia projetado a série Game &amp; Watch, além de vários jogos populares para o NES. O Game Boy foi o segundo sistema de mão da Nintendo após a série Game &amp; Watch introduzida em 1980, e combinou recursos do sistema de entretenimento Nintendo e Game and Watch. Foi também o primeiro jogo portátil a usar cartuchos de videogame desde o console portátil Microvision de Milton Bradley. Foi originalmente agrupado com o jogo de quebra -cabeça Tetris. Apesar de muitos outros consoles de mão tecnologicamente superiores introduzidos durante sua vida, o Game Boy foi um tremendo sucesso. O Game Boy e Game Boy Color Combined venderam 118,69 milhões de unidades em todo o mundo. Após sua libertação nos Estados Unidos, vendeu todo o seu envio de um milhão de unidades dentro de semanas.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Game Boy este o consolă portabilă de jocuri video pe 8 biți dezvoltată și fabricată de Nintendo. A fost lansată în Japonia pe 21 aprilie 1989, în America de Nord în august 1989, iar în Europa în 1990. În Asia de Sud, este cunoscut sub numele de "Tata Game Boy" Este prima consolă portabilă din linia Game Boy. A fost creată de Gunpei Yokoi și Cercetare și Dezvoltare Nintendo - același personal care a proiectat seria Game &amp; Watch, precum și mai multe jocuri populare pentru NES. Game Boy a fost a doua consolă portabilă Nintendo, după seria Game &amp; Watch introdusă în 1980, și a combinat caracteristici de la Nintendo Entertainment System și Game &amp; Watch. A fost, de asemenea, primul joc portabil care a utilizat cartușe de jocuri video de la consola portabilă Microvision a lui Milton Bradley. Inițial a fost livrat împreună cu jocul de puzzle Tetris. În ciuda multor alte console portabile, superioare din punct de vedere tehnologic, introduse în timpul vieții sale, Game Boy a avut un succes extraordinar. Game Boy și Game Boy Color împreună au vândut 118,69 milioane de unități în întreaga lume. La lansarea sa în Statele Unite, Boy Boy Color a vândut întregul lot de un milion de unități în câteva săptămâni.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Game Boy - это 8-битная портативная игровая приставка, разработанная и выпущенная компанией Nintendo. Она была выпущена в Японии 21 апреля 1989 года, в Северной Америке - в августе 1989 года, а в Европе - в 1990 году. В Южной Азии она известна как "Tata Game Boy". Это первая портативная консоль в линейке Game Boy. Она была создана Гунпеем Йокои и отделом исследований и разработок Nintendo - теми же сотрудниками, которые разработали серию Game &amp; Watch, а также несколько популярных игр для NES. Game Boy стал второй портативной системой Nintendo после серии Game &amp; Watch, представленной в 1980 году, и объединил в себе функции Nintendo Entertainment System и Game and Watch. Кроме того, это была первая портативная игра, использующая картриджи для видеоигр, со времен портативной консоли Microvision компании Milton Bradley. Изначально она поставлялась в комплекте с игрой-головоломкой Tetris. Несмотря на множество других, технологически более совершенных портативных консолей, появившихся за время существования Game Boy, она имела огромный успех. Game Boy и Game Boy Color вместе взятые были проданы по всему миру в количестве 118,69 миллиона штук. После выхода в США вся партия в один миллион экземпляров была продана в течение нескольких недель.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Дечак у игри је 8-битна ручна колица видео игара коју је развио и произвео Нинтендо.Објављен је у Јапану 21. априла 1989. године у Северној Америци у августу 1989. године, а у Европи је 1990. године у јужној Азији познат као "Тата Гаме Бои", то је прва ручна конзола у линији игре.Створио га је Гунпеи Иокои и Нинтендоиво истраживање и развој - исто особље које је дизајнирало серију игара и гледање као и неколико популарних игара за НСЗ.Дјечак у игри био је Нинтендов други ручни систем који је следио серију игре и гледања уведено 1980. године и комбиновао је функције и из Нинтендо забавног система и игара и стражара.Такође је била прва ручна игара за употребу видео играча од хотела Милтон Брадлеи'с Мицровисион Хандхелд Цонсоле.Првобитно је убачен са слагалицом Тетрис.Упркос многим другим, технолошки супериорним ручним конзолима представљеним током свог живота, дечак је био огроман успех.ГЕТ БОИ и ГЕТ БОИ БОЈА КОЈЕ СПОТЉЕНО су продали 118,69 милиона јединица широм света.По његовом издању у Сједињеним Државама, продао је целу своју пошиљку милион јединица у року од неколико недеља.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Game Boy är en 8-bitars handhållen videospelskonsol som utvecklats och tillverkats av Nintendo. Den släpptes i Japan den 21 april 1989, i Nordamerika i augusti 1989 och i Europa 1990. I södra Asien är den känd som "Tata Game Boy" Det är den första handhållna konsolen i Game Boy-serien. Den skapades av Gunpei Yokoi och Nintendos Research and Development - samma personal som hade designat Game &amp; Watch-serien samt flera populära spel för NES. Game Boy var Nintendos andra handhållna system efter Game &amp; Watch-serien som introducerades 1980, och det kombinerade funktioner från både Nintendo Entertainment System och Game and Watch. Det var också det första handhållna spelet som använde videospelskassetter sedan Milton Bradleys handhållna konsol Microvision. Den levererades ursprungligen tillsammans med pusselspelet Tetris. Trots att många andra, tekniskt överlägsna handhållna konsoler introducerades under dess livstid blev Game Boy en enorm framgång. Game Boy och Game Boy Color har tillsammans sålts i 118,69 miljoner exemplar världen över. När den lanserades i USA såldes hela leveransen på en miljon enheter inom några veckor.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Game Boy 是任天堂开发和制造的一款 8 位掌上视频游戏机。它于 1989 年 4 月 21 日在日本发布，1989 年 8 月在北美发布，1990 年在欧洲发布。在南亚，它被称为 "Tata Game Boy"，是 Game Boy 系列的第一款掌上游戏机。它是由横井群平（Gunpei Yokoi）和任天堂研发部门设计的。Game Boy 是任天堂继 1980 年推出 Game &amp; Watch 系列之后的第二款掌上系统，它融合了任天堂娱乐系统和 Game and Watch 的功能。它也是自 Milton Bradley 的 Microvision 掌上游戏机以来第一款使用视频游戏盒的掌上游戏。它最初与益智游戏《俄罗斯方块》捆绑在一起。尽管在其生命周期内推出了许多其他技术更优越的掌上游戏机，但 Game Boy 还是获得了巨大的成功。Game Boy 和 Game Boy Color 的全球总销量达到 1.1869 亿台。在美国发售时，几周内就售出了全部 100 万台。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Game Boy 是任天堂開發製造的 8 位元掌上型遊戲機。它於 1989 年 4 月 21 日首次在日本發行，同年稍後在北美發行，並於 1990 年底在歐洲發行。它是由開發 Game &amp; Watch 系列掌上電子遊戲和多款 Nintendo Entertainment System (NES) 遊戲的同一團隊所設計：Satoru Okada、Gunpei Yokoi 和 Nintendo Research &amp; Development 1。
+
+這是自 Milton Bradley 的 Microvision 掌上遊戲機以來，第一款使用視訊遊戲卡帶的掌上遊戲。儘管在它的生命週期中有許多其他技術上更優異的掌上型遊戲機推出，Game Boy 仍然獲得了巨大的成功。Game Boy 和 Game Boy Color 在全球的總銷量達到 1.18 億台。在美國發售時，幾個星期內就售出了 100 萬台。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

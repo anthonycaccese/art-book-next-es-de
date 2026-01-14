@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Arcade</systemName>
+        <systemDescription>An arcade game or coin-op is a coin-operated entertainment machine typically installed in public businesses such as restaurants, bars and amusement arcades. Most arcade games are video games, pinball machines, electro-mechanical games, redemption games or merchandisers. While exact dates are debated, the golden age of arcade video games is usually defined as a period beginning sometime in the late 1970s and ending sometime in the mid-1980s. Excluding a brief resurgence in the early 1990s, the arcade industry subsequently declined in the Western hemisphere as competing home-based video game consoles such as Playstation and Xbox increased in their graphics and game-play capability and decreased in cost.</systemDescription>
+        <systemManufacturer>Various</systemManufacturer>
+        <systemReleaseYear>Various</systemReleaseYear>
+        <systemReleaseDate>Various</systemReleaseDate>
+        <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+        <systemHardwareType>Collection</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5a64bb</systemColor>
+        <systemColorPalette1>FA6E0D</systemColorPalette1>
+        <systemColorPalette2>FCCD0A</systemColorPalette2>
+        <systemColorPalette3>032EC0</systemColorPalette3>
+        <systemColorPalette4>459FD0</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ألعاب الأركيد أو ماكينات الألعاب هي آلات ترفيهية تعمل بقطع النقود المعدنية يتم تركيبها عادةً في الشركات العامة مثل المطاعم والحانات والملاهي. معظم ألعاب الأركيد هي ألعاب فيديو، أو ماكينات الكرة والدبابيس، أو ألعاب كهربائية ميكانيكية، أو ألعاب استرداد النقود أو ألعاب ترفيهية. على الرغم من أن التواريخ الدقيقة للألعاب الآركيد محل نقاش، إلا أن العصر الذهبي لألعاب الفيديو في الممرات عادة ما يتم تعريفه على أنه فترة تبدأ في وقت ما في أواخر السبعينيات وتنتهي في منتصف الثمانينيات. وباستثناء فترة انتعاش قصيرة في أوائل التسعينيات، انخفضت صناعة ألعاب الآركيد لاحقاً في نصف الكرة الغربي مع ازدياد أجهزة ألعاب الفيديو المنزلية المنافسة مثل بلاي ستيشن وإكس بوكس في رسوماتها وقدرتها على اللعب وانخفاض تكلفتها.</systemDescription>
+            <systemHardwareType>المجموعة</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Arkadna igra ili kovanica-OP je zabavna mašina koja se radi u javnim preduzećima kao što su restorani, barovi i zabavne arkade. Većina arkadnih igara su video igre, fliper, elektro-mehaničke igre, otkupne igre ili trgovci. Iako se raspravljaju tačni datumi, zlatno doba Arcade video igara obično se definira kao period koji počinje negdje krajem 1970-ih i završetak negdje sredinom 1980-ih. Isključivši kratak regengencija, arkadna industrija, arkadna industrija je nakon toga odbila u zapadnoj hemisferi kao konkurentskih konzola za video igri za video igre, kao što su PlayStation i Xbox povećana u svojoj grafičkoj i ugrađenoj sposobnosti i smanjene u cijenu.</systemDescription>
+            <systemHardwareType>Zbirka</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Un joc d’arcades o monedes és una màquina d’entreteniment operada en monedes que normalment s’instal·la en empreses públiques com restaurants, bars i arcades d’atraccions. La majoria dels jocs d’arcades són videojocs, màquines de pinball, jocs electromecànics, jocs de redempció o comerciants. Si bé es debaten les dates exactes, l’època daurada dels videojocs Arcade es defineix generalment com un període que comença en algun moment a finals dels anys 70 i acaba en algun moment a mitjans dels anys vuitanta. Excloent un breu ressorgiment a principis dels anys 90, la indústria de les arcades va disminuir posteriorment a l’hemisferi occidental, ja que les consoles de videojocs a casa competint com PlayStation i Xbox van augmentar en els seus gràfics i la capacitat de joc de joc i van disminuir en el cost.</systemDescription>
+            <systemHardwareType>Collection</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Eine Spielhalle oder ein Münzautomat ist ein münzbetriebenes Unterhaltungsgerät, das in der Regel in öffentlichen Einrichtungen wie Restaurants, Bars und Spielhallen aufgestellt wird. Bei den meisten Spielhallen handelt es sich um Videospiele, Flipperautomaten, elektromechanische Spiele, Rücknahmespiele oder Merchandiser. Obwohl die genauen Daten umstritten sind, wird das goldene Zeitalter der Spielhallen-Videospiele gewöhnlich als ein Zeitraum definiert, der irgendwann in den späten 1970er Jahren begann und irgendwann Mitte der 1980er Jahre endete. Abgesehen von einem kurzen Aufschwung Anfang der 1990er Jahre ging die Spielhallenindustrie in der westlichen Hemisphäre zurück, als konkurrierende Videospielkonsolen für den Heimgebrauch wie die Playstation und die Xbox ihre Grafik- und Spielfunktionen verbesserten und ihre Kosten senkten.</systemDescription>
+            <systemHardwareType>Sammlung</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Un juego arcade o coin-op es una máquina de entretenimiento que funciona con monedas y que suele instalarse en negocios públicos como restaurantes, bares y salones recreativos. La mayoría de los juegos arcade son videojuegos, máquinas de pinball, juegos electromecánicos, juegos de canje o merchandisers. Aunque las fechas exactas son objeto de debate, la edad de oro de los videojuegos arcade suele definirse como un periodo que comienza a finales de la década de 1970 y termina a mediados de la década de 1980. Salvo un breve resurgimiento a principios de la década de 1990, la industria de los salones recreativos decayó posteriormente en el hemisferio occidental a medida que las consolas de videojuegos domésticas de la competencia, como la Playstation y la Xbox, aumentaban su capacidad gráfica y de juego y disminuían su coste.</systemDescription>
+            <systemHardwareType>Colección</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Un jeu d'arcade ou coin-op est une machine de divertissement fonctionnant avec des pièces de monnaie, généralement installée dans des établissements publics tels que des restaurants, des bars et des salles de jeux. La plupart des jeux d'arcade sont des jeux vidéo, des flippers, des jeux électromécaniques, des jeux de rachat ou des présentoirs. Bien que les dates exactes soient controversées, l'âge d'or des jeux vidéo d'arcade est généralement défini comme une période commençant à la fin des années 1970 et se terminant au milieu des années 1980. À l'exception d'une brève résurgence au début des années 1990, l'industrie des salles d'arcade a ensuite décliné dans l'hémisphère occidental à mesure que les consoles de jeux vidéo domestiques concurrentes, telles que la Playstation et la Xbox, augmentaient leurs capacités graphiques et ludiques et diminuaient leurs coûts.</systemDescription>
+            <systemHardwareType>Collection</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Arkadna igra ili novčića je zabavni stroj koji je operirani kovanicama, obično instaliran u javnim tvrtkama kao što su restorani, barovi i zabavne arkade. Većina arkadnih igara su video igre, fliper strojevi, elektro-mehaničke igre, otkupne igre ili robe. Iako se raspravlja o točnim datumima, Zlatno doba arkadnih videoigara obično se definira kao razdoblje koje počinje negdje krajem 1970-ih, a završava negdje sredinom 1980-ih. Izuzevši kratki preporod početkom 1990-ih, arkadna industrija nakon toga je u zapadnoj hemisferi smanjila kako se konkurentne konzole za video igre u kući, kao što su PlayStation i Xbox, povećale u svojoj grafičkoj i mogućnostima igre i smanjila se u troškovima.</systemDescription>
+            <systemHardwareType>Kolekcija</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Una sala giochi o coin-op è una macchina per l'intrattenimento a gettoni tipicamente installata in esercizi pubblici come ristoranti, bar e sale giochi. La maggior parte dei giochi arcade sono videogiochi, flipper, giochi elettromeccanici, giochi a premio o merchandiser. Sebbene le date esatte siano discusse, l'età d'oro dei videogiochi arcade è solitamente definita come un periodo che inizia alla fine degli anni Settanta e termina alla metà degli anni Ottanta. Se si esclude una breve ripresa all'inizio degli anni Novanta, l'industria delle sale giochi è successivamente decaduta nell'emisfero occidentale a causa dell'aumento della grafica e delle capacità di gioco delle console casalinghe concorrenti, come Playstation e Xbox, e della riduzione dei costi.</systemDescription>
+            <systemHardwareType>Collezione</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アーケード・ゲームまたはコイン・ショップ（coin-op）とは、レストラン、バー、アミューズメント・アーケードなどの公共施設に一般的に設置されている、コインで作動する娯楽機器のことである。ほとんどのアーケードゲームは、ビデオゲーム、ピンボールマシン、エレクトロメカニカルゲーム、リデンプションゲーム、またはマーチャンダイザーである。正確な年代については議論があるが、通常、アーケードゲームの黄金期は1970年代後半から1980年代半ばまでの期間と定義されている。1990年代初頭の一時的な復活を除けば、その後、プレイステーションやXboxなどの競合する家庭用ゲーム機がグラフィックやゲームプレイ能力を向上させ、コストを下げるにつれて、西半球ではアーケード産業は衰退していった。</systemDescription>
+            <systemHardwareType>コレクション</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>아케이드 게임 또는 코인 게임은 일반적으로 레스토랑, 바, 오락실과 같은 공공 사업장에 설치된 동전으로 작동하는 엔터테인먼트 기계입니다. 대부분의 아케이드 게임은 비디오 게임, 핀볼 머신, 전자 기계식 게임, 교환 게임 또는 머천다이저입니다. 정확한 날짜에 대해서는 논란이 있지만, 아케이드 비디오 게임의 황금기는 일반적으로 1970년대 후반부터 1980년대 중반까지로 정의됩니다. 1990년대 초의 잠깐의 부활을 제외하면, 아케이드 산업은 이후 서반구에서 플레이스테이션과 Xbox와 같은 경쟁 가정용 비디오 게임 콘솔의 그래픽과 게임 플레이 기능이 향상되고 비용이 낮아지면서 쇠퇴했습니다.</systemDescription>
+            <systemHardwareType>컬렉션</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Een arcadespel of coin-op is een amusementsmachine die op munten werkt en die meestal geïnstalleerd is in openbare bedrijven zoals restaurants, bars en amusementshallen. De meeste arcadespellen zijn videospellen, flipperkasten, elektromechanische spellen, inwisselspellen of merchandisers. Over de exacte data wordt gediscussieerd, maar de gouden eeuw van arcade videospellen wordt meestal gedefinieerd als een periode die ergens eind jaren 1970 begon en ergens midden jaren 1980 eindigde. Met uitzondering van een korte opleving in het begin van de jaren 1990, daalde de arcade-industrie vervolgens in het westelijk halfrond naarmate concurrerende videogameconsoles voor thuisgebruik, zoals Playstation en Xbox, steeds meer graphics en spelmogelijkheden kregen en steeds goedkoper werden.</systemDescription>
+            <systemHardwareType>Collectie</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Gra zręcznościowa lub automat na monety to urządzenie rozrywkowe na monety, zwykle instalowane w miejscach publicznych, takich jak restauracje, bary i salony gier. Większość gier zręcznościowych to gry wideo, automaty do pinballa, gry elektromechaniczne, gry na monety lub merchandisery. Chociaż dokładne daty są przedmiotem dyskusji, złoty wiek zręcznościowych gier wideo jest zwykle definiowany jako okres rozpoczynający się pod koniec lat 70. i kończący się w połowie lat 80. ubiegłego wieku. Z wyjątkiem krótkiego odrodzenia we wczesnych latach 90-tych, przemysł gier zręcznościowych następnie podupadł na półkuli zachodniej, ponieważ konkurencyjne domowe konsole do gier wideo, takie jak Playstation i Xbox, zwiększyły swoją grafikę i możliwości gry oraz zmniejszyły koszty.</systemDescription>
+            <systemHardwareType>Kolekcja</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Um jogo de fliperama ou coin-op é uma máquina de entretenimento operada por moedas, normalmente instalada em estabelecimentos públicos, como restaurantes, bares e fliperamas. A maioria dos jogos de fliperama é composta por videogames, máquinas de pinball, jogos eletromecânicos, jogos de resgate ou merchandisers. Embora as datas exatas sejam debatidas, a era de ouro dos videogames de fliperama é geralmente definida como um período que começou no final da década de 1970 e terminou em meados da década de 1980. Com exceção de um breve ressurgimento no início da década de 1990, o setor de fliperama entrou em declínio no hemisfério ocidental à medida que os consoles de videogame domésticos concorrentes, como o Playstation e o Xbox, aumentaram sua capacidade gráfica e de jogo e diminuíram seu custo.</systemDescription>
+            <systemHardwareType>Coleção</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Um jogo de arcade ou moeda é uma máquina de entretenimento operada por moedas normalmente instalada em empresas públicas, como restaurantes, bares e arcadas de diversão. A maioria dos jogos de arcade são videogames, máquinas de pinball, jogos eletro-mecânicos, jogos de redenção ou comerciantes. Embora as datas exatas sejam debatidas, os videogames da Era de Ouro dos Arcade geralmente são definidos como um período que começa em algum momento do final da década de 1970 e terminando em meados da década de 1980. Excluindo um breve ressurgimento no início dos anos 90, a indústria de arcade declinou posteriormente no Hemisfério Ocidental, pois os consoles de videogames em casa concorrentes, como PlayStation e Xbox, aumentaram em seus gráficos e capacidade de jogo e diminuíram o custo.</systemDescription>
+            <systemHardwareType>Coleção</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Un joc arcade sau coin-op este un aparat de divertisment care funcționează cu monede, instalat de obicei în întreprinderi publice, cum ar fi restaurante, baruri și săli de jocuri. Majoritatea jocurilor arcade sunt jocuri video, aparate pinball, jocuri electromecanice, jocuri de răscumpărare sau merchandisers. Deși datele exacte sunt dezbătute, epoca de aur a jocurilor video arcade este de obicei definită ca o perioadă care începe undeva la sfârșitul anilor 1970 și se încheie undeva la mijlocul anilor 1980. Cu excepția unei scurte reveniri la începutul anilor 1990, industria de arcade a cunoscut ulterior un declin în emisfera vestică, pe măsură ce consolele de jocuri video de acasă concurente, precum Playstation și Xbox, și-au mărit capacitatea grafică și de joc și și-au redus costurile.</systemDescription>
+            <systemHardwareType>Colecție</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Аркадная игра или монетоприемник - это развлекательный автомат, работающий на монетах, обычно устанавливаемый в общественных заведениях, таких как рестораны, бары и аркады развлечений. Большинство аркадных игр - это видеоигры, пинбольные автоматы, электромеханические игры, выкупные игры или мерчендайзеры. Несмотря на то, что точные даты проведения игр обсуждаются, золотой век аркадных видеоигр обычно определяется как период, начинающийся где-то в конце 1970-х и заканчивающийся где-то в середине 1980-х годов. За исключением кратковременного возрождения в начале 1990-х годов, впоследствии индустрия аркадных игр в Западном полушарии пришла в упадок, поскольку конкурирующие домашние игровые консоли, такие как Playstation и Xbox, увеличили свои графические и игровые возможности и снизили стоимость.</systemDescription>
+            <systemHardwareType>Коллекция</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Аркадна игра или Цоин-оп је машина за забаву која је управљала новчицом која се обично инсталира у јавна предузећа као што су ресторани, барови и забавне аркаде.Већина аркадских игара су видео игре, Пинбалл машине, електро-механичке игре, откупне игре или трговци.Иако се расправља о тачним датумима, златно доба аркадне видео игара обично је дефинисано као период који почиње негде крајем 1970-их и завршава се негде средином 1980-их.Искључујући кратку ресурсност почетком деведесетих година, аркадна индустрија је након тога смањила на западној хемисфери као конкурентне конзоле за видео игру као што су ПлаиСтатион и Ксбок повећани у њиховој графици и могућности играња игара и смањени у цени.</systemDescription>
+            <systemHardwareType>Збирка</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Ett arkadspel eller coin-op är en myntdriven underhållningsmaskin som vanligtvis installeras i offentliga verksamheter som restauranger, barer och nöjesarkader. De flesta arkadspel är videospel, flipperspel, elektromekaniska spel, inlösningsspel eller merchandisers. Även om exakta datum är omdiskuterade brukar arkadvideospelens guldålder definieras som en period som började någon gång i slutet av 1970-talet och slutade någon gång i mitten av 1980-talet. Med undantag för ett kort uppsving i början av 1990-talet minskade arkadindustrin därefter i västra hemisfären i takt med att konkurrerande hemmabaserade videospelskonsoler som Playstation och Xbox fick bättre grafik och spelkapacitet och blev billigare.</systemDescription>
+            <systemHardwareType>Samling</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>街机游戏或投币机是一种投币式娱乐机器，通常安装在餐馆、酒吧和游乐场等公共场所。大多数街机游戏都是视频游戏、弹球机、电子机械游戏、兑换游戏或商品销售机。虽然确切的时间尚有争议，但街机视频游戏的黄金时代通常被定义为从 20 世纪 70 年代末开始到 20 世纪 80 年代中期结束的一段时期。除去 20 世纪 90 年代初的短暂复苏，随着 Playstation 和 Xbox 等家用视频游戏机的图形和游戏功能的增强以及成本的降低，街机业随后在西半球衰落。</systemDescription>
+            <systemHardwareType>收藏品</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>街機遊戲或投幣機是一種投幣式娛樂機器，通常安裝在餐廳、酒吧和遊樂場等公共場所。大多數的街機遊戲都是電子遊戲機、彈珠檯、電動遊戲機、兌換遊戲機或商品販賣機。雖然確切的日期仍有爭議，但街機遊戲的黃金時代通常被定義為從 1970 年代末期開始到 1980 年代中期結束的一段時間。除了 1990 年代初期的短暫復興外，隨著 Playstation 和 Xbox 等家用視訊遊戲機的圖像和遊戲能力提升，以及成本下降，街機產業隨後在西半球衰退。</systemDescription>
+            <systemHardwareType>系列</systemHardwareType>
+        </variables>
+    </language>
+</theme>

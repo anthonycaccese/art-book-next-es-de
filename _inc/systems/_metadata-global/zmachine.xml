@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Z-machine</systemName>
+        <systemDescription>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.</systemDescription>
+        <systemManufacturer>J. Berez &amp; M. Blank</systemManufacturer>
+        <systemReleaseYear>1979</systemReleaseYear>
+        <systemReleaseDate>1979</systemReleaseDate>
+        <systemReleaseDateFormated>1979</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>000000</systemColor>
+        <systemColorPalette1>333333</systemColorPalette1>
+        <systemColorPalette2>48DBCE</systemColorPalette2>
+        <systemColorPalette3>C1C1BE</systemColorPalette3>
+        <systemColorPalette4>586C6D</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>آلة Z-machine هي آلة افتراضية تم تطويرها من قبل جويل بيريز ومارك بلانك في عام 1979 واستخدمتها Infocom لألعاب المغامرات النصية. قامت Infocom بتجميع شيفرة اللعبة إلى ملفات تحتوي على تعليمات Z-machine (تسمى ملفات القصة أو ملفات Z-code) وبالتالي يمكنها نقل مغامراتها النصية إلى منصة جديدة ببساطة عن طريق كتابة تطبيق Z-machine لتلك المنصة. مع وجود عدد كبير من أنظمة الكمبيوتر المنزلية غير المتوافقة المستخدمة في ذلك الوقت، كانت هذه ميزة مهمة مقارنة باستخدام التعليمات البرمجية الأصلية أو تطوير مترجم لكل نظام.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Z-Machine és una màquina virtual desenvolupada per Joel Berez i Marc Blank el 1979 i utilitzada per Infocom per als seus jocs d’aventura de text. El codi de joc compilat per Infocom als fitxers que contenen instruccions de mà-màquina (anomenades fitxers de contes o fitxers de codi Z) i, per tant, podrien portar les seves aventures de text a una nova plataforma simplement escrivint una implementació Z-Machine per a aquesta plataforma. Amb el gran nombre de sistemes informàtics domèstics incompatibles que s’utilitzen en aquell moment, aquest va ser un avantatge important per utilitzar el codi natiu o desenvolupar un compilador per a cada sistema.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Die Z-Maschine ist eine virtuelle Maschine, die 1979 von Joel Berez und Marc Blank entwickelt und von Infocom für seine Textadventures verwendet wurde. Infocom kompilierte den Spielcode in Dateien, die Z-machine-Anweisungen enthielten (so genannte Story-Dateien oder Z-Code-Dateien), und konnte so seine Textadventures auf eine neue Plattform portieren, indem es einfach eine Z-machine-Implementierung für diese Plattform schrieb. Angesichts der großen Anzahl inkompatibler Heimcomputersysteme, die damals im Einsatz waren, war dies ein wichtiger Vorteil gegenüber der Verwendung von nativem Code oder der Entwicklung eines Compilers für jedes System.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Z-machine es una máquina virtual desarrollada por Joel Berez y Marc Blank en 1979 y utilizada por Infocom para sus aventuras de texto. Infocom compilaba el código del juego en archivos que contenían instrucciones Z-machine (llamados archivos de historia o archivos Z-code) y, por tanto, podía portar sus aventuras de texto a una nueva plataforma simplemente escribiendo una implementación de Z-machine para esa plataforma. Con el gran número de sistemas informáticos incompatibles que se utilizaban en aquella época, esta era una ventaja importante frente al uso de código nativo o el desarrollo de un compilador para cada sistema.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Z-machine est une machine virtuelle développée par Joel Berez et Marc Blank en 1979 et utilisée par Infocom pour ses jeux d'aventure textuels. Infocom compilait le code du jeu dans des fichiers contenant les instructions de la Z-machine (appelés "story files" ou "Z-code files") et pouvait donc porter ses aventures textuelles sur une nouvelle plate-forme en écrivant simplement une implémentation de la Z-machine pour cette plate-forme. Compte tenu du grand nombre de systèmes informatiques domestiques incompatibles utilisés à l'époque, il s'agissait d'un avantage important par rapport à l'utilisation d'un code natif ou au développement d'un compilateur pour chaque système.</systemDescription>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>La Z-machine è una macchina virtuale sviluppata da Joel Berez e Marc Blank nel 1979 e utilizzata da Infocom per i suoi giochi di avventura testuale. Infocom compilava il codice di gioco in file contenenti le istruzioni della Z-machine (chiamati file storia o file Z-code) e poteva quindi portare le sue avventure testuali su una nuova piattaforma semplicemente scrivendo un'implementazione della Z-machine per quella piattaforma. Con il gran numero di sistemi di home computer incompatibili in uso all'epoca, questo era un vantaggio importante rispetto all'uso del codice nativo o allo sviluppo di un compilatore per ogni sistema.</systemDescription>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Zマシンは、1979年にジョエル・ベレズとマーク・ブランクによって開発された仮想マシンで、インフォコムがテキストアドベンチャーゲームに使用していた。インフォコムは、Zマシンの命令を含むファイル（ストーリーファイルまたはZコードファイルと呼ばれる）にゲームコードをコンパイルしていたため、そのプラットフォーム用のZマシン実装を書くだけで、テキストアドベンチャーを新しいプラットフォームに移植することができた。当時は互換性のない家庭用コンピュータが多数普及していたため、ネイティブコードを使用したり、システムごとにコンパイラを開発したりするよりも、これは重要な利点であった。</systemDescription>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Z-머신은 1979년 조엘 베레즈와 마크 블랭크가 개발한 가상 머신으로, Infocom에서 텍스트 어드벤처 게임에 사용했습니다. Infocom은 게임 코드를 Z-머신 지침이 포함된 파일(스토리 파일 또는 Z-코드 파일이라고 함)로 컴파일했기 때문에 해당 플랫폼에 대한 Z-머신 구현을 작성하기만 하면 텍스트 어드벤처 게임을 새로운 플랫폼으로 이식할 수 있었습니다. 당시에는 호환되지 않는 가정용 컴퓨터 시스템이 많았기 때문에 네이티브 코드를 사용하거나 각 시스템에 맞는 컴파일러를 개발하는 것보다 중요한 이점이었습니다.</systemDescription>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Z-machine is een virtuele machine die in 1979 werd ontwikkeld door Joel Berez en Marc Blank en door Infocom werd gebruikt voor zijn tekst-avonturenspellen. Infocom compileerde spelcode naar bestanden met Z-machine instructies (genaamd story files of Z-code bestanden) en kon daarom haar tekstavonturen overzetten naar een nieuw platform door simpelweg een Z-machine implementatie voor dat platform te schrijven. Met het grote aantal incompatibele thuiscomputersystemen die in die tijd in gebruik waren, was dit een belangrijk voordeel ten opzichte van het gebruik van native code of het ontwikkelen van een compiler voor elk systeem.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Z-machine to maszyna wirtualna, która została opracowana przez Joela Bereza i Marca Blanka w 1979 roku i była używana przez firmę Infocom w jej tekstowych grach przygodowych. Infocom kompilował kod gry do plików zawierających instrukcje Z-machine (zwanych plikami fabularnymi lub plikami Z-code), dzięki czemu mógł przenosić swoje przygodówki tekstowe na nową platformę, po prostu pisząc implementację Z-machine dla tej platformy. Przy dużej liczbie niekompatybilnych domowych systemów komputerowych w tamtym czasie, była to ważna zaleta w porównaniu do używania natywnego kodu lub tworzenia kompilatora dla każdego systemu.</systemDescription>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>A Z-machine é uma máquina virtual desenvolvida por Joel Berez e Marc Blank em 1979 e usada pela Infocom para seus jogos de aventura de texto. A Infocom compilava o código do jogo em arquivos que continham instruções da Z-machine (chamados de arquivos de história ou arquivos de código Z) e, portanto, podia portar suas aventuras de texto para uma nova plataforma simplesmente escrevendo uma implementação da Z-machine para essa plataforma. Com o grande número de sistemas incompatíveis de computadores domésticos em uso na época, essa era uma vantagem importante em relação ao uso de código nativo ou ao desenvolvimento de um compilador para cada sistema.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Z-machine este o mașină virtuală care a fost dezvoltată de Joel Berez și Marc Blank în 1979 și utilizată de Infocom pentru jocurile sale de aventuri text. Infocom a compilat codul de joc în fișiere care conțineau instrucțiuni Z-machine (denumite fișiere de poveste sau fișiere Z-code) și, prin urmare, a putut transfera aventurile sale text pe o nouă platformă prin simpla scriere a unei implementări Z-machine pentru platforma respectivă. Având în vedere numărul mare de sisteme de calculatoare personale incompatibile utilizate la acea vreme, acesta era un avantaj important față de utilizarea codului nativ sau dezvoltarea unui compilator pentru fiecare sistem.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Z-машина - это виртуальная машина, разработанная Джоэлом Березом и Марком Бланком в 1979 году и использовавшаяся компанией Infocom для создания текстовых приключенческих игр. Infocom компилировала игровой код в файлы, содержащие инструкции Z-машины (называемые сюжетными файлами или файлами Z-кода), и поэтому могла переносить свои текстовые приключения на новую платформу, просто написав реализацию Z-машины для этой платформы. Учитывая большое количество несовместимых домашних компьютерных систем, используемых в то время, это было важным преимуществом по сравнению с использованием родного кода или разработкой компилятора для каждой системы.</systemDescription>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Z-machine is a virtual machine that was developed by Joel Berez and Marc Blank in 1979 and used by Infocom for its text adventure games. Infocom compiled game code to files containing Z-machine instructions (called story files or Z-code files) and could therefore port its text adventures to a new platform simply by writing a Z-machine implementation for that platform. With the large number of incompatible home computer systems in use at the time, this was an important advantage over using native code or developing a compiler for each system.</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Z-machine är en virtuell maskin som utvecklades av Joel Berez och Marc Blank 1979 och som användes av Infocom för deras textäventyrsspel. Infocom kompilerade spelkoden till filer som innehöll Z-machine-instruktioner (så kallade storyfiler eller Z-code-filer) och kunde därför porta sina textäventyr till en ny plattform genom att helt enkelt skriva en Z-machine-implementation för den plattformen. Med tanke på det stora antalet inkompatibla hemdatorsystem som användes vid den här tiden var detta en viktig fördel jämfört med att använda inbyggd kod eller utveckla en kompilator för varje system.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Z-machine 是一种虚拟机，由 Joel Berez 和 Marc Blank 于 1979 年开发，被 Infocom 用于制作文字冒险游戏。Infocom 将游戏代码编译成包含 Z-machine 指令的文件（称为故事文件或 Z-code 文件），因此只需为新平台编写一个 Z-machine 实现，就能将文本冒险游戏移植到该平台。由于当时使用的家用电脑系统互不兼容，与使用本地代码或为每个系统开发编译器相比，这是一个重要的优势。</systemDescription>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Z-machine 是一種虛擬機器，由 Joel Berez 和 Marc Blank 於 1979 年開發，並由 Infocom 用於其文字冒險遊戲。Infocom 將遊戲程式碼編譯成包含 Z-machine 指令的檔案 (稱為故事檔案或 Z-code 檔案)，因此只需針對新平台撰寫 Z-machine 實作，即可將文字冒險遊戲移植到該平台。由於當時有許多不相容的家用電腦系統，這比使用原生代碼或為每個系統開發編譯器更具優勢。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
+        </variables>
+    </language>
+</theme>

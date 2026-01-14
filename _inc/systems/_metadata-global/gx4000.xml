@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>GX4000</systemName>
+        <systemDescription>The Amstrad GX4000, commonly known as the GX4000, is a third generation (1983-2003) video game console developed and distributed by Amstrad. It was released in September of 1990 in Europe at a retail price of £99.99. The console was not released outside Europe. The GX4000 was Amstrad's short-lived attempt to enter the games console market, being primarily a home computer manufacturer. The console was discontinued in late 1991.</systemDescription>
+        <systemManufacturer>Amstrad</systemManufacturer>
+        <systemReleaseYear>1990</systemReleaseYear>
+        <systemReleaseDate>1990-09-01</systemReleaseDate>
+        <systemReleaseDateFormated>September 1, 1990</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>e85638</systemColor>
+        <systemColorPalette1>E5B3B2</systemColorPalette1>
+        <systemColorPalette2>9E4968</systemColorPalette2>
+        <systemColorPalette3>DBD9D4</systemColorPalette3>
+        <systemColorPalette4>C02520</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Amstrad GX4000، المعروف باسم GX4000، هو جهاز ألعاب فيديو من الجيل الثالث (1983-2003) تم تطويره وتوزيعه من قبل Amstrad. تم إصداره في سبتمبر من عام 1990 في أوروبا بسعر 99.99 جنيهًا إسترلينيًا. لم يتم إصدار وحدة التحكم خارج أوروبا. كانت GX4000 محاولة قصيرة الأجل من أمستراد لدخول سوق وحدات التحكم في الألعاب، حيث كانت في الأساس شركة تصنيع كمبيوتر منزلي. تم إيقاف وحدة التحكم في أواخر عام 1991.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>AMSTRAD GX4000, obično poznat kao GX4000, treća je generacija (1983-2003) konzola za video igre razvijena i distribuirana od strane Amstrada. Pušten je u septembru 1990. u Evropi u maloprodajnoj ceni od 99,99 funti. Konzola nije puštena izvan Evrope. GX4000 je bio amstradov kratkotrajni pokušaj da uđe na tržište konzole za igre, prije svega proizvođač kućnog računara. Konzola je prekinuta krajem 1991. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La AMSTRAD GX4000, coneguda comunament com a GX4000, és una consola de videojocs de tercera generació (1983-2003) desenvolupada i distribuïda per Amstrad. Va ser llançat el setembre de 1990 a Europa a un preu al detall de 99,99 £. La consola no va ser alliberada fora d'Europa. El GX4000 va ser l’intent de curta durada d’Amstrad per entrar al mercat de la consola de jocs, essent principalment un fabricant d’ordinadors domèstics. La consola es va suspendre a finals de 1991.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Amstrad GX4000, allgemein bekannt als GX4000, ist eine Videospielkonsole der dritten Generation (1983-2003), die von Amstrad entwickelt und vertrieben wurde. Sie wurde im September 1990 in Europa zu einem Verkaufspreis von 99,99 £ veröffentlicht. Die Konsole wurde außerhalb Europas nicht veröffentlicht. Das GX4000 war Amstrads kurzlebiger Versuch, in den Markt für Spielkonsolen einzutreten, da das Unternehmen hauptsächlich Heimcomputer herstellte. Die Konsole wurde Ende 1991 aus dem Programm genommen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Amstrad GX4000, comúnmente conocida como GX4000, es una videoconsola de tercera generación (1983-2003) desarrollada y distribuida por Amstrad. Fue lanzada en septiembre de 1990 en Europa a un precio de venta al público de 99,99 libras esterlinas. La consola no salió a la venta fuera de Europa. La GX4000 fue el efímero intento de Amstrad de introducirse en el mercado de las videoconsolas, siendo principalmente un fabricante de ordenadores domésticos. La consola dejó de fabricarse a finales de 1991.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Amstrad GX4000, communément appelée GX4000, est une console de jeux vidéo de troisième génération (1983-2003) développée et distribuée par Amstrad. Elle est sortie en septembre 1990 en Europe au prix de 99,99 livres sterling. La console n'a pas été commercialisée en dehors de l'Europe. La GX4000 a été la tentative éphémère d'Amstrad d'entrer sur le marché des consoles de jeux, étant principalement un fabricant d'ordinateurs domestiques. La console a été abandonnée à la fin de l'année 1991.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Amstrad GX4000, obično poznat kao GX4000, konzola za video igre treće generacije (1983-2003) koju je Amstrad razvio i distribuirao. Objavljen je u rujnu 1990. u Europi po maloprodajnoj cijeni od 99,99 funti. Konzola nije objavljena izvan Europe. GX4000 bio je Amstradov kratkotrajni pokušaj ući na tržište konzole za igre, prvenstveno je proizvođač kućnog računala. Konzola je prekinuta krajem 1991. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Amstrad GX4000, comunemente noto come GX4000, è una console per videogiochi di terza generazione (1983-2003) sviluppata e distribuita da Amstrad. È stata rilasciata nel settembre del 1990 in Europa a un prezzo di vendita al dettaglio di 99,99 sterline. La console non è stata distribuita al di fuori dell'Europa. Il GX4000 è stato il breve tentativo di Amstrad di entrare nel mercato delle console per videogiochi, essendo principalmente un produttore di home computer. La console fu dismessa alla fine del 1991.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>アムストラッドGX4000、通称GX4000は、アムストラッドが開発・販売した第3世代（1983年～2003年）のビデオゲーム機である。ヨーロッパでは1990年9月に発売され、小売価格は99.99ポンドだった。ヨーロッパ以外では発売されなかった。GX4000は、主に家庭用コンピュータメーカーであったアムストラッドがゲーム機市場に参入しようとした短期間の試みであった。このゲーム機は1991年末に製造中止となった。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>일반적으로 GX4000으로 알려진 Amstrad GX4000은 Amstrad에서 개발 및 배포한 3세대(1983-2003) 비디오 게임 콘솔입니다. 1990년 9월에 유럽에서 99.99파운드의 소매가로 출시되었습니다. 이 콘솔은 유럽 외 지역에는 출시되지 않았습니다. GX4000은 주로 가정용 컴퓨터 제조업체였던 암스트래드가 게임 콘솔 시장에 진출하기 위해 단기간에 시도한 제품입니다. 이 콘솔은 1991년 말에 단종되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Amstrad GX4000, beter bekend als de GX4000, is een derde generatie (1983-2003) videogameconsole ontwikkeld en gedistribueerd door Amstrad. De console werd in september 1990 uitgebracht in Europa voor een verkoopprijs van 99,99 pond. De console werd niet buiten Europa uitgebracht. De GX4000 was Amstrad's kortstondige poging om de markt voor spelconsoles te betreden, aangezien het voornamelijk een fabrikant van thuiscomputers was. De console werd eind 1991 uit de handel genomen.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Amstrad GX4000, powszechnie znana jako GX4000, to konsola do gier wideo trzeciej generacji (1983-2003) opracowana i dystrybuowana przez firmę Amstrad. Została wydana we wrześniu 1990 roku w Europie w cenie detalicznej 99,99 GBP. Konsola nie została wydana poza Europą. GX4000 była krótkotrwałą próbą wejścia firmy Amstrad na rynek konsol do gier, będąc przede wszystkim producentem komputerów domowych. Konsola została wycofana pod koniec 1991 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Amstrad GX4000, comumente conhecido como GX4000, é um console de videogame de terceira geração (1983-2003) desenvolvido e distribuído pela Amstrad. Foi lançado em setembro de 1990 na Europa a um preço de varejo de £99,99. O console não foi lançado fora da Europa. O GX4000 foi a tentativa de curta duração da Amstrad de entrar no mercado de consoles de jogos, sendo principalmente um fabricante de computadores domésticos. O console foi descontinuado no final de 1991.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Amstrad GX4000, comumente conhecido como GX4000, é um console de videogame de terceira geração (1983-2003) desenvolvido e distribuído pela Amstrad. Foi lançado em setembro de 1990 na Europa a um preço de varejo de £ 99,99. O console não foi lançado fora da Europa. O GX4000 foi a tentativa de curta duração da Amstrad de entrar no mercado de console de jogos, sendo principalmente um fabricante de computadores domésticos. O console foi descontinuado no final de 1991.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Amstrad GX4000, cunoscut în mod obișnuit ca GX4000, este o consolă de jocuri video din a treia generație (1983-2003) dezvoltată și distribuită de Amstrad. A fost lansată în septembrie 1990 în Europa la un preț de vânzare cu amănuntul de £99.99. Consola nu a fost lansată în afara Europei. GX4000 a fost încercarea de scurtă durată a Amstrad de a intra pe piața consolelor de jocuri, fiind în primul rând un producător de calculatoare de acasă. Consola a fost abandonată la sfârșitul anului 1991.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Amstrad GX4000, широко известная как GX4000, - это игровая консоль третьего поколения (1983-2003), разработанная и распространяемая компанией Amstrad. Она была выпущена в сентябре 1990 года в Европе по розничной цене 99,99 фунтов стерлингов. За пределами Европы консоль не выпускалась. GX4000 была недолгой попыткой компании Amstrad выйти на рынок игровых консолей, поскольку она в основном производила домашние компьютеры. Консоль была снята с производства в конце 1991 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Амстрад ГКС4000, обично познат као ГКС4000, је трећа генерација (1983-2003) конзола за видео игру коју је развио и дистрибуирао Амстрад.Објављен је у септембру 1990. године у Европи на малопродајној цени од 99,99 фунти.Конзола није пуштена ван Европе.ГКС4000 је био краткотрајни покушај Амстрада да уђе у тржиште игара конзола, да је пре свега произвођач кућног рачунара.Конзола је прекинута крајем 1991. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Amstrad GX4000, allmänt känd som GX4000, är en tredje generationens (1983-2003) videospelskonsol som utvecklats och distribueras av Amstrad. Den släpptes i september 1990 i Europa till ett detaljhandelspris av £99,99. Konsolen släpptes inte utanför Europa. GX4000 var Amstrads kortlivade försök att komma in på marknaden för spelkonsoler, eftersom företaget i första hand var en tillverkare av hemdatorer. Konsolen slutade säljas i slutet av 1991.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Amstrad GX4000，俗称 GX4000，是 Amstrad 开发和销售的第三代（1983-2003 年）视频游戏机。它于 1990 年 9 月在欧洲发布，零售价为 99.99 英镑。该游戏机未在欧洲以外的地区发售。GX4000 是 Amstrad 进军游戏机市场的一次短暂尝试，当时 Amstrad 主要生产家用电脑。该游戏机于 1991 年底停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Amstrad GX4000 通常被稱為 GX4000，是由 Amstrad 開發和代理的第三代（1983-2003）視訊遊戲機。它於 1990 年 9 月在歐洲發售，零售價為 99.99 英鎊。該遊戲機並未在歐洲以外的地區發售。GX4000 是 Amstrad 進軍遊戲控制台市場的短暫嘗試，它主要是一家家用電腦製造商。該控制台於 1991 年底停產。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

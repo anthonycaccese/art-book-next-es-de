@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Nintendo 3DS</systemName>
+        <systemDescription>The Nintendo 3DS, abbreviated to 3DS, is a portable game console produced by Nintendo. It is capable of displaying stereoscopic 3D effects without the use of 3D glasses or additional accessories. Nintendo announced the device in March 2010 and officially unveiled it at E3 2010 on June 15, 2010. The console succeeds the Nintendo DS, featuring backward compatibility with older Nintendo DS and Nintendo DSi video games.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>2011</systemReleaseYear>
+        <systemReleaseDate>2011-02-26</systemReleaseDate>
+        <systemReleaseDateFormated>February 26, 2011</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>257-229</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>667481</systemColor>
+        <systemColorPalette1>929497</systemColorPalette1>
+        <systemColorPalette2>C02424</systemColorPalette2>
+        <systemColorPalette3>221D1F</systemColorPalette3>
+        <systemColorPalette4>347A7A</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز نينتندو 3DS، الذي يُعرف اختصاراً باسم 3DS، هو جهاز ألعاب محمول من إنتاج شركة نينتندو. وهو قادر على عرض تأثيرات مجسمة ثلاثية الأبعاد دون استخدام نظارات ثلاثية الأبعاد أو ملحقات إضافية. أعلنت نينتندو عن الجهاز في مارس 2010 وكشفت عنه رسمياً في E3 2010 في 15 يونيو 2010. ويحل الجهاز محل جهاز Nintendo DS، ويتميز بتوافقه مع ألعاب الفيديو الأقدم من Nintendo DS و Nintendo DSi.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Nintendo 3DS, skraćeni na 3DS, prijenosna je konzola za igru koju proizvodi Nintendo. Sposoban je prikazati stereoskopske 3D efekte bez upotrebe 3D naočala ili dodatnih dodataka. Nintendo je najavio u martu 2010. godine i službeno je predstavio na E3 2010 15. juna 2010. godine. Konzola uspijeva Nintendo DS, nalaze se na pozadinskom kompatibilnosti sa starijim Nintendo DS i Nintendo DSI video igrama.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Nintendo 3DS, abreujada a 3DS, és una consola de jocs portàtil produïda per Nintendo.És capaç de mostrar efectes 3D estereoscòpics sense l’ús de ulleres 3D ni accessoris addicionals. Nintendo va anunciar el dispositiu el març del 2010 i el va donar a conèixer oficialment a E3 2010 el 15 de juny de 2010. La consola succeeix a la Nintendo DS, amb una compatibilitat endarrerida amb videojocs Nintendo DS i Nintendo DSI més antics.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Nintendo 3DS, abgekürzt 3DS, ist eine tragbare Spielkonsole, die von Nintendo hergestellt wird. Sie ist in der Lage, stereoskopische 3D-Effekte ohne 3D-Brille oder zusätzliches Zubehör darzustellen. Nintendo kündigte das Gerät im März 2010 an und stellte es offiziell auf der E3 2010 am 15. Juni 2010 vor. Die Konsole ist der Nachfolger des Nintendo DS und bietet Abwärtskompatibilität mit älteren Nintendo DS- und Nintendo DSi-Videospielen.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Nintendo 3DS, abreviada 3DS, es una videoconsola portátil fabricada por Nintendo. Es capaz de mostrar efectos 3D estereoscópicos sin necesidad de utilizar gafas 3D ni accesorios adicionales. Nintendo anunció el dispositivo en marzo de 2010 y lo presentó oficialmente en el E3 2010 el 15 de junio de 2010. La consola sucede a la Nintendo DS y es retrocompatible con los videojuegos anteriores de Nintendo DS y Nintendo DSi.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Nintendo 3DS, abrégée en 3DS, est une console de jeu portable produite par Nintendo. Elle est capable d'afficher des effets 3D stéréoscopiques sans utiliser de lunettes 3D ou d'accessoires supplémentaires. Nintendo a annoncé la console en mars 2010 et l'a officiellement dévoilée à l'E3 2010 le 15 juin 2010. La console succède à la Nintendo DS et offre une rétrocompatibilité avec les anciens jeux vidéo de la Nintendo DS et de la Nintendo DSi.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Nintendo 3DS, skraćen na 3DS, prijenosna je igračka konzola koju je proizveo Nintendo. Sposoban je prikazati stereoskopske 3D efekte bez upotrebe 3D naočala ili dodatnih dodataka. Nintendo je najavio uređaj u ožujku 2010. godine i službeno ga je predstavio na E3 2010 15. lipnja 2010. Konzola je uspjela Nintendo DS, a sadrži unatrag kompatibilnost sa starijim Nintendo DS -om i Nintendo DSI video igrama.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Nintendo 3DS, abbreviato in 3DS, è una console di gioco portatile prodotta da Nintendo. È in grado di visualizzare effetti 3D stereoscopici senza l'uso di occhiali 3D o accessori aggiuntivi. Nintendo ha annunciato il dispositivo nel marzo 2010 e lo ha presentato ufficialmente all'E3 2010 il 15 giugno 2010. La console succede al Nintendo DS e presenta la retrocompatibilità con i vecchi videogiochi per Nintendo DS e Nintendo DSi.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ニンテンドー3DS、略称3DSは、任天堂が製造する携帯ゲーム機である。3Dメガネや追加のアクセサリーを使用せずに立体視効果を表示することができる。任天堂は2010年3月に発表し、2010年6月15日のE3 2010で正式に発表した。このゲーム機はニンテンドーDSの後継機であり、旧型のニンテンドーDSやニンテンドーDSiのビデオゲームとの後方互換性を特徴としている。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>약칭 3DS로 불리는 닌텐도 3DS는 닌텐도에서 제작한 휴대용 게임 콘솔입니다. 3D 안경이나 추가 액세서리 없이도 입체적인 3D 효과를 표시할 수 있습니다. 닌텐도는 2010년 3월에 이 기기를 발표하고 2010년 6월 15일에 열린 E3 2010에서 공식적으로 공개했습니다. 이 콘솔은 닌텐도 DS의 후속 제품으로, 구형 닌텐도 DS 및 닌텐도 DSi 비디오 게임과의 하위 호환성이 특징입니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Nintendo 3DS, afgekort 3DS, is een draagbare spelconsole geproduceerd door Nintendo. Het kan stereoscopische 3D-effecten weergeven zonder het gebruik van een 3D-bril of extra accessoires. Nintendo kondigde het apparaat aan in maart 2010 en onthulde het officieel op de E3 2010 op 15 juni 2010. De console volgt de Nintendo DS op en biedt achterwaartse compatibiliteit met oudere Nintendo DS- en Nintendo DSi-videospellen.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Nintendo 3DS, w skrócie 3DS, to przenośna konsola do gier wyprodukowana przez Nintendo. Jest ona w stanie wyświetlać stereoskopowe efekty 3D bez użycia okularów 3D lub dodatkowych akcesoriów. Nintendo zapowiedziało urządzenie w marcu 2010 roku i oficjalnie zaprezentowało je na targach E3 2010 w dniu 15 czerwca 2010 roku. Konsola jest następcą Nintendo DS, oferując wsteczną kompatybilność ze starszymi grami wideo Nintendo DS i Nintendo DSi.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Nintendo 3DS, abreviado como 3DS, é um console de jogos portátil produzido pela Nintendo. Ele é capaz de exibir efeitos 3D estereoscópicos sem o uso de óculos 3D ou acessórios adicionais. A Nintendo anunciou o dispositivo em março de 2010 e o apresentou oficialmente na E3 2010 em 15 de junho de 2010. O console sucede o Nintendo DS, apresentando compatibilidade com versões anteriores dos videogames Nintendo DS e Nintendo DSi.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Nintendo 3DS, abreviado ao 3DS, é um console de jogo portátil produzido pela Nintendo.É capaz de exibir efeitos 3D estereoscópicos sem o uso de óculos 3D ou acessórios adicionais. A Nintendo anunciou o dispositivo em março de 2010 e o apresentou oficialmente na E3 2010 em 15 de junho de 2010. O console sucede ao Nintendo DS, com compatibilidade com versões anteriores com os videogames mais antigos da Nintendo DS e da Nintendo DSI.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Nintendo 3DS, abreviat 3DS, este o consolă de jocuri portabilă produsă de Nintendo. Aceasta este capabilă să afișeze efecte 3D stereoscopice fără a utiliza ochelari 3D sau accesorii suplimentare. Nintendo a anunțat dispozitivul în martie 2010 și l-a prezentat oficial la E3 2010 pe 15 iunie 2010. Consola succede Nintendo DS, oferind retrocompatibilitate cu jocurile video mai vechi Nintendo DS și Nintendo DSi.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Nintendo 3DS (сокращенно 3DS) - портативная игровая консоль, выпущенная компанией Nintendo. Она способна отображать стереоскопические 3D-эффекты без использования 3D-очков или дополнительных аксессуаров. Nintendo анонсировала устройство в марте 2010 года, а 15 июня 2010 года официально представила его на выставке E3 2010. Консоль пришла на смену Nintendo DS и обладает обратной совместимостью со старыми видеоиграми Nintendo DS и Nintendo DSi.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Нинтендо 3ДС, скраћено на 3ДС, преносива је конзола игре коју је продуцирао Нинтендо.Способан је да приказује стереоскопски 3Д ефекте без употребе 3Д наочара или додатних додатака.Нинтендо је најавио уређај у марту 2010. године и званично је представио на Е3 2010. јуна 2010. године. Конзола је наследила Нинтендо ДС, која садржи уназад компатибилност са старијим Нинтендо ДС и Нинтендо ДСИ видео игарама.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Nintendo 3DS, förkortat 3DS, är en bärbar spelkonsol som tillverkas av Nintendo. Den kan visa stereoskopiska 3D-effekter utan att man behöver använda 3D-glasögon eller andra tillbehör. Nintendo tillkännagav enheten i mars 2010 och presenterade den officiellt på E3 2010 den 15 juni 2010. Konsolen är en efterföljare till Nintendo DS och har bakåtkompatibilitet med äldre videospel från Nintendo DS och Nintendo DSi.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>任天堂 3DS，简称 3DS，是任天堂公司生产的一款便携式游戏机。它能够显示立体 3D 效果，无需使用 3D 眼镜或其他配件。任天堂于 2010 年 3 月宣布推出该设备，并于 2010 年 6 月 15 日在 E3 2010 上正式发布。该游戏机接替了任天堂 DS，具有向后兼容旧版任天堂 DS 和任天堂 DSi 视频游戏的特点。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>任天堂 3DS，簡稱 3DS，是任天堂製造的可攜式遊戲主機。它能夠顯示立體 3D 效果，無需使用 3D 眼鏡或其他配件。任天堂於 2010 年 3 月宣布推出此設備，並於 2010 年 6 月 15 日在 E3 2010 上正式發表。該控制台繼承了 Nintendo DS，具有向後相容舊版 Nintendo DS 和 Nintendo DSi 視訊遊戲的特色。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

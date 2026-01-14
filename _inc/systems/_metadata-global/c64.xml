@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Commodore 64</systemName>
+        <systemDescription>The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. Volume production started in early 1982, marketing in August for US$595 (equivalent to $1,461 in 2015). Preceded by the Commodore VIC-20 and Commodore PET, the C64 took its name from its 64 kilobytes (65,536 bytes) of RAM. It had superior sound and graphical specifications compared to other earlier systems such as the Apple II and Atari 800, with multi-color sprites and a more advanced sound processor.</systemDescription>
+        <systemManufacturer>Commodore</systemManufacturer>
+        <systemReleaseYear>1982</systemReleaseYear>
+        <systemReleaseDate>1982-01-01</systemReleaseDate>
+        <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>0a58b2</systemColor>
+        <systemColorPalette1>BBAD93</systemColorPalette1>
+        <systemColorPalette2>968971</systemColorPalette2>
+        <systemColorPalette3>FD4120</systemColorPalette3>
+        <systemColorPalette4>00A0C6</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كومودور 64 هو كمبيوتر منزلي من 8 بت تم طرحه في يناير 1982 من قبل شركة كومودور العالمية. تم إدراجه في موسوعة غينيس للأرقام القياسية كأعلى طراز كمبيوتر فردي مبيعاً على الإطلاق، حيث تشير تقديرات مستقلة إلى أن العدد المباع يتراوح بين 10 و17 مليون وحدة. وقد بدأ الإنتاج بكميات كبيرة في أوائل عام 1982، وتم تسويقه في أغسطس مقابل 595 دولارًا أمريكيًا (ما يعادل 1,461 دولارًا أمريكيًا في عام 2015). وقد سبقها كومودور VIC-20 وكومودور PET، وقد استمدت C64 اسمها من ذاكرة الوصول العشوائي التي تبلغ 64 كيلو بايت (65,536 بايت). وكان يتمتع بمواصفات صوتية ورسومية متفوقة مقارنة بأنظمة أخرى سابقة مثل Apple II و Atari 800، مع وجود رسوم متحركة متعددة الألوان ومعالج صوت أكثر تقدمًا.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Commodore 64 je 8-bitni kućni računar predstavljen u januaru 1982. godine Commodore International. Navedena je u Guinnessovoj svjetskim zapisima kao najprodavaniji jedinstveni model računara svih vremena, sa neovisnim procjenama postavljanje broja prodanog između 10 i 17 miliona jedinica. Proizvodnja volumena počela je početkom 1982. godine, marketing u kolovozu za 595 USD (ekvivalentno 1.461 USD u 2015.). Predvdjeli Commodore VIC-20 i Commodore PET, C64 je uzeo ime od svojih 64 kilobajta (65.536 bajtova) RAM-a. Imao je vrhunske zvučne i grafičke specifikacije u odnosu na druge ranije sustave poput Apple II i Atari 800, s višebojnim spritesom i naprednijim procesorom zvuka.</systemDescription>
+            <systemHardwareType>Računar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Commodore 64 és un ordinador domèstic de 8 bits introduït el gener de 1982 per Commodore International. Es mostra als Guinness World Records com el model informàtic únic més venut de tots els temps, amb estimacions independents situant el nombre venut entre 10 i 17 milions d'unitats. La producció de volum va començar a principis de 1982, màrqueting a l’agost per 595 dòlars americans (equivalent a 1.461 dòlars el 2015). Precedit pel Commodore Vic-20 i Commodore Pet, el C64 va prendre el seu nom dels seus 64 quilobytes (65.536 bytes) de RAM. Tenia especificacions gràfiques i so superiors en comparació amb altres sistemes anteriors com Apple II i Atari 800, amb sprites multicolors i un processador de so més avançat.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Commodore 64 ist ein 8-Bit-Heimcomputer, der im Januar 1982 von Commodore International eingeführt wurde. Er ist im Guinness-Buch der Rekorde als das meistverkaufte einzelne Computermodell aller Zeiten aufgeführt, wobei unabhängige Schätzungen die Zahl der verkauften Geräte auf 10 bis 17 Millionen beziffern. Die Serienproduktion begann Anfang 1982 und wurde im August für 595 US-Dollar (entspricht 1.461 US-Dollar im Jahr 2015) auf den Markt gebracht. Vor dem C64 gab es bereits den Commodore VIC-20 und den Commodore PET. Der C64 erhielt seinen Namen aufgrund seiner 64 Kilobyte (65.536 Byte) RAM. Im Vergleich zu früheren Systemen wie dem Apple II und dem Atari 800 verfügte er über bessere Sound- und Grafikeigenschaften mit mehrfarbigen Sprites und einem fortschrittlicheren Soundprozessor.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El Commodore 64 es un ordenador doméstico de 8 bits presentado en enero de 1982 por Commodore International. Figura en la lista Guinness de los Récords como el modelo de ordenador más vendido de todos los tiempos, con estimaciones independientes que sitúan el número de unidades vendidas entre 10 y 17 millones. La producción en serie comenzó a principios de 1982, comercializándose en agosto por 595 dólares (equivalentes a 1.461 dólares en 2015). Precedido por el Commodore VIC-20 y el Commodore PET, el C64 tomó su nombre de sus 64 kilobytes (65.536 bytes) de RAM. Tenía unas especificaciones gráficas y de sonido superiores a las de otros sistemas anteriores como el Apple II y el Atari 800, con sprites multicolor y un procesador de sonido más avanzado.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Commodore 64 est un ordinateur domestique 8 bits lancé en janvier 1982 par Commodore International. Il figure dans le Guinness World Records comme le modèle d'ordinateur le plus vendu de tous les temps, des estimations indépendantes situant le nombre d'unités vendues entre 10 et 17 millions. La production en série a commencé au début de l'année 1982 et le produit a été commercialisé en août au prix de 595 dollars américains (équivalent à 1 461 dollars en 2015). Précédé par le Commodore VIC-20 et le Commodore PET, le C64 tire son nom de ses 64 kilo-octets (65 536 octets) de mémoire vive. Il possédait des caractéristiques sonores et graphiques supérieures à celles d'autres systèmes antérieurs tels que l'Apple II et l'Atari 800, avec des sprites multicolores et un processeur sonore plus avancé.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Commodore 64 je 8-bitno kućno računalo koje je u siječnju 1982. uveo Commodore International. Navedena je u Guinnessovim svjetskim zapisima kao najprodavaniji pojedinačni računalni model svih vremena, s tim da su neovisne procjene postavljale broj koji se prodaje između 10 i 17 milijuna jedinica. Proizvodnja volumena započela je početkom 1982. godine, marketing u kolovozu za 595 USD (što je u 2015. godini, što je ekvivalentno 1.461 USD). Prethodno od strane Commodore Vic-20 i Commodore Pet-a, C64 je ime uzeo po svojim 64 kilobajta (65.536 bajtova) RAM-a. Imao je vrhunske zvučne i grafičke specifikacije u usporedbi s drugim ranijim sustavima kao što su Apple II i Atari 800, s višebojnim spritima i naprednijim zvučnim procesorom.</systemDescription>
+            <systemHardwareType>Računalo</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Commodore 64 è un home computer a 8 bit introdotto nel gennaio 1982 da Commodore International. È elencato nel Guinness World Records come il modello di computer singolo più venduto di tutti i tempi, con stime indipendenti che collocano il numero di unità vendute tra i 10 e i 17 milioni. La produzione in serie è iniziata all'inizio del 1982, con la commercializzazione in agosto al prezzo di 595 dollari (equivalenti a 1.461 dollari nel 2015). Preceduto dal Commodore VIC-20 e dal Commodore PET, il C64 prende il nome dai suoi 64 kilobyte (65.536 byte) di RAM. Aveva specifiche sonore e grafiche superiori rispetto ad altri sistemi precedenti come l'Apple II e l'Atari 800, con sprite multicolore e un processore sonoro più avanzato.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>コモドール64は、コモドールインターナショナルが1982年1月に発売した8ビットの家庭用コンピューターである。コモドール64は、コモドール・インターナショナルが1982年1月に発売した8ビットの家庭用コンピュータであり、単一のコンピュータとしては史上最高の販売台数を記録したモデルとしてギネス世界記録に登録されている。1982年初頭に量産が開始され、8月に595米ドル（2015年の1,461ドルに相当）で販売された。コモドールVIC-20やコモドールPETに先立つC64は、64キロバイト（65,536バイト）のRAMを搭載していたことからその名がついた。アップルIIやアタリ800のような初期のシステムと比べて、サウンドとグラフィックの仕様が優れており、マルチカラースプライトやより高度なサウンドプロセッサーを搭載していた。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>코머도어 64는 1982년 1월 코머도어 인터내셔널에서 출시한 8비트 가정용 컴퓨터입니다. 역대 가장 많이 팔린 단일 컴퓨터 모델로 기네스 세계 기록에 등재되어 있으며, 독립적인 추산에 따르면 1,000만 대에서 1,700만 대가 판매된 것으로 알려져 있습니다. 1982년 초에 대량 생산이 시작되어 8월에 미화 595달러(2015년 기준 1,461달러 상당)에 판매되었습니다. 커머도어 VIC-20과 커머도어 PET에 앞서 출시된 C64는 64킬로바이트(65,536바이트)의 램에서 그 이름을 따왔습니다. 멀티컬러 스프라이트와 고급 사운드 프로세서를 탑재하여 Apple II 및 Atari 800과 같은 다른 초기 시스템에 비해 뛰어난 사운드 및 그래픽 사양을 갖추고 있었습니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Commodore 64 is een 8-bit thuiscomputer die in januari 1982 werd geïntroduceerd door Commodore International. Hij staat in het Guinness World Records als het best verkochte model computer aller tijden, volgens onafhankelijke schattingen tussen de 10 en 17 miljoen verkochte exemplaren. De serieproductie begon begin 1982 en kwam in augustus op de markt voor US$595 (gelijk aan $1.461 in 2015). Voorafgegaan door de Commodore VIC-20 en Commodore PET, ontleende de C64 zijn naam aan zijn 64 kilobytes (65.536 bytes) RAM geheugen. Het had superieure geluids- en grafische specificaties in vergelijking met andere eerdere systemen zoals de Apple II en Atari 800, met meerkleurige sprites en een geavanceerdere geluidsprocessor.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Commodore 64 to 8-bitowy komputer domowy wprowadzony na rynek w styczniu 1982 roku przez firmę Commodore International. Jest on wymieniony w Światowych Rekordach Guinnessa jako najlepiej sprzedający się pojedynczy model komputera wszechczasów, z niezależnymi szacunkami umieszczającymi liczbę sprzedanych między 10 a 17 milionami sztuk. Produkcja seryjna rozpoczęła się na początku 1982 roku, a w sierpniu trafił na rynek w cenie 595 USD (równowartość 1461 USD w 2015 roku). Poprzedzony przez Commodore VIC-20 i Commodore PET, C64 wziął swoją nazwę od 64 kilobajtów (65 536 bajtów) pamięci RAM. Charakteryzował się lepszymi parametrami dźwiękowymi i graficznymi w porównaniu do innych wcześniejszych systemów, takich jak Apple II i Atari 800, z wielokolorowymi sprite'ami i bardziej zaawansowanym procesorem dźwięku.</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Commodore 64 é um computador doméstico de 8 bits lançado em janeiro de 1982 pela Commodore International. Ele está listado no Guinness World Records como o modelo de computador individual mais vendido de todos os tempos, com estimativas independentes que colocam o número de unidades vendidas entre 10 e 17 milhões. A produção em volume começou no início de 1982, sendo comercializado em agosto por US$ 595 (equivalente a US$ 1.461 em 2015). Precedido pelo Commodore VIC-20 e pelo Commodore PET, o C64 recebeu seu nome devido aos 64 kilobytes (65.536 bytes) de RAM. Ele tinha especificações gráficas e de som superiores às de outros sistemas anteriores, como o Apple II e o Atari 800, com sprites multicoloridos e um processador de som mais avançado.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Commodore 64 é um computador doméstico de 8 bits introduzido em janeiro de 1982 pela Commodore International. Ele está listado no Guinness World Records como o modelo de computador único mais vendido de todos os tempos, com estimativas independentes colocando o número vendido entre 10 e 17 milhões de unidades. A produção de volume começou no início de 1982, marketing em agosto por US $ 595 (equivalente a US $ 1.461 em 2015). Precedido pelo Commodore Vic-20 e Commodore Pet, o C64 tirou o nome de seus 64 kilobytes (65.536 bytes) de RAM. Ele tinha especificações de som e gráfico superiores em comparação com outros sistemas anteriores, como o Apple II e o Atari 800, com sprites multicoloridos e um processador de som mais avançado.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Commodore 64 este un computer de casă pe 8 biți introdus în ianuarie 1982 de Commodore International. Acesta este listat în Guinness World Records ca fiind cel mai bine vândut model de computer din toate timpurile, estimările independente plasând numărul de unități vândute între 10 și 17 milioane. Producția în serie a început la începutul anului 1982, fiind comercializat în august la prețul de 595 USD (echivalentul a 1 461 USD în 2015). Precedat de Commodore VIC-20 și Commodore PET, C64 și-a luat numele de la cei 64 de kilobiți (65.536 bytes) de RAM. Avea specificații grafice și de sunet superioare față de alte sisteme anterioare, cum ar fi Apple II și Atari 800, cu sprite multicolore și un procesor de sunet mai avansat.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Commodore 64 - 8-битный домашний компьютер, представленный в январе 1982 года компанией Commodore International. Он занесен в Книгу рекордов Гиннесса как самая продаваемая модель компьютера всех времен и народов. По независимым оценкам, количество проданных компьютеров составляет от 10 до 17 миллионов штук. Серийное производство началось в начале 1982 года, в августе он поступил в продажу по цене 595 долларов США (эквивалентно 1461 доллару США в 2015 году). Предшественник Commodore VIC-20 и Commodore PET, C64 получил свое название от 64 килобайт (65 536 байт) оперативной памяти. Она обладала лучшими звуковыми и графическими характеристиками по сравнению с другими ранними системами, такими как Apple II и Atari 800, с многоцветными спрайтами и более совершенным звуковым процессором.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Цоммодоре 64 је 8-битни кућни рачунар уведени у јануару 1982. године Цоммодоре Интернатионал.Наведено је у гуиннесској светској евиденцији као највиши модел јединственог рачунара свих времена, са независним проценама који се нуде број продате између 10 и 17 милиона јединица.Производња запремине почела је почетком 1982. године, маркетинг у августу за 595 УСД (еквивалентно 1.461 УСД у 2015. години).Претходио Цоммодоре Виц-20 и Цоммодоре ПЕТ, Ц64 је узео своје име из 64 килобајта (65.536 бајтова) РАМ-а.Имао је врхунске звучне и графичке спецификације у поређењу с другим ранијим системима, као што су Аппле ИИ и Атари 800, са мулти-боловним спритима и напреднијим процесором звука.</systemDescription>
+            <systemHardwareType>Рачунар</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Commodore 64 är en 8-bitars hemdator som introducerades i januari 1982 av Commodore International. Den är listad i Guinness World Records som den mest sålda enskilda datormodellen genom tiderna, med oberoende uppskattningar som placerar antalet sålda mellan 10 och 17 miljoner enheter. Volymproduktionen startade i början av 1982 och marknadsfördes i augusti för 595 USD (motsvarande 1 461 USD år 2015). C64 föregicks av Commodore VIC-20 och Commodore PET och fick sitt namn från sitt 64 kilobyte (65.536 bytes) RAM-minne. Den hade överlägsna ljud- och grafikspecifikationer jämfört med andra tidigare system som Apple II och Atari 800, med sprites i flera färger och en mer avancerad ljudprocessor.</systemDescription>
+            <systemHardwareType>Dator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>准将 64 是准将国际公司于 1982 年 1 月推出的一款 8 位家用电脑。它被列入吉尼斯世界纪录，是有史以来销量最高的单一计算机型号，据独立估计，其销量在 1,000 万至 1,700 万台之间。1982 年初开始批量生产，8 月上市，售价 595 美元（相当于 2015 年的 1461 美元）。C64 的前身是 Commodore VIC-20 和 Commodore PET，其名称源于 64 千字节（65,536 字节）的 RAM。与其他早期系统（如 Apple II 和 Atari 800）相比，C64 拥有更出色的声音和图形规格，配备了多色精灵和更先进的声音处理器。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Commodore 64 是 Commodore International 於 1982 年 1 月推出的 8 位元家用電腦。在吉尼斯世界紀錄中，它被列為有史以來銷售量最高的單一電腦機型，根據獨立估計，銷售量介於 1,000 萬台至 1,700 萬台之間。1982 年初開始量產，8 月上市，售價為 595 美元（相當於 2015 年的 1,461 美元）。C64 的前身是 Commodore VIC-20 和 Commodore PET，其名來自 64 KB (65,536 位元組) 的 RAM。與其他早期系統（如 Apple II 和 Atari 800）相比，C64 的音效和圖形規格更為優異，具有多色萌點和更先進的音效處理器。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
+        </variables>
+    </language>
+</theme>

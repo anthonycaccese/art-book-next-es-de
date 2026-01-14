@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Intellivision</systemName>
+        <systemDescription>The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299. The console was later released in Europe (1981), South America (1982), and Japan (1982). The Intellivision was the first home console to use a tile based playfield and was the first game console to provide real-time human voices in the middle of gameplay, courtesy of the IntelliVoice module. The console was discontinued in early-1990.</systemDescription>
+        <systemManufacturer>Mattel</systemManufacturer>
+        <systemReleaseYear>1979</systemReleaseYear>
+        <systemReleaseDate>1979-12-03</systemReleaseDate>
+        <systemReleaseDateFormated>December 3, 1979</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>ef830f</systemColor>
+        <systemColorPalette1>D4C1A0</systemColorPalette1>
+        <systemColorPalette2>2B201D</systemColorPalette2>
+        <systemColorPalette3>C81A7C</systemColorPalette3>
+        <systemColorPalette4>C8D463</systemColorPalette4>
+        <systemCartSize>135-172</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Mattel Intell Intellivision هو الجيل الثاني (1976-1992) من أجهزة ألعاب الفيديو المنزلية التي طورتها ووزعتها شركة Mattel Electronics. تم إصدارها في صيف 1979 في أمريكا الشمالية بسعر تجزئة 299 دولارًا أمريكيًا. تم إصدار وحدة التحكم لاحقاً في أوروبا (1981) وأمريكا الجنوبية (1982) واليابان (1982). كانت Intellivision أول وحدة تحكم منزلية تستخدم ملعباً قائماً على البلاط، وكانت أول وحدة تحكم في الألعاب توفر أصواتاً بشرية في الوقت الحقيقي في منتصف اللعب، بفضل وحدة IntelliVoice. تم إيقاف وحدة التحكم في أوائل عام 1990.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Mattel Intellivision je druga generacija (1976-1992) kućna konzola za video igre razvijena i distribuirana od strane Mattel Electronics. Pušteno je u ljeto 1979. u Severnoj Americi u maloprodajnoj ceni od 299 dolara. Konzola je kasnije objavljena u Evropi (1981), Južna Amerika (1982), i Japan (1982). Intelivizija je bila prva domaća konzola za korištenje Pyile Filli Fillied i bila je prva igračka konzola za pružanje u stvarnom vremenu ljudskih glasova u sredini igranja, ljubaznošću intelivejskog modula. Konzola je prekinuta početkom 1990. godine.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Mattel Intellivision és una consola de videojocs a casa de segona generació (1976–1992) desenvolupada i distribuïda per Mattel Electronics. Va ser llançat a l'estiu de 1979 a Amèrica del Nord a un preu al detall de 299 dòlars. La consola es va publicar més tard a Europa (1981), Amèrica del Sud (1982) i Japó (1982). La Intellivision va ser la primera consola de casa que va utilitzar un camp de joc basat en rajoles i va ser la primera consola de jocs que va proporcionar veus humanes en temps real enmig del joc, cortesia del mòdul Intellivoice. La consola es va suspendre a principis de 1990.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Mattel Intellivision ist eine Heimvideospielkonsole der zweiten Generation (1976-1992), die von Mattel Electronics entwickelt und vertrieben wurde. Sie wurde im Sommer 1979 in Nordamerika zu einem Einzelhandelspreis von 299 $ veröffentlicht. Die Konsole wurde später auch in Europa (1981), Südamerika (1982) und Japan (1982) veröffentlicht. Die Intellivision war die erste Heimkonsole, die ein kachelbasiertes Spielfeld verwendete, und war die erste Spielkonsole, die dank des IntelliVoice-Moduls menschliche Stimmen in Echtzeit mitten im Spiel bot. Die Konsole wurde Anfang 1990 aus dem Programm genommen.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Mattel Intellivision es una videoconsola doméstica de segunda generación (1976-1992) desarrollada y distribuida por Mattel Electronics. Salió a la venta en el verano de 1979 en Norteamérica a un precio de 299 dólares. La consola se lanzó posteriormente en Europa (1981), Sudamérica (1982) y Japón (1982). La Intellivision fue la primera consola doméstica en utilizar un campo de juego basado en fichas y fue la primera consola de juegos en proporcionar voces humanas en tiempo real en medio del juego, cortesía del módulo IntelliVoice. La consola dejó de fabricarse a principios de 1990.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Mattel Intellivision est une console de jeux vidéo de salon de deuxième génération (1976-1992) développée et distribuée par Mattel Electronics. Elle est sortie à l'été 1979 en Amérique du Nord au prix de détail de 299 dollars. La console a ensuite été commercialisée en Europe (1981), en Amérique du Sud (1982) et au Japon (1982). L'Intellivision a été la première console de salon à utiliser un terrain de jeu à base de tuiles et la première console de jeu à fournir des voix humaines en temps réel au milieu du jeu, grâce au module IntelliVoice. La console a été abandonnée au début de l'année 1990.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Mattel Intellivision je druga generacija (1976–1992) Konzola za kućne video igre koju je razvila i distribuirala Mattel Electronics. Objavljen je u ljeto 1979. u Sjevernoj Americi po maloprodajnoj cijeni od 299 dolara. Konzola je kasnije objavljena u Europi (1981), Južnoj Americi (1982) i Japanu (1982). Intellivision je bila prva kućna konzola koja je koristila igralište temeljeno na pločici i bila je prva konzola za igru koja je pružila ljudske glasove u stvarnom vremenu usred igranja, ljubaznošću Modula Intellivoice. Konzola je prekinuta početkom 1990.</systemDescription>
+            <systemHardwareType>Konzola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Mattel Intellivision è una console per videogiochi domestici di seconda generazione (1976-1992) sviluppata e distribuita da Mattel Electronics. È stata rilasciata nell'estate del 1979 in Nord America a un prezzo al dettaglio di 299 dollari. La console è stata successivamente distribuita in Europa (1981), Sud America (1982) e Giappone (1982). L'Intellivision è stata la prima console domestica a utilizzare un campo di gioco a mattonelle ed è stata la prima console a fornire voci umane in tempo reale durante il gioco, grazie al modulo IntelliVoice. La console è stata dismessa all'inizio del 1990.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>マテル・インテリビジョンは、マテル・エレクトロニクスが開発・販売した第2世代（1976年～1992年）の家庭用ビデオゲーム機である。1979年夏に北米で発売され、小売価格は299ドルであった。後にヨーロッパ（1981年）、南米（1982年）、日本（1982年）でも発売された。インテリビジョンは、タイルベースのプレイフィールドを採用した最初の家庭用ゲーム機であり、インテリボイスモジュールにより、ゲームプレイ中にリアルタイムで人の声が聞こえる最初のゲーム機であった。このゲーム機は1990年初めに販売終了となった。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>마텔 인텔리비전은 마텔 일렉트로닉스에서 개발 및 유통한 2세대(1976-1992) 가정용 비디오 게임 콘솔입니다. 1979년 여름 북미에서 299달러의 소매가로 출시되었습니다. 이 콘솔은 이후 유럽(1981), 남미(1982), 일본(1982)에서 출시되었습니다. 인텔리비전은 타일 기반 플레이필드를 사용한 최초의 가정용 콘솔이었으며, 인텔리보이스 모듈을 통해 게임 플레이 도중 사람의 음성을 실시간으로 제공하는 최초의 게임 콘솔이었습니다. 이 콘솔은 1990년 초에 단종되었습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Mattel Intellivision is een tweede generatie (1976-1992) home video game console ontwikkeld en gedistribueerd door Mattel Electronics. Hij werd in de zomer van 1979 uitgebracht in Noord-Amerika voor een verkoopprijs van 299 dollar. De console werd later uitgebracht in Europa (1981), Zuid-Amerika (1982) en Japan (1982). De Intellivision was de eerste thuisconsole met een speelveld op basis van tegels en was de eerste spelconsole met menselijke stemmen in realtime tijdens het spelen, dankzij de IntelliVoice-module. De console werd begin 1990 uit productie genomen.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Mattel Intellivision to domowa konsola do gier wideo drugiej generacji (1976-1992) opracowana i dystrybuowana przez Mattel Electronics. Została wydana latem 1979 roku w Ameryce Północnej w cenie detalicznej 299 USD. Konsola została później wydana w Europie (1981), Ameryce Południowej (1982) i Japonii (1982). Intellivision była pierwszą konsolą domową wykorzystującą pole gry oparte na kafelkach i pierwszą konsolą do gier, która zapewniała ludzkie głosy w czasie rzeczywistym w trakcie rozgrywki, dzięki modułowi IntelliVoice. Konsola została wycofana z produkcji na początku 1990 roku.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Mattel Intellivision é um console de videogame doméstico de segunda geração (1976-1992) desenvolvido e distribuído pela Mattel Electronics. Foi lançado no verão de 1979 na América do Norte a um preço de varejo de US$ 299. O console foi lançado posteriormente na Europa (1981), na América do Sul (1982) e no Japão (1982). O Intellivision foi o primeiro console doméstico a usar um campo de jogo baseado em blocos e foi o primeiro console de jogos a fornecer vozes humanas em tempo real no meio do jogo, cortesia do módulo IntelliVoice. O console foi descontinuado no início de 1990.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>A Mattel Intellivision é uma segunda geração (1976-1992) Console de videogame caseiro desenvolvido e distribuído pela Mattel Electronics. Foi lançado no verão de 1979 na América do Norte a um preço de varejo de US $ 299. O console foi lançado posteriormente na Europa (1981), América do Sul (1982) e Japão (1982). A Intellivision foi o primeiro console doméstico a usar um campo de jogo baseado em ladrilhos e foi o primeiro console de jogos a fornecer vozes humanas em tempo real no meio da jogabilidade, cortesia do módulo Intellivoice. O console foi descontinuado no início de 1990.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Mattel Intellivision este o a doua generație (1976-1992) de console de jocuri video dezvoltate și distribuite de Mattel Electronics. A fost lansată în vara anului 1979 în America de Nord la un preț de vânzare cu amănuntul de 299 $. Consola a fost lansată ulterior în Europa (1981), America de Sud (1982) și Japonia (1982). Intellivision a fost prima consolă de acasă care a folosit un câmp de joc bazat pe plăci și a fost prima consolă de jocuri care a oferit voci umane în timp real în mijlocul jocului, grație modulului IntelliVoice. Consola a fost abandonată la începutul anului 1990.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Mattel Intellivision - это домашняя игровая приставка второго поколения (1976-1992), разработанная и распространяемая компанией Mattel Electronics. Она была выпущена летом 1979 года в Северной Америке по розничной цене 299 долларов. Позже консоль была выпущена в Европе (1981), Южной Америке (1982) и Японии (1982). Intellivision стала первой домашней консолью с плиточным игровым полем и первой игровой приставкой, в которой человеческие голоса звучали в реальном времени в середине игрового процесса благодаря модулю IntelliVoice. Консоль была снята с производства в начале 1990 года.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Маттел Интилвисион је друга генерација (1976-1992) Хоме Видео игарска конзола коју је развио и дистрибуирао Матл Елецтроницс.Објављен је у лето 1979. године у Северној Америци на малопродајној цени од 299 долара.Конзола је касније објављена у Европи (1981), Јужна Америка (1982) и Јапан (1982).Интиливион је била прва кућна конзола која је користила Плаифиелд на бази плочица и била је прва конзола у реалном игри како би се обезбедила људски гласови у реалном времену у средини Гамеплаи-а, љубазношћу ИнтеллиВиице модула.Конзола је прекинута почетком 1990. године.</systemDescription>
+            <systemHardwareType>Конзола</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Mattel Intellivision är en andra generationens (1976-1992) videospelskonsol för hemmabruk som utvecklades och distribuerades av Mattel Electronics. Den lanserades sommaren 1979 i Nordamerika till ett detaljhandelspris av 299 dollar. Konsolen släpptes senare i Europa (1981), Sydamerika (1982) och Japan (1982). Intellivision var den första hemkonsolen som använde en kakelbaserad spelplan och var den första spelkonsolen som gav mänskliga röster i realtid mitt i spelet, tack vare IntelliVoice-modulen. Konsolen slutade säljas i början av 1990.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>美泰 Intellivision 是美泰电子公司开发和销售的第二代（1976-1992 年）家用视频游戏机。它于 1979 年夏季在北美发布，零售价为 299 美元。该游戏机随后在欧洲（1981 年）、南美（1982 年）和日本（1982 年）发售。Intellivision 是第一款使用基于瓷砖的游戏场地的家用游戏机，也是第一款通过 IntelliVoice 模块在游戏过程中提供实时人声的游戏机。该游戏机于 1990 年初停产。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Mattel Intellivision 是第二代（1976-1992 年）家用視訊遊戲機，由 Mattel Electronics 開發和代理。它於 1979 年夏季在北美發行，零售價為 299 美元。該遊戲機後來在歐洲（1981 年）、南美洲（1982 年）和日本（1982 年）發行。Intellivision 是第一台使用瓦片式遊戲場地的家用控制台，也是第一台在遊戲中段提供即時人聲的遊戲控制台，這是 IntelliVoice 模組的功勞。該控制台於 1990 年初停產。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

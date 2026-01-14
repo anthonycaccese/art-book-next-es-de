@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>Naomi 2</systemName>
+        <systemDescription>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.
+
+The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU setup, new T&amp;L GPU, dual rasterizer GPU, increased memory, and faster bandwidth. This leads to games with much more polygons than a NAOMI game, rendered at much faster speeds, while the new T&amp;L GPU adds advanced lighting and particle effects. It was also more affordable than the very expensive (and difficult to program) Sega Hikaru arcade system that preceded it. The NAOMI 2 was nevertheless more powerful than home systems at the time.</systemDescription>
+        <systemManufacturer>Sega</systemManufacturer>
+        <systemReleaseYear>2000</systemReleaseYear>
+        <systemReleaseDate>2000</systemReleaseDate>
+        <systemReleaseDateFormated>2000</systemReleaseDateFormated>
+        <systemHardwareType>Arcade</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>fa860a</systemColor>
+        <systemColorPalette1>E4E7D7</systemColorPalette1>
+        <systemColorPalette2>FD95B0</systemColorPalette2>
+        <systemColorPalette3>48B3EB</systemColorPalette3>
+        <systemColorPalette4>35FF90</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Sega NAOMI 2 هي لوحة أركيد طورتها شركة Sega وهي خليفة لأجهزة Sega NAOMI. تم إصدارها في الأصل في عام 2000. وبما أنها تستخدم نفس بنية NAOMI (ولكن تم تعزيزها بشكل كبير)، فهي متوافقة تمامًا مع سابقتها.
+
+إن NAOMI 2 أقوى بكثير من NAOMI، بما في ذلك إعداد وحدة معالجة مركزية مزدوجة، ووحدة معالجة رسومات T&amp;L جديدة، ووحدة معالجة رسومات تنقيطية مزدوجة، وذاكرة متزايدة، ونطاق ترددي أسرع. وهذا يؤدي إلى ألعاب تحتوي على مضلعات أكثر بكثير من لعبة NAOMI، ويتم عرضها بسرعات أكبر بكثير، بينما تضيف وحدة معالجة الرسومات T&amp;L الجديدة تأثيرات إضاءة وجسيمات متقدمة. كما أنه كان أقل تكلفة من نظام Sega Hikaru للألعاب الذي سبقه (وصعب البرمجة) باهظ الثمن (وصعب البرمجة). ومع ذلك كان NAOMI 2 أقوى من الأنظمة المنزلية في ذلك الوقت.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Sega Naomi 2 je arkadna ploča koju je razvio Sega i nasljednik je hardvera Sea Naomi. Prvobitno je objavljen 2000. godine. Budući da koristi sličnu naomi arhitekturu (ali značajno se pojačala), također je u potpunosti kompatibilan sa svojim prethodnikom.
+
+Naomi 2 je značajno moćniji od Naomi, uključujući dual CPU postavke, novi T &amp; L GPU, dvostruko rasterizer GPU, povećanu memoriju i bržu propusnost. To dovodi do igara sa mnogo više poligona nego igra naomi, donete se u mnogo brže brzine, dok novi T &amp; L GPU dodaju napredne rasvjete i efekte čestica. Također je pristupačan od vrlo skupih (i teških programa) Sega Hikaru Arcade sustav koji je prethodio. Naomi 2 je ipak bio moćniji od kućnih sistema u to vrijeme.</systemDescription>
+            <systemHardwareType>Arkada</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Sega Naomi 2 és un tauler d’arcades desenvolupat per Sega i és successor del maquinari de Sega Naomi. Es va publicar originalment el 2000. Com que utilitza una arquitectura naomi similar (però significativament reforçada), també és totalment compatible amb el seu predecessor.
+
+El Naomi 2 és significativament més potent que el Naomi, incloent una configuració de CPU dual, nova T&amp;L GPU, GPU de doble rasteritzador, augment de la memòria i amplada de banda més ràpida. Això condueix a jocs amb molt més polígons que un joc Naomi, que es presenta a velocitats molt més ràpides, mentre que la nova GPU T&amp;L afegeix efectes avançats d’il·luminació i partícules. També va ser més assequible que el sistema de Sega Hikaru Arcade, molt car (i difícil de programar). El Naomi 2 era tanmateix més potent que els sistemes domèstics en aquell moment.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Sega NAOMI 2 ist ein Arcade-Board, das von Sega entwickelt wurde und ein Nachfolger der Sega NAOMI-Hardware ist. Es wurde ursprünglich im Jahr 2000 veröffentlicht. Da es eine ähnliche NAOMI-Architektur verwendet (aber deutlich verbessert), ist es auch vollständig rückwärtskompatibel mit seinem Vorgänger.
+
+Der NAOMI 2 ist wesentlich leistungsfähiger als der NAOMI, einschließlich eines Dual-CPU-Setups, einer neuen T&amp;L-GPU, einer Dual-Rasterizer-GPU, mehr Speicher und einer schnelleren Bandbreite. Dies führt zu Spielen mit viel mehr Polygonen als ein NAOMI-Spiel, die mit viel höherer Geschwindigkeit gerendert werden, während der neue T&amp;L-Grafikprozessor erweiterte Beleuchtungs- und Partikeleffekte ermöglicht. Es war auch erschwinglicher als das sehr teure (und schwer zu programmierende) Sega Hikaru Arcade-System, das ihm vorausging. Dennoch war der NAOMI 2 leistungsfähiger als die damaligen Heimsysteme.</systemDescription>
+            <systemHardwareType>Spielhalle</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Sega NAOMI 2 es una placa arcade desarrollada por Sega y sucesora del hardware Sega NAOMI. Salió a la venta en el año 2000. Dado que utiliza una arquitectura NAOMI similar (pero significativamente reforzada), también es totalmente compatible con su predecesor.
+
+El NAOMI 2 es mucho más potente que el NAOMI, ya que incluye una configuración de doble CPU, una nueva GPU T&amp;L, una GPU rasterizadora doble, más memoria y un ancho de banda más rápido. Esto permite crear juegos con muchos más polígonos que un NAOMI, renderizados a velocidades mucho mayores, mientras que la nueva GPU T&amp;L añade efectos avanzados de iluminación y partículas. También era más asequible que el carísimo (y difícil de programar) sistema arcade Sega Hikaru que lo precedió. No obstante, el NAOMI 2 era más potente que los sistemas domésticos de la época.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Le Sega NAOMI 2 est une carte d'arcade développée par Sega et qui succède au matériel Sega NAOMI. Elle est sortie en 2000. Comme il utilise une architecture NAOMI similaire (mais considérablement améliorée), il est également entièrement rétrocompatible avec son prédécesseur.
+
+Le NAOMI 2 est nettement plus puissant que le NAOMI, avec notamment une configuration à double CPU, un nouveau GPU T&amp;L, un double GPU rasterizer, une mémoire accrue et une bande passante plus rapide. Cela permet d'obtenir des jeux avec beaucoup plus de polygones qu'un jeu NAOMI, rendus à des vitesses beaucoup plus rapides, tandis que le nouveau GPU T&amp;L ajoute des effets d'éclairage et de particules avancés. Il était également plus abordable que le système d'arcade Sega Hikaru, très coûteux (et difficile à programmer), qui l'avait précédé. NAOMI 2 était néanmoins plus puissant que les systèmes domestiques de l'époque.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Sega Naomi 2 je arkadna ploča koju je razvio SEGA i nasljednik je hardvera Sega Naomi. Prvobitno je objavljen 2000. godine. Budući da koristi sličnu Naomi arhitekturu (ali značajno pojačana), također je potpuno unatrag kompatibilan sa svojim prethodnikom.
+
+Naomi 2 je znatno moćniji od Naomi, uključujući dvostruko postavljanje CPU -a, novi T&amp;L GPU, Dual Rasterizer GPU, povećanu memoriju i bržu širinu pojasa. To dovodi do igara s mnogo više poligona nego Naomi igru, prikazanih s mnogo bržim brzinama, dok novi T&amp;L GPU dodaje napredne efekte rasvjete i čestica. Također je bio pristupačniji od vrlo skupog (i teško programirati) arkadni sustav Sega Hikaru koji mu je prethodio. Naomi 2 je u to vrijeme bio snažniji od kućnih sustava.</systemDescription>
+            <systemHardwareType>Arkada</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Sega NAOMI 2 è una scheda arcade sviluppata da Sega ed è il successore dell'hardware Sega NAOMI. È stata originariamente rilasciata nel 2000. Poiché utilizza un'architettura NAOMI simile (ma notevolmente potenziata), è anche completamente retrocompatibile con il suo predecessore.
+
+Il NAOMI 2 è significativamente più potente del NAOMI, con una configurazione a doppia CPU, una nuova GPU T&amp;L, una GPU a doppio rasterizzatore, una memoria maggiore e una larghezza di banda più veloce. Questo porta a giochi con un numero di poligoni molto maggiore rispetto a un gioco NAOMI, renderizzati a velocità molto più elevate, mentre la nuova GPU T&amp;L aggiunge effetti di illuminazione e particellari avanzati. Il NAOMI 2 era anche più conveniente del costosissimo (e difficile da programmare) sistema arcade Sega Hikaru che lo aveva preceduto. Il NAOMI 2 era comunque più potente dei sistemi domestici dell'epoca.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>セガNAOMI2はセガが開発したアーケード基板で、セガNAOMIハードの後継機である。2000年に発売された。同様のNAOMIアーキテクチャを採用しているため（ただし大幅に強化されている）、前作との完全な後方互換性もある。
+
+NAOMI 2は、デュアルCPUセットアップ、新しいT&amp;L GPU、デュアルラスタライザーGPU、増加したメモリ、より高速な帯域幅など、NAOMIよりも大幅にパワーアップしている。これにより、NAOMIのゲームよりもはるかに多くのポリゴンを使用したゲームが、はるかに高速でレンダリングされ、新しいT&amp;L GPUは高度なライティングとパーティクル効果を追加しました。また、NAOMI 2は、その前に発売されていた非常に高価な（そしてプログラミングが困難な）セガ光アーケードシステムよりも手頃な価格であった。それでもNAOMI 2は、当時の家庭用システムよりも高性能だった。</systemDescription>
+            <systemHardwareType>アーケード</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>세가 나오미 2는 세가에서 개발한 아케이드 보드이며, 세가 나오미 하드웨어의 후속작입니다. 원래는 2000년에 출시되었습니다. 유사한 NAOMI 아키텍처를 사용하지만 기능이 크게 강화되었기 때문에 이전 버전과도 완벽하게 호환됩니다.
+
+나오미 2는 듀얼 CPU 설정, 새로운 T&amp;L GPU, 듀얼 래스터라이저 GPU, 메모리 증가, 더 빠른 대역폭 등 나오미보다 훨씬 더 강력해졌습니다. 따라서 나오미 게임보다 훨씬 더 많은 폴리곤이 포함된 게임을 훨씬 더 빠른 속도로 렌더링할 수 있으며, 새로운 T&amp;L GPU는 고급 조명과 파티클 효과를 추가합니다. 또한 그 이전의 매우 비싸고 프로그래밍하기 어려웠던 세가 히카루 아케이드 시스템보다 더 저렴했습니다. 그럼에도 불구하고 NAOMI 2는 당시 가정용 시스템보다 더 강력했습니다.</systemDescription>
+            <systemHardwareType>아케이드</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Sega NAOMI 2 is een arcadebord ontwikkeld door Sega en is een opvolger van de Sega NAOMI hardware. Het werd oorspronkelijk uitgebracht in 2000. Omdat het dezelfde NAOMI architectuur gebruikt (maar aanzienlijk verbeterd), is het ook volledig achterwaarts compatibel met zijn voorganger.
+
+De NAOMI 2 is aanzienlijk krachtiger dan de NAOMI, inclusief een dual CPU setup, nieuwe T&amp;L GPU, dual rasterizer GPU, meer geheugen en snellere bandbreedte. Dit leidt tot games met veel meer polygonen dan een NAOMI game, gerenderd op veel hogere snelheden, terwijl de nieuwe T &amp; L GPU voegt geavanceerde verlichting en particle effecten. Het was ook betaalbaarder dan het zeer dure (en moeilijk te programmeren) Sega Hikaru arcadesysteem dat eraan voorafging. De NAOMI 2 was niettemin krachtiger dan thuissystemen in die tijd.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Sega NAOMI 2 to płyta arcade opracowana przez firmę Sega i jest następcą sprzętu Sega NAOMI. Pierwotnie została wydana w 2000 roku. Ponieważ wykorzystuje podobną architekturę NAOMI (ale znacznie wzmocnioną), jest również w pełni kompatybilna wstecz ze swoim poprzednikiem.
+
+NAOMI 2 jest znacznie potężniejszy niż NAOMI, w tym konfigurację z dwoma procesorami, nowy procesor graficzny T&amp;L, podwójny rasteryzator GPU, zwiększoną pamięć i szybszą przepustowość. Prowadzi to do gier o znacznie większej liczbie wielokątów niż gry NAOMI, renderowanych z dużo większą prędkością, podczas gdy nowy procesor graficzny T&amp;L dodaje zaawansowane oświetlenie i efekty cząsteczkowe. Był również bardziej przystępny cenowo niż bardzo drogi (i trudny do zaprogramowania) system arcade Sega Hikaru, który go poprzedzał. NAOMI 2 był jednak potężniejszy niż ówczesne systemy domowe.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>A Sega NAOMI 2 é uma placa de fliperama desenvolvida pela Sega e é a sucessora do hardware Sega NAOMI. Ela foi lançada originalmente em 2000. Como usa uma arquitetura NAOMI semelhante (mas significativamente reforçada), ela também é totalmente compatível com as versões anteriores de seu antecessor.
+
+O NAOMI 2 é significativamente mais potente que o NAOMI, incluindo uma configuração de CPU dupla, nova GPU T&amp;L, GPU rasterizadora dupla, mais memória e largura de banda mais rápida. Isso resulta em jogos com muito mais polígonos do que um jogo NAOMI, renderizados em velocidades muito mais rápidas, enquanto a nova GPU T&amp;L adiciona efeitos avançados de iluminação e partículas. Ele também era mais acessível do que o sistema de arcade Sega Hikaru, muito caro (e difícil de programar), que o precedeu. No entanto, o NAOMI 2 era mais poderoso do que os sistemas domésticos da época.</systemDescription>
+            <systemHardwareType>Fliperama</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Sega Naomi 2 é uma placa de arcade desenvolvida pela SEGA e é sucessora do hardware Sega Naomi. Foi lançado originalmente em 2000. Como utiliza arquitetura Naomi semelhante (mas significativamente reforçada), também é totalmente compatível com seu antecessor.
+
+O Naomi 2 é significativamente mais poderoso que o Naomi, incluindo uma configuração dupla de CPU, nova GPU de T&amp;L, GPU de rasterizador duplo, aumento da memória e largura de banda mais rápida. Isso leva a jogos com muito mais polígonos do que um jogo Naomi, renderizados em velocidades muito mais rápidas, enquanto a nova GPU da T&amp;L adiciona iluminação avançada e efeitos de partículas. Também era mais acessível do que o muito caro (e difícil de programar) o sistema de arcade Hikaru que o precedeu. O Naomi 2 era, no entanto, mais poderoso que os sistemas domésticos na época.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Sega NAOMI 2 este o placă arcade dezvoltată de Sega și este un succesor al hardware-ului Sega NAOMI. Acesta a fost lansat inițial în 2000. Deoarece utilizează arhitectura similară NAOMI (dar semnificativ întărită), este, de asemenea, complet compatibilă cu predecesorul său.
+
+NAOMI 2 este semnificativ mai puternic decât NAOMI, incluzând o configurație CPU duală, un nou GPU T&amp;L, un GPU rasterizator dual, memorie sporită și lățime de bandă mai rapidă. Acest lucru duce la jocuri cu mult mai multe poligoane decât un joc NAOMI, redate la viteze mult mai mari, în timp ce noul GPU T&amp;L adaugă efecte avansate de iluminare și particule. A fost, de asemenea, mai accesibil decât sistemul arcade Sega Hikaru foarte scump (și dificil de programat) care l-a precedat. NAOMI 2 era totuși mai puternic decât sistemele de acasă de la acea vreme.</systemDescription>
+            <systemHardwareType>Arcade</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Sega NAOMI 2 - это настольная аркада, разработанная компанией Sega и являющаяся преемником аппаратной части Sega NAOMI. Первоначально она была выпущена в 2000 году. Поскольку она использует аналогичную архитектуру NAOMI (но значительно усиленную), она также полностью обратно совместима со своей предшественницей.
+
+NAOMI 2 значительно мощнее, чем NAOMI, включая двойной процессор, новый GPU T&amp;L, двойной GPU растеризатора, увеличенную память и более высокую пропускную способность. Благодаря этому игры с гораздо большим количеством полигонов, чем в играх NAOMI, рендерились с гораздо большей скоростью, а новый GPU T&amp;L добавлял расширенные эффекты освещения и частиц. Кроме того, она была более доступной, чем предшествовавшая ей дорогая (и сложная в программировании) аркадная система Sega Hikaru. Тем не менее NAOMI 2 была мощнее домашних систем того времени.</systemDescription>
+            <systemHardwareType>Аркада</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Сега Наоми 2 је аркадна плоча коју је развио Сега и наследник је Хардвер Сега Наоми.Првобитно је објављен 2000. Пошто користи сличну америчку архитектуру (али је значајно појачана), то је у потпуности у потпуности компатибилно са својим претходником.
+
+Наоми 2 је знатно моћнији од Наоми, укључујући двоструки ЦПУ подешавање, нови Т &amp; Л ГПУ, дуал Растерезер ГПУ, повећану меморију и бржу ширину опсега.То доводи до игара са много више полигона него нами игри, донесен на много бржим брзинама, док нови Т &amp; Л ГПУ додаје напредне осветљење и ефекте честица.Такође је приступачнији од скупог (и тешког програма) Сега Хикару Аркадни систем који је претходио.Нами 2 је ипак био снажнији од кућних система у то време.</systemDescription>
+            <systemHardwareType>Аркада</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Sega NAOMI 2 är ett arkadkort som utvecklats av Sega och är en efterföljare till Sega NAOMI-hårdvaran. Den släpptes ursprungligen år 2000. Eftersom den använder liknande NAOMI-arkitektur (men är betydligt förstärkt) är den också helt bakåtkompatibel med sin föregångare.
+
+NAOMI 2 är betydligt mer kraftfull än NAOMI, inklusive en dubbel CPU-installation, ny T&amp;L GPU, dubbel rasterizer GPU, ökat minne och snabbare bandbredd. Detta leder till spel med mycket fler polygoner än ett NAOMI-spel, som renderas i mycket snabbare hastigheter, medan den nya T&amp;L GPU:n ger avancerade ljus- och partikeleffekter. Den var också mer prisvärd än det mycket dyra (och svårprogrammerade) Sega Hikaru arkadsystem som föregick den. NAOMI 2 var ändå mer kraftfull än den tidens hemsystem.</systemDescription>
+            <systemHardwareType>Arkad</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>世嘉 NAOMI 2 是世嘉公司开发的一款街机游戏板，是世嘉 NAOMI 硬件的后续产品。它最初于 2000 年发布。由于它使用类似的 NAOMI 架构（但经过大幅改进），因此也完全向后兼容其前身。
+
+NAOMI 2 比 NAOMI 强大得多，包括双 CPU 设置、新的 T&amp;L GPU、双光栅 GPU、更大的内存和更快的带宽。这使得游戏的多边形数量比NAOMI游戏多得多，渲染速度也快得多，而新的T&amp;L GPU则增加了先进的光照和粒子效果。此外，NAOMI 2的价格也比之前非常昂贵（而且难以编程）的世嘉Hikaru街机系统更实惠。尽管如此，NAOMI 2 仍比当时的家用系统更加强大。</systemDescription>
+            <systemHardwareType>商场</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Sega NAOMI 2 是由 Sega 開發的街機板，是 Sega NAOMI 硬體的後繼機種。它最初於 2000 年推出。由於它使用類似的 NAOMI 架構 (但已大幅加強)，因此也完全向下相容於前一代產品。
+
+NAOMI 2 的功能遠比 NAOMI 強大，包括雙 CPU 設定、新的 T&amp;L GPU、雙光柵 GPU、更大的記憶體和更快的頻寬。這使得遊戲中的多邊形數量比 NAOMI 遊戲多得多，渲染速度也快得多，而新的 T&amp;L GPU 則增加了先進的光照和粒子效果。它的價格也比之前非常昂貴（而且難以編程）的Sega Hikaru街機系統更加實惠。儘管如此，NAOMI 2 仍比當時的家用系統更為強大。</systemDescription>
+            <systemHardwareType>街機</systemHardwareType>
+        </variables>
+    </language>
+</theme>

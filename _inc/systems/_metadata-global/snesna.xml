@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Super Nintendo</systemName>
+        <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
+        <systemManufacturer>Nintendo</systemManufacturer>
+        <systemReleaseYear>1991</systemReleaseYear>
+        <systemReleaseDate>1991-08-23</systemReleaseDate>
+        <systemReleaseDateFormated>August 23, 1991</systemReleaseDateFormated>
+        <systemHardwareType>Console</systemHardwareType>
+        <systemCoverSize>4-3</systemCoverSize>
+        <systemCoverSizeType>landscape</systemCoverSizeType>
+        <systemColor>746bb2</systemColor>
+        <systemColorPalette1>A59EF7</systemColorPalette1>
+        <systemColorPalette2>47449E</systemColorPalette2>
+        <systemColorPalette3>CCCCCC</systemColorPalette3>
+        <systemColorPalette4>4C4C4C</systemColorPalette4>
+        <systemCartSize>112-67</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام سوبر نينتندو إنترتينمنت سيستم (المعروف أيضاً باسم سوبر NES أو SNES أو سوبر نينتندو) هو جهاز ألعاب فيديو منزلي 16 بت تم تطويره من قبل نينتندو وتم إصداره في عام 1990 في اليابان و1991 في أمريكا الشمالية و1992 في أوروبا وأستراليا (أوقيانوسيا) و1993 في أمريكا الجنوبية. في اليابان، يُطلق على هذا النظام اسم سوبر فاميكوم، وهو الاسم المختصر لسابقه كمبيوتر العائلة أو SFC اختصاراً. وفي كوريا الجنوبية، يُعرف في كوريا الجنوبية باسم سوبر كومبوي Super Comboy وتم توزيعه من قبل شركة هيونداي للإلكترونيات. على الرغم من أن كل إصدار متشابه بشكل أساسي، إلا أن العديد من أشكال الإغلاق الإقليمي تمنع الإصدارات المختلفة من التوافق مع بعضها البعض.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>El Super Nintendo Entertainment System (també conegut com a Super NES, SNES o Super Nintendo) és una consola de videojocs a casa de 16 bits desenvolupada per Nintendo que es va publicar el 1990 a Japó, 1991 a Amèrica del Nord, 1992 a Europa i Australàsia (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania (Oceania), i 1993 a Amèrica del Sud. Al Japó, el sistema s’anomena Super Famicom, adoptant oficialment el nom abreujat del seu predecessor, l’ordinador familiar o SFC per resum. A Corea del Sud, es coneix com el Super Comboy i va ser distribuït per Hyundai Electronics. Tot i que cada versió és essencialment la mateixa, diverses formes de bloqueig regional impedeixen que les diferents versions siguin compatibles entre elles.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Super Nintendo Entertainment System (auch bekannt als Super NES, SNES oder Super Nintendo) ist eine von Nintendo entwickelte 16-Bit-Videospielkonsole für den Heimgebrauch, die 1990 in Japan, 1991 in Nordamerika, 1992 in Europa und Australasien (Ozeanien) und 1993 in Südamerika auf den Markt kam. In Japan wird das System Super Famicom genannt, wobei es offiziell den abgekürzten Namen seines Vorgängers, des Family Computer, kurz SFC, übernommen hat. In Südkorea ist es unter dem Namen Super Comboy bekannt und wurde von Hyundai Electronics vertrieben. Obwohl jede Version im Wesentlichen gleich ist, verhindern verschiedene Formen der regionalen Sperre, dass die verschiedenen Versionen miteinander kompatibel sind.</systemDescription>
+            <systemHardwareType>Konsole</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Super Nintendo Entertainment System (también conocida como Super NES, SNES o Super Nintendo) es una videoconsola doméstica de 16 bits desarrollada por Nintendo que salió a la venta en 1990 en Japón, 1991 en Norteamérica, 1992 en Europa y Australasia (Oceanía) y 1993 en Sudamérica. En Japón, la consola se denomina Super Famicom, adoptando oficialmente el nombre abreviado de su predecesora, la Family Computer, o SFC para abreviar. En Corea del Sur, se conoce como Super Comboy y fue distribuida por Hyundai Electronics. Aunque cada versión es esencialmente la misma, varias formas de bloqueo regional impiden que las distintas versiones sean compatibles entre sí.</systemDescription>
+            <systemHardwareType>Consola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Super Nintendo Entertainment System (également connue sous le nom de Super NES, SNES ou Super Nintendo) est une console de jeux vidéo de salon 16 bits développée par Nintendo et commercialisée en 1990 au Japon, 1991 en Amérique du Nord, 1992 en Europe et en Australasie (Océanie), et 1993 en Amérique du Sud. Au Japon, la console est appelée Super Famicom, adoptant officiellement le nom abrégé de son prédécesseur, le Family Computer, ou SFC en abrégé. En Corée du Sud, il est connu sous le nom de Super Comboy et a été distribué par Hyundai Electronics. Bien que chaque version soit essentiellement la même, plusieurs formes de verrouillage régional empêchent les différentes versions d'être compatibles les unes avec les autres.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Super Nintendo Entertainment System (noto anche come Super NES, SNES o Super Nintendo) è una console per videogiochi domestici a 16 bit sviluppata da Nintendo e uscita nel 1990 in Giappone, nel 1991 in Nord America, nel 1992 in Europa e Australasia (Oceania) e nel 1993 in Sud America. In Giappone la console è chiamata Super Famicom, adottando ufficialmente il nome abbreviato del suo predecessore, il Family Computer, o SFC. In Corea del Sud è conosciuto come Super Comboy ed è stato distribuito da Hyundai Electronics. Sebbene ogni versione sia essenzialmente identica, diverse forme di blocco regionale impediscono alle diverse versioni di essere compatibili tra loro.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>スーパーファミコン（スーパーファミコン、SNES、スーパーファミコンとも）は、任天堂が開発した16ビットの家庭用ゲーム機で、日本では1990年、北米では1991年、ヨーロッパとオーストラレーシア（オセアニア）では1992年、南米では1993年に発売された。日本ではスーパーファミコンと呼ばれ、前身のファミリーコンピュータの略称であるSFCを正式名称としている。韓国ではスーパーコンボーイと呼ばれ、現代電子が販売していた。各バージョンは基本的に同じであるが、いくつかの地域ロックアウトにより、異なるバージョンが互いに互換性を持つことができない。</systemDescription>
+            <systemHardwareType>コンソール</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>슈퍼 닌텐도 엔터테인먼트 시스템(Super NES, SNES 또는 슈퍼 닌텐도라고도 함)은 닌텐도에서 개발한 16비트 가정용 비디오 게임 콘솔로 1990년 일본, 1991년 북미, 1992년 유럽 및 오세아니아, 1993년 남미에서 출시되었습니다. 일본에서는 슈퍼 패미컴이라고 불리며, 이전 모델인 패밀리 컴퓨터의 약칭을 공식적으로 채택하여 줄여서 SFC라고 부릅니다. 한국에서는 슈퍼컴보이로 알려져 있으며 현대전자에서 유통했습니다. 각 버전은 본질적으로 동일하지만, 여러 형태의 지역 잠금으로 인해 서로 다른 버전이 서로 호환되지 않습니다.</systemDescription>
+            <systemHardwareType>콘솔</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Het Super Nintendo Entertainment System (ook bekend als Super NES, SNES of Super Nintendo) is een 16-bits videogameconsole voor thuisgebruik, ontwikkeld door Nintendo. Het werd in 1990 uitgebracht in Japan, in 1991 in Noord-Amerika, in 1992 in Europa en Australië (Oceanië), en in 1993 in Zuid-Amerika. In Japan heet het systeem de Super Famicom, officieel de afgekorte naam van zijn voorganger, de Family Computer, kortweg SFC. In Zuid-Korea staat het bekend als de Super Comboy en werd het gedistribueerd door Hyundai Electronics. Hoewel elke versie in essentie hetzelfde is, zorgen verschillende vormen van regionale uitsluiting ervoor dat de verschillende versies niet compatibel zijn met elkaar.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Super Nintendo Entertainment System (znany również jako Super NES, SNES lub Super Nintendo) to 16-bitowa domowa konsola do gier wideo opracowana przez Nintendo, która została wydana w 1990 roku w Japonii, w 1991 roku w Ameryce Północnej, w 1992 roku w Europie i Australazji (Oceanii) oraz w 1993 roku w Ameryce Południowej. W Japonii system nosi nazwę Super Famicom, oficjalnie przyjmując skróconą nazwę swojego poprzednika, Family Computer lub w skrócie SFC. W Korei Południowej znany jest jako Super Comboy i był dystrybuowany przez Hyundai Electronics. Chociaż każda wersja jest zasadniczo taka sama, kilka form blokady regionalnej uniemożliwia kompatybilność różnych wersji.</systemDescription>
+            <systemHardwareType>Konsola</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Super Nintendo Entertainment System (também conhecido como Super NES, SNES ou Super Nintendo) é um console de videogame doméstico de 16 bits desenvolvido pela Nintendo, lançado em 1990 no Japão, 1991 na América do Norte, 1992 na Europa e Australásia (Oceania) e 1993 na América do Sul. No Japão, o sistema é chamado de Super Famicom, adotando oficialmente o nome abreviado de seu antecessor, o Family Computer, ou SFC, para abreviar. Na Coreia do Sul, ele é conhecido como Super Comboy e foi distribuído pela Hyundai Electronics. Embora cada versão seja essencialmente a mesma, várias formas de bloqueio regional impedem que as diferentes versões sejam compatíveis entre si.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Super Nintendo Entertainment System (cunoscut și sub numele de Super NES, SNES sau Super Nintendo) este o consolă de jocuri video de acasă pe 16 biți dezvoltată de Nintendo, lansată în 1990 în Japonia, 1991 în America de Nord, 1992 în Europa și Australasia (Oceania) și 1993 în America de Sud. În Japonia, sistemul este numit Super Famicom, adoptând oficial numele prescurtat al predecesorului său, Family Computer, sau SFC pe scurt. În Coreea de Sud, este cunoscut sub numele de Super Comboy și a fost distribuit de Hyundai Electronics. Deși fiecare versiune este în esență aceeași, mai multe forme de blocare regională împiedică diferitele versiuni să fie compatibile între ele.</systemDescription>
+            <systemHardwareType>Consolă</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Super Nintendo Entertainment System (также известная как Super NES, SNES или Super Nintendo) - 16-битная домашняя игровая приставка, разработанная компанией Nintendo, которая была выпущена в 1990 году в Японии, в 1991 году в Северной Америке, в 1992 году в Европе и Австралазии (Океании), а также в 1993 году в Южной Америке. В Японии система называется Super Famicom, официально приняв сокращенное название своего предшественника, Family Computer, или сокращенно SFC. В Южной Корее она известна как Super Comboy и распространялась компанией Hyundai Electronics. Несмотря на то, что все версии по сути одинаковы, несколько форм региональной блокировки не позволяют различным версиям быть совместимыми друг с другом.</systemDescription>
+            <systemHardwareType>Консоль</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>The Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom, officially adopting the abbreviated name of its predecessor, the Family Computer, or SFC for short. In South Korea, it is known as the Super Comboy and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another.</systemDescription>
+            <systemHardwareType>Console</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Super Nintendo Entertainment System (även känt som Super NES, SNES eller Super Nintendo) är en 16-bitars hemkonsol för videospel som utvecklats av Nintendo och som släpptes 1990 i Japan, 1991 i Nordamerika, 1992 i Europa och Australasien (Oceanien) och 1993 i Sydamerika. I Japan kallas systemet Super Famicom, och har officiellt antagit det förkortade namnet på sin föregångare, Family Computer, eller kort och gott SFC. I Sydkorea kallas den Super Comboy och distribuerades av Hyundai Electronics. Även om varje version är i stort sett densamma, förhindrar flera former av regional lockout att de olika versionerna är kompatibla med varandra.</systemDescription>
+            <systemHardwareType>Konsol</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>超级任天堂娱乐系统（Super Nintendo Entertainment System，又称超级 NES、SNES 或 Super Nintendo）是任天堂开发的一款 16 位家用视频游戏机，1990 年在日本发布，1991 年在北美发布，1992 年在欧洲和澳大拉西亚（大洋洲）发布，1993 年在南美发布。在日本，该系统被称为 "超级 Famicom"，正式采用了其前身 "家庭电脑 "的缩写名称，简称 SFC。在韩国，它被称为 Super Comboy，由现代电子公司经销。虽然每个版本基本相同，但由于多种形式的地区封锁，不同版本无法相互兼容。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Super Nintendo Entertainment System（也稱為 Super NES、SNES 或 Super Nintendo）是任天堂開發的 16 位元家用視訊遊戲機，於 1990 年在日本、1991 年在北美、1992 年在歐洲和澳洲（大洋洲），以及 1993 年在南美洲發行。在日本，該系統被稱為 Super Famicom，正式採用其前身 Family Computer 的縮寫名稱，簡稱 SFC。在南韓則稱為 Super Comboy，由 Hyundai Electronics 代理。雖然每個版本在本質上是相同的，但幾種形式的區域鎖定使不同版本無法彼此相容。</systemDescription>
+            <systemHardwareType>控制台</systemHardwareType>
+        </variables>
+    </language>
+</theme>

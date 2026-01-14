@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Epic Games Store</systemName>
+        <systemDescription>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games. It launched in December 2018 as both a website and a standalone launcher, of which the latter is required to download and play games. The storefront provides a basic catalog, friends list management, matchmaking, and other features. Epic Games has further plans to expand the feature set of the storefront but it does not plan to add as many features as other digital distribution platforms, such as discussion boards or user reviews, instead using existing social media platforms to support these.</systemDescription>
+        <systemManufacturer>Epic</systemManufacturer>
+        <systemReleaseYear>2018</systemReleaseYear>
+        <systemReleaseDate>2018-12</systemReleaseDate>
+        <systemReleaseDateFormated>December 2018</systemReleaseDateFormated>
+        <systemHardwareType>Folder</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>8BA7AE</systemColor>
+        <systemColorPalette1>FFFFFF</systemColorPalette1>
+        <systemColorPalette2>777777</systemColorPalette2>
+        <systemColorPalette3>343434</systemColorPalette3>
+        <systemColorPalette4>35C4EE</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>متجر Epic Games Store هو واجهة متجر ألعاب فيديو رقمية لألعاب الفيديو لنظامي التشغيل Microsoft Windows وmacOS، تديرها Epic Games. تم إطلاقه في ديسمبر 2018 كموقع إلكتروني ومشغّل مستقل، وهذا الأخير مطلوب لتنزيل الألعاب وتشغيلها. توفر واجهة المتجر كتالوجًا أساسيًا وإدارة قائمة الأصدقاء والتوفيق بين اللاعبين وميزات أخرى. لدى Epic Games المزيد من الخطط لتوسيع مجموعة ميزات واجهة المتجر ولكنها لا تخطط لإضافة العديد من الميزات مثل منصات التوزيع الرقمية الأخرى، مثل لوحات المناقشة أو مراجعات المستخدمين، وبدلاً من ذلك تستخدم منصات التواصل الاجتماعي الحالية لدعمها.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Trgovina EPIC IGRE-om je digitalna trgovina za video igre za Microsoft Windows i MacOs, koji upravljaju epske igre. Pokrenuta je u decembru 2018. godine, kao i web stranica i samostalni pokretač, od kojih je ovo potrebno za preuzimanje i reprodukciju igara. Prodavaonica pruža osnovni katalog, upravljanje listama prijatelja, matmiranje i druge karakteristike. Epske igre dodatno planira proširiti skup objekata iz trgovine, ali ne planira dodati što više funkcija kao i druge digitalne distributivne platforme, poput diskusijskih odbora ili korisničkih pregleda, umjesto toga koristeći postojeće platforme za društvene medijske platforme za podršku.</systemDescription>
+            <systemHardwareType>Mapa</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>The Epic Games Store és un aparador de videojocs digitals per a Microsoft Windows i MacOS, operat per Epic Games. Es va llançar el desembre de 2018 com a lloc web i un llançador autònom, del qual aquest últim ha de descarregar i jugar a jocs. El aparador proporciona un catàleg bàsic, gestió de llistes d'amics, confecció de partits i altres funcions. Epic Games té previst ampliar el conjunt de funcions del aparador, però no té previst afegir tantes funcions com altres plataformes de distribució digital, com ara taulers de discussió o ressenyes d’usuaris, en lloc d’utilitzar plataformes de xarxes socials existents per donar -los suport.</systemDescription>
+            <systemHardwareType>Folder</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der Epic Games Store ist ein digitales Schaufenster für Videospiele für Microsoft Windows und macOS, das von Epic Games betrieben wird. Er wurde im Dezember 2018 sowohl als Website als auch als eigenständiger Launcher gestartet, wobei letzterer zum Herunterladen und Spielen von Spielen erforderlich ist. Die Storefront bietet einen Basiskatalog, Freundeslistenverwaltung, Matchmaking und andere Funktionen. Epic Games plant, den Funktionsumfang des Schaufensters weiter auszubauen, will aber nicht so viele Funktionen wie andere digitale Vertriebsplattformen hinzufügen, wie z. B. Diskussionsforen oder Nutzerbewertungen, sondern nutzt stattdessen bestehende Social-Media-Plattformen, um diese zu unterstützen.</systemDescription>
+            <systemHardwareType>Mappe</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Epic Games Store es una tienda digital de videojuegos para Microsoft Windows y macOS, operada por Epic Games. Se lanzó en diciembre de 2018 como un sitio web y un lanzador independiente, de los cuales este último es necesario para descargar y jugar juegos. El escaparate ofrece un catálogo básico, gestión de listas de amigos, matchmaking y otras funciones. Epic Games tiene más planes para ampliar el conjunto de funciones del escaparate, pero no tiene previsto añadir tantas funciones como otras plataformas de distribución digital, como foros de debate o reseñas de usuarios, sino que utilizará las plataformas de medios sociales existentes para respaldarlas.</systemDescription>
+            <systemHardwareType>Carpeta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'Epic Games Store est une vitrine numérique de jeux vidéo pour Microsoft Windows et macOS, exploitée par Epic Games. Il a été lancé en décembre 2018 sous la forme d'un site web et d'un lanceur autonome, dont ce dernier est nécessaire pour télécharger et jouer à des jeux. La vitrine propose un catalogue de base, la gestion de la liste d'amis, le matchmaking et d'autres fonctionnalités. Epic Games prévoit d'étendre l'ensemble des fonctionnalités de la vitrine, mais ne prévoit pas d'ajouter autant de fonctionnalités que d'autres plateformes de distribution numérique, telles que des forums de discussion ou des avis d'utilisateurs, utilisant plutôt les plateformes de médias sociaux existantes pour les prendre en charge.</systemDescription>
+            <systemHardwareType>Dossier</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Epic Games Store je digitalna trgovina videoigara za Microsoft Windows i MacOS, kojom upravljaju EPIC Games. Pokrenuo je u prosincu 2018. godine i kao web stranica i samostalni pokretač, od kojih je potonji potreban za preuzimanje i igranje igara. Trgovina pruža osnovni katalog, upravljanje popisom prijatelja, izradu šibica i druge značajke. EPIC Games ima dodatne planove za proširenje skupa značajki na prodavaonici, ali ne planira dodati onoliko značajki kao i ostale platforme za digitalnu distribuciju, kao što su diskusijske ploče ili recenzije korisnika, umjesto toga koristeći postojeće platforme društvenih medija za podršku.</systemDescription>
+            <systemHardwareType>Mapa</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'Epic Games Store è un negozio digitale di videogiochi per Microsoft Windows e macOS, gestito da Epic Games. È stato lanciato nel dicembre 2018 sia come sito web che come launcher standalone, quest'ultimo necessario per scaricare e giocare. La vetrina fornisce un catalogo di base, la gestione della lista amici, il matchmaking e altre funzionalità. Epic Games ha in programma di espandere ulteriormente il set di funzionalità della vetrina, ma non intende aggiungere tante funzioni come altre piattaforme di distribuzione digitale, come le bacheche di discussione o le recensioni degli utenti, utilizzando invece le piattaforme di social media esistenti per supportarle.</systemDescription>
+            <systemHardwareType>Cartella</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Epic Games Storeは、Epic Gamesが運営するMicrosoft WindowsおよびmacOS向けのデジタルビデオゲームストアである。ウェブサイトとスタンドアロンランチャーの両方として2018年12月にローンチされ、そのうち後者はゲームをダウンロードしてプレイするために必要である。ストアフロントでは、基本的なカタログ、フレンドリスト管理、マッチメイキングなどの機能が提供されている。Epic Gamesはストアフロントの機能セットをさらに拡張する計画を持っているが、ディスカッションボードやユーザーレビューなど、他のデジタル配信プラットフォームほど多くの機能を追加する予定はなく、代わりに既存のソーシャルメディアプラットフォームを利用してこれらをサポートする。</systemDescription>
+            <systemHardwareType>フォルダ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>에픽게임즈 스토어는 에픽게임즈에서 운영하는 Microsoft Windows 및 macOS용 디지털 비디오 게임 스토어입니다. 2018년 12월에 웹사이트와 독립 실행형 런처로 출시되었으며, 이 중 후자는 게임을 다운로드하고 플레이하는 데 필요합니다. 스토어 프론트에서는 기본 카탈로그, 친구 목록 관리, 매치메이킹 및 기타 기능을 제공합니다. 에픽게임즈는 향후 스토어프론트의 기능을 확장할 계획이지만, 토론 게시판이나 사용자 리뷰와 같은 다른 디지털 배포 플랫폼처럼 많은 기능을 추가하지는 않고 기존 소셜 미디어 플랫폼을 활용하여 지원할 계획입니다.</systemDescription>
+            <systemHardwareType>폴더</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Epic Games Store is een digitale winkel voor videogames voor Microsoft Windows en macOS, beheerd door Epic Games. Het werd in december 2018 gelanceerd als een website en een standalone launcher, waarbij de laatste vereist is om games te downloaden en te spelen. De storefront biedt een basiscatalogus, vriendenlijstbeheer, matchmaking en andere functies. Epic Games heeft verdere plannen om de functieset van de storefront uit te breiden, maar het is niet van plan om zoveel functies toe te voegen als andere digitale distributieplatforms, zoals discussieborden of gebruikersrecensies, in plaats daarvan gebruikt het bestaande sociale mediaplatforms om deze te ondersteunen.</systemDescription>
+            <systemHardwareType>Map</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Epic Games Store to cyfrowy sklep z grami wideo dla systemów Microsoft Windows i macOS, obsługiwany przez Epic Games. Został on uruchomiony w grudniu 2018 roku zarówno jako strona internetowa, jak i samodzielny program uruchamiający, z których ten drugi jest wymagany do pobierania i grania w gry. Sklep zapewnia podstawowy katalog, zarządzanie listą znajomych, matchmaking i inne funkcje. Epic Games ma dalsze plany rozszerzenia zestawu funkcji witryny sklepowej, ale nie planuje dodawać tak wielu funkcji, jak inne platformy dystrybucji cyfrowej, takie jak fora dyskusyjne lub recenzje użytkowników, zamiast tego wykorzystując istniejące platformy mediów społecznościowych do ich obsługi.</systemDescription>
+            <systemHardwareType>Folder</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>A Epic Games Store é uma loja digital de videogames para Microsoft Windows e macOS, operada pela Epic Games. Ela foi lançada em dezembro de 2018 como um site e um inicializador autônomo, sendo que o último é necessário para baixar e jogar jogos. O storefront oferece um catálogo básico, gerenciamento de lista de amigos, criação de partidas e outros recursos. A Epic Games tem outros planos para expandir o conjunto de recursos da vitrine, mas não planeja adicionar tantos recursos quanto outras plataformas de distribuição digital, como fóruns de discussão ou avaliações de usuários, usando as plataformas de mídia social existentes para dar suporte a eles.</systemDescription>
+            <systemHardwareType>Pasta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>A Epic Games Store é uma loja de videogame digital para o Microsoft Windows e MacOS, operado pela Epic Games. Foi lançado em dezembro de 2018 como um site e um lançador independente, do qual o último é necessário para baixar e jogar jogos. A fachada da loja fornece um catálogo básico, gerenciamento de listas de amigos, matchmaking e outros recursos. A Epic Games tem planos adicionais para expandir o conjunto de recursos da loja, mas não planeja adicionar tantos recursos quanto outras plataformas de distribuição digital, como painéis de discussão ou revisões de usuários, em vez de usar plataformas de mídia social existentes para apoiá -las.</systemDescription>
+            <systemHardwareType>Pasta</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Epic Games Store este un magazin digital de jocuri video pentru Microsoft Windows și macOS, operat de Epic Games. Acesta a fost lansat în decembrie 2018 atât ca un site web, cât și ca un lansator independent, dintre care acesta din urmă este necesar pentru a descărca și a juca jocuri. Storefront-ul oferă un catalog de bază, gestionarea listei de prieteni, matchmaking și alte caracteristici. Epic Games are planuri suplimentare de extindere a setului de caracteristici ale magazinului, dar nu intenționează să adauge la fel de multe caracteristici ca alte platforme de distribuție digitală, cum ar fi forumuri de discuții sau recenzii ale utilizatorilor, folosind în schimb platformele de social media existente pentru a le susține.</systemDescription>
+            <systemHardwareType>Dosar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Epic Games Store - цифровая витрина видеоигр для Microsoft Windows и macOS, управляемая компанией Epic Games. Он был запущен в декабре 2018 года как веб-сайт и автономная программа запуска, последняя из которых необходима для загрузки и игры. В магазине есть базовый каталог, управление списком друзей, матчмейкинг и другие функции. Epic Games планирует и дальше расширять набор функций витрины, но не планирует добавлять столько функций, как другие платформы цифровой дистрибуции, например, доски обсуждений или отзывы пользователей, вместо этого используя существующие платформы социальных сетей для их поддержки.</systemDescription>
+            <systemHardwareType>Папка</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Продавница Епиц Гамес је дигитална видео игарска продавница за Мицрософт Виндовс и МацОС, које управљају епским играма.Покренуло се у децембру 2018. и као веб локација и самостални бацач, од којих је ово последње потребно за преузимање и играње игара.Продавница пружа основни каталог, управљање листа пријатеља, мечеви и друге функције.Епичне игре имају додатне планове за ширење скупове функције, али не планира да додаје онолико функција као и остале дигиталне дистрибутивне платформе, као што су плоче за дискусију или корисничке рецензије, уместо тога користећи постојеће платформе друштвених медија.</systemDescription>
+            <systemHardwareType>Мапа</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Epic Games Store är en digital butik för videospel för Microsoft Windows och macOS, som drivs av Epic Games. Den lanserades i december 2018 som både en webbplats och en fristående launcher, varav den senare krävs för att ladda ner och spela spel. Storefront tillhandahåller en grundläggande katalog, hantering av vänlistor, matchmaking och andra funktioner. Epic Games har ytterligare planer på att utöka funktionerna i butiksfronten men planerar inte att lägga till lika många funktioner som andra digitala distributionsplattformar, såsom diskussionsforum eller användarrecensioner, utan använder istället befintliga sociala medieplattformar för att stödja dessa.</systemDescription>
+            <systemHardwareType>Mapp</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Epic Games Store 是由 Epic Games 运营的 Microsoft Windows 和 macOS 数字视频游戏店面。它于 2018 年 12 月以网站和独立启动器的形式推出，下载和玩游戏需要使用后者。店面提供基本目录、好友列表管理、匹配和其他功能。Epic Games 还计划进一步扩展店面的功能集，但并不打算像其他数字发行平台那样增加讨论区或用户评论等功能，而是利用现有的社交媒体平台来支持这些功能。</systemDescription>
+            <systemHardwareType>文件夹</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Epic Games Store 是由 Epic Games 營運的 Microsoft Windows 和 macOS 數位視訊遊戲店鋪。它於 2018 年 12 月以網站和獨立啟動器兩種形式推出，其中後者是下載和玩遊戲所必需的。店面提供基本目錄、好友名單管理、對戰等功能。Epic Games 有進一步擴充店面功能集的計劃，但不打算像其他數位發行平台一樣增加討論區或使用者評論等功能，而是利用現有的社群媒體平台來支援這些功能。</systemDescription>
+            <systemHardwareType>資料夾</systemHardwareType>
+        </variables>
+    </language>
+</theme>

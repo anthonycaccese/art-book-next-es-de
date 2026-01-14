@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Symbian</systemName>
+        <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>
+        <systemManufacturer>Symbian Ltd.</systemManufacturer>
+        <systemReleaseYear>1997</systemReleaseYear>
+        <systemReleaseDate>1997-06-05</systemReleaseDate>
+        <systemReleaseDateFormated>June 5, 1997</systemReleaseDateFormated>
+        <systemHardwareType>OS</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>222222</systemColor>
+        <systemColorPalette1>0082B5</systemColorPalette1>
+        <systemColorPalette2>FBAB18</systemColorPalette2>
+        <systemColorPalette3>1F4394</systemColorPalette3>
+        <systemColorPalette4>EE3537</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Symbian هو نظام تشغيل (OS) ومنصة حوسبة متوقفة عن العمل للهواتف الذكية. وقد تم تطويره في الأصل كنظام تشغيل برمجي مملوك للمساعدات الرقمية الشخصية في عام 1998 من قبل اتحاد سيمبيان المحدودة. نظام سيمبيان OS هو سليل نظام Psion's EPOC، وتم إصداره حصريًا على معالجات ARM، على الرغم من وجود منفذ x86 لم يتم إصداره. استُخدِم نظام سيمبيان من قبل العديد من العلامات التجارية الكبرى للهواتف المحمولة، مثل سامسونج وموتورولا وسوني إريكسون، وقبل كل شيء نوكيا. وكان منتشرًا أيضًا في اليابان من قبل علامات تجارية مثل فوجيتسو وشارب وميتسوبيشي. وباعتباره رائدًا في تأسيس صناعة الهواتف الذكية، فقد كان نظام التشغيل الأكثر شعبية للهواتف الذكية في المتوسط العالمي حتى نهاية عام 2010، في وقت كان استخدام الهواتف الذكية محدودًا، عندما تجاوزه نظامي iOS و Android. وكان أقل شعبية بشكل ملحوظ في أمريكا الشمالية.</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Symbian és un sistema operatiu mòbil (OS) i una plataforma informàtica dissenyada per a telèfons intel·ligents. Va ser desenvolupat originalment com a sistema operatiu de programari propietària per a assistents digitals personals el 1998 pel Symbian Ltd. Consorci. Symbian OS és descendent de l'EPOC de Psion i va ser alliberat exclusivament en processadors ARM, tot i que existia un port x86 inèdit. Symbian va ser utilitzat per moltes grans marques de telefonia mòbil, com Samsung, Motorola, Sony Ericsson, i sobretot per Nokia. També va prevaler al Japó per marques com Fujitsu, Sharp i Mitsubishi. Com a pioner que va establir la indústria dels telèfons intel·ligents, va ser el sistema operatiu intel·ligent més popular de la mitjana mundial fins a finals del 2010, en un moment en què els telèfons intel·ligents eren d’ús limitat, quan va ser superat per iOS i Android. Va ser notablement menys popular a Amèrica del Nord.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Symbian ist ein auslaufendes mobiles Betriebssystem (OS) und eine Computerplattform für Smartphones. Es wurde ursprünglich als proprietäres Software-Betriebssystem für persönliche digitale Assistenten im Jahr 1998 vom Konsortium Symbian Ltd. entwickelt. Symbian OS ist ein Nachkomme von Psions EPOC und wurde ausschließlich auf ARM-Prozessoren veröffentlicht, obwohl es eine unveröffentlichte x86-Portierung gab. Symbian wurde von vielen großen Mobiltelefonherstellern wie Samsung, Motorola, Sony Ericsson und vor allem von Nokia verwendet. Auch in Japan war es bei Marken wie Fujitsu, Sharp und Mitsubishi weit verbreitet. Als Pionier der Smartphone-Industrie war es im weltweiten Durchschnitt bis Ende 2010 das beliebteste Smartphone-Betriebssystem, zu einer Zeit, als Smartphones nur in geringem Umfang genutzt wurden, und wurde dann von iOS und Android überholt. In Nordamerika war es deutlich weniger beliebt.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Symbian es un sistema operativo móvil (SO) y una plataforma informática descatalogados diseñados para teléfonos inteligentes. Fue desarrollado originalmente en 1998 por el consorcio Symbian Ltd. como sistema operativo propietario para asistentes digitales personales. Symbian OS es descendiente del EPOC de Psion y se lanzó exclusivamente para procesadores ARM, aunque existía una versión x86. Symbian fue utilizado por muchas marcas importantes de teléfonos móviles, como Samsung, Motorola, Sony Ericsson y, sobre todo, Nokia. También lo utilizaron en Japón marcas como Fujitsu, Sharp y Mitsubishi. Como pionero que estableció la industria de los teléfonos inteligentes, fue el sistema operativo de teléfonos inteligentes más popular en promedio mundial hasta finales de 2010, en un momento en que los teléfonos inteligentes tenían un uso limitado, cuando fue superado por iOS y Android. Fue notablemente menos popular en Norteamérica.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Symbian est un système d'exploitation mobile (OS) et une plateforme informatique abandonnés, conçus pour les smartphones. Il a été développé à l'origine comme un système d'exploitation logiciel propriétaire pour les assistants numériques personnels en 1998 par le consortium Symbian Ltd. Symbian OS est un descendant de l'EPOC de Psion, et a été publié exclusivement sur des processeurs ARM, bien qu'un portage x86 non publié ait existé. Symbian a été utilisé par de nombreuses grandes marques de téléphones mobiles, telles que Samsung, Motorola, Sony Ericsson, et surtout Nokia. Il a également été utilisé au Japon par des marques telles que Fujitsu, Sharp et Mitsubishi. Pionnier de l'industrie des smartphones, il a été le système d'exploitation le plus populaire au niveau mondial jusqu'à la fin de l'année 2010, à une époque où les smartphones étaient peu utilisés, lorsqu'il a été dépassé par iOS et Android. Il était nettement moins populaire en Amérique du Nord.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Symbian è un sistema operativo (OS) e una piattaforma informatica per smartphone che non è più in commercio. È stato originariamente sviluppato come sistema operativo software proprietario per assistenti digitali personali nel 1998 dal consorzio Symbian Ltd.. Symbian OS è un discendente di EPOC di Psion ed è stato rilasciato esclusivamente su processori ARM, anche se esisteva una versione x86 non ancora rilasciata. Symbian è stato utilizzato da molti grandi marchi di telefonia mobile, come Samsung, Motorola, Sony Ericsson e soprattutto Nokia. Anche in Giappone era diffuso da marchi come Fujitsu, Sharp e Mitsubishi. In quanto pioniere dell'industria degli smartphone, è stato il sistema operativo più diffuso a livello mondiale fino alla fine del 2010, in un periodo in cui gli smartphone erano poco diffusi, quando è stato superato da iOS e Android. È stato notevolmente meno popolare in Nord America.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Symbian（シンビアン）は、スマートフォン用に設計された、生産終了したモバイルオペレーティングシステム（OS）およびコンピューティングプラットフォームである。当初は、1998年にSymbian Ltd.のコンソーシアムによってパーソナルデジタルアシスタント用のプロプライエタリなソフトウェアOSとして開発された。Symbian OSはPsionのEPOCの子孫であり、未発表のx86ポートも存在したが、ARMプロセッサのみでリリースされた。Symbianは、サムスン、モトローラ、ソニー・エリクソン、そして何よりもノキアなど、多くの主要携帯電話ブランドで使われた。また、日本では富士通、シャープ、三菱などのブランドにも普及していた。スマートフォン業界を確立したパイオニアとして、スマートフォンの利用が限られていた2010年末まで、世界平均で最も人気のあるスマートフォンOSであったが、iOSとアンドロイドに追い抜かれた。北米での人気は著しく低かった。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>심비안은 단종된 모바일 운영 체제(OS)이자 스마트폰용으로 설계된 컴퓨팅 플랫폼입니다. 원래는 1998년 Symbian Ltd. 컨소시엄에서 개인 디지털 비서용 독점 소프트웨어 OS로 개발되었습니다. 심비안 OS는 Psion의 EPOC의 후손으로, ARM 프로세서 전용으로 출시되었지만 미출시된 x86 포트도 존재했습니다. 심비안은 삼성, 모토로라, 소니 에릭슨, 그리고 무엇보다도 노키아를 비롯한 많은 주요 휴대폰 브랜드에서 사용되었습니다. 일본에서도 후지쯔, 샤프, 미쓰비시 등의 브랜드에서 널리 사용되었습니다. 스마트폰 산업을 구축한 선구자로서 스마트폰 사용이 제한적이었던 2010년 말까지 전 세계적으로 평균적으로 가장 인기 있는 스마트폰 OS였으나 iOS와 Android에 추월당했습니다. 북미에서는 특히 인기가 떨어졌습니다.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Symbian is een stopgezet mobiel besturingssysteem (OS) en computerplatform ontworpen voor smartphones. Het werd oorspronkelijk ontwikkeld als een eigen software OS voor persoonlijke digitale assistenten in 1998 door het Symbian Ltd. consortium. Symbian OS is een afstammeling van Psion's EPOC en werd uitsluitend uitgebracht op ARM-processors, hoewel er ook een niet-uitgebrachte x86-versie bestond. Symbian werd gebruikt door veel grote merken mobiele telefoons, zoals Samsung, Motorola, Sony Ericsson en vooral door Nokia. Het was ook wijdverspreid in Japan door merken als Fujitsu, Sharp en Mitsubishi. Als pionier die de smartphone-industrie vestigde, was het wereldwijd gemiddeld het populairste smartphone OS tot eind 2010, toen smartphones nog maar beperkt werden gebruikt en het werd ingehaald door iOS en Android. Het was opvallend minder populair in Noord-Amerika.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Symbian to wycofany z produkcji mobilny system operacyjny (OS) i platforma obliczeniowa przeznaczona dla smartfonów. Pierwotnie został opracowany jako zastrzeżony system operacyjny dla osobistych asystentów cyfrowych w 1998 roku przez konsorcjum Symbian Ltd.. Symbian OS jest potomkiem Psion's EPOC i został wydany wyłącznie na procesory ARM, chociaż istniał niewydany port x86. Symbian był używany przez wiele głównych marek telefonów komórkowych, takich jak Samsung, Motorola, Sony Ericsson, a przede wszystkim przez Nokię. Był również rozpowszechniony w Japonii przez takie marki jak Fujitsu, Sharp i Mitsubishi. Jako pionier, który ustanowił branżę smartfonów, był najpopularniejszym systemem operacyjnym dla smartfonów na całym świecie do końca 2010 roku, w czasie, gdy smartfony były w ograniczonym użyciu, kiedy to został wyprzedzony przez iOS i Androida. Był znacznie mniej popularny w Ameryce Północnej.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Symbian é um sistema operacional (SO) móvel descontinuado e uma plataforma de computação projetada para smartphones. Foi originalmente desenvolvido como um sistema operacional de software proprietário para assistentes pessoais digitais em 1998 pelo consórcio Symbian Ltd. O Symbian OS é um descendente do EPOC da Psion e foi lançado exclusivamente em processadores ARM, embora existisse uma versão x86 não lançada. O Symbian foi usado por muitas das principais marcas de telefones celulares, como Samsung, Motorola, Sony Ericsson e, acima de tudo, pela Nokia. Ele também era predominante no Japão, com marcas como Fujitsu, Sharp e Mitsubishi. Como pioneiro que estabeleceu o setor de smartphones, foi o sistema operacional mais popular para smartphones em uma média mundial até o final de 2010, em uma época em que os smartphones eram de uso limitado, quando foi ultrapassado pelo iOS e pelo Android. Era notavelmente menos popular na América do Norte.</systemDescription>
+            <systemHardwareType>SO</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Symbian este un sistem de operare (SO) mobil discontinuu și o platformă de calcul concepută pentru smartphone-uri. Acesta a fost inițial dezvoltat ca un sistem de operare software proprietar pentru asistenți digitali personali în 1998 de către consorțiul Symbian Ltd. Symbian OS este un descendent al EPOC al Psion și a fost lansat exclusiv pe procesoare ARM, deși a existat un port x86 nelansat. Symbian a fost utilizat de multe mărci importante de telefoane mobile, precum Samsung, Motorola, Sony Ericsson și, mai ales, de Nokia. De asemenea, a fost răspândit în Japonia de mărci precum Fujitsu, Sharp și Mitsubishi. Ca pionier care a stabilit industria smartphone-urilor, a fost cel mai popular sistem de operare pentru smartphone-uri în medie la nivel mondial până la sfârșitul anului 2010, într-o perioadă în care smartphone-urile erau utilizate în mod limitat, când a fost depășit de iOS și Android. A fost cu mult mai puțin popular în America de Nord.</systemDescription>
+            <systemHardwareType>SO</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Symbian - это снятая с производства мобильная операционная система (ОС) и вычислительная платформа, предназначенная для смартфонов. Изначально она была разработана в 1998 году консорциумом Symbian Ltd. как проприетарная ОС для персональных цифровых помощников. Symbian OS является потомком EPOC от Psion и была выпущена исключительно на процессорах ARM, хотя существовал и невыпущенный порт для x86. Symbian использовалась многими крупными брендами мобильных телефонов, такими как Samsung, Motorola, Sony Ericsson, и прежде всего Nokia. Она также была распространена в Японии такими брендами, как Fujitsu, Sharp и Mitsubishi. Будучи пионером, создавшим индустрию смартфонов, она была самой популярной ОС для смартфонов в среднем по миру до конца 2010 года, когда смартфоны были в ограниченном использовании, и тогда ее обогнали iOS и Android. В Северной Америке она была заметно менее популярна.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Symbian är ett mobilt operativsystem (OS) och en datorplattform för smartphones. Det utvecklades ursprungligen som ett proprietärt operativsystem för personliga digitala assistenter 1998 av konsortiet Symbian Ltd. Symbian OS är en ättling till Psion's EPOC och släpptes exklusivt på ARM-processorer, även om det fanns en outgiven x86-port. Symbian användes av många stora mobiltelefonmärken, som Samsung, Motorola, Sony Ericsson och framför allt Nokia. Symbian var också vanligt förekommande i Japan, bland annat hos Fujitsu, Sharp och Mitsubishi. Som en pionjär som etablerade smartphone-industrin var det det mest populära operativsystemet för smartphones i hela världen fram till slutet av 2010, vid en tidpunkt då smartphones användes i begränsad utsträckning, då det passerades av iOS och Android. Det var betydligt mindre populärt i Nordamerika.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Symbian 是一款已停产的移动操作系统（OS）和计算平台，专为智能手机设计。它最初是由 Symbian 有限公司联盟于 1998 年为个人数字助理开发的专有软件操作系统。Symbian OS 是 Psion 的 EPOC 的后代，只在 ARM 处理器上发布，但也有未发布的 x86 移植版本。许多主要手机品牌，如三星、摩托罗拉、索尼爱立信，尤其是诺基亚，都在使用 Symbian 系统。在日本，它也被富士通、夏普和三菱等品牌广泛使用。作为智能手机行业的先驱，它一直是全球平均最受欢迎的智能手机操作系统，直到 2010 年底，在智能手机使用有限的情况下，才被 iOS 和安卓超越。它在北美的受欢迎程度明显较低。</systemDescription>
+            <systemHardwareType>操作系统</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Symbian 是一款已停產的行動作業系統 (OS) 和運算平台，專為智慧型手機所設計。它最初是由 Symbian Ltd. 財團於 1998 年為個人數位助理開發的專屬軟體作業系統。Symbian OS 是 Psion 的 EPOC 的後代，只在 ARM 處理器上發行，但也有未發行的 x86 移植版本。Symbian 為許多主要手機品牌所採用，例如 Samsung、Motorola、Sony Ericsson，以及最重要的 Nokia。在日本，包括富士通 (Fujitsu)、夏普 (Sharp) 和三菱 (Mitsubishi) 等品牌也普遍採用 Symbian。作為建立智慧型手機產業的先驅，它是全球平均最流行的智慧型手機作業系統，直到 2010 年底，在智慧型手機使用有限的時候，才被 iOS 和 Android 取代。在北美，它顯然不太流行。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+</theme>

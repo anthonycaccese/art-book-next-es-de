@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>Open Beats of Rage</systemName>
+        <systemDescription>Beats of Rage is a fan-made tribute game to Sega's Streets of Rage series. It supplants the original graphics and characters with resources taken from The King of Fighters series, albeit with tongue-in-cheek renames. Originally developed by Senile Team, the underlying engine powering Beats of Rage later went on to become the Open Beats of Rage (OpenBOR) game engine project.</systemDescription>
+        <systemManufacturer>Senile Team</systemManufacturer>
+        <systemReleaseYear>2003</systemReleaseYear>
+        <systemReleaseDate>2003-11</systemReleaseDate>
+        <systemReleaseDateFormated>November 2003</systemReleaseDateFormated>
+        <systemHardwareType>Engine</systemHardwareType>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>189c8a</systemColor>
+        <systemColorPalette1>E17930</systemColorPalette1>
+        <systemColorPalette2>407AC0</systemColorPalette2>
+        <systemColorPalette3>EBE470</systemColorPalette3>
+        <systemColorPalette4>404040</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Beats of Rage هي لعبة تحية من صنع المعجبين لسلسلة Streets of Rage من Sega. وهي تستبدل الرسومات والشخصيات الأصلية بموارد مأخوذة من سلسلة The King of Fighters، وإن كان ذلك مع إعادة تسمية ساخرة. تم تطويرها في الأصل من قِبل فريق Senile Team، وقد أصبح المحرك الأساسي الذي يعمل على تشغيل Beats of Rage لاحقًا مشروع محرك لعبة Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Beat of beage je navijačka počasna igra za Sega ulicama Sega Series. Savladava originalnu grafiku i likove sa resursima preuzetih iz serije kralja boraca, iako sa preimenovima jezika u obrazu. Prvobitno razvio senilni tim, osnovni poticanje motora Beage of Beage kasnije je postao otvoreni otkucaji bijesa (otvorenog projekta motora.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Beats of Rage és un joc d’homenatge fet als fanàtics a la sèrie Strets of Rage de Sega. Supera els gràfics i els personatges originals amb recursos extrets de la sèrie King of Fighters, tot i que amb els noms de llengua en galta. Originalment desenvolupat per Senile Team, els motors subjacents del motor de Rage després es van convertir en el projecte de motors de joc de Rage (Openbor) de Rage (Openbor).</systemDescription>
+            <systemHardwareType>Engine</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Beats of Rage ist ein von Fans entwickeltes Tributspiel zu Segas Streets of Rage-Serie. Es ersetzt die Originalgrafiken und -charaktere durch Ressourcen aus der The King of Fighters-Serie, wenn auch mit augenzwinkernden Umbenennungen. Ursprünglich von Senile Team entwickelt, wurde die zugrunde liegende Engine, die Beats of Rage antreibt, später in das Open Beats of Rage (OpenBOR) Game Engine Projekt umgewandelt.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>Beats of Rage es un juego tributo a la serie Streets of Rage de Sega hecho por fans. Sustituye los gráficos y personajes originales por recursos tomados de la serie The King of Fighters, aunque con cambios de nombre irónicos. Originalmente desarrollado por Senile Team, el motor subyacente de Beats of Rage se convirtió más tarde en el proyecto Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>Beats of Rage est un jeu créé par des fans en hommage à la série Streets of Rage de Sega. Il remplace les graphismes et les personnages originaux par des ressources tirées de la série The King of Fighters, bien qu'avec des renoms humoristiques. Développé à l'origine par Senile Team, le moteur sous-jacent de Beats of Rage est devenu par la suite le projet de moteur de jeu Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Moteur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Beats of Rage je navijačka igra počast Sega ulicama Rage Series. Pomptuje originalnu grafiku i likove resursima uzetim iz serije King of Fighters, iako s preimenovima jezika u obraz. Prvobitno razvijen od strane senilne ekipe, osnovni motor koji se snalazi u bijesu kasnije postao je Otvoreni projekt Game Beats of Rage (Openbor).</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Beats of Rage è un gioco tributo fatto dai fan alla serie Streets of Rage di Sega. Sostituisce la grafica e i personaggi originali con risorse tratte dalla serie di The King of Fighters, anche se con nomi ironici. Originariamente sviluppato da Senile Team, il motore di Beats of Rage è poi diventato il progetto Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Motore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>Beats of Rage』は、セガの『ストリート・オブ・レイジ』シリーズのファンメイド・トリビュートゲームである。オリジナルのグラフィックとキャラクターを、『ザ・キング・オブ・ファイターズ』シリーズから引用したリソースで置き換えている。元々はSenile Teamによって開発され、Beats of Rageの基盤となるエンジンは後にOpen Beats of Rage (OpenBOR)ゲームエンジンプロジェクトとなった。</systemDescription>
+            <systemHardwareType>エンジン</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>비츠 오브 레이지 게임은 팬들이 세가의 스트리트 오브 레이지 시리즈에 헌정하기 위해 만든 게임입니다. 킹 오브 파이터즈 시리즈에서 가져온 리소스로 오리지널 그래픽과 캐릭터를 대체했지만, 이름만 살짝 바꿨습니다. 원래 세닐 팀이 개발했던 Beats of Rage의 기본 엔진은 나중에 Open Beats of Rage(OpenBOR) 게임 엔진 프로젝트로 발전했습니다.</systemDescription>
+            <systemHardwareType>엔진</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>Beats of Rage is een door fans gemaakt eerbetoon aan Sega's Streets of Rage-serie. Het vervangt de originele graphics en personages met middelen uit The King of Fighters-serie, zij het met een ironische naamsverandering. De onderliggende engine van Beats of Rage werd oorspronkelijk ontwikkeld door Senile Team en werd later het Open Beats of Rage (OpenBOR) game engine project.</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Beats of Rage to stworzona przez fanów gra będąca hołdem dla serii Streets of Rage firmy Sega. Zastępuje ona oryginalną grafikę i postacie zasobami zaczerpniętymi z serii The King of Fighters, aczkolwiek z żartobliwymi zmianami nazw. Pierwotnie opracowany przez Senile Team, podstawowy silnik napędzający Beats of Rage stał się później projektem silnika gry Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Silnik</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>Beats of Rage é um jogo tributo feito por fãs à série Streets of Rage da Sega. Ele substitui os gráficos e personagens originais por recursos retirados da série The King of Fighters, embora com nomes irônicos. Originalmente desenvolvido pela Senile Team, o mecanismo subjacente que alimenta o Beats of Rage mais tarde se tornou o projeto de mecanismo de jogo Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Beats of Rage é um jogo de homenagem feita por fãs para a série de Rage da Sega. Ele suplanta os gráficos e personagens originais com recursos retirados da série King of Fighters, embora com renomeamentos explícitos. Originalmente desenvolvido pela equipe senil, os batidas subjacentes ao motor da RAGE mais tarde se tornaram o projeto de mecanismo de jogo Open Beats of Rage (Openbor).</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Beats of Rage este un joc tribut făcut de fani pentru seria Streets of Rage de la Sega. Acesta înlocuiește grafica și personajele originale cu resurse preluate din seria The King of Fighters, deși cu redenumiri ironice. Dezvoltat inițial de Senile Team, motorul care stă la baza Beats of Rage a devenit ulterior proiectul de motor de joc Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Beats of Rage - это фанатская игра, посвященная серии Streets of Rage от Sega. В ней оригинальная графика и персонажи заменены ресурсами, взятыми из серии The King of Fighters, хотя и со смешными переименованиями. Изначально игра была разработана Senile Team, а движок, лежащий в основе Beats of Rage, впоследствии стал проектом игрового движка Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Двигатель</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Беатс оф Раге је игра на вентилатору на вентилациону игру према Сегиновим улицама раге серије.Доплаљава оригиналну графику и знакове са ресурсима преузетим из серије краља бораца, иако са преносом на језику на језику.Првобитно развијен од Сениле Теам-а, основни мотор напајања беса касније кренуло је да постане отворени откуцаји раге (Опенбор) пројекта мотора на игри.</systemDescription>
+            <systemHardwareType>Мотор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Beats of Rage är ett fan-skapat hyllningsspel till Segas Streets of Rage-serie. Det ersätter originalgrafiken och karaktärerna med resurser hämtade från The King of Fighters-serien, om än med ironiska namnbyten. Spelet utvecklades ursprungligen av Senile Team, men den underliggande spelmotorn i Beats of Rage blev senare Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>Motor</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Beats of Rage》是一款粉丝制作的向世嘉《Streets of Rage》系列致敬的游戏。该游戏以《格斗之王》系列的资源取代了原版的图形和角色，尽管名称的改动颇具讽刺意味。Beats of Rage》最初由 Senile Team 开发，其底层引擎后来成为 Open Beats of Rage（OpenBOR）游戏引擎项目。</systemDescription>
+            <systemHardwareType>发动机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Beats of Rage 是一款向 Sega 的 Streets of Rage 系列致敬的遊戲。本遊戲以 「格鬥之王 」系列的資源取代了原作的圖像和角色，儘管名字改得有點滑稽。Beats of Rage 原本由 Senile Team 開發，其底层引擎後來成為 Open Beats of Rage (OpenBOR) 遊戲引擎專案。</systemDescription>
+            <systemHardwareType>引擎</systemHardwareType>
+        </variables>
+    </language>
+</theme>

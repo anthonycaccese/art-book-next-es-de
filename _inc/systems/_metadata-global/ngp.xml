@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>Neo Geo Pocket</systemName>
+        <systemDescription>The Neo Geo Pocket is a monochrome handheld game console released by SNK. It was the company's first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998 but never saw an American release, being exclusive to Japan, Asia and Europe.
+
+The Neo Geo Pocket is considered to be an unsuccessful console. Lower than expected sales resulted in its discontinuation in 1999, and was immediately succeeded by the Neo Geo Pocket Color, a full color device allowing the system to compete more easily with the dominant Game Boy Color handheld, and which also saw an American release. Though the system enjoyed only a short life, there were some significant games released on the system such as Samurai Shodown, and King of Fighters R-1.</systemDescription>
+        <systemManufacturer>SNK</systemManufacturer>
+        <systemReleaseYear>1998</systemReleaseYear>
+        <systemReleaseDate>1998-12-31</systemReleaseDate>
+        <systemReleaseDateFormated>December 31, 1998</systemReleaseDateFormated>
+        <systemHardwareType>Portable</systemHardwareType>
+        <systemCoverSize>373-436</systemCoverSize>
+        <systemCoverSizeType>square</systemCoverSizeType>
+        <systemColor>f4a141</systemColor>
+        <systemColorPalette1>B2B8BD</systemColorPalette1>
+        <systemColorPalette2>E92A30</systemColorPalette2>
+        <systemColorPalette3>25374A</systemColorPalette3>
+        <systemColorPalette4>0F1520</systemColorPalette4>
+        <systemCartSize>257-229</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Neo Geo Pocket هو جهاز ألعاب محمول أحادي اللون أصدرته شركة SNK. كان أول نظام محمول باليد للشركة وهو جزء من عائلة Neo Geo. ظهرت لأول مرة في اليابان في أواخر عام 1998 ولكنها لم تُطرح في الولايات المتحدة الأمريكية، حيث كانت حصرية لليابان وآسيا وأوروبا.
+
+يعتبر نيو جيو بوكيت وحدة تحكم غير ناجحة. فقد أدى انخفاض مبيعاته عن المتوقع إلى توقفه في عام 1999، وخلفه على الفور جهاز Neo Geo Pocket Color، وهو جهاز ملون كامل يسمح للنظام بالتنافس بسهولة أكبر مع جهاز Game Boy Color المحمول المهيمن، والذي شهد أيضاً إصداراً أمريكياً. على الرغم من أن النظام تمتع بعمر قصير فقط، إلا أنه تم إصدار بعض الألعاب المهمة على النظام مثل Samurai Shodown و King of Fighters R-1.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Neo Geo džep je jednobojna ručna igra za igru objavljena SNK. Bio je to prvi ručni sistem kompanije i dio je Neo Geo porodice. Debitovao je u Japanu krajem 1998. godine, ali nikada nije vidio američko puštanje na slobodu, isključivo za Japan, Aziju i Evropu.
+
+Neo Geo džep smatra se neuspješnom konzolom. Niža od očekivane prodaje rezultirala je njegovom prekidom u 1999. godini, a odmah je uspio u boji Neo Geo džep, puni u boji koji omogućava sistemu da se lakše takmiči s dominantnim ručnim igrama, a koji je također ugledao i američko izdanje. Iako je sustav uživao samo kratak život, bilo je i neke značajne igre koje su objavljene u sustavu poput Samurai Shodown i kralj boraca R-1.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>La Neo Geo Pocket és una consola de joc de mà monocroma llançada per SNK. Va ser el sistema de primera mà de la companyia i forma part de la família Neo Geo. Va debutar al Japó a finals de 1998, però mai va veure un llançament nord -americà, sent exclusiu del Japó, Àsia i Europa.
+
+Es considera que la butxaca Neo Geo és una consola infructuosa. Les vendes inferiors a les esperades van suposar la seva interrupció el 1999, i va ser immediatament succeït pel Neo Geo Pocket Color, un dispositiu de color a tot color que permetia al sistema competir amb més facilitat amb el Dominant Game Boy Color Handheld, i que també va veure un llançament nord -americà. Tot i que el sistema va gaudir només d’una vida curta, hi va haver alguns jocs significatius publicats al sistema com Samurai Shodown i King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Das Neo Geo Pocket ist eine monochrome Handheld-Spielkonsole, die von SNK herausgegeben wurde. Es war das erste Handheld-System des Unternehmens und ist Teil der Neo Geo-Familie. Es kam Ende 1998 in Japan auf den Markt, wurde aber nie in den USA veröffentlicht, da es exklusiv in Japan, Asien und Europa erhältlich war.
+
+Das Neo Geo Pocket gilt als eine erfolglose Konsole. Geringere Verkaufszahlen als erwartet führten dazu, dass das System 1999 eingestellt wurde. Es wurde sofort vom Neo Geo Pocket Color abgelöst, einem Vollfarbgerät, das es dem System ermöglichte, leichter mit dem dominierenden Game Boy Color Handheld zu konkurrieren, und das auch in Amerika veröffentlicht wurde. Obwohl das System nur eine kurze Lebensdauer hatte, wurden einige bedeutende Spiele wie Samurai Shodown und King of Fighters R-1 auf dem System veröffentlicht.</systemDescription>
+            <systemHardwareType>Tragbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>La Neo Geo Pocket es una consola portátil monocroma lanzada por SNK. Fue el primer sistema portátil de la compañía y forma parte de la familia Neo Geo. Debutó en Japón a finales de 1998, pero nunca salió a la venta en América, siendo exclusiva de Japón, Asia y Europa.
+
+La Neo Geo Pocket se considera una consola poco exitosa. Sus ventas, inferiores a las esperadas, provocaron su interrupción en 1999, e inmediatamente fue sustituida por la Neo Geo Pocket Color, un dispositivo a todo color que permitía al sistema competir más fácilmente con la Game Boy Color, la consola portátil dominante, y que también vio la luz en Estados Unidos. Aunque el sistema tuvo una vida corta, se lanzaron algunos juegos importantes, como Samurai Shodown y King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>La Neo Geo Pocket est une console de jeu portable monochrome éditée par SNK. C'est la première console portable de la société et elle fait partie de la famille Neo Geo. Elle a fait ses débuts au Japon à la fin de l'année 1998, mais n'a jamais été commercialisée aux États-Unis, étant exclusive au Japon, à l'Asie et à l'Europe.
+
+La Neo Geo Pocket est considérée comme un échec. Des ventes inférieures aux prévisions ont entraîné son abandon en 1999, et elle a été immédiatement remplacée par la Neo Geo Pocket Color, une console couleur permettant au système de concurrencer plus facilement la console portable dominante Game Boy Color, et qui a également été commercialisée aux États-Unis. Bien que le système n'ait eu qu'une courte durée de vie, quelques jeux importants sont sortis sur la console, comme Samurai Shodown et King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portable</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Neo Geo džep je jednobojna ručna konzola za igru koju je objavio SNK. Bio je to prvi ručni sustav tvrtke i dio je obitelji Neo Geo. U Japanu je debitirao krajem 1998., ali nikad nije vidio američko izdanje, ekskluzivno za Japan, Aziju i Europu.
+
+Neo Geo džep smatra se neuspješnom konzolom. Niža od očekivane prodaje rezultirala je njegovom prekidom 1999. godine, a odmah ga je naslijedio Neo Geo Pocket Color, uređaj pune boje koji je omogućio da se sustav lakše natječe s dominantnim ručnim igrama Game Boy, a koji je također vidio američko izdanje. Iako je sustav uživao u samo kratkom životu, u sustavu su objavljene neke značajne igre poput Samurai Shodown i King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Prenosiv</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>Il Neo Geo Pocket è una console di gioco portatile monocromatica pubblicata da SNK. È stata la prima console portatile dell'azienda e fa parte della famiglia Neo Geo. Ha debuttato in Giappone alla fine del 1998, ma non ha mai visto un'uscita americana, essendo un'esclusiva di Giappone, Asia ed Europa.
+
+Il Neo Geo Pocket è considerato una console di scarso successo. Le vendite inferiori alle aspettative ne determinarono l'interruzione nel 1999 e fu immediatamente sostituito dal Neo Geo Pocket Color, un dispositivo a colori che permetteva al sistema di competere più facilmente con la console portatile Game Boy Color, anch'essa dominante, e che vide un'uscita americana. Sebbene il sistema abbia avuto una vita breve, vi sono stati pubblicati alcuni giochi significativi come Samurai Shodown e King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portatile</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>ネオジオポケットはSNKから発売されたモノクロの携帯ゲーム機である。同社初の携帯ゲーム機で、ネオジオファミリーのひとつ。日本では1998年末に発売されたが、アメリカでは発売されず、日本、アジア、ヨーロッパでの独占販売となった。
+
+ネオジオポケットは成功しなかったゲーム機と考えられている。販売台数が予想を下回ったため、1999年に販売終了となり、すぐにフルカラー機で、優勢だった携帯ゲーム機「ゲームボーイカラー」に対抗しやすくなった「ネオジオポケットカラー」が後継機として発売された。システムの寿命は短かったが、『サムライショーダウン』や『キング・オブ・ファイターズR-1』など、重要なゲームがいくつか発売された。</systemDescription>
+            <systemHardwareType>ポータブル</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>네오 지오 포켓은 SNK에서 출시한 흑백 핸드헬드 게임 콘솔입니다. 네오 지오 포켓은 네오 지오의 첫 번째 핸드헬드 시스템으로 네오 지오 제품군의 일부입니다. 1998년 말 일본에서 출시되었지만 미국에는 출시되지 않았고 일본, 아시아, 유럽에만 독점 출시되었습니다.
+
+네오 지오 포켓은 실패한 콘솔로 간주됩니다. 예상보다 낮은 판매량으로 인해 1999년에 단종되었고, 곧바로 풀 컬러 기기인 네오 지오 포켓 컬러가 후속작으로 출시되어 이 시스템이 지배적인 게임보이 컬러 핸드헬드와 더 쉽게 경쟁할 수 있게 되었으며, 이 역시 미국 출시가 이루어졌습니다. 비록 수명은 짧았지만 사무라이 쇼다운, 킹 오브 파이터즈 R-1과 같은 중요한 게임들이 이 시스템으로 출시되었습니다.</systemDescription>
+            <systemHardwareType>휴대성</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De Neo Geo Pocket is een monochrome handheld spelconsole uitgebracht door SNK. Het was het eerste handheldsysteem van het bedrijf en maakt deel uit van de Neo Geo-familie. Het spel debuteerde eind 1998 in Japan, maar is nooit in Amerika uitgebracht, omdat het exclusief was voor Japan, Azië en Europa.
+
+De Neo Geo Pocket wordt beschouwd als een onsuccesvol systeem. Lagere verkoopcijfers dan verwacht leidden tot de stopzetting van het systeem in 1999 en het werd onmiddellijk opgevolgd door de Neo Geo Pocket Color, een kleurenconsole waarmee het systeem beter kon concurreren met de dominante Game Boy Color, die ook in Amerika werd uitgebracht. Hoewel het systeem maar een kort leven beschoren was, werden er toch enkele belangrijke spellen op uitgebracht, zoals Samurai Shodown en King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Draagbaar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>Neo Geo Pocket to monochromatyczna przenośna konsola do gier wydana przez SNK. Był to pierwszy system przenośny firmy i jest częścią rodziny Neo Geo. Zadebiutowała w Japonii pod koniec 1998 roku, ale nigdy nie doczekała się amerykańskiej premiery, będąc dostępną wyłącznie w Japonii, Azji i Europie.
+
+Neo Geo Pocket jest uważana za nieudaną konsolę. Niższa niż oczekiwano sprzedaż spowodowała zaprzestanie jej produkcji w 1999 roku, a jej następcą został Neo Geo Pocket Color, w pełni kolorowe urządzenie pozwalające systemowi łatwiej konkurować z dominującym handheldem Game Boy Color, które również doczekało się amerykańskiej premiery. Chociaż system cieszył się tylko krótkim życiem, wydano na niego kilka znaczących gier, takich jak Samurai Shodown i King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Przenośny</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O Neo Geo Pocket é um console de jogos portátil monocromático lançado pela SNK. Foi o primeiro sistema portátil da empresa e faz parte da família Neo Geo. Ele estreou no Japão no final de 1998, mas nunca foi lançado nos Estados Unidos, sendo exclusivo do Japão, da Ásia e da Europa.
+
+O Neo Geo Pocket é considerado um console sem sucesso. As vendas abaixo do esperado resultaram em sua descontinuação em 1999 e foi imediatamente sucedido pelo Neo Geo Pocket Color, um dispositivo totalmente colorido que permitiu que o sistema competisse mais facilmente com o Game Boy Color, um dispositivo portátil dominante, e que também foi lançado nos Estados Unidos. Embora o sistema tenha tido uma vida curta, houve alguns jogos importantes lançados no sistema, como Samurai Shodown e King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O Neo Geo Pocket é um console de jogos portátil monocromático lançado pela SNK. Foi o primeiro sistema de mão da empresa e faz parte da família Neo Geo. Ele estreou no Japão no final de 1998, mas nunca viu um lançamento americano, sendo exclusivo para o Japão, Ásia e Europa.
+
+O bolso neo Geo é considerado um console malsucedido. As vendas inferiores ao esperado resultaram em sua descontinuação em 1999 e foram imediatamente sucedidas pela cor de bolso Neo Geo, um dispositivo de cor que permite que o sistema competisse mais facilmente com o computador de mão de cor de jogo dominante e que também viu um lançamento americano. Embora o sistema tenha desfrutado de apenas uma vida curta, houve alguns jogos significativos divulgados no sistema, como Samurai Shodown e King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portátil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>Neo Geo Pocket este o consolă de jocuri portabilă monocromă lansată de SNK. A fost primul sistem portabil al companiei și face parte din familia Neo Geo. A debutat în Japonia la sfârșitul anului 1998, dar nu a văzut niciodată o lansare americană, fiind exclusiv pentru Japonia, Asia și Europa.
+
+Neo Geo Pocket este considerată a fi o consolă fără succes. Vânzările mai mici decât se așteptau au dus la abandonarea sa în 1999 și a fost imediat succedată de Neo Geo Pocket Color, un dispozitiv complet color care a permis sistemului să concureze mai ușor cu consola portabilă dominantă Game Boy Color și care a văzut, de asemenea, o lansare americană. Deși sistemul s-a bucurat doar de o viață scurtă, au fost lansate câteva jocuri semnificative pe sistem, cum ar fi Samurai Shodown și King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Portabil</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>Neo Geo Pocket - монохромная портативная игровая консоль, выпущенная компанией SNK. Это была первая портативная система компании, входящая в семейство Neo Geo. Она дебютировала в Японии в конце 1998 года, но так и не была выпущена в Америке, являясь эксклюзивом для Японии, Азии и Европы.
+
+Neo Geo Pocket считается неудачной консолью. Более низкие, чем ожидалось, продажи привели к ее снятию с производства в 1999 году, и на смену ей сразу же пришла Neo Geo Pocket Color, полноцветное устройство, позволяющее системе легче конкурировать с доминирующей портативной консолью Game Boy Color, которая также увидела американский релиз. Несмотря на то, что система просуществовала совсем недолго, на ней было выпущено несколько значимых игр, таких как Samurai Shodown и King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Портативный</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Нео ГЕО џеп је једнобојна ручна игарска конзола коју је СНК објавио.То је био први ручни систем компаније и део је породице Нео Гео.У Јапану је крајем 1998. године дебитовао у Јапану, али никада није видео америчко ослобађање, што је искључиво за Јапан, Азију и Европу.
+
+Нео ГЕО џеп сматра се неуспешном конзолом.Нижи од очекиване продаје резултирало је укидањем 1999. године, а одмах је наследио БОЈУ НЕО ГЕО Џепне боје, пуни уређај у боји који омогућава да се систем лакше такмичи са доминантним играњем Бои Бои бојом ручно и који је такође видео америчко издање.Иако је систем уживао само кратког живота, било је неколико значајних игара које су објављене у систему као што су Самураи укосо и краљ бораца Р-1.</systemDescription>
+            <systemHardwareType>Преносив</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>Neo Geo Pocket är en monokrom handhållen spelkonsol utgiven av SNK. Det var företagets första handhållna system och är en del av Neo Geo-familjen. Den lanserades i Japan i slutet av 1998 men släpptes aldrig i USA utan var exklusiv för Japan, Asien och Europa.
+
+Neo Geo Pocket anses vara en misslyckad konsol. Lägre försäljning än väntat ledde till att den lades ned 1999 och omedelbart efterträddes av Neo Geo Pocket Color, en enhet i fullfärg som gjorde det lättare för systemet att konkurrera med den dominerande handhållna Game Boy Color, och som också släpptes i USA. Trots att systemet bara fick en kort livslängd släpptes några viktiga spel på systemet, till exempel Samurai Shodown och King of Fighters R-1.</systemDescription>
+            <systemHardwareType>Bärbar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>Neo Geo Pocket 是 SNK 推出的一款单色掌上游戏机。它是该公司的第一款掌上系统，属于 Neo Geo 系列。它于 1998 年底在日本首次亮相，但从未在美国发行，仅在日本、亚洲和欧洲独占。
+
+Neo Geo Pocket 被认为是一款不成功的游戏机。由于销量低于预期，它于 1999 年停产，紧随其后的是 Neo Geo Pocket Color，这是一款全彩设备，使该系统更容易与占主导地位的 Game Boy Color 掌上电脑竞争，它也在美国发行。虽然该系统的寿命很短，但还是推出了一些重要的游戏，如《武士 Shodown》和《格斗之王 R-1》。</systemDescription>
+            <systemHardwareType>便携式</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>Neo Geo Pocket 是 SNK 推出的一款單色掌上遊戲機。它是該公司的第一款掌上型系統，也是 Neo Geo 系列的一部分。它於 1998 年底在日本首次亮相，但從未在美國發行，僅在日本、亞洲和歐洲獨家發行。
+
+Neo Geo Pocket 被認為是一款不成功的遊戲機。Neo Geo Pocket 的銷售量低於預期，因此於 1999 年停產，並隨即由 Neo Geo Pocket Color 取代，這是一款全彩裝置，可讓系統更容易與佔市場優勢的 Game Boy Color 掌上遊戲機競爭，而且也在美國發行。儘管這款系統的壽命不長，但卻推出了一些重要的遊戲，例如 Samurai Shodown 和 King of Fighters R-1。</systemDescription>
+            <systemHardwareType>可攜式</systemHardwareType>
+        </variables>
+    </language>
+</theme>

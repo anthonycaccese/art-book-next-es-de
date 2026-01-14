@@ -1,0 +1,181 @@
+<theme>
+    <variables>
+        <systemName>MAME</systemName>
+        <systemDescription>MAME (formerly an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intention is to preserve gaming history by preventing vintage games from being lost or forgotten. It does this by emulating the inner workings of the emulated arcade machines; the ability to actually play the games is considered "a nice side effect". Joystiq has listed MAME as an application that every Windows and Mac gamer should have.
+
+The first public MAME release was by Nicola Salmoria on 5 February 1997. It now supports over 7,000 unique games and 10,000 actual ROM image sets, though not all of the games are playable. MESS, an emulator for many video game consoles and computer systems, based on the MAME core, was integrated into MAME in 2015.</systemDescription>
+        <systemManufacturer>MAME Team</systemManufacturer>
+        <systemReleaseYear>1997</systemReleaseYear>
+        <systemReleaseDate>1997-02-05</systemReleaseDate>
+        <systemReleaseDateFormated>February 5, 1997</systemReleaseDateFormated>
+        <systemHardwareType>Emulator</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>5a64bb</systemColor>
+        <systemColorPalette1>00ADEF</systemColorPalette1>
+        <systemColorPalette2>84849C</systemColorPalette2>
+        <systemColorPalette3>231F20</systemColorPalette3>
+        <systemColorPalette4>FFFFFF</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>MAME (اختصار لـ MAME) هو محاكي مجاني ومفتوح المصدر مصمم لإعادة إنشاء أجهزة أنظمة ألعاب الأركيد في برامج على أجهزة الكمبيوتر الشخصية الحديثة وغيرها من المنصات. يهدف إلى الحفاظ على تاريخ الألعاب من خلال منع فقدان أو نسيان الألعاب القديمة. وهو يقوم بذلك عن طريق محاكاة الأعمال الداخلية لآلات الأركيد التي تمت محاكاتها؛ وتعتبر القدرة على تشغيل الألعاب فعليًا "أثرًا جانبيًا لطيفًا". وقد أدرج Joystiq تطبيق MAME كتطبيق يجب أن يمتلكه كل لاعب يعمل بنظامي ويندوز وماك.
+
+كان أول إصدار عام لـ MAME من قبل نيكولا سالموريا في 5 فبراير 1997. وهو يدعم الآن أكثر من 7,000 لعبة فريدة من نوعها و10,000 مجموعة صور ROM فعلية، رغم أن الألعاب ليست كلها قابلة للتشغيل. تم دمج MESS، وهو محاكي للعديد من وحدات تحكم ألعاب الفيديو وأنظمة الكمبيوتر، استنادًا إلى نواة MAME، في MAME في عام 2015.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>Mame (ranije akronim za višestruki arkadni emulator) je besplatan i otvoreni emulator na otvorenom dizajniran za ponovno stvaranje hardvera arkadnih igarskih sistema u softveru na modernim ličnim računarima i drugim platformama. Njegova namjera je sačuvati historiju o igrama sprečavajući da se vintage igre budu izgubljene ili zaboravljene. To čini tako što emulira unutrašnje djelovanje emuliranih arkadnih mašina;Sposobnost zapravo igranja igara smatra se "lijepim nuspojavom". Joystiq je naveo mame kao aplikaciju koju bi trebali imati svaki Windows i Mac Gamer.
+
+Prvi public Mame izdanje bio je Nicola Salmoria 5. februara 1997. godine. Sada podržava preko 7000 jedinstvenih igara i 10.000 stvarnih setova u ROM-u, iako nisu sve igre koje se mogu reproducirati. Nered, emulator za mnoge konzole za video igre i računarske sisteme, na osnovu jezgre Mame, integriran je u mami u 2015. godini.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>Mame (abans acrònim de múltiple emulador de màquines d'arcade) és un emulador gratuït i de codi obert dissenyat per recrear el maquinari dels sistemes de jocs d'arcades en programari en ordinadors personals moderns i altres plataformes. La seva intenció és preservar la història del joc impedint que els jocs vintage es perdin o s’oblidin. Això ho fa emulant el funcionament interior de les màquines d’arcades emulades;La capacitat de jugar als jocs es considera "un bon efecte secundari". Joystiq ha enumerat Mame com a aplicació que tots els Windows i Mac Gamer haurien de tenir.
+
+El primer llançament públic va ser de Nicola Salmoria el 5 de febrer de 1997. Ara admet més de 7.000 jocs únics i 10.000 conjunts d'imatges de ROM reals, tot i que no tots els jocs es poden jugar. Mess, un emulador de moltes consoles de videojocs i sistemes informàtics, basat en el Core Mame, es va integrar a Mame el 2015.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>MAME (früher ein Akronym für Multiple Arcade Machine Emulator) ist ein freier und quelloffener Emulator, der entwickelt wurde, um die Hardware von Spielhallensystemen in Software auf modernen PCs und anderen Plattformen nachzubilden. Sein Ziel ist es, die Spielegeschichte zu bewahren, indem er verhindert, dass alte Spiele verloren gehen oder in Vergessenheit geraten. Dies geschieht durch die Emulation des Innenlebens der emulierten Arcade-Automaten; die Möglichkeit, die Spiele tatsächlich zu spielen, wird als "netter Nebeneffekt" betrachtet. Joystiq hat MAME als eine Anwendung aufgeführt, die jeder Windows- und Mac-Spieler haben sollte.
+
+Die erste öffentliche Veröffentlichung von MAME erfolgte durch Nicola Salmoria am 5. Februar 1997. Mittlerweile unterstützt MAME über 7.000 Spiele und 10.000 ROM-Images, obwohl nicht alle Spiele spielbar sind. MESS, ein Emulator für viele Videospielkonsolen und Computersysteme, der auf dem MAME-Kern basiert, wurde 2015 in MAME integriert.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>MAME (acrónimo de Multiple Arcade Machine Emulator) es un emulador gratuito y de código abierto diseñado para recrear el hardware de los sistemas de juegos arcade en software en ordenadores personales modernos y otras plataformas. Su intención es preservar la historia de los videojuegos evitando que los juegos antiguos se pierdan o caigan en el olvido. Para ello, emula el funcionamiento interno de las máquinas recreativas emuladas; la posibilidad de jugar realmente a los juegos se considera "un bonito efecto secundario". Joystiq considera que MAME es una aplicación que todo jugador de Windows y Mac debería tener.
+
+La primera versión pública de MAME la realizó Nicola Salmoria el 5 de febrero de 1997. Actualmente admite más de 7.000 juegos únicos y 10.000 conjuntos de imágenes ROM, aunque no todos los juegos son jugables. MESS, un emulador para muchas consolas de videojuegos y sistemas informáticos, basado en el núcleo de MAME, se integró en MAME en 2015.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>MAME (anciennement acronyme de Multiple Arcade Machine Emulator) est un émulateur libre et gratuit conçu pour recréer le matériel des systèmes de jeux d'arcade en logiciel sur les ordinateurs personnels modernes et d'autres plateformes. Son objectif est de préserver l'histoire du jeu en empêchant que des jeux anciens ne soient perdus ou oubliés. Pour ce faire, il émule le fonctionnement interne des machines d'arcade émulées ; la possibilité de jouer réellement aux jeux est considérée comme "un effet secondaire agréable". Joystiq a classé MAME parmi les applications que tout joueur Windows et Mac devrait posséder.
+
+La première version publique de MAME a été publiée par Nicola Salmoria le 5 février 1997. Il prend aujourd'hui en charge plus de 7 000 jeux uniques et 10 000 jeux d'images ROM, bien que tous les jeux ne soient pas jouables. MESS, un émulateur pour de nombreuses consoles de jeux vidéo et systèmes informatiques, basé sur le noyau MAME, a été intégré à MAME en 2015.</systemDescription>
+            <systemHardwareType>Emulateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>Mame (ranije akronim višestrukog arkadnog strojnog emulatora) besplatan je i emulator otvorenog koda dizajniran za ponovno stvaranje hardvera Arcade Game Systems u softveru na modernim osobnim računalima i drugim platformama. Njegova je namjera sačuvati povijest igara sprečavajući da se vintage igre izgube ili zaborave. To čini oponašanjem unutarnjeg rada emuliranih arkadnih strojeva;Sposobnost zapravo igranja igara smatra se "lijepom nuspojavom". Joystiq je Mame naveo kao aplikaciju koju bi svaki Windows i Mac igrač trebao imati.
+
+Prvo javno izdanje Mame bila je Nicola Salmoria 5. veljače 1997. godine. Sada podržava preko 7000 jedinstvenih igara i 10 000 stvarnih setova ROM -a, iako nisu sve igre mogući. Mess, emulator mnogih konzola za video igre i računalne sustave, temeljen na Mame Core, integriran je u Mame u 2015. godini.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>MAME (già acronimo di Multiple Arcade Machine Emulator) è un emulatore gratuito e open-source progettato per ricreare l'hardware dei sistemi di gioco arcade nel software dei moderni personal computer e di altre piattaforme. Il suo scopo è quello di preservare la storia del gioco, evitando che i giochi d'epoca vadano persi o dimenticati. Lo fa emulando il funzionamento interno delle macchine arcade emulate; la possibilità di giocare effettivamente ai giochi è considerata "un piacevole effetto collaterale". Joystiq ha indicato MAME come un'applicazione che ogni giocatore Windows e Mac dovrebbe avere.
+
+La prima versione pubblica del MAME è stata realizzata da Nicola Salmoria il 5 febbraio 1997. Attualmente supporta oltre 7.000 giochi unici e 10.000 immagini ROM, anche se non tutti i giochi sono giocabili. MESS, un emulatore per molte console di videogiochi e sistemi informatici, basato sul nucleo di MAME, è stato integrato in MAME nel 2015.</systemDescription>
+            <systemHardwareType>Emulatore</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>MAME（旧称：Multiple Arcade Machine Emulator）は、アーケードゲームシステムのハードウェアを、現代のパソコンやその他のプラットフォーム上でソフトウェア的に再現するために設計された、フリーでオープンソースのエミュレータである。その目的は、ビンテージゲームが失われたり忘れ去られたりするのを防ぎ、ゲームの歴史を保存することである。これは、エミュレートされたアーケード・マシンの内部構造をエミュレートすることで実現され、実際にゲームをプレイする機能は「良い副次的効果」と考えられている。Joystiqは、MAMEをWindowsとMacゲーマーが持つべきアプリケーションとして挙げている。
+
+ニコラ・サルモリアが1997年2月5日にMAMEを初めて公開した。現在では、7,000以上のユニークなゲームと10,000以上の実際のROMイメージセットをサポートしていますが、すべてのゲームがプレイ可能というわけではありません。MAMEコアをベースにした多くのゲーム機やコンピュータシステム用のエミュレータであるMESSは、2015年にMAMEに統合された。</systemDescription>
+            <systemHardwareType>エミュレータ</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>MAME(이전의 다중 아케이드 머신 에뮬레이터의 약자)는 아케이드 게임 시스템의 하드웨어를 최신 개인용 컴퓨터 및 기타 플랫폼에서 소프트웨어로 재현하도록 설계된 무료 오픈 소스 에뮬레이터입니다. 빈티지 게임이 분실되거나 잊혀지는 것을 방지하여 게임 역사를 보존하는 것이 목적입니다. 에뮬레이트된 아케이드 게임기의 내부 작동을 모방하여 이를 수행하며, 실제로 게임을 플레이할 수 있는 기능은 "좋은 부수적 효과"로 간주됩니다. 조이스틱은 MAME를 모든 Windows 및 Mac 게이머에게 꼭 필요한 애플리케이션으로 선정했습니다.
+
+1997년 2월 5일에 니콜라 살모리아가 MAME를 처음 공개했습니다. 현재 7,000개 이상의 고유 게임과 10,000개의 실제 ROM 이미지 세트를 지원하지만 모든 게임을 플레이할 수 있는 것은 아닙니다. MAME 코어를 기반으로 하는 다양한 비디오 게임 콘솔 및 컴퓨터 시스템용 에뮬레이터인 MESS는 2015년에 MAME에 통합되었습니다.</systemDescription>
+            <systemHardwareType>에뮬레이터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>MAME (vroeger een acroniem voor Multiple Arcade Machine Emulator) is een gratis en open-source emulator die ontworpen is om de hardware van arcadegame-systemen na te maken in software op moderne pc's en andere platformen. De bedoeling is om de gamegeschiedenis te bewaren door te voorkomen dat vintage games verloren gaan of in de vergetelheid raken. Het doet dit door de innerlijke werking van de geëmuleerde arcademachines te emuleren; de mogelijkheid om de spellen daadwerkelijk te spelen wordt beschouwd als "een leuk neveneffect". Joystiq heeft MAME genoemd als een toepassing die elke Windows- en Mac-gamer zou moeten hebben.
+
+De eerste publieke release van MAME was van Nicola Salmoria op 5 februari 1997. Het ondersteunt nu meer dan 7.000 unieke spellen en 10.000 ROM image sets, hoewel niet alle spellen speelbaar zijn. MESS, een emulator voor veel videogameconsoles en computersystemen, gebaseerd op de MAME-kern, werd in 2015 in MAME geïntegreerd.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>MAME (dawniej skrót od Multiple Arcade Machine Emulator) to darmowy emulator o otwartym kodzie źródłowym, zaprojektowany w celu odtworzenia sprzętu systemów gier zręcznościowych w oprogramowaniu na nowoczesnych komputerach osobistych i innych platformach. Jego celem jest zachowanie historii gier poprzez zapobieganie utracie lub zapomnieniu starych gier. Czyni to poprzez emulowanie wewnętrznego działania emulowanych maszyn arcade; możliwość faktycznego grania w gry jest uważana za "miły efekt uboczny". Joystiq wymienił MAME jako aplikację, którą każdy gracz Windows i Mac powinien mieć.
+
+Pierwsza publiczna wersja MAME została wydana przez Nicolę Salmoria 5 lutego 1997 roku. Obecnie obsługuje ponad 7000 unikalnych gier i 10 000 rzeczywistych zestawów obrazów ROM, choć nie wszystkie gry są grywalne. MESS, emulator wielu konsol do gier wideo i systemów komputerowych, oparty na rdzeniu MAME, został zintegrowany z MAME w 2015 roku.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O MAME (antigo acrônimo de Multiple Arcade Machine Emulator) é um emulador gratuito e de código aberto projetado para recriar o hardware dos sistemas de jogos de fliperama em software nos computadores pessoais modernos e em outras plataformas. Sua intenção é preservar a história dos jogos, evitando que os jogos antigos sejam perdidos ou esquecidos. Ele faz isso emulando o funcionamento interno das máquinas de fliperama emuladas; a capacidade de realmente jogar os jogos é considerada "um bom efeito colateral". A Joystiq listou o MAME como um aplicativo que todo jogador de Windows e Mac deve ter.
+
+A primeira versão pública do MAME foi lançada por Nicola Salmoria em 5 de fevereiro de 1997. Atualmente, ele suporta mais de 7.000 jogos exclusivos e 10.000 conjuntos de imagens ROM reais, embora nem todos os jogos sejam jogáveis. O MESS, um emulador para muitos consoles de videogame e sistemas de computador, baseado no núcleo do MAME, foi integrado ao MAME em 2015.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>Mame (anteriormente um acrônimo de múltiplos emuladores de máquina de arcade) é um emulador de código aberto e de código aberto projetado para recriar o hardware dos sistemas de jogos de arcade em software em computadores pessoais modernos e outras plataformas. Sua intenção é preservar a história dos jogos, impedindo que os jogos vintage sejam perdidos ou esquecidos. Faz isso emulando o funcionamento interno das máquinas de arcade emuladas;A capacidade de realmente jogar os jogos é considerada "um bom efeito colateral". O Joystiq listou o MAME como um aplicativo que todos os jogadores do Windows e Mac devem ter.
+
+O primeiro lançamento do Public Mame foi de Nicola Salmoria em 5 de fevereiro de 1997. Agora suporta mais de 7.000 jogos exclusivos e 10.000 conjuntos de imagens ROM reais, embora nem todos os jogos sejam jogáveis. Mess, um emulador de muitos consoles de videogame e sistemas de computador, baseado no MAME Core, foi integrado ao MAME em 2015.</systemDescription>
+            <systemHardwareType>Emulador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>MAME (fostul acronim Multiple Arcade Machine Emulator) este un emulator gratuit și open-source conceput pentru a recrea hardware-ul sistemelor de jocuri arcade în software pe calculatoare personale moderne și alte platforme. Intenția sa este de a păstra istoria jocurilor prin prevenirea pierderii sau uitării jocurilor de epocă. Acest lucru se realizează prin emularea funcționării interne a aparatelor arcade emulate; capacitatea de a juca efectiv jocurile este considerată "un efect secundar plăcut". Joystiq a catalogat MAME drept o aplicație pe care fiecare jucător de jocuri Windows și Mac ar trebui să o aibă.
+
+Prima versiune publică a MAME a fost lansată de Nicola Salmoria pe 5 februarie 1997. În prezent acceptă peste 7 000 de jocuri unice și 10 000 de seturi de imagini ROM reale, deși nu toate jocurile sunt jucabile. MESS, un emulator pentru multe console de jocuri video și sisteme informatice, bazat pe nucleul MAME, a fost integrat în MAME în 2015.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>MAME (ранее аббревиатура Multiple Arcade Machine Emulator) - это бесплатный эмулятор с открытым исходным кодом, предназначенный для воссоздания аппаратной части аркадных игровых систем в программном обеспечении на современных персональных компьютерах и других платформах. Его цель - сохранить историю игр, предотвратив потерю или забвение винтажных игр. Для этого она эмулирует внутреннюю работу эмулируемых аркадных автоматов; возможность играть в игры считается "приятным побочным эффектом". Joystiq назвал MAME приложением, которое должно быть у каждого геймера Windows и Mac.
+
+Первый публичный релиз MAME был сделан Николой Салмориа 5 февраля 1997 года. Сейчас он поддерживает более 7 000 уникальных игр и 10 000 реальных наборов образов ROM, хотя не во все игры можно играть. MESS, эмулятор многих игровых приставок и компьютерных систем, основанный на ядре MAME, был интегрирован в MAME в 2015 году.</systemDescription>
+            <systemHardwareType>Эмулятор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>Маме (раније акроним мултипле аркадне машине Емулатор) је бесплатни и отворени емулатор који је намењен да поново створи хардвер аркадних система игара у софтверу на савременим личним рачунарима и другим платформама.Његова намера је да сачува историју играња спречавањем изгубљених или заборављених утакмица винтаге.То ради намиривањем унутрашњег дела емулираних аркадних машина;Способност да се заправо играју игре сматрају "лепом нуспојавом".Јоистик је навео маму као апликацију да би сваки прозори и Мац Гамер требали имати.
+
+Прво пуштање јавних мамова је било Ницола Салмориа 5. фебруара 1997. године. Сада подржава преко 7.000 јединствених игара и 10.000 стварних сетова са сликама од РОМ-а, мада нису све игре које нису репродуциране.Неред, емулатор за многе конзоле видео игара и рачунарских система, на основу маме језгра, интегрисан је у маму у 2015. години.</systemDescription>
+            <systemHardwareType>Емулатор</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>MAME (tidigare en akronym för Multiple Arcade Machine Emulator) är en emulator med fri och öppen källkod som är utformad för att återskapa hårdvaran i arkadspelssystem i programvara på moderna persondatorer och andra plattformar. Avsikten är att bevara spelhistorien genom att förhindra att gamla spel går förlorade eller glöms bort. Detta görs genom att emulera de emulerade arkadmaskinernas inre funktioner; möjligheten att faktiskt spela spelen anses vara "en trevlig bieffekt". Joystiq har listat MAME som en applikation som alla Windows- och Mac-spelare bör ha.
+
+Den första offentliga MAME-versionen släpptes av Nicola Salmoria den 5 februari 1997. Programmet stöder nu över 7.000 unika spel och 10.000 faktiska ROM-imageuppsättningar, även om inte alla spel är spelbara. MESS, en emulator för många videospelskonsoler och datorsystem, baserad på MAME-kärnan, integrerades i MAME 2015.</systemDescription>
+            <systemHardwareType>Emulator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>MAME（原为 Multiple Arcade Machine Emulator 的缩写）是一款免费开源模拟器，旨在通过软件在现代个人电脑和其他平台上重现街机游戏系统的硬件。其目的是保护游戏历史，防止老游戏丢失或被遗忘。它通过模拟仿真街机的内部工作原理来实现这一目的；实际玩游戏的能力被认为是 "一个很好的副作用"。Joystiq 将 MAME 列为每个 Windows 和 Mac 游戏玩家都应该拥有的应用程序。
+
+尼古拉-萨尔莫里亚（Nicola Salmoria）于 1997 年 2 月 5 日首次公开发布了 MAME。它现在支持 7,000 多款独特的游戏和 10,000 多套实际 ROM 映像，但并非所有游戏都能玩。MESS 是一款基于 MAME 核心的模拟器，适用于许多视频游戏控制台和计算机系统，已于 2015 年集成到 MAME 中。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>MAME (原為 Multiple Arcade Machine Emulator 的縮寫) 是一個免費且開放原始碼的模擬器，用來在現代個人電腦和其他平台上以軟體重現街機遊戲系統的硬體。它的目的是防止古董遊戲遺失或被遺忘，從而保存遊戲歷史。它透過模擬街機遊戲機器的內部運作來達成這個目的，而實際玩遊戲的能力則被視為「很好的副作用」。Joystiq 將 MAME 列為每個 Windows 和 Mac 玩家都應該擁有的應用程式。
+
+第一個公開的 MAME 版本是由 Nicola Salmoria 於 1997 年 2 月 5 日發佈的。它現在支援超過 7,000 種獨特的遊戲和 10,000 個實際的 ROM 映像集，雖然不是所有的遊戲都可以玩。MESS 是一個以 MAME 核心為基礎、用於許多電子遊戲主機和電腦系統的模擬器，於 2015 年整合至 MAME。</systemDescription>
+            <systemHardwareType>仿真器</systemHardwareType>
+        </variables>
+    </language>
+</theme>

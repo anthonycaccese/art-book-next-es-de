@@ -1,0 +1,223 @@
+<theme>
+    <variables>
+        <systemName>IBM PC</systemName>
+        <systemDescription>The IBM Personal Computer (model 5150, commonly known as the IBM PC) is the first microcomputer released in the IBM PC model line and the basis for the IBM PC compatible de facto standard. Released on August 12, 1981, it was created by a team of engineers and designers directed by Don Estridge in Boca Raton, Florida.
+
+The machine was based on open architecture and third-party peripherals. Over time, expansion cards and software technology increased to support it.
+
+The PC had a substantial influence on the personal computer market. The specifications of the IBM PC became one of the most popular computer design standards in the world. The only significant competition it faced from a non-compatible platform throughout the 1980s was from the Apple Macintosh product line. The majority of modern personal computers are distant descendants of the IBM PC.</systemDescription>
+        <systemManufacturer>IBM</systemManufacturer>
+        <systemReleaseYear>1981</systemReleaseYear>
+        <systemReleaseDate>1981-08-12</systemReleaseDate>
+        <systemReleaseDateFormated>August 12, 1981</systemReleaseDateFormated>
+        <systemHardwareType>Computer</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>3161BC</systemColor>
+        <systemColorPalette1>1F70C1</systemColorPalette1>
+        <systemColorPalette2>FFFFFF</systemColorPalette2>
+        <systemColorPalette3>666870</systemColorPalette3>
+        <systemColorPalette4>201D1D</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>الكمبيوتر الشخصي IBM Personal Computer (طراز 5150، المعروف باسم IBM PC) هو أول كمبيوتر شخصي من طراز IBM PC، وهو أول كمبيوتر صغير يتم إصداره في خط طراز IBM PC، وهو أساس المعيار الفعلي المتوافق مع IBM PC. وقد تم إصداره في 12 أغسطس 1981، وقام بتصميمه فريق من المهندسين والمصممين تحت إدارة دون استريدج في بوكا راتون بولاية فلوريدا.
+
+اعتمد الجهاز على بنية مفتوحة وأجهزة طرفية خارجية. ومع مرور الوقت، زادت بطاقات التوسعة وتكنولوجيا البرامج لدعمها.
+
+كان للكمبيوتر الشخصي تأثير كبير على سوق الحواسيب الشخصية. وأصبحت مواصفات حاسوب IBM الشخصي أحد أشهر معايير تصميم الحواسيب الشخصية في العالم. وكانت المنافسة الكبيرة الوحيدة التي واجهتها من منصة غير متوافقة طوال الثمانينيات من القرن الماضي من خط إنتاج Apple Macintosh. ومعظم الحواسيب الشخصية الحديثة هي أحفاد بعيدة لحاسوب IBM PC.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>IBM osobni računar (model 5150, obično poznat kao IBM PC) je prvi mikrokompjuter koji se objavljuje u liniji IBM PC modela i osnova za IBM PC kompatibilan de facto standard. Objavljeno 12. avgusta 1981. godine, stvorio ga je tim inženjera i dizajnera režija Don Estridge u Boci Raton, Florida.
+
+Mašina se temeljila na otvorenoj arhitekturi i perifernim trećima. Vremenom, ekspanzijske kartice i softverska tehnologija povećana su za podršku.
+
+PC je imao značajan uticaj na lično tržište računara. Specifikacije IBM PC-a postali su jedan od najpopularnijih standarda kompjuterskog dizajna na svijetu. Jedino značajno takmičenje s koje se suočava s nekompatibilne platforme tijekom 1980-ih bilo je iz linije proizvoda Apple Macintosh. Većina modernih ličnih računara udaljeni su potomci IBM računara.</systemDescription>
+            <systemHardwareType>Računar</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>L’ordinador personal d’IBM (Model 5150, conegut comunament com a IBM PC) és el primer microordinador llançat a la línia de model IBM PC i la base per a l’estàndard de facto compatible amb IBM PC. Llançat el 12 d'agost de 1981, va ser creat per un equip d'enginyers i dissenyadors dirigits per Don Estridge a Boca Raton, Florida.
+
+La màquina es basava en arquitectura oberta i perifèrics de tercers. Amb el pas del temps, les targetes d’expansió i la tecnologia de programari van augmentar per suportar -la.
+
+El PC va tenir una influència substancial en el mercat informàtic personal. Les especificacions de l’IBM PC es van convertir en un dels estàndards de disseny informàtic més populars del món. L’única competència significativa que va afrontar des d’una plataforma no compatible durant la dècada de 1980 va ser de la línia de productes d’Apple Macintosh. La majoria dels ordinadors personals moderns són descendents llunyans de l’IBM PC.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>Der IBM Personal Computer (Modell 5150, gemeinhin als IBM PC bekannt) ist der erste Mikrocomputer der IBM PC-Modellreihe und die Grundlage für den IBM PC-kompatiblen De-facto-Standard. Er kam am 12. August 1981 auf den Markt und wurde von einem Team von Ingenieuren und Designern unter der Leitung von Don Estridge in Boca Raton, Florida, entwickelt.
+
+Der Rechner basierte auf einer offenen Architektur und Peripheriegeräten von Drittanbietern. Im Laufe der Zeit wurden die Erweiterungskarten und die Softwaretechnologie erweitert, um ihn zu unterstützen.
+
+Der PC hatte einen erheblichen Einfluss auf den Markt für Personal Computer. Die Spezifikationen des IBM PC wurden zu einem der beliebtesten Computerdesignstandards der Welt. Die einzige nennenswerte Konkurrenz durch eine nicht kompatible Plattform war in den 1980er Jahren die Apple Macintosh-Produktlinie. Die meisten modernen Personal Computer sind entfernte Nachfahren des IBM PC.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>El IBM Personal Computer (modelo 5150, comúnmente conocido como IBM PC) es el primer microordenador lanzado en la línea de modelos IBM PC y la base del estándar de facto IBM PC compatible. Lanzado el 12 de agosto de 1981, fue creado por un equipo de ingenieros y diseñadores dirigido por Don Estridge en Boca Ratón, Florida.
+
+La máquina se basaba en una arquitectura abierta y periféricos de terceros. Con el tiempo, aumentaron las tarjetas de expansión y la tecnología de software compatibles.
+
+El PC tuvo una influencia sustancial en el mercado de los ordenadores personales. Las especificaciones del IBM PC se convirtieron en uno de los estándares de diseño informático más populares del mundo. La única competencia significativa a la que se enfrentó desde una plataforma no compatible a lo largo de la década de 1980 fue la de la línea de productos Apple Macintosh. La mayoría de los ordenadores personales modernos son descendientes lejanos del IBM PC.</systemDescription>
+            <systemHardwareType>Ordenador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>L'ordinateur personnel IBM (modèle 5150, communément appelé IBM PC) est le premier micro-ordinateur de la gamme IBM PC et la base du standard de facto de la compatibilité IBM PC. Sorti le 12 août 1981, il a été créé par une équipe d'ingénieurs et de concepteurs dirigée par Don Estridge à Boca Raton, en Floride.
+
+La machine était basée sur une architecture ouverte et des périphériques tiers. Au fil du temps, les cartes d'extension et la technologie logicielle se sont développées pour la prendre en charge.
+
+Le PC a eu une influence considérable sur le marché des ordinateurs personnels. Les spécifications du PC d'IBM sont devenues l'une des normes de conception d'ordinateurs les plus populaires au monde. La seule concurrence significative à laquelle il a été confronté à partir d'une plate-forme non compatible tout au long des années 1980 a été celle de la ligne de produits Apple Macintosh. La majorité des ordinateurs personnels modernes sont de lointains descendants du PC d'IBM.</systemDescription>
+            <systemHardwareType>Ordinateur</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>IBM osobno računalo (Model 5150, obično poznato kao IBM PC) je prvi mikroračunalo objavljen u liniji IBM PC modela i osnova za IBM PC kompatibilan de facto Standard. Objavljen 12. kolovoza 1981. godine, stvorio ga je tim inženjera i dizajnera koji je režirao Don Estridge u Boca Ratonu na Floridi.
+
+Stroj se temeljio na otvorenoj arhitekturi i perifernim uređajima treće strane. S vremenom su se ekspanzijske kartice i softverska tehnologija povećala kako bi je podržale.
+
+PC je imao značajan utjecaj na tržište osobnog računala. Specifikacije IBM računala postale su jedan od najpopularnijih standarda računalnog dizajna na svijetu. Jedina značajna konkurencija s kojom se suočio s platforme koja nije kompatibilna tijekom 1980-ih bila je iz linije proizvoda Apple Macintosh. Većina modernih osobnih računala udaljeni su potomci IBM PC -a.</systemDescription>
+            <systemHardwareType>Računalo</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>L'IBM Personal Computer (modello 5150, comunemente noto come IBM PC) è il primo microcomputer della linea IBM PC e la base dello standard IBM PC compatibile. Rilasciato il 12 agosto 1981, è stato creato da un team di ingegneri e progettisti diretti da Don Estridge a Boca Raton, in Florida.
+
+La macchina era basata su un'architettura aperta e su periferiche di terze parti. Nel corso del tempo, le schede di espansione e la tecnologia software sono aumentate per supportarla.
+
+Il PC ha avuto un'influenza sostanziale sul mercato dei personal computer. Le specifiche del PC IBM sono diventate uno degli standard di progettazione di computer più diffusi al mondo. L'unica concorrenza significativa che ha dovuto affrontare negli anni '80 da parte di una piattaforma non compatibile è stata quella della linea di prodotti Apple Macintosh. La maggior parte dei personal computer moderni sono lontani discendenti del PC IBM.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>IBMパーソナルコンピュータ（モデル5150、通称IBM PC）は、IBM PCのモデルラインの中で最初にリリースされたマイクロコンピュータであり、IBM PC互換機のデファクトスタンダードのベースである。1981年8月12日に発売され、フロリダ州ボカラトンのドン・エストリッジが指揮するエンジニアとデザイナーのチームによって作られた。
+
+このマシンはオープン・アーキテクチャとサードパーティの周辺機器に基づいていた。時間の経過とともに、拡張カードやソフトウェア技術もサポートするものが増えていった。
+
+PCはパーソナルコンピューター市場に大きな影響を与えた。IBM PCの仕様は、世界で最も一般的なコンピュータ設計標準のひとつとなった。1980年代を通じて、互換性のないプラットフォームとの間で唯一大きな競争に直面したのは、アップル社のマッキントッシュ製品ラインだった。現代のパソコンの大半は、IBM PCの遠い子孫である。</systemDescription>
+            <systemHardwareType>コンピューター</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>IBM 개인용 컴퓨터(모델 5150, 일반적으로 IBM PC로 알려짐)는 IBM PC 모델 라인에서 최초로 출시된 마이크로컴퓨터이자 IBM PC 호환 사실상의 표준의 기초가 된 제품입니다. 1981년 8월 12일에 출시된 이 제품은 플로리다주 보카 레이턴에 있는 돈 에스트리지(Don Estridge)가 이끄는 엔지니어 및 디자이너 팀이 만들었습니다.
+
+이 컴퓨터는 개방형 아키텍처와 타사 주변기기를 기반으로 했습니다. 시간이 지남에 따라 확장 카드와 소프트웨어 기술이 이를 지원하기 위해 증가했습니다.
+
+PC는 개인용 컴퓨터 시장에 상당한 영향을 미쳤습니다. IBM PC의 사양은 세계에서 가장 널리 사용되는 컴퓨터 설계 표준 중 하나가 되었습니다. 1980년대 내내 호환되지 않는 플랫폼과의 유일한 중요한 경쟁은 Apple 매킨토시 제품군뿐이었습니다. 현대 개인용 컴퓨터의 대부분은 IBM PC의 먼 후손입니다.</systemDescription>
+            <systemHardwareType>컴퓨터</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>De IBM Personal Computer (model 5150, beter bekend als de IBM PC) is de eerste microcomputer in de IBM PC-modellijn en de basis voor de de facto compatibele IBM PC-standaard. Hij werd uitgebracht op 12 augustus 1981 en werd gemaakt door een team van ingenieurs en ontwerpers onder leiding van Don Estridge in Boca Raton, Florida.
+
+De machine was gebaseerd op een open architectuur en randapparatuur van derden. Na verloop van tijd kwamen er meer uitbreidingskaarten en softwaretechnologie om de machine te ondersteunen.
+
+De PC had een aanzienlijke invloed op de personal computermarkt. De specificaties van de IBM PC werden een van de populairste computerontwerpstandaarden ter wereld. De enige concurrentie van betekenis van een niet-compatibel platform in de jaren 1980 was de Apple Macintosh-productlijn. De meeste moderne personal computers zijn verre afstammelingen van de IBM PC.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>IBM Personal Computer (model 5150, powszechnie znany jako IBM PC) to pierwszy mikrokomputer wydany w linii modeli IBM PC i podstawa faktycznego standardu kompatybilności IBM PC. Wydany 12 sierpnia 1981 roku, został stworzony przez zespół inżynierów i projektantów kierowanych przez Dona Estridge'a w Boca Raton na Florydzie.
+
+Maszyna opierała się na otwartej architekturze i urządzeniach peryferyjnych innych firm. Z czasem pojawiły się karty rozszerzeń i technologia oprogramowania, które ją wspierały.
+
+PC miał znaczący wpływ na rynek komputerów osobistych. Specyfikacja IBM PC stała się jednym z najpopularniejszych standardów projektowania komputerów na świecie. Jedyną znaczącą konkurencją dla niekompatybilnej platformy w latach 80. była linia produktów Apple Macintosh. Większość współczesnych komputerów osobistych to dalecy potomkowie IBM PC.</systemDescription>
+            <systemHardwareType>Komputer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O IBM Personal Computer (modelo 5150, comumente conhecido como IBM PC) é o primeiro microcomputador lançado na linha de modelos IBM PC e a base para o padrão de fato compatível com o IBM PC. Lançado em 12 de agosto de 1981, foi criado por uma equipe de engenheiros e designers dirigida por Don Estridge em Boca Raton, Flórida.
+
+A máquina era baseada em arquitetura aberta e periféricos de terceiros. Com o tempo, as placas de expansão e a tecnologia de software aumentaram para dar suporte a ela.
+
+O PC teve uma influência significativa no mercado de computadores pessoais. As especificações do IBM PC se tornaram um dos padrões de design de computador mais populares do mundo. A única concorrência significativa enfrentada por uma plataforma não compatível durante a década de 1980 foi a linha de produtos Apple Macintosh. A maioria dos computadores pessoais modernos são descendentes distantes do IBM PC.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O computador pessoal IBM (Modelo 5150, comumente conhecido como IBM PC) é o primeiro microcomputador lançado na linha do modelo IBM PC e na base do padrão de fato compatível com PC IBM. Lançado em 12 de agosto de 1981, foi criado por uma equipe de engenheiros e designers dirigidos por Don Estridge em Boca Raton, Flórida.
+
+A máquina foi baseada na arquitetura aberta e periféricos de terceiros. Com o tempo, os cartões de expansão e a tecnologia de software aumentaram para apoiá -la.
+
+O PC teve uma influência substancial no mercado de computadores pessoais. As especificações do IBM PC se tornaram um dos padrões de design de computadores mais populares do mundo. A única competição significativa que enfrentou de uma plataforma não compatível ao longo dos anos 80 foi da linha de produtos Apple Macintosh. A maioria dos computadores pessoais modernos são descendentes distantes do IBM PC.</systemDescription>
+            <systemHardwareType>Computador</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>IBM Personal Computer (model 5150, cunoscut în mod obișnuit ca IBM PC) este primul microcomputer lansat în linia de modele IBM PC și baza pentru standardul de facto IBM PC compatibil. Lansat pe 12 august 1981, a fost creat de o echipă de ingineri și designeri condusă de Don Estridge în Boca Raton, Florida.
+
+Mașina se baza pe o arhitectură deschisă și pe periferice terțe. În timp, cardurile de expansiune și tehnologia software au crescut pentru a-l susține.
+
+PC-ul a avut o influență substanțială asupra pieței calculatoarelor personale. Specificațiile PC-ului IBM au devenit unul dintre cele mai populare standarde de proiectare a calculatoarelor din lume. Singura concurență semnificativă cu care s-a confruntat din partea unei platforme necompatibile de-a lungul anilor 1980 a fost din partea liniei de produse Apple Macintosh. Majoritatea computerelor personale moderne sunt descendente îndepărtate ale IBM PC.</systemDescription>
+            <systemHardwareType>Computer</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>IBM Personal Computer (модель 5150, широко известная как IBM PC) - первый микрокомпьютер, выпущенный в модельном ряду IBM PC, и основа для стандарта IBM PC compatible de facto. Выпущенный 12 августа 1981 года, он был создан группой инженеров и дизайнеров под руководством Дона Эстриджа в Бока-Ратоне, штат Флорида.
+
+Машина базировалась на открытой архитектуре и периферийных устройствах сторонних производителей. Со временем для ее поддержки были расширены карты расширения и программное обеспечение.
+
+ПК оказал существенное влияние на рынок персональных компьютеров. Спецификации IBM PC стали одним из самых популярных стандартов проектирования компьютеров в мире. Единственным серьезным конкурентом несовместимой платформы на протяжении 1980-х годов была линейка продуктов Apple Macintosh. Большинство современных персональных компьютеров являются далекими потомками IBM PC.</systemDescription>
+            <systemHardwareType>Компьютер</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>ИБМ лични рачунар (модел 5150, обично познат и као ИБМ ПЦ) је први микроЦомпјутер који је објављен у ИБМ ПЦ Модел Лине и основа за ИБМ ПЦ компатибилан де фацто стандард.Објављен 12. августа 1981. године, створио је тим инжењера и дизајнери режија Дон Естридге у Боца Ратону, Флорида.
+
+Машина је била заснована на отвореној архитектури и периферницама трећих страна.Временом се повећавају и шишање картица и софтверска технологија да би га подржали.
+
+ПЦ је имао значајан утицај на лично тржиште рачунара.Спецификације ИБМ рачунара постале су један од најпопуларнијих стандарда рачунара на свету.Једина значајна конкуренција коју је суочила са некомпатибилне платформе током 1980-их била је из линије производа Аппле Мацинтосх.Већина савремених личних рачунара удаљени су потомци ИБМ рачунара.</systemDescription>
+            <systemHardwareType>Рачунар</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>IBM Personal Computer (modell 5150, allmänt känd som IBM PC) är den första mikrodatorn som släpptes i IBM PC-modellserien och grunden för de facto-standarden för IBM PC-kompatibla datorer. Den släpptes den 12 augusti 1981 och skapades av ett team av ingenjörer och designers under ledning av Don Estridge i Boca Raton, Florida.
+
+Maskinen byggde på öppen arkitektur och kringutrustning från tredje part. Med tiden ökade expansionskort och mjukvaruteknik för att stödja den.
+
+PC hade ett betydande inflytande på marknaden för persondatorer. Specifikationerna för IBM PC blev en av de mest populära standarderna för datordesign i världen. Den enda betydande konkurrensen från en icke-kompatibel plattform under hela 1980-talet var från Apple Macintosh produktlinje. De flesta moderna persondatorer är avlägsna ättlingar till IBM PC.</systemDescription>
+            <systemHardwareType>Dator</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>IBM 个人电脑（型号 5150，通常称为 IBM PC）是 IBM PC 型号系列中发布的第一款微型计算机，也是 IBM PC 兼容事实标准的基础。它于 1981 年 8 月 12 日发布，由位于佛罗里达州博卡拉顿的工程师和设计师团队在唐-埃斯特里奇（Don Estridge）的指导下设计完成。
+
+该机基于开放式架构和第三方外设。随着时间的推移，扩展卡和软件技术也在不断增加以支持它。
+
+PC 对个人电脑市场产生了重大影响。IBM PC 的规格成为世界上最流行的计算机设计标准之一。在整个 20 世纪 80 年代，IBM PC 面临的唯一来自非兼容平台的重大竞争是来自苹果 Macintosh 产品线。大多数现代个人电脑都是 IBM PC 的后代。</systemDescription>
+            <systemHardwareType>计算机</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>IBM 個人電腦（5150 型，一般稱為 IBM PC）是 IBM PC 機型系列中發佈的第一款微型電腦，也是 IBM PC 相容事實標準的基礎。它於 1981 年 8 月 12 日發佈，由 Don Estridge 在佛羅里達州 Boca Raton 所指揮的工程師和設計師團隊所創造。
+
+該機器以開放式架構和第三方週邊為基礎。隨著時間的推移，擴充卡和軟體技術也不斷增加以支援它。
+
+PC 對個人電腦市場產生了重大的影響。IBM PC 的規格成為全球最流行的電腦設計標準之一。在整個 1980 年代，它唯一面臨的來自非相容平台的重大競爭是來自 Apple Macintosh 產品線。大部分現代個人電腦都是 IBM PC 的遠祖。</systemDescription>
+            <systemHardwareType>電腦</systemHardwareType>
+        </variables>
+    </language>
+</theme>

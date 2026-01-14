@@ -1,0 +1,139 @@
+<theme>
+    <variables>
+        <systemName>MS-DOS</systemName>
+        <systemDescription>MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft. It was the most commonly used member of the DOS family of operating systems, and was the main operating system for IBM PC compatible personal computers during the 1980s to the mid-1990s, when it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the Microsoft Windows operating system.</systemDescription>
+        <systemManufacturer>Microsoft</systemManufacturer>
+        <systemReleaseYear>1981</systemReleaseYear>
+        <systemReleaseDate>1981-08-01</systemReleaseDate>
+        <systemReleaseDateFormated>August 1, 1981</systemReleaseDateFormated>
+        <systemHardwareType>OS</systemHardwareType>
+        <systemCoverSize>3-4</systemCoverSize>
+        <systemCoverSizeType>portrait</systemCoverSizeType>
+        <systemColor>2d61c1</systemColor>
+        <systemColorPalette1>FDC20F</systemColorPalette1>
+        <systemColorPalette2>8461A9</systemColorPalette2>
+        <systemColorPalette3>CA1A15</systemColorPalette3>
+        <systemColorPalette4>111111</systemColorPalette4>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كان MS-DOS، وهو اختصار لنظام تشغيل الأقراص من مايكروسوفت، نظام تشغيل لأجهزة الكمبيوتر الشخصية القائمة على x86، تم تطويره في الغالب من قبل مايكروسوفت. وكان هو العضو الأكثر استخداماً في عائلة أنظمة التشغيل DOS، وكان نظام التشغيل الرئيسي لأجهزة الكمبيوتر الشخصية المتوافقة مع IBM PC خلال الثمانينيات وحتى منتصف التسعينيات، عندما تم استبداله تدريجياً بأنظمة تشغيل تقدم واجهة مستخدم رسومية (GUI)، في أجيال مختلفة من نظام التشغيل Microsoft Windows.</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
+    <language name="bs_BA">
+        <variables>
+            <systemDescription>MS-DOS, kratak za operativni sistem Microsoft Disk, bio je operativni sistem za X86 lični računari koji su uglavnom razvijen od strane Microsofta. To je bio najčešće korišten član Obiteljskih sistema DOS-a i bio je glavni operativni sistem za IBM PC kompatibilne osobne računare tokom 1980-ih do sredine 1990-ih, kada su ga postepeno zamijenili operativnim sistemima koji nude grafičko korisničko sučelje (GUI), u različitim generacijama operativnog sistema Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ca_ES">
+        <variables>
+            <systemDescription>MS-DOS, curt per al sistema operatiu de disc de Microsoft, va ser un sistema operatiu per a ordinadors personals basats en x86 desenvolupats principalment per Microsoft. Va ser el membre més utilitzat de la família DOS de sistemes operatius i va ser el principal sistema operatiu per a ordinadors personals compatibles amb IBM PC durant la dècada de 1980 a mitjans dels anys 90, quan es va substituir gradualment per sistemes operatius que ofereixen una interfície gràfica d'usuari (GUI), en diverses generacions del sistema operatiu de Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="de_DE">
+        <variables>
+            <systemDescription>MS-DOS, kurz für Microsoft Disk Operating System, war ein Betriebssystem für x86-basierte Personal Computer, das hauptsächlich von Microsoft entwickelt wurde. Es war das am häufigsten verwendete Mitglied der DOS-Familie von Betriebssystemen und war das Hauptbetriebssystem für IBM PC-kompatible Personal Computer während der 1980er bis Mitte der 1990er Jahre, als es allmählich durch Betriebssysteme mit einer grafischen Benutzeroberfläche (GUI) in verschiedenen Generationen des Microsoft Windows-Betriebssystems abgelöst wurde.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="es_ES">
+        <variables>
+            <systemDescription>MS-DOS, abreviatura de Microsoft Disk Operating System, era un sistema operativo para ordenadores personales basados en x86 desarrollado principalmente por Microsoft. Fue el miembro más utilizado de la familia de sistemas operativos DOS, y fue el principal sistema operativo para ordenadores personales compatibles con IBM PC desde la década de 1980 hasta mediados de la década de 1990, cuando fue sustituido gradualmente por sistemas operativos que ofrecían una interfaz gráfica de usuario (GUI), en varias generaciones del sistema operativo Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="fr_FR">
+        <variables>
+            <systemDescription>MS-DOS, abréviation de Microsoft Disk Operating System, était un système d'exploitation pour ordinateurs personnels à base de x86, principalement développé par Microsoft. C'était le membre le plus utilisé de la famille des systèmes d'exploitation DOS, et le principal système d'exploitation pour les ordinateurs personnels compatibles IBM PC pendant les années 1980 jusqu'au milieu des années 1990, lorsqu'il a été progressivement remplacé par des systèmes d'exploitation offrant une interface utilisateur graphique (GUI), dans les différentes générations du système d'exploitation Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="hr_HR">
+        <variables>
+            <systemDescription>MS-DOS, skraćeno za operativni sustav Microsoft Disk, bio je operativni sustav za osobna računala sa sjedištem u X86 koje je Microsoft uglavnom razvio. Bio je to najčešće članica Obiteljske sustave Dos i bio je glavni operativni sustav za IBM PC kompatibilna osobna računala tijekom 1980-ih do sredine 1990-ih, kada su ga postupno zamjenjivali operativni sustavi koji nude grafičko korisničko sučelje (GUI), u raznim generacijama operativnog sustava Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="it_IT">
+        <variables>
+            <systemDescription>MS-DOS, abbreviazione di Microsoft Disk Operating System, era un sistema operativo per personal computer basati su x86, sviluppato principalmente da Microsoft. È stato il membro più comunemente usato della famiglia dei sistemi operativi DOS ed è stato il principale sistema operativo per i personal computer IBM PC compatibili tra gli anni '80 e la metà degli anni '90, quando è stato gradualmente sostituito da sistemi operativi che offrivano un'interfaccia grafica (GUI), in varie generazioni del sistema operativo Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ja_JP">
+        <variables>
+            <systemDescription>MS-DOS（エムエスドス）は、Microsoft Disk Operating System（マイクロソフト・ディスク・オペレーティング・システム）の略で、主にマイクロソフトが開発したx86ベースのパーソナルコンピュータ用のオペレーティングシステムである。DOSオペレーティングシステムファミリーの中で最も一般的に使用されており、1980年代から1990年代半ばにかけてIBM PC互換パーソナルコンピュータの主要なオペレーティングシステムであったが、Microsoft Windowsオペレーティングシステムの様々な世代において、グラフィカルユーザーインターフェイス（GUI）を提供するオペレーティングシステムに徐々に取って代わられた。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ko_KR">
+        <variables>
+            <systemDescription>Microsoft 디스크 운영 체제의 약자인 MS-DOS는 주로 Microsoft에서 개발한 x86 기반 개인용 컴퓨터용 운영 체제입니다. DOS 운영 체제 제품군 중 가장 일반적으로 사용되는 운영 체제로, 1980년대부터 1990년대 중반까지 다양한 세대의 Microsoft Windows 운영 체제에서 그래픽 사용자 인터페이스(GUI)를 제공하는 운영 체제로 점차 대체되기 전까지 IBM PC 호환 개인용 컴퓨터의 주요 운영 체제였습니다.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="nl_NL">
+        <variables>
+            <systemDescription>MS-DOS, afkorting van Microsoft Disk Operating System, was een besturingssysteem voor x86-gebaseerde pc's, voornamelijk ontwikkeld door Microsoft. Het was het meest gebruikte lid van de DOS-familie van besturingssystemen en was het belangrijkste besturingssysteem voor IBM PC-compatibele pc's van de jaren 1980 tot halverwege de jaren 1990, toen het geleidelijk werd verdrongen door besturingssystemen met een grafische gebruikersinterface (GUI), in verschillende generaties van het Microsoft Windows-besturingssysteem.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pl_PL">
+        <variables>
+            <systemDescription>MS-DOS, skrót od Microsoft Disk Operating System, był systemem operacyjnym dla komputerów osobistych opartych na architekturze x86, opracowanym głównie przez firmę Microsoft. Był to najczęściej używany członek rodziny systemów operacyjnych DOS i był głównym systemem operacyjnym dla komputerów osobistych kompatybilnych z IBM PC w latach 80-tych do połowy lat 90-tych, kiedy to był stopniowo zastępowany przez systemy operacyjne oferujące graficzny interfejs użytkownika (GUI), w różnych generacjach systemu operacyjnego Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_BR">
+        <variables>
+            <systemDescription>O MS-DOS, abreviação de Microsoft Disk Operating System, foi um sistema operacional para computadores pessoais baseados em x86, desenvolvido principalmente pela Microsoft. Era o membro mais comumente usado da família DOS de sistemas operacionais e foi o principal sistema operacional para computadores pessoais compatíveis com IBM PC durante a década de 1980 até meados da década de 1990, quando foi gradualmente substituído por sistemas operacionais que ofereciam uma interface gráfica do usuário (GUI), em várias gerações do sistema operacional Microsoft Windows.</systemDescription>
+            <systemHardwareType>SO</systemHardwareType>
+        </variables>
+    </language>
+    <language name="pt_PT">
+        <variables>
+            <systemDescription>O MS-DOS, abreviado para o Microsoft Disk Operating System, foi um sistema operacional para computadores pessoais baseados em X86 desenvolvidos principalmente pela Microsoft. Era o membro mais usado da família de sistemas operacionais do DOS e foi o principal sistema operacional para computadores pessoais compatíveis com IBM PC durante a década de 1980 a meados da década de 1990, quando foi gradualmente substituído por sistemas operacionais que oferecem uma interface gráfica do usuário (GUI), em várias gerações do sistema operacional Windows Microsoft.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ro_RO">
+        <variables>
+            <systemDescription>MS-DOS, prescurtarea de la Microsoft Disk Operating System, a fost un sistem de operare pentru calculatoare personale bazate pe x86, dezvoltat în principal de Microsoft. A fost cel mai utilizat membru al familiei de sisteme de operare DOS și a fost principalul sistem de operare pentru computerele personale compatibile IBM PC între anii 1980 și mijlocul anilor 1990, când a fost înlocuit treptat de sistemele de operare care oferă o interfață grafică cu utilizatorul (GUI), în diferite generații ale sistemului de operare Microsoft Windows.</systemDescription>
+            <systemHardwareType>SO</systemHardwareType>
+        </variables>
+    </language>
+    <language name="ru_RU">
+        <variables>
+            <systemDescription>MS-DOS, сокращение от Microsoft Disk Operating System, - операционная система для персональных компьютеров на базе архитектуры x86, в основном разработанная компанией Microsoft. Она была наиболее распространенным представителем семейства операционных систем DOS и являлась основной операционной системой для IBM PC совместимых персональных компьютеров с 1980-х до середины 1990-х годов, когда ее постепенно вытеснили операционные системы с графическим интерфейсом пользователя (GUI), в различных поколениях операционной системы Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sr_RS">
+        <variables>
+            <systemDescription>МС-ДОС, Схорт фор Мицрософт Диск оперативни систем био је оперативни систем за к86 личне рачунаре који су углавном развили Мицрософт.Био је то најчешће коришћени члан ДОС породице оперативних система и био је главни оперативни систем за ИБМ ПЦ компатибилне личне рачунаре током 1980-их до средине 1990-их, када је постепено замењен оперативним системима који нуде графички кориснички интерфејс (ГУИ), у различитим генерацијама оперативног система Мицрософт Виндовс.</systemDescription>
+            <systemHardwareType>Ос</systemHardwareType>
+        </variables>
+    </language>
+    <language name="sv_SE">
+        <variables>
+            <systemDescription>MS-DOS, en förkortning för Microsoft Disk Operating System, var ett operativsystem för x86-baserade persondatorer som huvudsakligen utvecklades av Microsoft. Det var den mest använda medlemmen av DOS-familjen av operativsystem och var det huvudsakliga operativsystemet för IBM PC-kompatibla persondatorer under 1980-talet till mitten av 1990-talet, då det gradvis ersattes av operativsystem som erbjuder ett grafiskt användargränssnitt (GUI), i olika generationer av operativsystemet Microsoft Windows.</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_CN">
+        <variables>
+            <systemDescription>MS-DOS 是 Microsoft Disk Operating System（微软磁盘操作系统）的简称，是主要由微软公司开发的基于 x86 的个人计算机操作系统。它是 DOS 操作系统家族中最常用的成员，也是 20 世纪 80 年代至 90 年代中期 IBM PC 兼容个人电脑的主要操作系统，后来逐渐被提供图形用户界面（GUI）的操作系统（如各代微软视窗操作系统）所取代。</systemDescription>
+            <systemHardwareType>操作系统</systemHardwareType>
+        </variables>
+    </language>
+    <language name="zh_TW">
+        <variables>
+            <systemDescription>MS-DOS 是 Microsoft Disk Operating System（微軟磁碟作業系統）的簡稱，是主要由 Microsoft 開發的 x86 架構個人電腦作業系統。它是 DOS 作業系統家族中最常用的成員，在 1980 年代到 1990 年代中期是 IBM PC 相容個人電腦的主要作業系統，之後逐漸被提供圖形使用者介面 (GUI) 的作業系統所取代，包括各代的 Microsoft Windows 作業系統。</systemDescription>
+            <systemHardwareType>OS</systemHardwareType>
+        </variables>
+    </language>
+</theme>
