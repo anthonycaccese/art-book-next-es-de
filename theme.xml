@@ -626,7 +626,7 @@ https://github.com/anthonycaccese/art-book-next-es-de
             <itemScale>1.2</itemScale>
             <scaleInwards>true</scaleInwards>
             <itemSpacing>0.002344665885111 0.004166666666667</itemSpacing><!-- 2 2 -->
-            <unfocusedItemOpacity>0.3</unfocusedItemOpacity>
+            <unfocusedItemOpacity>0.5</unfocusedItemOpacity>
             <unfocusedItemDimming>1</unfocusedItemDimming>
             <unfocusedItemSaturation>1</unfocusedItemSaturation>
             <fractionalRows>true</fractionalRows>
